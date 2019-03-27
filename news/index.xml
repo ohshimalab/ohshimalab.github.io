@@ -6,10 +6,23 @@
     <description>Recent content in ニュース on 兵庫県立大学 大島裕明研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ohshimalab.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第11回データ工学と情報マネジメントに関するフォーラム（DEIM2019）参加報告</title>
+      <link>https://ohshimalab.github.io/posts/news/2019/0310/20190310/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/posts/news/2019/0310/20190310/</guid>
+      <description>&lt;h4 id=&#34;日時-2019年3月4日-月-6日-水&#34;&gt;日時：2019年3月4日（月）～6日（水）&lt;/h4&gt;
+
+&lt;h4 id=&#34;場所-ホテルオークラjrハウステンボス-長崎県佐世保市&#34;&gt;場所：ホテルオークラJRハウステンボス、長崎県佐世保市&lt;/h4&gt;
+
+&lt;h4 id=&#34;公式webページ-http-db-event-jpn-org-deim2019&#34;&gt;公式Webページ：&lt;a href=&#34;http://db-event.jpn.org/deim2019/&#34; target=&#34;_blank&#34;&gt;http://db-event.jpn.org/deim2019/&lt;/a&gt;&lt;/h4&gt;</description>
+    </item>
     
     <item>
       <title>企業実践的ＡＩ（人工知能）利活用研究会 リレーセミナー</title>
@@ -32,9 +45,7 @@
 
 &lt;h4 id=&#34;場所-兵庫県立大学神戸情報科学キャンパス&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;
 
-&lt;p&gt;　上記日程にて、甲南大学の灘本明代教授と研究室の学生11名、静岡大学の山本祐輔先生と研究室の学生3名、京都大学の山本岳洋助教に、兵庫県立大学神戸情報科学キャンパスへお越しいただき、合同研究会を行いました。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;　上記日程にて、甲南大学の灘本明代教授と研究室の学生11名、静岡大学の山本祐輔先生と研究室の学生3名、京都大学の山本岳洋助教に、兵庫県立大学神戸情報科学キャンパスへお越しいただき、合同研究会を行いました。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,8 +54,7 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ohshimalab.github.io/posts/news/2018/1101/20181101/</guid>
-      <description>&lt;p&gt;研究室にオープンアドレスタイプのデスクがやってきました！
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;研究室にオープンアドレスタイプのデスクがやってきました！&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,8 +76,7 @@
       <guid>https://ohshimalab.github.io/posts/news/2018/0918/20180918/</guid>
       <description>&lt;h3 id=&#34;食べログの再訪問レビューの発見&#34;&gt;食べログの再訪問レビューの発見&lt;/h3&gt;
 
-&lt;p&gt;2018年9月12日から14日に東京工業大学 大岡山キャンパス開催された第11回Webとデータベースに関するフォーラム（WebDB Forum 2018）において、大島研究室博士前期課程2回生の白髪宙美さんが楽天株式会社賞と学生奨励賞を受賞しました。&lt;br /&gt;
-&lt;/p&gt;</description>
+&lt;p&gt;2018年9月12日から14日に東京工業大学 大岡山キャンパス開催された第11回Webとデータベースに関するフォーラム（WebDB Forum 2018）において、大島研究室博士前期課程2回生の白髪宙美さんが楽天株式会社賞と学生奨励賞を受賞しました。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -77,9 +86,7 @@
       
       <guid>https://ohshimalab.github.io/posts/news/2018/0629/20180629/</guid>
       <description>&lt;p&gt;研究室に大きなホワイトボードがやってきました！
-2700mm×1200mmです。畳スペースに設置しています。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+2700mm×1200mmです。畳スペースに設置しています。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -89,8 +96,7 @@
       
       <guid>https://ohshimalab.github.io/posts/news/2018/0622/20180622/</guid>
       <description>&lt;p&gt;2018年6月22日から23日に開催された第9回ソーシャルコンピューティングシンポジウム（SoC2018）において、
-大島研究室博士前期課程1回生の村本直樹さんが学生奨励賞を受賞しました。&lt;br /&gt;
-&lt;/p&gt;</description>
+大島研究室博士前期課程1回生の村本直樹さんが学生奨励賞を受賞しました。&lt;/p&gt;</description>
     </item>
     
   </channel>
