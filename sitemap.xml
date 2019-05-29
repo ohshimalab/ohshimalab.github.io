@@ -3,8 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ohshimalab.github.io/tags/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ohshimalab.github.io/events/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ohshimalab.github.io/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ohshimalab.github.io/posts/events/2019/0327/20190327/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ohshimalab.github.io/tags/%E7%A0%94%E7%A9%B6%E5%AE%A4%E5%86%85/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ohshimalab.github.io/news/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ohshimalab.github.io/tags/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,8 +46,26 @@
   </url>
   
   <url>
+    <loc>https://ohshimalab.github.io/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/</loc>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ohshimalab.github.io/posts/news/2018/1210/20181210/</loc>
     <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ohshimalab.github.io/tags/%E4%BB%96%E5%A4%A7%E5%AD%A6/</loc>
+    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ohshimalab.github.io/tags/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/</loc>
+    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -25,6 +76,12 @@
   <url>
     <loc>https://ohshimalab.github.io/posts/news/2018/1101/20181101/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ohshimalab.github.io/tags/%E5%A4%A7%E5%AD%A6%E5%86%85/</loc>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -55,6 +112,11 @@
   <url>
     <loc>https://ohshimalab.github.io/posts/news/2018/0629/20180629/</loc>
     <lastmod>2018-06-29T10:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ohshimalab.github.io/pages/</loc>
+    <lastmod>2018-06-25T17:49:59+09:00</lastmod>
   </url>
   
   <url>
@@ -98,23 +160,7 @@
   </url>
   
   <url>
-    <loc>https://ohshimalab.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ohshimalab.github.io/access/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ohshimalab.github.io/events/</loc>
-    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ohshimalab.github.io/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/</loc>
-    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -122,46 +168,7 @@
   </url>
   
   <url>
-    <loc>https://ohshimalab.github.io/news/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ohshimalab.github.io/tags/%E4%BB%96%E5%A4%A7%E5%AD%A6/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ohshimalab.github.io/</loc>
-    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ohshimalab.github.io/pages/</loc>
-    <lastmod>2018-06-25T17:49:59+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ohshimalab.github.io/people/alumni/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ohshimalab.github.io/tags/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ohshimalab.github.io/tags/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ohshimalab.github.io/tags/%E5%A4%A7%E5%AD%A6%E5%86%85/</loc>
-    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -170,12 +177,6 @@
   
   <url>
     <loc>https://ohshimalab.github.io/people/members/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ohshimalab.github.io/tags/%E7%A0%94%E7%A9%B6%E5%AE%A4%E5%86%85/</loc>
-    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
