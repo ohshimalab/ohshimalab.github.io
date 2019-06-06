@@ -10,6 +10,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
+  line-height: 150%;
 }
 
 .container[role="main"] {
@@ -158,8 +159,8 @@ img {
 
 .navbar-custom {
   background: #303f9f;
-  border-bottom: 1px solid #eaeaea;
   font-family: "Noto Sans JP", sans-serif !important;
+  box-shadow: 0px 2px 4px grey;
 }
 
 .navbar-custom .nav li a {
@@ -460,6 +461,7 @@ footer .theme-by {
 .post-preview .post-read-more {
   font-weight: 800;
   float: right;
+  color: #3f51b5;
 }
 
 @media only screen and (min-width: 768px) {
@@ -482,7 +484,7 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: #008aff;
+  color: #757575;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -880,4 +882,9 @@ input.gsc-input,
 .viewer ul {
   display: inline-block;
   overflow: hidden;
+}
+
+.Launcher {
+  background-color: #ff4081;
+  box-shadow: 0px 2px 4px grey;
 }
