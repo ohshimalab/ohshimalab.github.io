@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ニュース on 兵庫県立大学 大島裕明研究室</title>
@@ -6,10 +6,65 @@
     <description>Recent content in ニュース on 兵庫県立大学 大島裕明研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ohshimalab.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The 21st International Conference on Information Integration and Web-based Applications &amp; Services (iiWAS2019) 参加報告</title>
+      <link>https://ohshimalab.github.io/posts/news/2020/0314/20200314/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/posts/news/2020/0314/20200314/</guid>
+      <description>&lt;h4 id=&#34;日時2019年12月24日&#34;&gt;日時：2019年12月2～4日&lt;/h4&gt;
+&lt;h4 id=&#34;場所holiday-inn-munich--city-centergermany-munich&#34;&gt;場所：Holiday Inn Munich – City Center、Germany Munich&lt;/h4&gt;
+&lt;h4 id=&#34;公式webページhttpwwwiiwasorgconferencesiiwas2019&#34;&gt;公式Webページ：http://www.iiwas.org/conferences/iiwas2019/&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>IDRユーザフォーラム 2019</title>
+      <link>https://ohshimalab.github.io/posts/news/2020/0313/20200313/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/posts/news/2020/0313/20200313/</guid>
+      <description>&lt;h4 id=&#34;日時2019年11月29日金&#34;&gt;日時：2019年11月29日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所国立情報学研究所東京都千代田区一ツ橋&#34;&gt;場所：国立情報学研究所、東京都千代田区一ツ橋&lt;/h4&gt;
+&lt;h4 id=&#34;公式webページhttpswwwniiacjpdscidruserforum2019html&#34;&gt;公式Webページ：https://www.nii.ac.jp/dsc/idr/userforum/2019.html&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>兵庫県立大学 知の交流シンポジウム2019</title>
+      <link>https://ohshimalab.github.io/posts/news/2020/0312/20200312/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/posts/news/2020/0312/20200312/</guid>
+      <description>&lt;h4 id=&#34;日時2019年9月27日金&#34;&gt;日時：2019年9月27日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所神戸商工会議所神戸市中央区港島中町&#34;&gt;場所：神戸商工会議所、神戸市中央区港島中町&lt;/h4&gt;
+&lt;h4 id=&#34;公式webページhttpswwwu-hyogoacjpresearchseedssymposium2019indexhtml&#34;&gt;公式Webページ：https://www.u-hyogo.ac.jp/research/seeds/symposium/2019/index.html&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019年度 情報処理学会関西支部 支部大会 参加報告</title>
+      <link>https://ohshimalab.github.io/posts/news/2020/0311/20200311/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/posts/news/2020/0311/20200311/</guid>
+      <description>&lt;h4 id=&#34;日時2019年9月23日月&#34;&gt;日時：2019年9月23日（月）&lt;/h4&gt;
+&lt;h4 id=&#34;場所大阪大学中之島センター大阪府大阪市北区中之島&#34;&gt;場所：大阪大学中之島センター、大阪府大阪市北区中之島&lt;/h4&gt;
+&lt;h4 id=&#34;公式webページhttpskansaiipsjorjp2019sibutaikai_kaisai&#34;&gt;公式Webページ：https://kansai.ipsj.or.jp/2019sibutaikai_kaisai/&lt;/h4&gt;</description>
+    </item>
+    
+    <item>
+      <title>情報処理学会第169回データベースシステム・第136回情報基礎とアクセス技術・電子情報通信学会データ工学研究会合同研究会 参加報告</title>
+      <link>https://ohshimalab.github.io/posts/news/2020/0310/20200310/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/posts/news/2020/0310/20200310/</guid>
+      <description>&lt;h4 id=&#34;日時2019年9月23日月&#34;&gt;日時：2019年9月23日（月）&lt;/h4&gt;
+&lt;h4 id=&#34;場所工学院大学-新宿キャンパス&#34;&gt;場所：工学院大学 新宿キャンパス&lt;/h4&gt;
+&lt;h4 id=&#34;公式webページhttpswwwipsjorjpkenkyukaieventdbs169ifat136html&#34;&gt;公式Webページ：https://www.ipsj.or.jp/kenkyukai/event/dbs169ifat136.html&lt;/h4&gt;</description>
+    </item>
     
     <item>
       <title>第11回データ工学と情報マネジメントに関するフォーラム（DEIM2019）参加報告</title>
@@ -17,11 +72,9 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ohshimalab.github.io/posts/news/2019/0310/20190310/</guid>
-      <description>&lt;h4 id=&#34;日時-2019年3月4日-月-6日-水&#34;&gt;日時：2019年3月4日（月）～6日（水）&lt;/h4&gt;
-
-&lt;h4 id=&#34;場所-ホテルオークラjrハウステンボス-長崎県佐世保市&#34;&gt;場所：ホテルオークラJRハウステンボス、長崎県佐世保市&lt;/h4&gt;
-
-&lt;h4 id=&#34;公式webページ-http-db-event-jpn-org-deim2019&#34;&gt;公式Webページ：&lt;a href=&#34;http://db-event.jpn.org/deim2019/&#34; target=&#34;_blank&#34;&gt;http://db-event.jpn.org/deim2019/&lt;/a&gt;&lt;/h4&gt;</description>
+      <description>&lt;h4 id=&#34;日時2019年3月4日月6日水&#34;&gt;日時：2019年3月4日（月）～6日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所ホテルオークラjrハウステンボス長崎県佐世保市&#34;&gt;場所：ホテルオークラJRハウステンボス、長崎県佐世保市&lt;/h4&gt;
+&lt;h4 id=&#34;公式webページhttpdb-eventjpnorgdeim2019&#34;&gt;公式Webページ：http://db-event.jpn.org/deim2019/&lt;/h4&gt;</description>
     </item>
     
     <item>
@@ -30,9 +83,8 @@
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ohshimalab.github.io/posts/news/2018/1210/20181210/</guid>
-      <description>&lt;h4 id=&#34;日時-2018年12月6日-木-7日-金&#34;&gt;日時：2018年12月6日（木）、7日（金）&lt;/h4&gt;
-
-&lt;h4 id=&#34;場所-一般財団法人関西情報センター-第1会議室&#34;&gt;場所：一般財団法人関西情報センター 第1会議室&lt;/h4&gt;</description>
+      <description>&lt;h4 id=&#34;日時2018年12月6日木7日金&#34;&gt;日時：2018年12月6日（木）、7日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所一般財団法人関西情報センター-第1会議室&#34;&gt;場所：一般財団法人関西情報センター 第1会議室&lt;/h4&gt;</description>
     </item>
     
     <item>
@@ -41,10 +93,8 @@
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ohshimalab.github.io/posts/news/2018/1205/20181205/</guid>
-      <description>&lt;h4 id=&#34;日時-2018年12月4日&#34;&gt;日時：2018年12月4日&lt;/h4&gt;
-
-&lt;h4 id=&#34;場所-兵庫県立大学神戸情報科学キャンパス&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;
-
+      <description>&lt;h4 id=&#34;日時2018年12月4日&#34;&gt;日時：2018年12月4日&lt;/h4&gt;
+&lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパス&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;
 &lt;p&gt;　上記日程にて、甲南大学の灘本明代教授と研究室の学生11名、静岡大学の山本祐輔先生と研究室の学生3名、京都大学の山本岳洋助教に、兵庫県立大学神戸情報科学キャンパスへお越しいただき、合同研究会を行いました。&lt;/p&gt;</description>
     </item>
     
@@ -63,8 +113,7 @@
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ohshimalab.github.io/posts/news/2018/0914/20180914/</guid>
-      <description>&lt;h4 id=&#34;日時-2018年9月14日-土&#34;&gt;日時：2018年9月14日（土）&lt;/h4&gt;
-
+      <description>&lt;h4 id=&#34;日時2018年9月14日土&#34;&gt;日時：2018年9月14日（土）&lt;/h4&gt;
 &lt;h4 id=&#34;兵庫県立大学神戸情報科学キャンパス&#34;&gt;兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;</description>
     </item>
     
@@ -75,7 +124,6 @@
       
       <guid>https://ohshimalab.github.io/posts/news/2018/0918/20180918/</guid>
       <description>&lt;h3 id=&#34;食べログの再訪問レビューの発見&#34;&gt;食べログの再訪問レビューの発見&lt;/h3&gt;
-
 &lt;p&gt;2018年9月12日から14日に東京工業大学 大岡山キャンパス開催された第11回Webとデータベースに関するフォーラム（WebDB Forum 2018）において、大島研究室博士前期課程2回生の白髪宙美さんが楽天株式会社賞と学生奨励賞を受賞しました。&lt;/p&gt;</description>
     </item>
     
