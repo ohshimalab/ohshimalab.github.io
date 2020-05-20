@@ -6,7 +6,7 @@
     <description>Recent content on OHSHIMA LAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jun 2018 17:49:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ohshimalab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -121,9 +121,29 @@
     </item>
     
     <item>
+      <title>SoC2018において学生奨励賞を受賞</title>
+      <link>https://ohshimalab.github.io/post/2018/0622/20180622/</link>
+      <pubDate>Fri, 22 Jun 2018 18:00:00 +0900</pubDate>
+      
+      <guid>https://ohshimalab.github.io/post/2018/0622/20180622/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>コラボ</title>
+      <link>https://ohshimalab.github.io/colabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/colabs/</guid>
+      <description>甲南大学 灘本研究室
+関西学院大学 角谷研究室
+静岡大学 山本祐輔研究室</description>
+    </item>
+    
+    <item>
       <title>学生募集</title>
       <link>https://ohshimalab.github.io/admission/</link>
-      <pubDate>Mon, 25 Jun 2018 17:49:59 +0900</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ohshimalab.github.io/admission/</guid>
       <description>学生募集概要 大島研究室の正式な所属は以下の通りです。
@@ -145,7 +165,7 @@
     <item>
       <title>研究の内容</title>
       <link>https://ohshimalab.github.io/about/</link>
-      <pubDate>Mon, 25 Jun 2018 17:49:59 +0900</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ohshimalab.github.io/about/</guid>
       <description>「社会」と「情報」の研究 大島研究室では、社会において人が情報を取得して意思決定を行い、豊かに生活することを支える技術を研究しています。情報検索、データマイニング、情報デザインといった研究分野を基軸としつつ、データベース、機械学習、自然言語処理といった情報学の様々な分野の知見を活用し、さらには、心理学、社会学、経営学なども視野に入れて研究を行っています。
@@ -153,26 +173,6 @@
 Web検索と知識発見の研究 あらゆる情報が交換されるWebにおいて、情報獲得を行う基盤技術である情報検索について研究を行っています。特に、多くのWebユーザが発信する情報や振る舞いから知識を発見して応用することで、これまでできなかった検索を実現することに取り組みます。
 社会情報デザインの研究 Webは社会の活動を広く反映する存在となっています。一方で、Webをそのまま信頼して利用することが難しい状況でもあります。人々がWebを信頼して利用できるようになることを目標として、大規模な情報を分析・構造化し、人に必要とされる新たな情報を生み出す手法について研究を行います。
 新しいものづくり情報管理の研究 デジタルファブリケーション（3Dプリンタやレーザーカッターを用いたものづくり）やフィジカルコンピューティングは、新しいものづくりのあり方をもたらしています。新しいものづくりを支援するために、たとえば、どうやって作るかといった情報を交換する仕組みの研究などを行います。</description>
-    </item>
-    
-    <item>
-      <title>SoC2018において学生奨励賞を受賞</title>
-      <link>https://ohshimalab.github.io/post/2018/0622/20180622/</link>
-      <pubDate>Fri, 22 Jun 2018 18:00:00 +0900</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2018/0622/20180622/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>コラボ</title>
-      <link>https://ohshimalab.github.io/colabs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/colabs/</guid>
-      <description>甲南大学 灘本研究室
-関西学院大学 角谷研究室
-静岡大学 山本祐輔研究室</description>
     </item>
     
     <item>
