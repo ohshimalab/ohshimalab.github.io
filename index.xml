@@ -1,221 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>兵庫県立大学 大島裕明研究室</title>
+    <title>OHSHIMA LAB</title>
     <link>https://ohshimalab.github.io/</link>
-    <description>Recent content on 兵庫県立大学 大島裕明研究室</description>
+    <description>Recent content on OHSHIMA LAB</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jun 2018 17:49:59 +0900</lastBuildDate>
     
 	<atom:link href="https://ohshimalab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The 21st International Conference on Information Integration and Web-based Applications &amp; Services (iiWAS2019) 参加報告</title>
-      <link>https://ohshimalab.github.io/posts/news/2020/0314/20200314/</link>
+      <title>iiWAS2019の参加報告</title>
+      <link>https://ohshimalab.github.io/post/2020/0314/20200314/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2020/0314/20200314/</guid>
-      <description>&lt;h4 id=&#34;日時2019年12月24日&#34;&gt;日時：2019年12月2～4日&lt;/h4&gt;
-&lt;h4 id=&#34;場所holiday-inn-munich--city-centergermany-munich&#34;&gt;場所：Holiday Inn Munich – City Center、Germany Munich&lt;/h4&gt;
-&lt;h4 id=&#34;公式webページhttpwwwiiwasorgconferencesiiwas2019&#34;&gt;公式Webページ：http://www.iiwas.org/conferences/iiwas2019/&lt;/h4&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2020/0314/20200314/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>IDRユーザフォーラム 2019</title>
-      <link>https://ohshimalab.github.io/posts/news/2020/0313/20200313/</link>
+      <link>https://ohshimalab.github.io/post/2020/0313/20200313/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2020/0313/20200313/</guid>
-      <description>&lt;h4 id=&#34;日時2019年11月29日金&#34;&gt;日時：2019年11月29日（金）&lt;/h4&gt;
-&lt;h4 id=&#34;場所国立情報学研究所東京都千代田区一ツ橋&#34;&gt;場所：国立情報学研究所、東京都千代田区一ツ橋&lt;/h4&gt;
-&lt;h4 id=&#34;公式webページhttpswwwniiacjpdscidruserforum2019html&#34;&gt;公式Webページ：https://www.nii.ac.jp/dsc/idr/userforum/2019.html&lt;/h4&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2020/0313/20200313/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>兵庫県立大学 知の交流シンポジウム2019</title>
-      <link>https://ohshimalab.github.io/posts/news/2020/0312/20200312/</link>
+      <title>兵庫県立大学知の交流シンポジウム2019</title>
+      <link>https://ohshimalab.github.io/post/2020/0312/20200312/</link>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2020/0312/20200312/</guid>
-      <description>&lt;h4 id=&#34;日時2019年9月27日金&#34;&gt;日時：2019年9月27日（金）&lt;/h4&gt;
-&lt;h4 id=&#34;場所神戸商工会議所神戸市中央区港島中町&#34;&gt;場所：神戸商工会議所、神戸市中央区港島中町&lt;/h4&gt;
-&lt;h4 id=&#34;公式webページhttpswwwu-hyogoacjpresearchseedssymposium2019indexhtml&#34;&gt;公式Webページ：https://www.u-hyogo.ac.jp/research/seeds/symposium/2019/index.html&lt;/h4&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2020/0312/20200312/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>2019年度 情報処理学会関西支部 支部大会 参加報告</title>
-      <link>https://ohshimalab.github.io/posts/news/2020/0311/20200311/</link>
+      <link>https://ohshimalab.github.io/post/2020/0311/20200311/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2020/0311/20200311/</guid>
-      <description>&lt;h4 id=&#34;日時2019年9月23日月&#34;&gt;日時：2019年9月23日（月）&lt;/h4&gt;
-&lt;h4 id=&#34;場所大阪大学中之島センター大阪府大阪市北区中之島&#34;&gt;場所：大阪大学中之島センター、大阪府大阪市北区中之島&lt;/h4&gt;
-&lt;h4 id=&#34;公式webページhttpskansaiipsjorjp2019sibutaikai_kaisai&#34;&gt;公式Webページ：https://kansai.ipsj.or.jp/2019sibutaikai_kaisai/&lt;/h4&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2020/0311/20200311/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>情報処理学会第169回データベースシステム・第136回情報基礎とアクセス技術・電子情報通信学会データ工学研究会合同研究会 参加報告</title>
-      <link>https://ohshimalab.github.io/posts/news/2020/0310/20200310/</link>
+      <link>https://ohshimalab.github.io/post/2020/0310/20200310/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2020/0310/20200310/</guid>
-      <description>&lt;h4 id=&#34;日時2019年9月23日月&#34;&gt;日時：2019年9月23日（月）&lt;/h4&gt;
-&lt;h4 id=&#34;場所工学院大学-新宿キャンパス&#34;&gt;場所：工学院大学 新宿キャンパス&lt;/h4&gt;
-&lt;h4 id=&#34;公式webページhttpswwwipsjorjpkenkyukaieventdbs169ifat136html&#34;&gt;公式Webページ：https://www.ipsj.or.jp/kenkyukai/event/dbs169ifat136.html&lt;/h4&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2020/0310/20200310/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>令和元年第1回青山学院大学・兵庫県立大学・静岡大学合同研究会</title>
-      <link>https://ohshimalab.github.io/posts/events/2019/0529/20190529/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/posts/events/2019/0529/20190529/</guid>
-      <description>&lt;h4 id=&#34;日程2019-年-5-月-29-日&#34;&gt;日程：2019 年 5 月 29 日&lt;/h4&gt;
-&lt;p&gt;静岡大学大学にて青山学院・兵庫県立大学・静岡大学合同研究会が行われました&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>大島研追いコン</title>
-      <link>https://ohshimalab.github.io/posts/events/2019/0327/20190327/</link>
-      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/posts/events/2019/0327/20190327/</guid>
-      <description>&lt;h4 id=&#34;日程2019年3月27日&#34;&gt;日程：2019年3月27日&lt;/h4&gt;
-&lt;p&gt;大島研究室第1期生の白髪宙海さんのご卒業を祝いまして、追いコンを行いました！&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>第11回データ工学と情報マネジメントに関するフォーラム（DEIM2019）参加報告</title>
-      <link>https://ohshimalab.github.io/posts/news/2019/0310/20190310/</link>
+      <title>DEIM2019参加報告</title>
+      <link>https://ohshimalab.github.io/post/2019/0310/20190310/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2019/0310/20190310/</guid>
-      <description>&lt;h4 id=&#34;日時2019年3月4日月6日水&#34;&gt;日時：2019年3月4日（月）～6日（水）&lt;/h4&gt;
-&lt;h4 id=&#34;場所ホテルオークラjrハウステンボス長崎県佐世保市&#34;&gt;場所：ホテルオークラJRハウステンボス、長崎県佐世保市&lt;/h4&gt;
-&lt;h4 id=&#34;公式webページhttpdb-eventjpnorgdeim2019&#34;&gt;公式Webページ：http://db-event.jpn.org/deim2019/&lt;/h4&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2019/0310/20190310/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>企業実践的ＡＩ（人工知能）利活用研究会 リレーセミナー</title>
-      <link>https://ohshimalab.github.io/posts/news/2018/1210/20181210/</link>
+      <link>https://ohshimalab.github.io/post/2018/1210/20181210/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2018/1210/20181210/</guid>
-      <description>&lt;h4 id=&#34;日時2018年12月6日木7日金&#34;&gt;日時：2018年12月6日（木）、7日（金）&lt;/h4&gt;
-&lt;h4 id=&#34;場所一般財団法人関西情報センター-第1会議室&#34;&gt;場所：一般財団法人関西情報センター 第1会議室&lt;/h4&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2018/1210/20181210/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>甲南大灘本研，静岡大山本研，大島研合同研究会</title>
-      <link>https://ohshimalab.github.io/posts/news/2018/1205/20181205/</link>
+      <link>https://ohshimalab.github.io/post/2018/1205/20181205/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2018/1205/20181205/</guid>
-      <description>&lt;h4 id=&#34;日時2018年12月4日&#34;&gt;日時：2018年12月4日&lt;/h4&gt;
-&lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパス&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;
-&lt;p&gt;　上記日程にて、甲南大学の灘本明代教授と研究室の学生11名、静岡大学の山本祐輔先生と研究室の学生3名、京都大学の山本岳洋助教に、兵庫県立大学神戸情報科学キャンパスへお越しいただき、合同研究会を行いました。&lt;/p&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2018/1205/20181205/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Newデスク！</title>
-      <link>https://ohshimalab.github.io/posts/news/2018/1101/20181101/</link>
+      <link>https://ohshimalab.github.io/post/2018/1101/20181101/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2018/1101/20181101/</guid>
+      <guid>https://ohshimalab.github.io/post/2018/1101/20181101/</guid>
       <description>&lt;p&gt;研究室にオープンアドレスタイプのデスクがやってきました！&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>第3回神戸情報科学キャンパスシンポジウム～計算科学と情報科学の未来、および情報化する医療～</title>
-      <link>https://ohshimalab.github.io/posts/news/2018/0914/20180914/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/posts/news/2018/0914/20180914/</guid>
-      <description>&lt;h4 id=&#34;日時2018年9月14日土&#34;&gt;日時：2018年9月14日（土）&lt;/h4&gt;
-&lt;h4 id=&#34;兵庫県立大学神戸情報科学キャンパス&#34;&gt;兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;</description>
-    </item>
-    
-    <item>
-      <title>大島研究室香川旅行</title>
-      <link>https://ohshimalab.github.io/posts/events/2018/0923/20180923/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/posts/events/2018/0923/20180923/</guid>
-      <description>&lt;h4 id=&#34;日時2018年9月20日木22日土&#34;&gt;日時：2018年9月20日（木）～22日（土）&lt;/h4&gt;
-&lt;h4 id=&#34;場所香川&#34;&gt;場所：香川&lt;/h4&gt;</description>
-    </item>
-    
-    <item>
       <title>WebDB Forum 2018において楽天株式会社賞・学生奨励賞を受賞</title>
-      <link>https://ohshimalab.github.io/posts/news/2018/0918/20180918/</link>
+      <link>https://ohshimalab.github.io/post/2018/0918/20180918/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2018/0918/20180918/</guid>
-      <description>&lt;h3 id=&#34;食べログの再訪問レビューの発見&#34;&gt;食べログの再訪問レビューの発見&lt;/h3&gt;
-&lt;p&gt;2018年9月12日から14日に東京工業大学 大岡山キャンパス開催された第11回Webとデータベースに関するフォーラム（WebDB Forum 2018）において、大島研究室博士前期課程2回生の白髪宙美さんが楽天株式会社賞と学生奨励賞を受賞しました。&lt;/p&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2018/0918/20180918/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>大島研究室バーベキュー</title>
-      <link>https://ohshimalab.github.io/posts/events/2018/0709/20180709/</link>
-      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <title>第3回神戸情報科学キャンパスシンポジウム～</title>
+      <link>https://ohshimalab.github.io/post/2018/0914/20180914/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/events/2018/0709/20180709/</guid>
-      <description>&lt;h4 id=&#34;日時2018年7月9日月-18002100&#34;&gt;日時：2018年7月9日（月） 18:00～21:00&lt;/h4&gt;
-&lt;h4 id=&#34;場所ブリッジテラス大蔵朝霧駅から徒歩3分&#34;&gt;場所：ブリッジテラス大蔵（朝霧駅から徒歩3分）&lt;/h4&gt;</description>
-    </item>
-    
-    <item>
-      <title>平成30年度兵庫県立大学応用情報科学研究科オープンキャンパス（第1回）</title>
-      <link>https://ohshimalab.github.io/posts/events/2018/0630/20180630/</link>
-      <pubDate>Sat, 30 Jun 2018 09:46:42 +0900</pubDate>
-      
-      <guid>https://ohshimalab.github.io/posts/events/2018/0630/20180630/</guid>
-      <description>&lt;h4 id=&#34;日時2018年8月4日土-13301600&#34;&gt;日時：2018年8月4日（土） 13:30～16:00&lt;/h4&gt;
-&lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパス&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;
-&lt;h4 id=&#34;公式webページhttpswwwaiu-hyogoacjpentranceopenhtml&#34;&gt;公式Webページ：https://www.ai.u-hyogo.ac.jp/entrance/open.html&lt;/h4&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2018/0914/20180914/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Newホワイトボード！</title>
-      <link>https://ohshimalab.github.io/posts/news/2018/0629/20180629/</link>
+      <link>https://ohshimalab.github.io/post/2018/0629/20180629/</link>
       <pubDate>Fri, 29 Jun 2018 10:00:00 +0900</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2018/0629/20180629/</guid>
+      <guid>https://ohshimalab.github.io/post/2018/0629/20180629/</guid>
       <description>&lt;p&gt;研究室に大きなホワイトボードがやってきました！
 2700mm×1200mmです。畳スペースに設置しています。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>学生募集</title>
-      <link>https://ohshimalab.github.io/about/admissions/</link>
+      <link>https://ohshimalab.github.io/admission/</link>
       <pubDate>Mon, 25 Jun 2018 17:49:59 +0900</pubDate>
       
-      <guid>https://ohshimalab.github.io/about/admissions/</guid>
+      <guid>https://ohshimalab.github.io/admission/</guid>
       <description>学生募集概要 大島研究室の正式な所属は以下の通りです。
 兵庫県立大学大学院応用情報科学研究科 応用情報科学専攻 高信頼情報科学コース
 大島研究室では、博士前期課程学生と博士後期課程学生を募集しています。 正式な入学試験の情報については、以下のページをご覧ください。
-入試情報：https://www.ai.u-hyogo.ac.jp/entrance/
+入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
 博士前期課程への入学を希望する方へ 博士前期課程への入学を希望する方は、入学試験を受験していただく必要があります。 応用情報科学研究科では、例年4回（6月、9月、1月、3月）、博士前期課程の入試を行っています。 そのいずれかを受験していただいて、それに合格することで、入学することができます。入学後に大島研究室に配属を希望することで、大島研究室に参加することができます。
 正式な入学試験の情報については、以下のページをご覧ください。
-入試情報：https://www.ai.u-hyogo.ac.jp/entrance/
+入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
 事前にご連絡いただく必要はありませんが、可能であれば事前にご連絡ください。 研究の内容や研究の進め方などについて相談したいと思います。 メールなどでご連絡いただけましたら、面談の機会を作りたいと思います。 また、兵庫県立大学応用情報科学研究科では、毎年2回（8月、12月）、オープンキャンパスを行っていますので、そちらに来ていただくのもよいと思います。 研究科全体の様子を知っていただくことができます。 オープンキャンパスの情報については、以下のページをご覧ください。
-オープンキャンパス情報：https://www.ai.u-hyogo.ac.jp/entrance/open.html
+オープンキャンパス情報： https://www.ai.u-hyogo.ac.jp/entrance/open.html
 博士後期課程への入学を希望する方へ 博士後期課程への入学を希望する方は、出願前に必ずご連絡ください。 事前に、研究の内容や研究の進め方などについて相談したいと思います。 十分な話し合いの後に、入学試験に合格すれば、大島研究室に参加することができます。 応用情報科学研究科では、例年3回（8月、1月、3月）、博士後期課程の入試を行っています。 4月に入学を希望される方は、いずれの入試を受けていただいてもかまいません。 10月に入学を希望される方は、8月の入試を受けていただく必要があります。
 正式な入学試験の情報については、以下のページをご覧ください。
-入試情報：https://www.ai.u-hyogo.ac.jp/entrance/
+入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
 研究生としての参加を希望する方へ まずは、博士前期課程か博士後期課程への入学をご検討ください。
-入試に関する連絡先 大島裕明：ohshima (at) ai.u-hyogo.ac.jp</description>
+入試に関する連絡先 大島裕明： ohshima@ai.u-hyogo.ac.jp</description>
     </item>
     
     <item>
       <title>研究の内容</title>
-      <link>https://ohshimalab.github.io/about/research/</link>
+      <link>https://ohshimalab.github.io/about/</link>
       <pubDate>Mon, 25 Jun 2018 17:49:59 +0900</pubDate>
       
-      <guid>https://ohshimalab.github.io/about/research/</guid>
+      <guid>https://ohshimalab.github.io/about/</guid>
       <description>「社会」と「情報」の研究 大島研究室では、社会において人が情報を取得して意思決定を行い、豊かに生活することを支える技術を研究しています。情報検索、データマイニング、情報デザインといった研究分野を基軸としつつ、データベース、機械学習、自然言語処理といった情報学の様々な分野の知見を活用し、さらには、心理学、社会学、経営学なども視野に入れて研究を行っています。
 現在、社会は大きな変革の渦の中にあります。社会の変革と同時に、情報の概念や技術の概念が従来からの解釈ではとらえきれなくなっています。福沢諭吉は「民情一新」において、社会と技術と情報の三者が連鎖的に変革を起こすことで、社会変革が起こると指摘しました。この指摘は産業革命において行われたものですが、その後の情報革命においても同様の指摘がなされています。すなわち、社会が変わるということは、同時に技術が変わること、そして、情報が変わることであるということです。現代社会はインターネットが実世界を反映する社会であり、現在の若者はデジタルネイティブです。新しい情報は現在の若者が創っていくものであり、それを支える技術を研究することで、新しい社会を切り開いていきたいと考えています。
 Web検索と知識発見の研究 あらゆる情報が交換されるWebにおいて、情報獲得を行う基盤技術である情報検索について研究を行っています。特に、多くのWebユーザが発信する情報や振る舞いから知識を発見して応用することで、これまでできなかった検索を実現することに取り組みます。
@@ -224,101 +156,40 @@ Web検索と知識発見の研究 あらゆる情報が交換されるWebにお�
     </item>
     
     <item>
-      <title>研究プロジェクト</title>
-      <link>https://ohshimalab.github.io/projects/</link>
-      <pubDate>Mon, 25 Jun 2018 17:49:59 +0900</pubDate>
-      
-      <guid>https://ohshimalab.github.io/projects/</guid>
-      <description>Under Construction </description>
-    </item>
-    
-    <item>
-      <title>研究室生活</title>
-      <link>https://ohshimalab.github.io/about/lablife/</link>
-      <pubDate>Mon, 25 Jun 2018 17:49:59 +0900</pubDate>
-      
-      <guid>https://ohshimalab.github.io/about/lablife/</guid>
-      <description>研究室入口 学生の研究室は704号室です。 入口の横には大島先生の研究発表ポスターが貼ってあります。
-  研究室入り口
-    研究室内 オープンな研究室 オープンな研究室であることを目指しています。 研究室の奥には8帖の畳スペースも存在しています。 お昼時にはパスタ会なども開催されます。
-       勉強会 週に1回程度、学生主催の勉強会を行っています。 毎回、担当するテーマについて学生が発表を行い、学生どうしで質疑や議論を行い、理解を深めます。
-  勉強会
-    研究会 週に1回、研究室全体で研究会を行います。 これが研究室の中で最も重要なイベントです。 学生は、それぞれ自分の研究テーマを持っています。 各自の研究テーマについて、前回からの進捗報告を行って、教員と学生全員でそのテーマについての議論を行います。</description>
-    </item>
-    
-    <item>
       <title>SoC2018において学生奨励賞を受賞</title>
-      <link>https://ohshimalab.github.io/posts/news/2018/0622/20180622/</link>
+      <link>https://ohshimalab.github.io/post/2018/0622/20180622/</link>
       <pubDate>Fri, 22 Jun 2018 18:00:00 +0900</pubDate>
       
-      <guid>https://ohshimalab.github.io/posts/news/2018/0622/20180622/</guid>
-      <description>&lt;p&gt;2018年6月22日から23日に開催された第9回ソーシャルコンピューティングシンポジウム（SoC2018）において、
-大島研究室博士前期課程1回生の村本直樹さんが学生奨励賞を受賞しました。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>第9回ソーシャルコンピューティングシンポジウム（SoC2018）</title>
-      <link>https://ohshimalab.github.io/posts/events/2018/0620/20180620/</link>
-      <pubDate>Wed, 20 Jun 2018 00:18:28 +0900</pubDate>
-      
-      <guid>https://ohshimalab.github.io/posts/events/2018/0620/20180620/</guid>
-      <description>&lt;h4 id=&#34;日程2018年6月22日土23日日&#34;&gt;日程：2018年6月22日（土）～23日（日）&lt;/h4&gt;
-&lt;h4 id=&#34;場所lifull本社東京都千代田区&#34;&gt;場所：LIFULL本社，東京都千代田区&lt;/h4&gt;
-&lt;h4 id=&#34;公式webページhttpdb-eventjpnorgsoc2018&#34;&gt;公式Webページ：http://db-event.jpn.org/soc2018/&lt;/h4&gt;</description>
-    </item>
-    
-    <item>
-      <title>アクセス</title>
-      <link>https://ohshimalab.github.io/access/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/access/</guid>
-      <description>兵庫県立大学 神戸情報科学キャンパス 〒650-0047　神戸市中央区港島南町7-1-28 計算科学センタービル 704号室
- アクセス方法 ポートライナー「京コンピュータ前駅」下車 徒歩約2分  神戸新交通三宮駅から、ポートライナー神戸空港行き（所要時間約14分）  </description>
+      <guid>https://ohshimalab.github.io/post/2018/0622/20180622/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>コラボ</title>
-      <link>https://ohshimalab.github.io/people/collaborations/</link>
+      <link>https://ohshimalab.github.io/colabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/people/collaborations/</guid>
-      <description>[甲南大学 灘本研究室] (http://www.nadasemi.ii.konan-u.ac.jp/) [関西学院大学 角谷研究室] (http://kg-sps.jp/blogs/sumiya/) [静岡大学 山本祐輔研究室] (http://design.inf.shizuoka.ac.jp/) </description>
-    </item>
-    
-    <item>
-      <title>卒業生</title>
-      <link>https://ohshimalab.github.io/people/alumni/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/people/alumni/</guid>
-      <description>まだ、大島研究室から卒業した人はいません。 これからです。</description>
-    </item>
-    
-    <item>
-      <title>学術論文</title>
-      <link>https://ohshimalab.github.io/outputs/journals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/outputs/journals/</guid>
-      <description>学術論文（査読あり）  片岡 大祐，加藤 誠，山本 岳洋，大島 裕明，田中 克己：「SNSグラフデータにおける文脈を考慮した適合フィードバック検索」, 日本データベース学会和文論文誌, Vol.16-J, Article No.21, 2018年3月.（採録決定） 武田 裕介, 大島 裕明, 田中 克己：「同一閲覧・検索意図に合致するWebページ群の発見と再訪問ページ推薦」, 日本データベース学会和文論文誌, Vol.15-J, Article No.13, 2017年3月. Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Paraphrasing Sentential Queries by Incorporating Coordinate Relationship&amp;rdquo;, Journal of Information Processing, Vol.24, No.4, pp.721-731, January 2016. 佃 洸摂, 大島 裕明, 山本 光穂, 岩崎 弘利, 田中 克己：「語の認知度と語間の関係の非典型度に基づくWikipediaからの意外な情報の発見」, 情報処理学会論文誌：データベース, Vol.7, No.1, TOD 61, pp.1-17, 2014年3月. 佃 洸摂, 大島 裕明, 加藤 誠, 田中 克己：「属性値の同一性・相補性に着目したオブジェクト集合検索手法の提案とその観光地データへの適用」, 情報処理学会論文誌：データベース, Vol.</description>
+      <guid>https://ohshimalab.github.io/colabs/</guid>
+      <description>甲南大学 灘本研究室
+関西学院大学 角谷研究室
+静岡大学 山本祐輔研究室</description>
     </item>
     
     <item>
       <title>研究室メンバー</title>
-      <link>https://ohshimalab.github.io/people/members/</link>
+      <link>https://ohshimalab.github.io/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/people/members/</guid>
-      <description>教員     名前     准教授 大島 裕明 （Hiroaki OHSHIMA）    学生    学年 名前     D2 高橋 克郎 （Katsurou TAKAHASHI）   D2 田中 謙次 （Kenji TANAKA）   M2 牧田 真朋 （Maho MAKITA）   M2 西村 和貴 （Kazuki NISHIMURA）   M2 マハルジャン ラビン （Rabin MAHARJAN）   M2 堂本 凌祐 （Ryosuke DOMOTO）   M2 村本 直樹 （Naoki MURAMOTO）   M2 楊 澤華 （Zehua YANG）   M2 吉井 健紘 （Takehiro YOSHII）   M1 中田 祐誠 （Yusei NAKATA）   M1 橋口 友哉 （Tomoya HASHIGUCHI）   M1 崔 洙瑚 （Suho CHOI）   M1 顧 席銘 （Ximing GU）   M1 ファム フーロン （Huu Long PHAM）    社会人学生    学年 名前     D2 竹本 勉 （Tsutomu TAKEMOTO）   D1 森川 優 （Yu MORIKAWA）   M2 福島 航平 （Kohei FUKUSHIMA）   M2 山本 雄大 （Takehiro YAMAMOTO）    卒業生    卒業年 名前     2019 白髪 宙海 （Hiromi SHIRAGA)    </description>
+      <guid>https://ohshimalab.github.io/members/</guid>
+      <description>教員     名前     准教授 大島 裕明 （Hiroaki OHSHIMA）    学生    学年 名前     D3 高橋 克郎 （Katsurou TAKAHASHI）   D3 田中 謙次 （Kenji TANAKA）   M2 中田 祐誠 （Yusei NAKATA）   M2 橋口 友哉 （Tomoya HASHIGUCHI）   M2 崔 洙瑚 （Suho CHOI）   M2 顧 席銘 （Ximing GU）   M1 三林　亮太　(Ryota MIBAYASHI)   M1 松本　直彰　(Naoaki MATSUMOTO)）   M1 劉　建男　(Jiannan LIU)   M1 吉村　拓真　(Takuma YOSHIMURA)   M1 上田　昌輝（Masaki UETA）   M1 吉岡　朋友 (Tomo Yoshioka)   M1 濵島　聡一郎(Hamajima Soichiro)   M1 川原　敬史(Takafumi KAWAHARA)   M1 坂根 和光 （Wakou SAKANE）    社会人学生    学年 名前     D3 竹本 勉 （Tsutomu TAKEMOTO）   D2 森川 優 （Yu MORIKAWA）   M3 福島 航平 （Kohei FUKUSHIMA）   M3 山本 雄大 （Takehiro YAMAMOTO）    卒業生    卒業年 名前     2020 白髪 宙海 （Hiromi SHIRAGA)   2020 牧田 真朋 （Maho MAKITA）   2020 西村 和貴 （Kazuki NISHIMURA）   2020 マハルジャン ラビン （Rabin MAHARJAN）   2020 堂本 凌祐 （Ryosuke DOMOTO）   2020 村本 直樹 （Naoki MURAMOTO）   2020 楊 澤華 （Zehua YANG）   2020 吉井 健紘 （Takehiro YOSHII）    </description>
     </item>
     
     <item>
       <title>研究成果</title>
-      <link>https://ohshimalab.github.io/outputs/</link>
+      <link>https://ohshimalab.github.io/researches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ohshimalab.github.io/outputs/</guid>
+      <guid>https://ohshimalab.github.io/researches/</guid>
       <description>学術論文（査読あり）  片岡 大祐，加藤 誠，山本 岳洋，大島 裕明，田中 克己：「SNSグラフデータにおける文脈を考慮した適合フィードバック検索」, 日本データベース学会和文論文誌, Vol.16-J, Article No.21, 2018年3月.（採録決定） 武田 裕介, 大島 裕明, 田中 克己：「同一閲覧・検索意図に合致するWebページ群の発見と再訪問ページ推薦」, 日本データベース学会和文論文誌, Vol.15-J, Article No.13, 2017年3月. Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Paraphrasing Sentential Queries by Incorporating Coordinate Relationship&amp;rdquo;, Journal of Information Processing, Vol.24, No.4, pp.721-731, January 2016. 佃 洸摂, 大島 裕明, 山本 光穂, 岩崎 弘利, 田中 克己：「語の認知度と語間の関係の非典型度に基づくWikipediaからの意外な情報の発見」, 情報処理学会論文誌：データベース, Vol.7, No.1, TOD 61, pp.1-17, 2014年3月. 佃 洸摂, 大島 裕明, 加藤 誠, 田中 克己：「属性値の同一性・相補性に着目したオブジェクト集合検索手法の提案とその観光地データへの適用」, 情報処理学会論文誌：データベース, Vol.</description>
     </item>
     
