@@ -6,7 +6,11 @@
     <description>Recent content on OHSHIMA LAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ohshimalab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ohshimalab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>iiWAS2019の参加報告</title>
       <link>https://ohshimalab.github.io/post/2020/0314/20200314/</link>
@@ -169,7 +173,7 @@
     </item>
     
     <item>
-      <title>研究の内容</title>
+      <title>研究の内容について</title>
       <link>https://ohshimalab.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
