@@ -1,215 +1,1145 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OHSHIMA LAB</title>
+    <title>OHSHIMA LAB.</title>
     <link>https://ohshimalab.github.io/</link>
-    <description>Recent content on OHSHIMA LAB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ohshimalab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ohshimalab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>OHSHIMA LAB.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©兵庫県立大学 情報科学研究科 大島研究室 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ohshimalab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>OHSHIMA LAB.</title>
+      <link>https://ohshimalab.github.io/</link>
+    </image>
     
     <item>
-      <title>iiWAS2019の参加報告</title>
-      <link>https://ohshimalab.github.io/post/2020/0314/20200314/</link>
-      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2020/0314/20200314/</guid>
-      <description></description>
+      <title>Example Page 1</title>
+      <link>https://ohshimalab.github.io/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://ohshimalab.github.io/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>IDRユーザフォーラム 2019に参加しました</title>
-      <link>https://ohshimalab.github.io/post/2020/0313/20200313/</link>
-      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2020/0313/20200313/</guid>
-      <description></description>
+      <title>Example Page 2</title>
+      <link>https://ohshimalab.github.io/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://ohshimalab.github.io/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>兵庫県立大学知の交流シンポジウム2019</title>
-      <link>https://ohshimalab.github.io/post/2020/0312/20200312/</link>
-      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2020/0312/20200312/</guid>
-      <description></description>
+      <title>Example Talk</title>
+      <link>https://ohshimalab.github.io/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://ohshimalab.github.io/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>第139回情報基礎とアクセス技術研究発表会 参加報告</title>
+      <link>https://ohshimalab.github.io/post/2020/0731/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ohshimalab.github.io/post/2020/0731/</guid>
+      <description>&lt;h4 id=&#34;日時2020-年-7-月-31-日金&#34;&gt;日時：2020 年 7 月 31 日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所オンライン&#34;&gt;場所：オンライン&lt;/h4&gt;
+&lt;h4 id=&#34;公式-web-ページhttpswwwipsjorjpkenkyukaieventifat139html&#34;&gt;公式 Web ページ：https://www.ipsj.or.jp/kenkyukai/event/IFAT139.html&lt;/h4&gt;
+&lt;p&gt;上記日程にて、オンライン開催されました、 第 139 回情報基礎とアクセス技術研究発表会に参加しました。大島研究室からは、松本さんが口頭発表を行いました。詳細については以下のとおりです。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;「時間的推移を考慮した報道トピックの抽出と再構成」
+　松本 直彰、湯本 高行、山本 岳洋、大島 裕明
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
       <title>2019年度 情報処理学会関西支部 支部大会 参加報告</title>
-      <link>https://ohshimalab.github.io/post/2020/0311/20200311/</link>
+      <link>https://ohshimalab.github.io/post/2020/0311/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2020/0311/20200311/</guid>
-      <description></description>
+      <guid>https://ohshimalab.github.io/post/2020/0311/</guid>
+      <description>&lt;h4 id=&#34;日時2019-年-9-月-23-日月&#34;&gt;日時：2019 年 9 月 23 日（月）&lt;/h4&gt;
+&lt;h4 id=&#34;場所大阪大学中之島センター大阪府大阪市北区中之島&#34;&gt;場所：大阪大学中之島センター、大阪府大阪市北区中之島&lt;/h4&gt;
+&lt;h4 id=&#34;公式-web-ページhttpskansaiipsjorjp2019sibutaikai_kaisai&#34;&gt;公式 Web ページ：https://kansai.ipsj.or.jp/2019sibutaikai_kaisai/&lt;/h4&gt;
+&lt;p&gt;上記日程にて、大阪大学中之島センターで行われました、 2019 年度 情報処理学会関西支部 支部大会に参加しました。大島研究室からは、村本さん、ラビンさんの 2 名が口頭発表、吉井さんがインタラクティブ発表を行いました。詳細については以下のとおりです。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;「商品の利用目的の特徴表現と検索への応用」
+　村本 直樹、湯本 高行、大島 裕明
+「IoT見守りデバイスの開発とセンサデータからの行動予測」
+　マハルジャン ラビン、白石 晃一（京都造形芸大）、山本 岳洋（京大）、山本 祐輔（静岡大）、大島 裕明
+
+「VR空間における複数ページを同時提示する文書閲覧環境」
+　吉井 健紘、高橋 克郎、大島 裕明
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;また、村本さんが支部大会奨励賞を受賞しました！&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2020/0311/gallery/award.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2020/0311/gallery/award_hu63eb2714dd20425e0eb1151a69607141_3352730_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2020/0311/gallery/muramoto.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2020/0311/gallery/muramoto_hu0d2094bd31db9f34f0df571176644057_796577_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;244&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2020/0311/gallery/rabin.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2020/0311/gallery/rabin_huc271f3c41c4bc68d36b7deda71f7c3de_799821_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2020/0311/gallery/yoshii.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2020/0311/gallery/yoshii_hud409dd357833f3bc2c3aa1d9b556d377_1354705_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>情報処理学会第169回データベースシステム・第136回情報基礎とアクセス技術・電子情報通信学会データ工学研究会合同研究会 参加報告</title>
-      <link>https://ohshimalab.github.io/post/2020/0310/20200310/</link>
+      <link>https://ohshimalab.github.io/post/2020/0310/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2020/0310/20200310/</guid>
-      <description></description>
+      <guid>https://ohshimalab.github.io/post/2020/0310/</guid>
+      <description>&lt;h4 id=&#34;日時2019-年-9-月-23-日月&#34;&gt;日時：2019 年 9 月 23 日（月）&lt;/h4&gt;
+&lt;h4 id=&#34;場所工学院大学-新宿キャンパス&#34;&gt;場所：工学院大学 新宿キャンパス&lt;/h4&gt;
+&lt;h4 id=&#34;公式-web-ページhttpswwwipsjorjpkenkyukaieventdbs169ifat136html&#34;&gt;公式 Web ページ：https://www.ipsj.or.jp/kenkyukai/event/dbs169ifat136.html&lt;/h4&gt;
+&lt;p&gt;上記日程にて、工学院大学 新宿キャンパスで行われました、 情報処理学会第 169 回データベースシステム・第 136 回情報基礎とアクセス技術・電子情報通信学会データ工学研究会合同研究会に参加しました。大島研究室からは、高橋さんが以下の内容で口頭発表を行いました。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;「分散表現空間間の変換行列による擬人化の比喩表現の自動生成」
+　高橋 克郎、大島 裕明
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;また、学生奨励賞を受賞しました！&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2020/0310/gallery/award.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2020/0310/gallery/award_hu494c2350e76bd1171e06217f4555f76c_1226893_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://ohshimalab.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://ohshimalab.github.io/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>DEIM2019参加報告</title>
-      <link>https://ohshimalab.github.io/post/2019/0310/20190310/</link>
+      <link>https://ohshimalab.github.io/post/2019/0310/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2019/0310/20190310/</guid>
-      <description></description>
+      <guid>https://ohshimalab.github.io/post/2019/0310/</guid>
+      <description>&lt;h4 id=&#34;日時2019年3月4日月6日水&#34;&gt;日時：2019年3月4日（月）～6日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所ホテルオークラjrハウステンボス長崎県佐世保市&#34;&gt;場所：ホテルオークラJRハウステンボス、長崎県佐世保市&lt;/h4&gt;
+&lt;h4 id=&#34;公式webページhttpdb-eventjpnorgdeim2019&#34;&gt;公式Webページ：http://db-event.jpn.org/deim2019/&lt;/h4&gt;
+&lt;p&gt;上記日程にて、ハウステンボスで行われました、第11回データ工学と情報マネジメントに関するフォーラム（DEIM2019）に参加しました。大島研究室からは、高橋さん、白髪さん、ラビンさん、村本さん、楊さんの5名が、以下の内容で口頭発表と、インタラクティブ発表を行いました。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;「分散表現空間の基底変換に基づく時系列横断の類義語トラッキング」
+　高橋 克郎、大島 裕明
+「飲食店レビューにおける再訪問ユーザの行動の分析」
+　白髪 宙海、村本 直樹、高橋 克郎、大島 裕明
+「話題提供を行うための独居家族との「気配」共有システム」
+　マハルジャン ラビン、白石 晃一（京都造形芸大）、山本 岳洋（京大）、山本 祐輔（静岡大）、大島 裕明
+「ソーシャルメディアからの商品の利用目的の発見」
+　村本 直樹、湯本 高行、大島 裕明
+「博物館の展示物と見学者の興味を関連付ける情報の発見」
+　楊 澤華、山本 祐輔（静岡大）、山本 岳洋（京大）、神門 典子（NII）、大島 裕明
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;また、高橋さん、白髪さんの2名が学生プレゼンテーション賞を受賞しました！&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/01.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/01_hu507ae19625d4a0446d27584a6f3de21d_2337229_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/02.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/02_hu64f7c8b4b2371e8a3b03f340a6c51e13_1868297_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/03.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/03_hue0dd4d9e1d50ba45100c094ee9529519_1809089_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/04.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/04_hubb191fd1cbb55bcdeff18d537cd90786_1977072_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/05.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/05_hu16cf646296a265e173c16519b198c30f_1862157_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/06.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/06_hud98f95fcafe83943a0bbc7b37ed47e51_2124023_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/07.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/07_hu63e8921e62054de66cdb11004722c23b_820270_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/08.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/08_hu9d2df6c063ce81246e02d99bfd3e0580_776538_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/09.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/09_hu7a7137ee74759159bb98bba38dd40875_1367073_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/10.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/10_hu0c6a8f0c4db2e7a8c03134b3a0a29866_1020329_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/11.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/11_hu7bc21411e0be38c84679a108c685346f_1722347_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/12.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/12_hu7b63c685be4bbccdf0b372ccd9113aaf_1602303_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/13.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2019/0310/gallery/13_hu483a18e8b193bf548d8b0c0be94164bf_1550639_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>企業実践的ＡＩ（人工知能）利活用研究会 リレーセミナー</title>
-      <link>https://ohshimalab.github.io/post/2018/1210/20181210/</link>
+      <link>https://ohshimalab.github.io/post/2018/1210/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2018/1210/20181210/</guid>
-      <description></description>
+      <guid>https://ohshimalab.github.io/post/2018/1210/</guid>
+      <description>&lt;h4 id=&#34;日時2018年12月6日木7日金&#34;&gt;日時：2018年12月6日（木）、7日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所一般財団法人関西情報センター-第1会議室&#34;&gt;場所：一般財団法人関西情報センター 第1会議室&lt;/h4&gt;
+&lt;p&gt;一般財団法人関西情報センター（KIIS）様主催の「企業実践的ＡＩ（人工知能）利活用研究会 リレーセミナー」にて、大島裕明准教授が「機械学習による情報検索とその応用」というテーマで、2日間に渡り講義を行いました。&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1210/gallery/%280%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1210/gallery/%280%29_huad429df2875b7e39e8457bbbbc4f0ca2_965040_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1210/gallery/%281%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1210/gallery/%281%29_hu6484f5bf7b6381b28361153941fc29b1_1493894_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;p&gt;以下、&lt;a href=&#34;https://secure.kiis.or.jp/ai/seminar2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KIIS様HP&lt;/a&gt;より、&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;　昨今、企業におけるデータ分析や人工知能（AI）利活用事例が現れつつある一方で、未だ自社での課題解決に向けた具体的なアクションを起こせずにいる企業も多いのが実情です。&lt;br&gt;
+　本研究会では、リレーセミナー形式により、企業ビジネスにおけるAI 利活用に必要な知識や技術について、第一線の研究者等がわかりやすく講義・ワークショップ等を行い、各社が今後より詳細かつ具体的な取り組みへとステップアップしていくための契機として実施するものです。&lt;br&gt;
+　AIには関心はあるけれど何から手を付けてよいかわからない、といった方に最適のコースとなっております。ぜひご参加ください。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
       <title>甲南大灘本研，静岡大山本研，大島研合同研究会</title>
-      <link>https://ohshimalab.github.io/post/2018/1205/20181205/</link>
+      <link>https://ohshimalab.github.io/post/2018/1205/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2018/1205/20181205/</guid>
-      <description></description>
+      <guid>https://ohshimalab.github.io/post/2018/1205/</guid>
+      <description>&lt;h4 id=&#34;日時2018年12月4日&#34;&gt;日時：2018年12月4日&lt;/h4&gt;
+&lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパス&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;
+&lt;p&gt;　上記日程にて、甲南大学の灘本明代教授と研究室の学生11名、静岡大学の山本祐輔先生と研究室の学生3名、京都大学の山本岳洋助教に、兵庫県立大学神戸情報科学キャンパスへお越しいただき、合同研究会を行いました。&lt;/p&gt;
+&lt;p&gt;　各学生が4セッションに別れ、自分の取り組む研究や取り組みたい研究について発表を行いました。発表は1セッションをショットガンラウンドとディスカッションラウンドの2つのフェーズで構成し、5～6人が発表を行います。ショットガンラウンドでは質疑応答を挟まずに1人4分という短い時間で口頭発表を行い、その後ディスカッションラウンドにて、発表内容について熱い議論を交わしました。3年生の学生もいる中、学生から積極的に質問や意見が飛び出し、とても有意義な研究会になりました。最後には食事会を行い親睦を深めました。&lt;/p&gt;
+&lt;p&gt;兵庫県立大学まで来ていただいた、&lt;br&gt;
+灘本研の皆様、山本祐輔研の皆様、山本岳洋助教、
+ありがとうございました。&lt;/p&gt;
+&lt;h4 id=&#34;各研究室先生方のホームページ&#34;&gt;各研究室・先生方のホームページ&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nadasemi.ii.konan-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;甲南大学 灘本研究室&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://hontolab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;静岡大学 山本祐輔先生&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://rerank-lab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;京都大学 山本岳洋先生&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%280%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%280%29_huc547ed8f1cfe268c3523300799a8304f_60957_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%281%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%281%29_hu30c089157765bd1c0778eb167d34a15d_319193_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%282%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%282%29_hu1e9082068d1121af564bb0236be1f981_154941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%283%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%283%29_hu0da7b6cdb47795af03efa9954462e07a_128324_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%284%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%284%29_hu39c6ef2ac294a2577c0cfb2ce0acf10c_194530_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%285%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1205/gallery/%285%29_hu494f5ef16ff1f4c0abebef767ecc0780_235516_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>Newデスク！</title>
-      <link>https://ohshimalab.github.io/post/2018/1101/20181101/</link>
+      <link>https://ohshimalab.github.io/post/2018/1101/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2018/1101/20181101/</guid>
-      <description>&lt;p&gt;研究室にオープンアドレスタイプのデスクがやってきました！&lt;/p&gt;</description>
+      <guid>https://ohshimalab.github.io/post/2018/1101/</guid>
+      <description>&lt;p&gt;研究室にオープンアドレスタイプのデスクがやってきました！&lt;/p&gt;
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1101/gallery/step1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1101/gallery/step1_hu3d088b61eca46b4cd6c6d893b37dee6b_150268_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1101/gallery/step2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1101/gallery/step2_hu23fc5cba41de0f1fc28d96de936738ac_147820_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1101/gallery/step3.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1101/gallery/step3_hu27581d25ee4ddd2a24c60a3cf5588351_151026_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>WebDB Forum 2018において楽天株式会社賞・学生奨励賞を受賞</title>
-      <link>https://ohshimalab.github.io/post/2018/0918/20180918/</link>
+      <link>https://ohshimalab.github.io/post/2018/0918/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2018/0918/20180918/</guid>
-      <description></description>
+      <guid>https://ohshimalab.github.io/post/2018/0918/</guid>
+      <description>&lt;h3 id=&#34;食べログの再訪問レビューの発見&#34;&gt;食べログの再訪問レビューの発見&lt;/h3&gt;
+&lt;p&gt;2018年9月12日から14日に東京工業大学 大岡山キャンパス開催された第11回Webとデータベースに関するフォーラム（WebDB Forum 2018）において、大島研究室博士前期課程2回生の白髪宙美さんが楽天株式会社賞と学生奨励賞を受賞しました。&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/0918/gallery/poster.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/0918/gallery/poster_hu2811efb51e60c4d9c31db0101ceddc22_1708015_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/0918/gallery/presentation.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/0918/gallery/presentation_hu34966cf2a83735010037c2a98fb25477_964523_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/0918/gallery/rakuten.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/0918/gallery/rakuten_hue8bdc414d27a83c230741daa4a7903e6_4336527_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/0918/gallery/student.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/0918/gallery/student_hu2cb22434c9dd41c708b9b388ee7af533_2754111_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>第3回神戸情報科学キャンパスシンポジウム～</title>
-      <link>https://ohshimalab.github.io/post/2018/0914/20180914/</link>
+      <link>https://ohshimalab.github.io/post/2018/0914/</link>
       <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2018/0914/20180914/</guid>
-      <description></description>
+      <guid>https://ohshimalab.github.io/post/2018/0914/</guid>
+      <description>&lt;h4 id=&#34;日時2018年9月14日土&#34;&gt;日時：2018年9月14日（土）&lt;/h4&gt;
+&lt;h4 id=&#34;兵庫県立大学神戸情報科学キャンパス&#34;&gt;兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;
+&lt;p&gt;以下&lt;a href=&#34;http://www.u-hyogo.ac.jp/outline/about/university_report/2018/20180921/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学ホームページ&lt;/a&gt;より抜粋&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;平成28年度から開催しているこのシンポジウムでは、神戸情報科学キャンパスにある情報系大学院（応用情報科学研究科とシミュレーション学研究科）の研究内容の一部を紹介するとともに、本キャンパスが連携している理化学研究所計算科学研究センターなどで活躍されている方々に、最先端の計算科学分野や情報科学分野の話題についてご講演いただいています。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;大島裕明准教授も「ウェブにおける情報からの知識発見とその応用」というテーマで発表を行いました。&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/0914/gallery/presentation0.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/0914/gallery/presentation0_hucb6ebb123dfa9af1c1a2fe35dbd71d2a_182952_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;287&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/0914/gallery/presentation1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/0914/gallery/presentation1_hue0a721c505544ae950fa16b1ad8b84c8_250404_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;287&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/0914/gallery/presentation2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/0914/gallery/presentation2_hu63f17962c0a96f37acb41993a63b6d90_205054_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;287&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>Newホワイトボード！</title>
-      <link>https://ohshimalab.github.io/post/2018/0629/20180629/</link>
+      <link>https://ohshimalab.github.io/post/2018/0629/</link>
       <pubDate>Fri, 29 Jun 2018 10:00:00 +0900</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2018/0629/20180629/</guid>
+      <guid>https://ohshimalab.github.io/post/2018/0629/</guid>
       <description>&lt;p&gt;研究室に大きなホワイトボードがやってきました！
 2700mm×1200mmです。畳スペースに設置しています。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SoC2018において学生奨励賞を受賞</title>
-      <link>https://ohshimalab.github.io/post/2018/0622/20180622/</link>
+      <link>https://ohshimalab.github.io/post/2018/0622/</link>
       <pubDate>Fri, 22 Jun 2018 18:00:00 +0900</pubDate>
-      
-      <guid>https://ohshimalab.github.io/post/2018/0622/20180622/</guid>
-      <description></description>
+      <guid>https://ohshimalab.github.io/post/2018/0622/</guid>
+      <description>&lt;p&gt;2018年6月22日から23日に開催された第9回ソーシャルコンピューティングシンポジウム（SoC2018）において、
+大島研究室博士前期課程1回生の村本直樹さんが学生奨励賞を受賞しました。&lt;/p&gt;
+&lt;p&gt;SoC2018 Webサイト：http://db-event.jpn.org/soc2018/&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>やる気スイッチ</title>
+      <link>https://ohshimalab.github.io/project/yaruki/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ohshimalab.github.io/project/yaruki/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Fast Algorithm for Unsupervised Feature Value Selection</title>
+      <link>https://ohshimalab.github.io/publication/supercwc/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://ohshimalab.github.io/publication/supercwc/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://ohshimalab.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://ohshimalab.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://ohshimalab.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://ohshimalab.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>アクセス</title>
       <link>https://ohshimalab.github.io/access/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ohshimalab.github.io/access/</guid>
-      <description>兵庫県立大学 神戸情報科学キャンパス 〒650-0047　神戸市中央区港島南町7-1-28 計算科学センタービル 704号室
-アクセス方法 ポートライナー「京コンピュータ前駅」下車 徒歩約2分  神戸新交通三宮駅から、ポートライナー神戸空港行き（所要時間約14分）  </description>
+      <description></description>
     </item>
     
     <item>
       <title>コラボ</title>
       <link>https://ohshimalab.github.io/colabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ohshimalab.github.io/colabs/</guid>
-      <description>甲南大学 灘本研究室
-関西学院大学 角谷研究室
-静岡大学 山本祐輔研究室</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.nadasemi.ii.konan-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;甲南大学 灘本研究室&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://kg-sps.jp/blogs/sumiya/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;関西学院大学 角谷研究室&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://design.inf.shizuoka.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;静岡大学 山本祐輔研究室&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>学生募集</title>
       <link>https://ohshimalab.github.io/admission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ohshimalab.github.io/admission/</guid>
-      <description>学生募集概要 大島研究室の正式な所属は以下の通りです。
-兵庫県立大学大学院応用情報科学研究科 応用情報科学専攻 高信頼情報科学コース
-大島研究室では、博士前期課程学生と博士後期課程学生を募集しています。 正式な入学試験の情報については、以下のページをご覧ください。
-入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
-博士前期課程への入学を希望する方へ 博士前期課程への入学を希望する方は、入学試験を受験していただく必要があります。 応用情報科学研究科では、例年4回（6月、9月、1月、3月）、博士前期課程の入試を行っています。 そのいずれかを受験していただいて、それに合格することで、入学することができます。入学後に大島研究室に配属を希望することで、大島研究室に参加することができます。
-正式な入学試験の情報については、以下のページをご覧ください。
-入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
-事前にご連絡いただく必要はありませんが、可能であれば事前にご連絡ください。 研究の内容や研究の進め方などについて相談したいと思います。 メールなどでご連絡いただけましたら、面談の機会を作りたいと思います。 また、兵庫県立大学応用情報科学研究科では、毎年2回（8月、12月）、オープンキャンパスを行っていますので、そちらに来ていただくのもよいと思います。 研究科全体の様子を知っていただくことができます。 オープンキャンパスの情報については、以下のページをご覧ください。
-オープンキャンパス情報： https://www.ai.u-hyogo.ac.jp/entrance/open.html
-博士後期課程への入学を希望する方へ 博士後期課程への入学を希望する方は、出願前に必ずご連絡ください。 事前に、研究の内容や研究の進め方などについて相談したいと思います。 十分な話し合いの後に、入学試験に合格すれば、大島研究室に参加することができます。 応用情報科学研究科では、例年3回（8月、1月、3月）、博士後期課程の入試を行っています。 4月に入学を希望される方は、いずれの入試を受けていただいてもかまいません。 10月に入学を希望される方は、8月の入試を受けていただく必要があります。
-正式な入学試験の情報については、以下のページをご覧ください。
-入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
-研究生としての参加を希望する方へ まずは、博士前期課程か博士後期課程への入学をご検討ください。
-入試に関する連絡先 大島裕明： ohshima@ai.u-hyogo.ac.jp</description>
+      <description>&lt;h2 id=&#34;学生募集概要&#34;&gt;学生募集概要&lt;/h2&gt;
+&lt;!-- 大島研究室の正式な所属は以下の通りです。 --&gt;
+&lt;!-- 兵庫県立大学大学院応用情報科学研究科 &lt;br /&gt;
+応用情報科学専攻 &lt;br /&gt;
+高信頼情報科学コース --&gt;
+&lt;p&gt;大島研究室では、博士前期課程学生と博士後期課程学生を募集しています。
+正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;博士前期課程への入学を希望する方へ&#34;&gt;博士前期課程への入学を希望する方へ&lt;/h2&gt;
+&lt;p&gt;博士前期課程への入学を希望する方は、入学試験を受験していただく必要があります。
+情報科学研究科では、9 月、12 月に博士前期課程の入試を行っています。
+そのいずれかを受験していただいて、それに合格することで、入学することができます。出願時に大島研究室に配属を希望することで、大島研究室に参加することができます。&lt;/p&gt;
+&lt;p&gt;正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;事前にご連絡いただく必要はありませんが、可能であれば事前にご連絡ください。
+研究の内容や研究の進め方などについて相談したいと思います。
+メールなどでご連絡いただけましたら、面談の機会を作りたいと思います。
+また、兵庫県立大学情報科学研究科では、毎年 2 回程度、オープンキャンパスなどを行っていますので、そちらに来ていただくのもよいと思います。
+研究科全体の様子を知っていただくことができます。
+オープンキャンパスの情報については、以下のページをご覧ください。&lt;/p&gt;
+&lt;p&gt;情報科学研究科： &lt;a href=&#34;http://u-hyogo.info/&#34;&gt;http://u-hyogo.info/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;博士後期課程への入学を希望する方へ&#34;&gt;博士後期課程への入学を希望する方へ&lt;/h2&gt;
+&lt;p&gt;博士後期課程への入学を希望する方は、出願前に必ずご連絡ください。
+事前に、研究の内容や研究の進め方などについて相談したいと思います。
+十分な話し合いの後に、入学試験に合格すれば、大島研究室に参加することができます。
+情報科学研究科では、9 月、12 月に博士後期課程の入試を行っています。&lt;/p&gt;
+&lt;!-- 4 月に入学を希望される方は、いずれの入試を受けていただいてもかまいません。
+10 月に入学を希望される方は、8 月の入試を受けていただく必要があります。 --&gt;
+&lt;p&gt;正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;研究生としての参加を希望する方へ&#34;&gt;研究生としての参加を希望する方へ&lt;/h2&gt;
+&lt;p&gt;まずは、博士前期課程か博士後期課程への入学をご検討ください。&lt;/p&gt;
+&lt;h2 id=&#34;入試に関する連絡先&#34;&gt;入試に関する連絡先&lt;/h2&gt;
+&lt;p&gt;大島裕明： &lt;a href=&#34;mailto:ohshima@ai.u-hyogo.ac.jp&#34;&gt;ohshima@ai.u-hyogo.ac.jp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>教員</title>
+      <link>https://ohshimalab.github.io/faculty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ohshimalab.github.io/faculty/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>研究の内容について</title>
       <link>https://ohshimalab.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ohshimalab.github.io/about/</guid>
-      <description>「社会」と「情報」の研究 大島研究室では、社会において人が情報を取得して意思決定を行い、豊かに生活することを支える技術を研究しています。情報検索、データマイニング、情報デザインといった研究分野を基軸としつつ、データベース、機械学習、自然言語処理といった情報学の様々な分野の知見を活用し、さらには、心理学、社会学、経営学なども視野に入れて研究を行っています。
-現在、社会は大きな変革の渦の中にあります。社会の変革と同時に、情報の概念や技術の概念が従来からの解釈ではとらえきれなくなっています。福沢諭吉は「民情一新」において、社会と技術と情報の三者が連鎖的に変革を起こすことで、社会変革が起こると指摘しました。この指摘は産業革命において行われたものですが、その後の情報革命においても同様の指摘がなされています。すなわち、社会が変わるということは、同時に技術が変わること、そして、情報が変わることであるということです。現代社会はインターネットが実世界を反映する社会であり、現在の若者はデジタルネイティブです。新しい情報は現在の若者が創っていくものであり、それを支える技術を研究することで、新しい社会を切り開いていきたいと考えています。
-Web検索と知識発見の研究 あらゆる情報が交換されるWebにおいて、情報獲得を行う基盤技術である情報検索について研究を行っています。特に、多くのWebユーザが発信する情報や振る舞いから知識を発見して応用することで、これまでできなかった検索を実現することに取り組みます。
-社会情報デザインの研究 Webは社会の活動を広く反映する存在となっています。一方で、Webをそのまま信頼して利用することが難しい状況でもあります。人々がWebを信頼して利用できるようになることを目標として、大規模な情報を分析・構造化し、人に必要とされる新たな情報を生み出す手法について研究を行います。
-新しいものづくり情報管理の研究 デジタルファブリケーション（3Dプリンタやレーザーカッターを用いたものづくり）やフィジカルコンピューティングは、新しいものづくりのあり方をもたらしています。新しいものづくりを支援するために、たとえば、どうやって作るかといった情報を交換する仕組みの研究などを行います。</description>
-    </item>
-    
-    <item>
-      <title>研究プロジェクト</title>
-      <link>https://ohshimalab.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/projects/</guid>
-      <description>Under Construction </description>
+      <description>&lt;h2 id=&#34;社会と情報の研究&#34;&gt;「社会」と「情報」の研究&lt;/h2&gt;
+&lt;p&gt;大島研究室では、社会において人が情報を取得して意思決定を行い、豊かに生活することを支える技術を研究しています。&lt;code&gt;情報検索&lt;/code&gt;、&lt;code&gt;データマイニング&lt;/code&gt;、&lt;code&gt;情報デザイン&lt;/code&gt;といった研究分野を基軸としつつ、&lt;code&gt;データベース&lt;/code&gt;、&lt;code&gt;機械学習&lt;/code&gt;、&lt;code&gt;自然言語処理&lt;/code&gt;といった情報学の様々な分野の知見を活用し、さらには、&lt;code&gt;心理学&lt;/code&gt;、&lt;code&gt;社会学&lt;/code&gt;、&lt;code&gt;経営学&lt;/code&gt;なども視野に入れて研究を行っています。&lt;/p&gt;
+&lt;p&gt;現在、社会は大きな変革の渦の中にあります。社会の変革と同時に、情報の概念や技術の概念が従来からの解釈ではとらえきれなくなっています。福沢諭吉は「民情一新」において、社会と技術と情報の三者が連鎖的に変革を起こすことで、社会変革が起こると指摘しました。この指摘は産業革命において行われたものですが、その後の情報革命においても同様の指摘がなされています。すなわち、社会が変わるということは、同時に技術が変わること、そして、情報が変わることであるということです。現代社会はインターネットが実世界を反映する社会であり、現在の若者はデジタルネイティブです。新しい情報は現在の若者が創っていくものであり、それを支える技術を研究することで、新しい社会を切り開いていきたいと考えています。&lt;/p&gt;
+&lt;h3 id=&#34;web-検索と知識発見の研究&#34;&gt;Web 検索と知識発見の研究&lt;/h3&gt;
+&lt;p&gt;あらゆる情報が交換される Web において、情報獲得を行う基盤技術である情報検索について研究を行っています。特に、多くの Web ユーザが発信する情報や振る舞いから知識を発見して応用することで、これまでできなかった検索を実現することに取り組みます。&lt;/p&gt;
+&lt;h3 id=&#34;社会情報デザインの研究&#34;&gt;社会情報デザインの研究&lt;/h3&gt;
+&lt;p&gt;Web は社会の活動を広く反映する存在となっています。一方で、Web をそのまま信頼して利用することが難しい状況でもあります。人々が Web を信頼して利用できるようになることを目標として、大規模な情報を分析・構造化し、人に必要とされる新たな情報を生み出す手法について研究を行います。&lt;/p&gt;
+&lt;h3 id=&#34;新しいものづくり情報管理の研究&#34;&gt;新しいものづくり情報管理の研究&lt;/h3&gt;
+&lt;p&gt;デジタルファブリケーション（3D プリンタやレーザーカッターを用いたものづくり）やフィジカルコンピューティングは、新しいものづくりのあり方をもたらしています。新しいものづくりを支援するために、たとえば、どうやって作るかといった情報を交換する仕組みの研究などを行います。&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>研究室メンバー</title>
       <link>https://ohshimalab.github.io/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ohshimalab.github.io/members/</guid>
-      <description>教員     名前     准教授 大島 裕明 （Hiroaki OHSHIMA）    学生    学年 名前     D3 高橋 克郎 （Katsurou TAKAHASHI）   D3 田中 謙次 （Kenji TANAKA）   M2 中田 祐誠 （Yusei NAKATA）   M2 橋口 友哉 （Tomoya HASHIGUCHI）   M2 崔 洙瑚 （Suho CHOI）   M2 顧 席銘 （Ximing GU）   M2 ファム フーロン （HuuLong Pham）   M1 三林　亮太 （Ryota MIBAYASHI）   M1 松本　直彰 （Naoaki MATSUMOTO）   M1 劉　建男 （Jiannan LIU）   M1 吉村　拓真 （Takuma YOSHIMURA）   M1 上田　昌輝 （Masaki UETA）   M1 吉岡　朋友 （Tomo Yoshioka）   M1 濵島　聡一郎 （Hamajima Soichiro）   M1 川原　敬史 （Takafumi KAWAHARA）   M1 坂根 和光 （Wakou SAKANE）    社会人学生    学年 名前     D3 竹本 勉 （Tsutomu TAKEMOTO）   D2 森川 優 （Yu MORIKAWA）   M3 福島 航平 （Kohei FUKUSHIMA）   M3 山本 雄大 （Takehiro YAMAMOTO）    修了生    修了年 名前     2019 白髪 宙海 （Hiromi SHIRAGA)   2020 牧田 真朋 （Maho MAKITA）   2020 西村 和貴 （Kazuki NISHIMURA）   2020 マハルジャン ラビン （Rabin MAHARJAN）   2020 堂本 凌祐 （Ryosuke DOMOTO）   2020 村本 直樹 （Naoki MURAMOTO）   2020 楊 澤華 （Zehua YANG）   2020 吉井 健紘 （Takehiro YOSHII）    </description>
+      <description>&lt;h2 id=&#34;教員&#34;&gt;教員&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;名前&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;准教授&lt;/td&gt;
+&lt;td&gt;大島 裕明 （Hiroaki OHSHIMA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;学生&#34;&gt;学生&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;学年&lt;/th&gt;
+&lt;th&gt;名前&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;D3&lt;/td&gt;
+&lt;td&gt;高橋 克郎 （Katsurou TAKAHASHI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;D3&lt;/td&gt;
+&lt;td&gt;田中 謙次 （Kenji TANAKA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M2&lt;/td&gt;
+&lt;td&gt;中田 祐誠 （Yusei NAKATA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M2&lt;/td&gt;
+&lt;td&gt;橋口 友哉 （Tomoya HASHIGUCHI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M2&lt;/td&gt;
+&lt;td&gt;崔 洙瑚 （Suho CHOI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M2&lt;/td&gt;
+&lt;td&gt;顧 席銘 （Ximing GU）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M2&lt;/td&gt;
+&lt;td&gt;ファム フーロン （HuuLong Pham）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;三林　亮太 （Ryota MIBAYASHI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;松本　直彰 （Naoaki MATSUMOTO）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;劉　建男 （Jiannan LIU）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;吉村　拓真 （Takuma YOSHIMURA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;上田　昌輝 （Masaki UETA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;吉岡　朋友 （Tomo Yoshioka）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;濵島　聡一郎 （Hamajima Soichiro）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;川原　敬史 （Takafumi KAWAHARA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;坂根 和光 （Wakou SAKANE）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;社会人学生&#34;&gt;社会人学生&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;学年&lt;/th&gt;
+&lt;th&gt;名前&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;D3&lt;/td&gt;
+&lt;td&gt;竹本 勉 （Tsutomu TAKEMOTO）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;D2&lt;/td&gt;
+&lt;td&gt;森川 優 （Yu MORIKAWA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3&lt;/td&gt;
+&lt;td&gt;福島 航平 （Kohei FUKUSHIMA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3&lt;/td&gt;
+&lt;td&gt;山本 雄大 （Takehiro YAMAMOTO）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;修了生&#34;&gt;修了生&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;修了年&lt;/th&gt;
+&lt;th&gt;名前&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2019&lt;/td&gt;
+&lt;td&gt;白髪 宙海 （Hiromi SHIRAGA)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2020&lt;/td&gt;
+&lt;td&gt;牧田 真朋 （Maho MAKITA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2020&lt;/td&gt;
+&lt;td&gt;西村 和貴 （Kazuki NISHIMURA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2020&lt;/td&gt;
+&lt;td&gt;マハルジャン ラビン （Rabin MAHARJAN）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2020&lt;/td&gt;
+&lt;td&gt;堂本 凌祐 （Ryosuke DOMOTO）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2020&lt;/td&gt;
+&lt;td&gt;村本 直樹 （Naoki MURAMOTO）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2020&lt;/td&gt;
+&lt;td&gt;楊 澤華 （Zehua YANG）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2020&lt;/td&gt;
+&lt;td&gt;吉井 健紘 （Takehiro YOSHII）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
     </item>
     
     <item>
       <title>研究成果</title>
-      <link>https://ohshimalab.github.io/researches/</link>
+      <link>https://ohshimalab.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohshimalab.github.io/researches/</guid>
-      <description>学術論文（査読あり）  片岡 大祐，加藤 誠，山本 岳洋，大島 裕明，田中 克己：「SNSグラフデータにおける文脈を考慮した適合フィードバック検索」, 日本データベース学会和文論文誌, Vol.16-J, Article No.21, 2018年3月.（採録決定） 武田 裕介, 大島 裕明, 田中 克己：「同一閲覧・検索意図に合致するWebページ群の発見と再訪問ページ推薦」, 日本データベース学会和文論文誌, Vol.15-J, Article No.13, 2017年3月. Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Paraphrasing Sentential Queries by Incorporating Coordinate Relationship&amp;rdquo;, Journal of Information Processing, Vol.24, No.4, pp.721-731, January 2016. 佃 洸摂, 大島 裕明, 山本 光穂, 岩崎 弘利, 田中 克己：「語の認知度と語間の関係の非典型度に基づくWikipediaからの意外な情報の発見」, 情報処理学会論文誌：データベース, Vol.7, No.1, TOD 61, pp.1-17, 2014年3月. 佃 洸摂, 大島 裕明, 加藤 誠, 田中 克己：「属性値の同一性・相補性に着目したオブジェクト集合検索手法の提案とその観光地データへの適用」, 情報処理学会論文誌：データベース, Vol.</description>
+      <guid>https://ohshimalab.github.io/publications/</guid>
+      <description>&lt;h2 id=&#34;学術論文査読あり&#34;&gt;学術論文（査読あり）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;片岡 大祐，加藤 誠，山本 岳洋，大島 裕明，田中 克己：「SNS グラフデータにおける文脈を考慮した適合フィードバック検索」, 日本データベース学会和文論文誌, Vol.16-J, Article No.21, 2018 年 3 月.（採録決定）&lt;/li&gt;
+&lt;li&gt;武田 裕介, 大島 裕明, 田中 克己：「同一閲覧・検索意図に合致する Web ページ群の発見と再訪問ページ推薦」, 日本データベース学会和文論文誌, Vol.15-J, Article No.13, 2017 年 3 月.&lt;/li&gt;
+&lt;li&gt;Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Paraphrasing Sentential Queries by Incorporating Coordinate Relationship&amp;rdquo;, Journal of Information Processing, Vol.24, No.4, pp.721-731, January 2016.&lt;/li&gt;
+&lt;li&gt;佃 洸摂, 大島 裕明, 山本 光穂, 岩崎 弘利, 田中 克己：「語の認知度と語間の関係の非典型度に基づく Wikipedia からの意外な情報の発見」, 情報処理学会論文誌：データベース, Vol.7, No.1, TOD 61, pp.1-17, 2014 年 3 月.&lt;/li&gt;
+&lt;li&gt;佃 洸摂, 大島 裕明, 加藤 誠, 田中 克己：「属性値の同一性・相補性に着目したオブジェクト集合検索手法の提案とその観光地データへの適用」, 情報処理学会論文誌：データベース, Vol.6, No.5, TOD 60, pp.49-61, 2013 年 12 月.&lt;/li&gt;
+&lt;li&gt;佃 洸摂, 大島 裕明, 山本 光穂, 岩崎 弘利, 田中 克己:「語の認知度と同意語間の関係に基づく意外な情報の発見」, 日本データベース学会論文誌 DBSJ Journal, Vol.11, No.3, pp.21-26, 2013 年 2 月.&lt;/li&gt;
+&lt;li&gt;加藤 誠, 大島 裕明, 田中 克己:「例示検索のための集約点に基づくドメイン適応」, 日本データベース学会論文誌 DBSJ Journal, Vol.11, No.1, pp.49-54, 2012 年 6 月.&lt;/li&gt;
+&lt;li&gt;高橋 侑久, 大島 裕明, 山本 光穂, 岩崎 弘利, 小山 聡, 田中 克己:「Wikipedia リンク構造を用いた歴史エンティティの重要度計算」, 日本データベース学会論文誌 DBSJ Journal, Vol.10, No.1, pp.25-30, 2011 年 6 月.&lt;/li&gt;
+&lt;li&gt;杉山 祐樹, 加藤 誠, 大島 裕明, 田中 克己:「レシピデータ検索におけるクロスメディア適合性フィードバック」, 日本データベース学会論文誌 DBSJ Journal, Vol.10, No.1, pp.19-24, 2011 年 6 月.&lt;/li&gt;
+&lt;li&gt;高橋 侑久, 大島 裕明, 山本 光穂, 岩崎 弘利, 小山 聡, 田中 克己:「インパクトを考慮した歴史エンティティの重要度計算手法」, 情報処理学会論文誌, Vol.52, No.12, pp.3542-3557, 2011 年 12 月.&lt;/li&gt;
+&lt;li&gt;川野 悠, 大島 裕明, 田中 克己: 「アノテーション付き画像データベース検索におけるファセットの動的生成手法」, 情報処理学会論文誌, Vol.52, No.12, pp.3483-3495, 2011 年 12 月.&lt;/li&gt;
+&lt;li&gt;加藤 誠, 大島 裕明, 小山 聡, 田中 克己: 「地域コンテキストを考慮した動的な特徴空間に基づく地理情報例示検索」, 情報処理学会論文誌, Vol.52, No.12, pp.3448-3460, 2011 年 12 月.&lt;/li&gt;
+&lt;li&gt;高橋 良平, 小山 聡, 大島 裕明, 田中 克己:「投稿型レシピサイトにおけるレシピ名の修飾表現の適合性判定手法」, 電子情報通信学会論文誌, Vol.J94-A, No.7, pp.467-475, 2011 年 7 月.&lt;/li&gt;
+&lt;li&gt;高橋 良平, 小山 聡, 大島 裕明, 田中 克己:「Web テキストと修飾表現との適合度判定手法」日本データベース学会論文誌 DBSJ Journal, Vol.9, No.1, pp.41-46, 2010 年 6 月.&lt;/li&gt;
+&lt;li&gt;Katsumi Tanaka, Satoshi Nakamura, Hiroaki Ohshima, Yusuke Yamamoto, Yusuke Yanbe, and Makoto Kato: &amp;ldquo;Improving Search and Information Credibility Analysis from Interaction between Web1.0 and Web2.0 Content&amp;rdquo;, Journal of Software, Vol.5, No.2, pp.154-159, February 2010.&lt;/li&gt;
+&lt;li&gt;Hiroaki Ohshima and Katsumi Tanaka: &amp;ldquo;High-speed Detection of Ontological Knowledge and Bi-directional Lexico-Syntactic Patterns from the Web&amp;rdquo;, Journal of Software, Vol.5, No.2, pp.195-205, February 2010.&lt;/li&gt;
+&lt;li&gt;加藤 誠, 大島 裕明, 小山 聡, 田中 克己:「関係の類似性に基づく Web からのオブジェクト名検索」, 情報処理学会論文誌：データベース, Vol.2, No.2, TOD 42, pp.110-125, 2009 年 6 月.&lt;/li&gt;
+&lt;li&gt;加藤 誠, 大島 裕明, 小山 聡, 田中 克己:「共起に基づく Web からの類似関係のブートストラップ抽出」, 日本データベース学会論文誌 DBSJ Journal, Vol.8, No.1, pp.11-16, 2009 年 6 月.&lt;/li&gt;
+&lt;li&gt;大島 裕明, 田中 克己:「両方向構文パターンを用いた Web 検索エンジンからの高速関連語発見手法」, 日本データベース学会論文誌 DBSJ Journal, Vol.7, No.3, pp.1-6, 2008 年 12 月.&lt;/li&gt;
+&lt;li&gt;稲川 雅之, 大島 裕明, 小山 聡, 田中 克己:「Web からの語集合間の特定関係の抽出とその可視化」, 日本データベース学会論文誌 DBSJ Journal, Vol.7, No.1, pp.175-180, 2008 年 6 月.&lt;/li&gt;
+&lt;li&gt;金子 恭史, 中村 聡史, 大島 裕明, 田中 克己:「緩和度付き検索語の意味関連分析による検索意図推定とそのクエリ入力インタフェース」, 日本データベース学会論文誌 DBSJ Journal, Vol.7, No.1, pp.181-186, 2008 年 6 月.&lt;/li&gt;
+&lt;li&gt;大島 裕明, 小山 聡, 田中 克己:「Web 集約質問処理のための検索エンジンの関係データベースインタフェース」, 情報処理学会論文誌（トランザクション）データベース, Vol.48, No.SIG20, TOD 36, pp.50-60, 2007 年 12 月.&lt;/li&gt;
+&lt;li&gt;大島 裕明, 小山 聡, 田中 克己:「EaRDB: Web 集約質問処理のためのプラットフォーム」,日本データベース学会論文誌 DBSJ Letters, Vol.6, No.2, pp.53-56, 2007 年 9 月.&lt;/li&gt;
+&lt;li&gt;服部 峻, 大島 裕明, 小山 聡, 田中 克己:「継承関係と同位関係に基づく概念階層の Web からの抽出」, 日本データベース学会論文誌 DBSJ Letters, Vol.6, No.2, pp.9-12, 2007 年 9 月.&lt;/li&gt;
+&lt;li&gt;大島 裕明, 中村 聡史, 田中 克己:「SlothLib: Web サーチ研究のためのプログラミングライブラリ」, 日本データベース学会論文誌 DBSJ Letters, Vol.6, No.1, pp.113-116, 2007 年 6 月.&lt;/li&gt;
+&lt;li&gt;大島 裕明, 山口 雅史, 小山 聡, 田中 克己:「Web 検索とクエリログを併用した同位語発見手法」, 日本データベース学会論文誌 DBSJ Letters, Vol.5, No.4, pp.37-40, 2007 年 3 月.&lt;/li&gt;
+&lt;li&gt;大島 裕明, 小山 聡, 田中 克己:「文書群を問合せとした兄弟カテゴリー文書の検索」, 電子情報通信学会論文誌 D, Vol.J90-D, No.2, pp.196-208, 2007 年 2 月.&lt;/li&gt;
+&lt;li&gt;大島 裕明, 小山 聡, 田中 克己:「Web 検索エンジンのインデックスを用いた同位語とそのコンテキストの発見」, 情報処理学会論文誌（トランザクション）データベース, Vol.47, No.SIG19, TOD 32, pp.98-112, 2006 年 12 月.&lt;/li&gt;
+&lt;li&gt;野田 武史, 大島 裕明, 小山 聡, 田島 敬史, 田中 克己:「主題語からの話題語自動抽出とこれに基づく Web 情報検索」日本データベース学会論文誌 DBSJ Letters, Vol.5, No.2, pp.69-72, 2006 年 9 月.&lt;/li&gt;
+&lt;li&gt;山口 雅史, 大島 裕明, 小山 聡, 田中 克己:「サーチエンジンのクエリログを利用した同位語の発見」,日本データベース学会論文誌 DBSJ Letters, Vol.5, No.2, pp.17-20, 2006 年 9 月.&lt;/li&gt;
+&lt;li&gt;大島 裕明, 小山 聡, 田中 克己:「文書群をクエリとした&amp;quot;似て非なる&amp;quot;文書の検索」, 日本データベース学会論文誌 DBSJ Letters, Vol.5, No.1, pp.121-124, 2006 年 6 月.&lt;/li&gt;
+&lt;li&gt;大島 裕明, 小山 聡, 田中 克己:「個人文書から抽出した語彙の意味関係に基づく Web 情報検索」, 日本データベース学会論文誌 DBSJ Letters, Vol.4, No.2, pp.17-20, 2005 年 9 月.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;国際会議録査読あり&#34;&gt;国際会議録（査読あり）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Yusuke Yamamoto, Takehiro Yamamoto, Hiroaki Ohshima, Hiroshi Kawakami: &amp;ldquo;Web Access Literacy Scale to Evaluate How Critically Users Can Browse and Search for Web Information&amp;rdquo;, The 10th ACM Conference on Web Science (WebSci 2018), pp.97-106, May 2018.&lt;/li&gt;
+&lt;li&gt;Shinryo Uchida, Takehiro Yamamoto, Makoto P. Kato, Hiroaki Ohshima, Katsumi Tanaka: &amp;ldquo;Entity Ranking by Learning and Inferring Pairwise Preferences from User Reviews&amp;rdquo;, The 2017 Asia Information Retrieval Societies Conference (AIRS 2017), pp.141-153, November 2017.&lt;/li&gt;
+&lt;li&gt;Daisuke Kataoka, Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, Katsumi Tanaka: &amp;ldquo;Context-aware relevance feedback over SNS graph data&amp;rdquo;, 2017 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2017), pp.823-830, August 2017.&lt;/li&gt;
+&lt;li&gt;Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Finding &amp;ldquo;Similar but Different&amp;rdquo; Documents Based on Coordinate Relationship&amp;rdquo;, Proceedings of the 18th International Conference on Asia-Pacific Digital Libraries (ICADL 2016), pp.110-123, December 2016.&lt;/li&gt;
+&lt;li&gt;Yusuke Takeda, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Web Page Revisiting by Coordinate Page Discovery&amp;rdquo;, Proceedings of the 17th International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2015), December 2015.&lt;/li&gt;
+&lt;li&gt;Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Sentential Query Rewriting via Mutual Reinforcement of Paraphrase-Coordinate Relationships&amp;rdquo;, Proceedings of the 17th International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2015), December 2015.&lt;/li&gt;
+&lt;li&gt;Yoshinori Kitaguchi, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Formulation for Action Search by Bootstrapping&amp;rdquo;, Proceedings of the 16th International Conference on Asia-Pacific Digital Libraries (ICADL 2014), pp.417-422, November 2014.&lt;/li&gt;
+&lt;li&gt;Christian Nitschke, Yuki Minami, Masayuki Hiromoto, Hiroaki Ohshima, Takashi Sato: &amp;ldquo;A Quadrocopter Automatic Control Contest as an Example of Interdisciplinary Design Education&amp;rdquo;, Proceedings of the 14th International Conference on Control, Automation and Systems (ICCAS 2014), pp.678-685, October 2014.&lt;/li&gt;
+&lt;li&gt;Kosetsu Tsukuda, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Ranking of Coordinate Terms and Hypernyms Using a Hypernym-Hyponym Dictionary&amp;rdquo;, Proceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT), pp.15-21, August 2014.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Investigating users&#39; query formulations for cognitive search intents&amp;rdquo;, Proceedings of the 37th Annual SIGIR Conference (SIGIR 2014), pp.577-586, July 2014.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Cognitive Search Intents Hidden behind Queries: a User Study on Query Formulations&amp;rdquo;, Proceedings of the 23rd International Conference on World Wide Web Companion (WWW 2014), pp.313-314, April 2014.&lt;/li&gt;
+&lt;li&gt;Kosetsu Tsukuda, Hiroaki Ohshima, Mitsuo Yamamoto, Hirotoshi Iwasaki, and Katsumi Tanaka: &amp;ldquo;Discovering Unexpected Information on the basis of Popularity/Unpopularity Analysis of Coordinate Objects and their Relationships&amp;rdquo;, Proceedings of the 28th Annual ACM Symposium on Applied Computing (SAC 2013), pp.878-885, March 2013.&lt;/li&gt;
+&lt;li&gt;Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Panoramic Image Search by Similarity and Adjacency for Similar Landscape Discovery&amp;rdquo;, Proceedings of the 13th International Conference on Web Information Systems Engineering (WISE 2012), LNCS 7651, pp.284-297, November 2012.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Content-based retrieval for heterogeneous domains: domain adaptation by relative aggregation points&amp;rdquo;, Proceedings of the 35th Annual SIGIR Conference (SIGIR 2012), pp.811-820, August 2012.&lt;/li&gt;
+&lt;li&gt;Yoshinori Hara, Yutaka Yamauchi, Yoshinori Yamakawa, Junya Fujisawa, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;How Japanese Traditional &amp;ldquo;Omonpakari&amp;rdquo; Services are Delivered - A Multidisciplinary Approach&amp;rdquo;, Proceedings of the 2012 Annual SRII Global Conference (SRII 2012), pp.906-913, July 2012.&lt;/li&gt;
+&lt;li&gt;Yuki Sugiyama, Makoto P. Kato, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Relative Relevance Feedback in Image Retrieval&amp;rdquo;, Proceedings of the IEEE International Conference on Multimedia and Expo (ICME 2012), pp.272-277, July 2012.&lt;/li&gt;
+&lt;li&gt;Yu Kawano, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;On-the-fly Generation of Facets as Navigation Signs for Web Objects&amp;rdquo;, Proceedings of the 17th International Conference on Database Systems for Advanced Applications (DASFAA 2012), LNCS 7238, pp.382-396, April 2012.&lt;/li&gt;
+&lt;li&gt;Yuku Takahashi, Hiroaki Ohshima, Mitsuo Yamamoto, Hirotoshi Iwasaki, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Evaluating significance of historical entities based on tempo-spatial impacts analysis using Wikipedia link structure&amp;rdquo;, Proceedings of the 22nd ACM Conference on Hyptertext and Hypermedia (HT 2011), pp.83-92, June 2011.&lt;/li&gt;
+&lt;li&gt;Mitsuo Yamamoto, Yuku Takahashi, Hirotoshi Iwasaki, Satoshi Oyama, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Extraction and Geographical Navigation of Important Historical Events in the Web&amp;rdquo;, Proceedings of the 10th International Symposium on Web and Wireless Geographical Information Systems (W2GIS 2011), LNCS 6574, pp.21-35, March 2011.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Search as if you were in your home town: geographic search by regional context and dynamic feature-space selection&amp;rdquo;, Proceedings of the 19th ACM Conference on Information and Knowledge Management (CIKM 2010), pp.1541-1544, October 2010.&lt;/li&gt;
+&lt;li&gt;Natsuki Takata, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Searching the Web for Alternative Answers to Questions on WebQA Sites&amp;rdquo;, Proceedings of the 11th International Conference on Web-Age Information Management (WAIM 2010), LNCS 6184, pp.441-452, July 2010.&lt;/li&gt;
+&lt;li&gt;Ryohei Takahashi, Satoshi Oyama, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Evaluating Truthfulness of Modifiers Attached to Web Entity Names&amp;rdquo;, Proceedings of the 11th International Conference on Web-Age Information Management (WAIM 2010), LNCS 6184, pp.429-440, July 2010.&lt;/li&gt;
+&lt;li&gt;Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Cloud as Virtual Databases: Bridging Private Databases and Web Services&amp;rdquo;, Proceedings of the 15th International Conference on Database Systems for Advanced Applications (DASFAA 2010), Part I, LNCS 5981, pp.491-497, April 2010.&lt;/li&gt;
+&lt;li&gt;Katsumi Tanaka, Hiroaki Ohshima, Adam Jatowt, Satoshi Nakamura, Yusuke Yamamoto, Kazutoshi Sumiya, Ryong Lee, Daisuke Kitayama, Takayuki Yumoto, Yukiko Kawai, Jianwei Zhang, Shinsuke Nakajima, and Yoichi Inagaki: &amp;ldquo;Evaluating Credibility of Web Information&amp;rdquo;, Proceedings of the 4th International Conference on Ubiquitous Information Management and Communication (ICUIMC 2010), pp.147-156, January 2010.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Satoshi Oyama, Hiroaki Ohshima, Katsumi Tanaka: &amp;ldquo;Query by Example for Geographic Entity Search with Implicit Negative Feedback&amp;rdquo;, Proceedings of the 4th International Conference on Ubiquitous Information Management and Communication (ICUIMC 2010), pp.311-320, January 2010.&lt;/li&gt;
+&lt;li&gt;Hiroaki Ohshima, Satoshi Oyama, Hiroyuki Kondo, and Katsumi Tanaka: &amp;ldquo;Web Information Credibility Analysis by Geographical Social Support&amp;rdquo;, Proceedings of the 3rd International Universal Communication Symposium (IUCS 2009), pp.193-196, December 2009.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Query By Analogical Example: Relational Search Using Web Search Engine Indices&amp;rdquo;, Proceedings of the 18th ACM Conference on Information and Knowledge Management (CIKM 2009), pp.27-36, November 2009.&lt;/li&gt;
+&lt;li&gt;Hiroaki Ohshima, Adam Jatowt, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Seeing Past Rivals: Visualizing Evolution of Coordinate Terms over Time&amp;rdquo;, Proceedings of the 10th International Conference on Web Information Systems Engineering (WISE 2009), LNCS 5802, pp.167-180, October 2009.&lt;/li&gt;
+&lt;li&gt;Hiroaki Ohshima, Adam Jatowt, Satoshi Oyama, Satoshi Nakamura, and Katsumi Tanaka: &amp;ldquo;Towards Improving Web Search: A Large-Scale Exploratory Study of Selected Aspects of User Search Behavior&amp;rdquo;, Proceedings of the 10th International Conference on Web Information Systems Engineering (WISE 2009), LNCS 5802, pp.379-386, October 2009.&lt;/li&gt;
+&lt;li&gt;Makoto Nakatani, Adam Jatowt, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Quality Evaluation of Search Results by Typicality and Speciality of Terms Extracted from Wikipedia&amp;rdquo;, Proceedings of the 14th International Conference on Database Systems for Advanced Applications (DASFAA 2009), LNCS 5463, pp.570-584, April 2009.&lt;/li&gt;
+&lt;li&gt;Takuya Kobayashi, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Modeling and Analyzing Review Information on the Web Focusing on Credibility&amp;rdquo;, Proceedings of the 2009 ACM Symposium on Applied Computing (SAC 2009), pp.1316-1317, March 2009.&lt;/li&gt;
+&lt;li&gt;Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Real Time Extraction of Related Terms by Bi-directional Lexico-syntactic Patterns from the Web&amp;rdquo;, Proceedings of the 3rd International Conference on Ubiquitous Information Management and Communication (ICUIMC 2009), pp.441-449, January 2009.&lt;/li&gt;
+&lt;li&gt;Masashi Yamaguchi, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Unsupervised Discovery of Coordinate Terms for Multiple Aspects from Search Engine Query Logs&amp;rdquo;, Proceedings of the 2008 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2008), pp.249-257, December 2008.&lt;/li&gt;
+&lt;li&gt;Yasufumi Kaneko, Satoshi Nakamura, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Relaxation Based on Users&#39; Unconfidences on Query Terms and Web Knowledge Extraction&amp;rdquo;, Proceedings of the 11th International Conference on Asia-Pacific Digital Libraries (ICADL 2008), LNCS 5362, pp.71-81, December 2008.&lt;/li&gt;
+&lt;li&gt;Makoto Kato, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Can Social Tagging Improve Web Image Search?&amp;rdquo;, Proceedings of the 9th International Conference on Web Information Systems Engineering (WISE 2008), LNCS 5175, pp.235-249, September 2008. (Best Paper Award)&lt;/li&gt;
+&lt;li&gt;Adam Jatowt, Yukiko Kawai, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;What can history tell us?: towards different models of interaction with document histories&amp;rdquo;, Proceedings of the 19th ACM Conference on Hypertext and Hypermedia (Hypertext 2008), pp.5-14, June 2008.&lt;/li&gt;
+&lt;li&gt;Shun Hattori, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Mining the Web for Hyponymy Relations based on Property Inheritance&amp;rdquo;, Proceedings of the 10th Asia-Pacific Web Conference (APWeb 2008), LNCS 4976, pp.99-110, April 2008.&lt;/li&gt;
+&lt;li&gt;Yuhei Akahoshi, Hiroaki Ohshima, Yutaka Kidawara, and Katsumi Tanaka: &amp;ldquo;A Platform for Utilizing Information Across the Web and the Real World&amp;rdquo;, Proceedings of the International Conference on Informatics Education and Research for Knowledge-Circulating Society (ICKS 2008), pp.181-184, 2008.&lt;/li&gt;
+&lt;li&gt;Satoshi Nakamura, Shinji Konishi, Adam Jatowt, Hiroaki Ohshima, Hiroyuki Kondo, Taro Tezuka, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Trustworthiness Analysis of Web Search Results&amp;rdquo;, Proceedings of the 11th European Conference on Research and Advanced Technology for Digital Libraries (ECDL 2007), LNCS 4675, pp.38-49, September 2007.&lt;/li&gt;
+&lt;li&gt;Shun Hattori, Taro Tezuka, Hiroaki Ohshima, Satoshi Oyama, Junpei Kawamoto, Keishi Tajima, and Katsumi Tanaka: &amp;ldquo;ReCQ: Real-world Context-aware Querying&amp;rdquo;, Proceedings of the 6th International and Interdisciplinary Conference on Modeling and Using Context (CONTEXT 2007), LNAI 4635, pp.248-262, August 2007.&lt;/li&gt;
+&lt;li&gt;Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Sibling Page Search by Page Examples&amp;rdquo;, Proceedings of the 9th International Conference on Asian Digital Libraries (ICADL 2006), LNCS 4312, pp.91-100, November 2006.&lt;/li&gt;
+&lt;li&gt;Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Searching Coordinate Terms with their Context from the Web&amp;rdquo;, Proceedings of the 7th International Conference on Web Information Systems Engineering (WISE 2006), LNCS 4255, pp.40-47, October 2006.&lt;/li&gt;
+&lt;li&gt;Takahiro Kawashige, Satoshi Oyama, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Context Matcher: Improved Web Search Using Query Term Context in Source Document and in Search Results&amp;rdquo;, Proceedings of the 8th Asia Pacific Web Conference (APWeb 2006), LNCS 3841, pp.486-497, January 2006.&lt;/li&gt;
+&lt;li&gt;Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Extracting Semantic Relationships between Terms from PC Documents and its Applications to Web Search Personalization&amp;rdquo;, Proceedings of the 8th Asia Pacific Web Conference (APWeb 2006), LNCS 3841, pp.579-590, January 2006.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>
