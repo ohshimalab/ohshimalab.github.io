@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>オープン | OHSHIMA LAB.</title>
-    <link>https://ohshimalab.github.io/tag/%E3%82%AA%E3%83%BC%E3%83%95%E3%83%B3/</link>
-      <atom:link href="https://ohshimalab.github.io/tag/%E3%82%AA%E3%83%BC%E3%83%95%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/%E3%82%AA%E3%83%BC%E3%83%95%E3%83%B3/</link>
+      <atom:link href="/tag/%E3%82%AA%E3%83%BC%E3%83%95%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>オープン</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©兵庫県立大学 情報科学研究科 大島研究室 2020</copyright><lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ohshimalab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>オープン</title>
-      <link>https://ohshimalab.github.io/tag/%E3%82%AA%E3%83%BC%E3%83%95%E3%83%B3/</link>
+      <link>/tag/%E3%82%AA%E3%83%BC%E3%83%95%E3%83%B3/</link>
     </image>
     
     <item>
       <title>企業実践的ＡＩ（人工知能）利活用研究会 リレーセミナー</title>
-      <link>https://ohshimalab.github.io/post/2018/1210/</link>
+      <link>/post/2018/1210/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://ohshimalab.github.io/post/2018/1210/</guid>
+      <guid>/post/2018/1210/</guid>
       <description>&lt;h4 id=&#34;日時2018年12月6日木7日金&#34;&gt;日時：2018年12月6日（木）、7日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所一般財団法人関西情報センター-第1会議室&#34;&gt;場所：一般財団法人関西情報センター 第1会議室&lt;/h4&gt;
 &lt;p&gt;一般財団法人関西情報センター（KIIS）様主催の「企業実践的ＡＩ（人工知能）利活用研究会 リレーセミナー」にて、大島裕明准教授が「機械学習による情報検索とその応用」というテーマで、2日間に渡り講義を行いました。&lt;/p&gt;
@@ -43,8 +43,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1210/gallery/%280%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1210/gallery/%280%29_huad429df2875b7e39e8457bbbbc4f0ca2_965040_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1210/gallery/%280%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1210/gallery/%280%29_huad429df2875b7e39e8457bbbbc4f0ca2_965040_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -52,8 +52,8 @@
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ohshimalab.github.io/post/2018/1210/gallery/%281%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://ohshimalab.github.io/post/2018/1210/gallery/%281%29_hu6484f5bf7b6381b28361153941fc29b1_1493894_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1210/gallery/%281%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1210/gallery/%281%29_hu6484f5bf7b6381b28361153941fc29b1_1493894_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 

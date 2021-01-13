@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>国際学会発表 | OHSHIMA LAB.</title>
+    <link>/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
+      <atom:link href="/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>国際学会発表</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>国際学会発表</title>
+      <link>/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
+    </image>
+    
+    <item>
+      <title>The 15th NTCIR Conference 参加報告</title>
+      <link>/post/2020/1225/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020/1225/</guid>
+      <description>&lt;h4 id=&#34;日時2020-年-12-月-10-日木&#34;&gt;日時：2020 年 12 月 10 日（木）&lt;/h4&gt;
+&lt;h4 id=&#34;場所オンライン&#34;&gt;場所：オンライン&lt;/h4&gt;
+&lt;h4 id=&#34;公式-web-ページntcir15httpresearchniiacjpntcirntcir-15conferencehtml&#34;&gt;公式 Web ページ：&lt;a href=&#34;http://research.nii.ac.jp/ntcir/ntcir-15/conference.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ntcir15&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;上記日程にて、オンライン開催されました、The 15th NTCIR Conferenceに参加しました。大島研究室からは、三林さんと吉村さんが口頭発表を行いました。詳細については以下のとおりです。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;behavioral-classification-using-feature-selection-in-the-micro-activity-retrieval-task&#34;&gt;Behavioral Classification Using Feature Selection in the Micro Activity Retrieval Task&lt;/h3&gt;
+&lt;p&gt;　
+&lt;code&gt;Takuma Yoshimura, Huu-Long Pham, Ryota Mibayashi, Rui Kimura, Hiroaki Ohshima&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Screenshot%20from%202021-01-13%2016-54-44.png&#34; alt=&#34;FS,FVS&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;uhai-at-the-ntcir-15-data-search-task&#34;&gt;Uhai at the NTCIR-15 Data Search Task&lt;/h3&gt;
+&lt;p&gt;　&lt;code&gt;Ryota Mibayashi, Huu-Long Pham, Takuma Yoshimura, Takehiro Yamamoto, Hiroaki Ohshima&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;uhai.png&#34; alt=&#34;FS,FVS&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
