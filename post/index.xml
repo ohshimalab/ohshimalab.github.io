@@ -5,57 +5,12 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
-    
-    <item>
-      <title>ホームページを更新しました</title>
-      <link>/post/2021/0315/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0315/</guid>
-      <description>&lt;h4 id=&#34;日時2019-年-9-月-23-日月&#34;&gt;日時：2019 年 9 月 23 日（月）&lt;/h4&gt;
-&lt;h4 id=&#34;場所工学院大学-新宿キャンパス&#34;&gt;場所：工学院大学 新宿キャンパス&lt;/h4&gt;
-&lt;h4 id=&#34;公式-web-ページhttpswwwipsjorjpkenkyukaieventdbs169ifat136html&#34;&gt;公式 Web ページ：https://www.ipsj.or.jp/kenkyukai/event/dbs169ifat136.html&lt;/h4&gt;
-&lt;p&gt;上記日程にて、工学院大学 新宿キャンパスで行われました、 情報処理学会第 169 回データベースシステム・第 136 回情報基礎とアクセス技術・電子情報通信学会データ工学研究会合同研究会に参加しました。大島研究室からは、高橋さんが以下の内容で口頭発表を行いました。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;「分散表現空間間の変換行列による擬人化の比喩表現の自動生成」
-　高橋 克郎、大島 裕明
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;また、学生奨励賞を受賞しました！&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2021/0315/gallery/award.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2021/0315/gallery/award_hu494c2350e76bd1171e06217f4555f76c_1226893_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;</description>
-    </item>
     
     <item>
       <title>The 15th NTCIR Conference 参加報告</title>
