@@ -75,6 +75,46 @@
     </item>
     
     <item>
+      <title>濵島 聡一郎さんの論文が SCAI 2021 に採録されました</title>
+      <link>/post/2021/0601/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021/0601/</guid>
+      <description>&lt;!-- ---
+title: 濵島 聡一郎さんの論文が SCAI 2021 に採録されました
+date: 2021-06-01
+subtitle: &#34;&#34;
+tags: [&#34;国際学会発表&#34;]
+type: post
+---
+
++ titile
+  + [第一著者]さんの論文が[学会短縮名]に採録されました
+  + 複数名同学会の場合はあいうえお順で「大島研のn件論文が」
+  + 研究室単位の時は「大島研の論文が」
+  + バリエーションは「論文が採録されました」「が発表しました」「論文が受賞しました」ぐらい？ --&gt;
+&lt;p&gt;濵島 聡一郎さんの論文が「9th International Conference on Smart Computing and Artificial Intelligence (SCAI 2021)」に採録されました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iaiai.org/conference/aai2021/conferences/scai-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &amp;ldquo;Investigating Users’ Query Formulations in Consumer Health Search&amp;rdquo;, 9th International Conference on Smart Computing and Artificial Intelligence (SCAI 2021), July 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2021年の7月11日～16日に発表予定。&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
       <title>The 15th NTCIR Conference 参加報告</title>
       <link>/post/2020/1225/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
@@ -838,6 +878,96 @@
     </item>
     
     <item>
+      <title>修士論文</title>
+      <link>/hogehoge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/hogehoge/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%e4%bf%ae%e5%a3%ab%e8%ab%96%e6%96%87&#34;&gt;修士論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%ad%a6%e8%a1%93%e8%ab%96%e6%96%87&#34;&gt;学術論文&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;修士論文&#34;&gt;修士論文&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;発行年&lt;/th&gt;
+&lt;th&gt;氏名&lt;/th&gt;
+&lt;th&gt;論文タイトル&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021&lt;/td&gt;
+&lt;td&gt;顧 席銘&lt;/td&gt;
+&lt;td&gt;画像認識における教師データ不足への対応に関する研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;崔 洙瑚&lt;/td&gt;
+&lt;td&gt;ウェブ広告閲覧履歴を用いたユーザ属性の推定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;中田 祐誠&lt;/td&gt;
+&lt;td&gt;ウェブ検索クエリを用いたオンライン商品購買行動の予測と分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;橋口 友哉&lt;/td&gt;
+&lt;td&gt;コミュニティ型質問応答コンテンツを用いた共感できる悩みの検索と生成&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;ファム フー ロン&lt;/td&gt;
+&lt;td&gt;Life Improvement based on Human Activity Recognition using IoT Sensor Devices&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2020&lt;/td&gt;
+&lt;td&gt;堂本 凌祐&lt;/td&gt;
+&lt;td&gt;正規化相互情報量による特徴値選択アルゴリズム評価&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;西村 和貴&lt;/td&gt;
+&lt;td&gt;観光地の組み合わせによる評価のバイアス分析の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;牧田 真朋&lt;/td&gt;
+&lt;td&gt;準同型暗号を用いたハミング距離の2パーティー秘匿計算&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;マハルジャン ラビン&lt;/td&gt;
+&lt;td&gt;IoTセンサデバイスを用いた行動認識と話題提供の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;村本 直樹&lt;/td&gt;
+&lt;td&gt;特徴的な表現を考慮したユーザ生成メディア検索の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;楊 澤華&lt;/td&gt;
+&lt;td&gt;展示物と見学者の関係性に基づくミュージアム鑑賞体験の個人化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;吉井 健紘&lt;/td&gt;
+&lt;td&gt;仮想現実における認知範囲を考慮した文書閲覧環境の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2019&lt;/td&gt;
+&lt;td&gt;白髪 宙海&lt;/td&gt;
+&lt;td&gt;再訪問に着目した飲食店レビューの分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;学術論文&#34;&gt;学術論文&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>学生募集</title>
       <link>/admission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -909,7 +1039,15 @@
       <link>/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/members/</guid>
-      <description>&lt;h2 id=&#34;教員&#34;&gt;教員&lt;/h2&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%e6%95%99%e5%93%a1&#34;&gt;教員&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%ad%a6%e7%94%9f&#34;&gt;学生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e7%a4%be%e4%bc%9a%e4%ba%ba%e5%ad%a6%e7%94%9f&#34;&gt;社会人学生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e4%bf%ae%e4%ba%86%e7%94%9f&#34;&gt;修了生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%b0%b1%e8%81%b7%e5%85%88&#34;&gt;就職先&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e4%bf%ae%e5%a3%ab%e5%85%a5%e5%ad%a6%e8%80%85%e3%81%ae%e5%87%ba%e8%ba%ab%e5%a4%a7%e5%ad%a6%e5%9b%bd%e5%86%85&#34;&gt;修士入学者の出身大学（国内）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;教員&#34;&gt;教員&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -920,7 +1058,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;准教授&lt;/td&gt;
-&lt;td&gt;大島 裕明 （Hiroaki OHSHIMA）&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/faculty/&#34;&gt;大島 裕明 （Hiroaki OHSHIMA）&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -938,64 +1076,48 @@
 &lt;td&gt;高橋 克郎 （Katsurou TAKAHASHI）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;D3&lt;/td&gt;
+&lt;td&gt;D2&lt;/td&gt;
 &lt;td&gt;田中 謙次 （Kenji TANAKA）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;中田 祐誠 （Yusei NAKATA）&lt;/td&gt;
+&lt;td&gt;三林 亮太 （Ryota MIBAYASHI）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;橋口 友哉 （Tomoya HASHIGUCHI）&lt;/td&gt;
+&lt;td&gt;松本 直彰 （Naoaki MATSUMOTO）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;崔 洙瑚 （Suho CHOI）&lt;/td&gt;
+&lt;td&gt;吉村 拓真 （Takuma YOSHIMURA）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;顧 席銘 （Ximing GU）&lt;/td&gt;
+&lt;td&gt;上田 昌輝 （Masaki UETA）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;ファム フーロン （HuuLong Pham）&lt;/td&gt;
+&lt;td&gt;濵島 聡一郎 （Soichiro HAMAJIMA）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;三林　亮太 （Ryota MIBAYASHI）&lt;/td&gt;
+&lt;td&gt;M2&lt;/td&gt;
+&lt;td&gt;川原 敬史 （Takafumi KAWAHARA）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;松本　直彰 （Naoaki MATSUMOTO）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;劉　建男 （Jiannan LIU）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;吉村　拓真 （Takuma YOSHIMURA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;上田　昌輝 （Masaki UETA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;吉岡　朋友 （Tomo Yoshioka）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;濵島　聡一郎 （Hamajima Soichiro）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;川原　敬史 （Takafumi KAWAHARA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;M2&lt;/td&gt;
 &lt;td&gt;坂根 和光 （Wakou SAKANE）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;古屋 昭拓 （Akihiro FURUYA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;王 丹 （Dan WANG）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M1&lt;/td&gt;
+&lt;td&gt;奥田 萌莉 （Moeri OKUDA）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1009,19 +1131,19 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;D3&lt;/td&gt;
+&lt;td&gt;D2&lt;/td&gt;
 &lt;td&gt;竹本 勉 （Tsutomu TAKEMOTO）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;D2&lt;/td&gt;
+&lt;td&gt;D3&lt;/td&gt;
 &lt;td&gt;森川 優 （Yu MORIKAWA）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;M3&lt;/td&gt;
+&lt;td&gt;M2&lt;/td&gt;
 &lt;td&gt;福島 航平 （Kohei FUKUSHIMA）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;M3&lt;/td&gt;
+&lt;td&gt;M2&lt;/td&gt;
 &lt;td&gt;山本 雄大 （Takehiro YAMAMOTO）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1067,8 +1189,32 @@
 &lt;td&gt;2020&lt;/td&gt;
 &lt;td&gt;吉井 健紘 （Takehiro YOSHII）&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;中田 祐誠 （Yusei NAKATA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;橋口 友哉 （Tomoya HASHIGUCHI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;崔 洙瑚 （Suho CHOI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;顧 席銘 （Ximing GU）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;ファム フーロン （HuuLong PHAM）&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h2 id=&#34;就職先&#34;&gt;就職先&lt;/h2&gt;
+&lt;p&gt;株式会社アイレップ，KDDI株式会社，コベルコシステム株式会社，白髪医院，Sky株式会社，スカイウィル株式会社，株式会社セラク，株式会社デンソーテン，パーソルパナソニックHRパートナーズ株式会社&lt;/p&gt;
+&lt;h2 id=&#34;修士入学者の出身大学国内&#34;&gt;修士入学者の出身大学（国内）&lt;/h2&gt;
+&lt;p&gt;兵庫県立大学工学部，甲南大学知能情報学部，流通科学大学経済学部，大阪工業大学，関西大学，関西学院大学，近畿大学，神戸女学院大学，鳥取大学，広島市立大学&lt;/p&gt;
 </description>
     </item>
     
@@ -1077,7 +1223,12 @@
       <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publications/</guid>
-      <description>&lt;h2 id=&#34;学術論文査読あり&#34;&gt;学術論文（査読あり）&lt;/h2&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%ad%a6%e8%a1%93%e8%ab%96%e6%96%87%e6%9f%bb%e8%aa%ad%e3%81%82%e3%82%8a&#34;&gt;学術論文（査読あり）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%9b%bd%e9%9a%9b%e4%bc%9a%e8%ad%b0%e9%8c%b2%e6%9f%bb%e8%aa%ad%e3%81%82%e3%82%8a&#34;&gt;国際会議録（査読あり）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e4%bf%ae%e5%a3%ab%e8%ab%96%e6%96%87&#34;&gt;修士論文&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;学術論文査読あり&#34;&gt;学術論文（査読あり）&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;片岡 大祐，加藤 誠，山本 岳洋，大島 裕明，田中 克己：「SNS グラフデータにおける文脈を考慮した適合フィードバック検索」, 日本データベース学会和文論文誌, Vol.16-J, Article No.21, 2018 年 3 月.（採録決定）&lt;/li&gt;
 &lt;li&gt;武田 裕介, 大島 裕明, 田中 克己：「同一閲覧・検索意図に合致する Web ページ群の発見と再訪問ページ推薦」, 日本データベース学会和文論文誌, Vol.15-J, Article No.13, 2017 年 3 月.&lt;/li&gt;
@@ -1159,6 +1310,83 @@
 &lt;li&gt;Takahiro Kawashige, Satoshi Oyama, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Context Matcher: Improved Web Search Using Query Term Context in Source Document and in Search Results&amp;rdquo;, Proceedings of the 8th Asia Pacific Web Conference (APWeb 2006), LNCS 3841, pp.486-497, January 2006.&lt;/li&gt;
 &lt;li&gt;Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Extracting Semantic Relationships between Terms from PC Documents and its Applications to Web Search Personalization&amp;rdquo;, Proceedings of the 8th Asia Pacific Web Conference (APWeb 2006), LNCS 3841, pp.579-590, January 2006.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h2 id=&#34;修士論文&#34;&gt;修士論文&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;発行年&lt;/th&gt;
+&lt;th&gt;氏名&lt;/th&gt;
+&lt;th&gt;論文タイトル&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021&lt;/td&gt;
+&lt;td&gt;顧 席銘&lt;/td&gt;
+&lt;td&gt;画像認識における教師データ不足への対応に関する研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;崔 洙瑚&lt;/td&gt;
+&lt;td&gt;ウェブ広告閲覧履歴を用いたユーザ属性の推定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;中田 祐誠&lt;/td&gt;
+&lt;td&gt;ウェブ検索クエリを用いたオンライン商品購買行動の予測と分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;橋口 友哉&lt;/td&gt;
+&lt;td&gt;コミュニティ型質問応答コンテンツを用いた共感できる悩みの検索と生成&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;ファム フー ロン&lt;/td&gt;
+&lt;td&gt;Life Improvement based on Human Activity Recognition using IoT Sensor Devices&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2020&lt;/td&gt;
+&lt;td&gt;堂本 凌祐&lt;/td&gt;
+&lt;td&gt;正規化相互情報量による特徴値選択アルゴリズム評価&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;西村 和貴&lt;/td&gt;
+&lt;td&gt;観光地の組み合わせによる評価のバイアス分析の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;牧田 真朋&lt;/td&gt;
+&lt;td&gt;準同型暗号を用いたハミング距離の2パーティー秘匿計算&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;マハルジャン ラビン&lt;/td&gt;
+&lt;td&gt;IoTセンサデバイスを用いた行動認識と話題提供の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;村本 直樹&lt;/td&gt;
+&lt;td&gt;特徴的な表現を考慮したユーザ生成メディア検索の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;楊 澤華&lt;/td&gt;
+&lt;td&gt;展示物と見学者の関係性に基づくミュージアム鑑賞体験の個人化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;吉井 健紘&lt;/td&gt;
+&lt;td&gt;仮想現実における認知範囲を考慮した文書閲覧環境の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2019&lt;/td&gt;
+&lt;td&gt;白髪 宙海&lt;/td&gt;
+&lt;td&gt;再訪問に着目した飲食店レビューの分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
