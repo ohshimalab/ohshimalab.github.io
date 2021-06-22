@@ -75,12 +75,67 @@
     </item>
     
     <item>
-      <title>濵島 聡一郎さんの論文が SCAI 2021 に採録されました</title>
+      <title>大島研究室のメンバーがDEIM2021で発表しました</title>
+      <link>/post/2021/0622/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021/0622/</guid>
+      <description>&lt;!-- ---
+title: 濵島 聡一郎さんの論文が AAI 2021 に採録されました
+date: 2021-06-01
+subtitle: &#34;&#34;
+tags: [&#34;国際学会発表&#34;]
+type: post
+---
+
++ titile
+  + [第一著者]さんの論文が[学会短縮名]に採録されました
+  + 複数名同学会の場合はあいうえお順で「大島研のn件論文が」
+  + 研究室単位の時は「大島研の論文が」
+  + バリエーションは「論文が採録されました」「で発表しました」「論文が受賞しました」ぐらい？ --&gt;
+&lt;p&gt;大島研究室のメンバーが、2021年の3月1日～3日に開催された「第13回データ工学と情報マネジメントに関するフォーラム（DEIM2021）」で発表しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://db-event.jpn.org/deim2021/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://proceedings-of-deim.github.io/DEIM2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;最終論文集ページ&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;顧席銘, 窪内将隆, 山本岳洋, 大島裕明. &amp;ldquo;教師なしドメイン適応を用いた粒子形状評価&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;崔洙瑚, 橋口友哉, 木村塁, 大島裕明. &amp;ldquo;ウェブ閲覧URL列へのTransformer Encoderの適用による広告閲覧ユーザの属性推定&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;橋口友哉, 山本岳洋, 藤田澄男, 大島裕明. &amp;ldquo;ユーザが共感できる悩みの対話コンテンツ生成&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Huu-Long Pham, Yusuke Yamamoto, Takehiro Yamamoto, Hiroaki Ohshima. &amp;ldquo;Distraction Detection using Wearable Device and its Application to Concentration Level Improvement&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;中田祐誠, 山本岳洋, 藤田澄男, 大島裕明. &amp;ldquo;オンラインショッピングにおける購買意図の推移とウェブ検索クエリの分析&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;上田昌輝, 橋口友哉, 莊司慶行, 神門典子, 山本祐輔, 山本岳洋, 大島裕明. &amp;ldquo;クイズ生成によるパーソナライズされた博物館見学テーマ設定&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;川原敬史, 橋口友哉, 湯本高行, 大島裕明. &amp;ldquo;事故概要説明文の文脈理解による傷病の程度の推定&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;坂根和光, 山本岳洋, 澤田祥一, 大塚一路, 山本光穂, 大島裕明. &amp;ldquo;自然言語からの緯度経度推定に向けた説明文収集とパターン分析&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;浜島聡一郎, 山本岳洋, 大島裕明. &amp;ldquo;健康情報検索におけるユーザのクエリ作成能力の検証&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;吉岡朋友, 湯本高行, 山本岳洋, 大島裕明. &amp;ldquo;生成型深層学習によるアパレルデザインのためのコーディネート画像生成&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;吉村拓真, ファム フーロン, 和田真弥, 大島裕明. &amp;ldquo;空間的特徴量とパーソナリティ分析を用いたストレス推定&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;三林亮太, 橋口友哉, 山本岳洋, 大島裕明. &amp;ldquo;ラップバトルにおけるライムの意味類似性を考慮したバース生成&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;松本直彰, 湯本⾼⾏, ⼭本岳洋, ⼤島裕明. &amp;ldquo;ニュースアーカイブ探索のための記事間の関係抽出とその可視化&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;p&gt;三林亮太さんが「DEIM最注目研究賞」を受賞しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;deim_2021_award_mibayashi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>濵島 聡一郎さんの論文が AAI 2021 に採録されました</title>
       <link>/post/2021/0601/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/post/2021/0601/</guid>
       <description>&lt;!-- ---
-title: 濵島 聡一郎さんの論文が SCAI 2021 に採録されました
+title: 濵島 聡一郎さんの論文が AAI 2021 に採録されました
 date: 2021-06-01
 subtitle: &#34;&#34;
 tags: [&#34;国際学会発表&#34;]
@@ -92,10 +147,10 @@ type: post
   + 複数名同学会の場合はあいうえお順で「大島研のn件論文が」
   + 研究室単位の時は「大島研の論文が」
   + バリエーションは「論文が採録されました」「が発表しました」「論文が受賞しました」ぐらい？ --&gt;
-&lt;p&gt;濵島 聡一郎さんの論文が「9th International Conference on Smart Computing and Artificial Intelligence (SCAI 2021)」に採録されました。&lt;/p&gt;
+&lt;p&gt;濵島 聡一郎さんの論文が「9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021)」に採録されました。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://iaiai.org/conference/aai2021/conferences/scai-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &amp;ldquo;Investigating Users’ Query Formulations in Consumer Health Search&amp;rdquo;, 9th International Conference on Smart Computing and Artificial Intelligence (SCAI 2021), July 2021.&lt;/li&gt;
+&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &amp;ldquo;Investigating Users’ Query Formulations in Consumer Health Search&amp;rdquo;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;2021年の7月11日～16日に発表予定。&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
@@ -968,6 +1023,94 @@ type: post
     </item>
     
     <item>
+      <title>修士論文</title>
+      <link>/mastersthesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/mastersthesis/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/publications&#34;&gt;研究成果へ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;修士論文&#34;&gt;修士論文&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;発行年&lt;/th&gt;
+&lt;th&gt;氏名&lt;/th&gt;
+&lt;th&gt;論文タイトル&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021&lt;/td&gt;
+&lt;td&gt;顧 席銘&lt;/td&gt;
+&lt;td&gt;画像認識における教師データ不足への対応に関する研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;崔 洙瑚&lt;/td&gt;
+&lt;td&gt;ウェブ広告閲覧履歴を用いたユーザ属性の推定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;中田 祐誠&lt;/td&gt;
+&lt;td&gt;ウェブ検索クエリを用いたオンライン商品購買行動の予測と分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;橋口 友哉&lt;/td&gt;
+&lt;td&gt;コミュニティ型質問応答コンテンツを用いた共感できる悩みの検索と生成&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;ファム フー ロン&lt;/td&gt;
+&lt;td&gt;Life Improvement based on Human Activity Recognition using IoT Sensor Devices&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2020&lt;/td&gt;
+&lt;td&gt;堂本 凌祐&lt;/td&gt;
+&lt;td&gt;正規化相互情報量による特徴値選択アルゴリズム評価&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;西村 和貴&lt;/td&gt;
+&lt;td&gt;観光地の組み合わせによる評価のバイアス分析の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;牧田 真朋&lt;/td&gt;
+&lt;td&gt;準同型暗号を用いたハミング距離の2パーティー秘匿計算&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;マハルジャン ラビン&lt;/td&gt;
+&lt;td&gt;IoTセンサデバイスを用いた行動認識と話題提供の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;村本 直樹&lt;/td&gt;
+&lt;td&gt;特徴的な表現を考慮したユーザ生成メディア検索の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;楊 澤華&lt;/td&gt;
+&lt;td&gt;展示物と見学者の関係性に基づくミュージアム鑑賞体験の個人化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;吉井 健紘&lt;/td&gt;
+&lt;td&gt;仮想現実における認知範囲を考慮した文書閲覧環境の研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2019&lt;/td&gt;
+&lt;td&gt;白髪 宙海&lt;/td&gt;
+&lt;td&gt;再訪問に着目した飲食店レビューの分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>学生募集</title>
       <link>/admission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1015,23 +1158,6 @@ type: post
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/faculty/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>研究の内容について</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description>&lt;h2 id=&#34;社会と情報の研究&#34;&gt;「社会」と「情報」の研究&lt;/h2&gt;
-&lt;p&gt;大島研究室では、社会において人が情報を取得して意思決定を行い、豊かに生活することを支える技術を研究しています。&lt;code&gt;情報検索&lt;/code&gt;、&lt;code&gt;データマイニング&lt;/code&gt;、&lt;code&gt;情報デザイン&lt;/code&gt;といった研究分野を基軸としつつ、&lt;code&gt;データベース&lt;/code&gt;、&lt;code&gt;機械学習&lt;/code&gt;、&lt;code&gt;自然言語処理&lt;/code&gt;といった情報学の様々な分野の知見を活用し、さらには、&lt;code&gt;心理学&lt;/code&gt;、&lt;code&gt;社会学&lt;/code&gt;、&lt;code&gt;経営学&lt;/code&gt;なども視野に入れて研究を行っています。&lt;/p&gt;
-&lt;p&gt;現在、社会は大きな変革の渦の中にあります。社会の変革と同時に、情報の概念や技術の概念が従来からの解釈ではとらえきれなくなっています。福沢諭吉は「民情一新」において、社会と技術と情報の三者が連鎖的に変革を起こすことで、社会変革が起こると指摘しました。この指摘は産業革命において行われたものですが、その後の情報革命においても同様の指摘がなされています。すなわち、社会が変わるということは、同時に技術が変わること、そして、情報が変わることであるということです。現代社会はインターネットが実世界を反映する社会であり、現在の若者はデジタルネイティブです。新しい情報は現在の若者が創っていくものであり、それを支える技術を研究することで、新しい社会を切り開いていきたいと考えています。&lt;/p&gt;
-&lt;h3 id=&#34;web-検索と知識発見の研究&#34;&gt;Web 検索と知識発見の研究&lt;/h3&gt;
-&lt;p&gt;あらゆる情報が交換される Web において、情報獲得を行う基盤技術である情報検索について研究を行っています。特に、多くの Web ユーザが発信する情報や振る舞いから知識を発見して応用することで、これまでできなかった検索を実現することに取り組みます。&lt;/p&gt;
-&lt;h3 id=&#34;社会情報デザインの研究&#34;&gt;社会情報デザインの研究&lt;/h3&gt;
-&lt;p&gt;Web は社会の活動を広く反映する存在となっています。一方で、Web をそのまま信頼して利用することが難しい状況でもあります。人々が Web を信頼して利用できるようになることを目標として、大規模な情報を分析・構造化し、人に必要とされる新たな情報を生み出す手法について研究を行います。&lt;/p&gt;
-&lt;h3 id=&#34;新しいものづくり情報管理の研究&#34;&gt;新しいものづくり情報管理の研究&lt;/h3&gt;
-&lt;p&gt;デジタルファブリケーション（3D プリンタやレーザーカッターを用いたものづくり）やフィジカルコンピューティングは、新しいものづくりのあり方をもたらしています。新しいものづくりを支援するために、たとえば、どうやって作るかといった情報を交換する仕組みの研究などを行います。&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1158,8 +1284,24 @@ type: post
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;2019&lt;/td&gt;
-&lt;td&gt;白髪 宙海 （Hiromi SHIRAGA)&lt;/td&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;中田 祐誠 （Yusei NAKATA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;橋口 友哉 （Tomoya HASHIGUCHI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;崔 洙瑚 （Suho CHOI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;顧 席銘 （Ximing GU）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2021&lt;/td&gt;
+&lt;td&gt;ファム フーロン （HuuLong PHAM）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2020&lt;/td&gt;
@@ -1190,24 +1332,8 @@ type: post
 &lt;td&gt;吉井 健紘 （Takehiro YOSHII）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;2021&lt;/td&gt;
-&lt;td&gt;中田 祐誠 （Yusei NAKATA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2021&lt;/td&gt;
-&lt;td&gt;橋口 友哉 （Tomoya HASHIGUCHI）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2021&lt;/td&gt;
-&lt;td&gt;崔 洙瑚 （Suho CHOI）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2021&lt;/td&gt;
-&lt;td&gt;顧 席銘 （Ximing GU）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2021&lt;/td&gt;
-&lt;td&gt;ファム フーロン （HuuLong PHAM）&lt;/td&gt;
+&lt;td&gt;2019&lt;/td&gt;
+&lt;td&gt;白髪 宙海 （Hiromi SHIRAGA)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1226,7 +1352,7 @@ type: post
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#%e5%ad%a6%e8%a1%93%e8%ab%96%e6%96%87%e6%9f%bb%e8%aa%ad%e3%81%82%e3%82%8a&#34;&gt;学術論文（査読あり）&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e5%9b%bd%e9%9a%9b%e4%bc%9a%e8%ad%b0%e9%8c%b2%e6%9f%bb%e8%aa%ad%e3%81%82%e3%82%8a&#34;&gt;国際会議録（査読あり）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#%e4%bf%ae%e5%a3%ab%e8%ab%96%e6%96%87&#34;&gt;修士論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/mastersthesis&#34;&gt;修士論文&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;学術論文査読あり&#34;&gt;学術論文（査読あり）&lt;/h2&gt;
 &lt;ol&gt;
@@ -1310,83 +1436,23 @@ type: post
 &lt;li&gt;Takahiro Kawashige, Satoshi Oyama, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Context Matcher: Improved Web Search Using Query Term Context in Source Document and in Search Results&amp;rdquo;, Proceedings of the 8th Asia Pacific Web Conference (APWeb 2006), LNCS 3841, pp.486-497, January 2006.&lt;/li&gt;
 &lt;li&gt;Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Extracting Semantic Relationships between Terms from PC Documents and its Applications to Web Search Personalization&amp;rdquo;, Proceedings of the 8th Asia Pacific Web Conference (APWeb 2006), LNCS 3841, pp.579-590, January 2006.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;修士論文&#34;&gt;修士論文&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;発行年&lt;/th&gt;
-&lt;th&gt;氏名&lt;/th&gt;
-&lt;th&gt;論文タイトル&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2021&lt;/td&gt;
-&lt;td&gt;顧 席銘&lt;/td&gt;
-&lt;td&gt;画像認識における教師データ不足への対応に関する研究&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;崔 洙瑚&lt;/td&gt;
-&lt;td&gt;ウェブ広告閲覧履歴を用いたユーザ属性の推定&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;中田 祐誠&lt;/td&gt;
-&lt;td&gt;ウェブ検索クエリを用いたオンライン商品購買行動の予測と分析&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;橋口 友哉&lt;/td&gt;
-&lt;td&gt;コミュニティ型質問応答コンテンツを用いた共感できる悩みの検索と生成&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;ファム フー ロン&lt;/td&gt;
-&lt;td&gt;Life Improvement based on Human Activity Recognition using IoT Sensor Devices&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2020&lt;/td&gt;
-&lt;td&gt;堂本 凌祐&lt;/td&gt;
-&lt;td&gt;正規化相互情報量による特徴値選択アルゴリズム評価&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;西村 和貴&lt;/td&gt;
-&lt;td&gt;観光地の組み合わせによる評価のバイアス分析の研究&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;牧田 真朋&lt;/td&gt;
-&lt;td&gt;準同型暗号を用いたハミング距離の2パーティー秘匿計算&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;マハルジャン ラビン&lt;/td&gt;
-&lt;td&gt;IoTセンサデバイスを用いた行動認識と話題提供の研究&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;村本 直樹&lt;/td&gt;
-&lt;td&gt;特徴的な表現を考慮したユーザ生成メディア検索の研究&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;楊 澤華&lt;/td&gt;
-&lt;td&gt;展示物と見学者の関係性に基づくミュージアム鑑賞体験の個人化&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;吉井 健紘&lt;/td&gt;
-&lt;td&gt;仮想現実における認知範囲を考慮した文書閲覧環境の研究&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;2019&lt;/td&gt;
-&lt;td&gt;白髪 宙海&lt;/td&gt;
-&lt;td&gt;再訪問に着目した飲食店レビューの分析&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>私たちが探求すること</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;h2 id=&#34;社会と情報の研究&#34;&gt;「社会」と「情報」の研究&lt;/h2&gt;
+&lt;p&gt;大島研究室では、社会において人が情報を取得して意思決定を行い、豊かに生活することを支える技術を研究しています。&lt;code&gt;情報検索&lt;/code&gt;、&lt;code&gt;データマイニング&lt;/code&gt;、&lt;code&gt;情報デザイン&lt;/code&gt;といった研究分野を基軸としつつ、&lt;code&gt;データベース&lt;/code&gt;、&lt;code&gt;機械学習&lt;/code&gt;、&lt;code&gt;自然言語処理&lt;/code&gt;といった情報学の様々な分野の知見を活用し、さらには、&lt;code&gt;心理学&lt;/code&gt;、&lt;code&gt;社会学&lt;/code&gt;、&lt;code&gt;経営学&lt;/code&gt;なども視野に入れて研究を行っています。&lt;/p&gt;
+&lt;p&gt;現在、社会は大きな変革の渦の中にあります。社会の変革と同時に、情報の概念や技術の概念が従来からの解釈ではとらえきれなくなっています。福沢諭吉は「民情一新」において、社会と技術と情報の三者が連鎖的に変革を起こすことで、社会変革が起こると指摘しました。この指摘は産業革命において行われたものですが、その後の情報革命においても同様の指摘がなされています。すなわち、社会が変わるということは、同時に技術が変わること、そして、情報が変わることであるということです。現代社会はインターネットが実世界を反映する社会であり、現在の若者はデジタルネイティブです。新しい情報は現在の若者が創っていくものであり、それを支える技術を研究することで、新しい社会を切り開いていきたいと考えています。&lt;/p&gt;
+&lt;h3 id=&#34;web-検索と知識発見の研究&#34;&gt;Web 検索と知識発見の研究&lt;/h3&gt;
+&lt;p&gt;あらゆる情報が交換される Web において、情報獲得を行う基盤技術である情報検索について研究を行っています。特に、多くの Web ユーザが発信する情報や振る舞いから知識を発見して応用することで、これまでできなかった検索を実現することに取り組みます。&lt;/p&gt;
+&lt;h3 id=&#34;社会情報デザインの研究&#34;&gt;社会情報デザインの研究&lt;/h3&gt;
+&lt;p&gt;Web は社会の活動を広く反映する存在となっています。一方で、Web をそのまま信頼して利用することが難しい状況でもあります。人々が Web を信頼して利用できるようになることを目標として、大規模な情報を分析・構造化し、人に必要とされる新たな情報を生み出す手法について研究を行います。&lt;/p&gt;
+&lt;h3 id=&#34;新しいものづくり情報管理の研究&#34;&gt;新しいものづくり情報管理の研究&lt;/h3&gt;
+&lt;p&gt;デジタルファブリケーション（3D プリンタやレーザーカッターを用いたものづくり）やフィジカルコンピューティングは、新しいものづくりのあり方をもたらしています。新しいものづくりを支援するために、たとえば、どうやって作るかといった情報を交換する仕組みの研究などを行います。&lt;/p&gt;
 </description>
     </item>
     

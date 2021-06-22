@@ -5,12 +5,67 @@
     <link>/tag/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
       <atom:link href="/tag/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>国内学会発表</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>国内学会発表</title>
       <link>/tag/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
     </image>
+    
+    <item>
+      <title>大島研究室のメンバーがDEIM2021で発表しました</title>
+      <link>/post/2021/0622/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021/0622/</guid>
+      <description>&lt;!-- ---
+title: 濵島 聡一郎さんの論文が AAI 2021 に採録されました
+date: 2021-06-01
+subtitle: &#34;&#34;
+tags: [&#34;国際学会発表&#34;]
+type: post
+---
+
++ titile
+  + [第一著者]さんの論文が[学会短縮名]に採録されました
+  + 複数名同学会の場合はあいうえお順で「大島研のn件論文が」
+  + 研究室単位の時は「大島研の論文が」
+  + バリエーションは「論文が採録されました」「で発表しました」「論文が受賞しました」ぐらい？ --&gt;
+&lt;p&gt;大島研究室のメンバーが、2021年の3月1日～3日に開催された「第13回データ工学と情報マネジメントに関するフォーラム（DEIM2021）」で発表しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://db-event.jpn.org/deim2021/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://proceedings-of-deim.github.io/DEIM2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;最終論文集ページ&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;顧席銘, 窪内将隆, 山本岳洋, 大島裕明. &amp;ldquo;教師なしドメイン適応を用いた粒子形状評価&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;崔洙瑚, 橋口友哉, 木村塁, 大島裕明. &amp;ldquo;ウェブ閲覧URL列へのTransformer Encoderの適用による広告閲覧ユーザの属性推定&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;橋口友哉, 山本岳洋, 藤田澄男, 大島裕明. &amp;ldquo;ユーザが共感できる悩みの対話コンテンツ生成&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Huu-Long Pham, Yusuke Yamamoto, Takehiro Yamamoto, Hiroaki Ohshima. &amp;ldquo;Distraction Detection using Wearable Device and its Application to Concentration Level Improvement&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;中田祐誠, 山本岳洋, 藤田澄男, 大島裕明. &amp;ldquo;オンラインショッピングにおける購買意図の推移とウェブ検索クエリの分析&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;上田昌輝, 橋口友哉, 莊司慶行, 神門典子, 山本祐輔, 山本岳洋, 大島裕明. &amp;ldquo;クイズ生成によるパーソナライズされた博物館見学テーマ設定&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;川原敬史, 橋口友哉, 湯本高行, 大島裕明. &amp;ldquo;事故概要説明文の文脈理解による傷病の程度の推定&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;坂根和光, 山本岳洋, 澤田祥一, 大塚一路, 山本光穂, 大島裕明. &amp;ldquo;自然言語からの緯度経度推定に向けた説明文収集とパターン分析&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;浜島聡一郎, 山本岳洋, 大島裕明. &amp;ldquo;健康情報検索におけるユーザのクエリ作成能力の検証&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;吉岡朋友, 湯本高行, 山本岳洋, 大島裕明. &amp;ldquo;生成型深層学習によるアパレルデザインのためのコーディネート画像生成&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;吉村拓真, ファム フーロン, 和田真弥, 大島裕明. &amp;ldquo;空間的特徴量とパーソナリティ分析を用いたストレス推定&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;三林亮太, 橋口友哉, 山本岳洋, 大島裕明. &amp;ldquo;ラップバトルにおけるライムの意味類似性を考慮したバース生成&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;松本直彰, 湯本⾼⾏, ⼭本岳洋, ⼤島裕明. &amp;ldquo;ニュースアーカイブ探索のための記事間の関係抽出とその可視化&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;p&gt;三林亮太さんが「DEIM最注目研究賞」を受賞しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;deim_2021_award_mibayashi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>第139回情報基礎とアクセス技術研究発表会 参加報告</title>
