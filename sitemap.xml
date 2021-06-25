@@ -11,6 +11,8 @@
     <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>/hoge/</loc>
+  </url><url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
@@ -113,15 +115,6 @@
     <loc>/post/2018/0622/</loc>
     <lastmod>2018-06-22T18:00:00+09:00</lastmod>
   </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/yaruki/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -160,8 +153,6 @@
     <loc>/access/</loc>
   </url><url>
     <loc>/colabs/</loc>
-  </url><url>
-    <loc>/hogehoge/</loc>
   </url><url>
     <loc>/mastersthesis/</loc>
   </url><url>
