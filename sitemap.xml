@@ -23,10 +23,16 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2021/0706/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
@@ -79,6 +85,9 @@
     <loc>/post/2019/0310/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/%E3%82%AA%E3%83%BC%E3%83%95%E3%83%B3/</loc>
     <lastmod>2018-12-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,9 +95,6 @@
     <lastmod>2018-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/%E4%BB%96%E5%A4%A7%E5%AD%A6/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/</loc>
     <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2018/1205/</loc>
@@ -114,6 +120,42 @@
   </url><url>
     <loc>/post/2018/0622/</loc>
     <lastmod>2018-06-22T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>/project_container/rapbattle/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/microgeocoding/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/refreshlocation/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/zidomapping/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/itijoho/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/kenkojoho/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/hoteiaoi/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/hatumeiou/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/korobanusakinoai/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project_container/rensocopywriting/</loc>
+    <lastmod>2016-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
