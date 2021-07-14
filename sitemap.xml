@@ -34,6 +34,9 @@
     <loc>/project_container/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project_container/refreshlocation/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -120,9 +123,6 @@
   </url><url>
     <loc>/post/2019/0310/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/%E3%82%AA%E3%83%BC%E3%83%95%E3%83%B3/</loc>
     <lastmod>2018-12-10T00:00:00+00:00</lastmod>

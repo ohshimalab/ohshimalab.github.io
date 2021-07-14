@@ -109,6 +109,14 @@
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Refresh Location Search</title>
       <link>/project_container/refreshlocation/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
@@ -664,14 +672,6 @@ type: post
 
   
 &lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Landing Page</title>
-      <link>/project/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
-      <description></description>
     </item>
     
     <item>
