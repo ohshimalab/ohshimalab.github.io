@@ -84,6 +84,125 @@
     </item>
     
     <item>
+      <title>AI Rap Battle System</title>
+      <link>/project_container/rapbattle/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/rapbattle/</guid>
+      <description>&lt;h2 id=&#34;aiのディスに耐えられるか&#34;&gt;AIのディスに耐えられるか？&lt;/h2&gt;
+&lt;p&gt;「AI Rap Battle System」は、ラップバトルに特化した対話AIです。自由にラップ（バース）を入力することで、返答となるバースを生成します。&lt;/p&gt;
+&lt;p&gt;近年、フリースタイルラップの流行によりラップバトルが人気です。しかし、ラップバトルは難しく、初心者にはとっつきにくい競技です。本システムを使うことで、誰でも気軽にラップバトルができます。また、ラップバトルの練習相手や新たな創作の発見につながることが期待されます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Micro Geocoding</title>
+      <link>/project_container/microgeocoding/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/microgeocoding/</guid>
+      <description>&lt;h2 id=&#34;場所の説明文からその場所の緯度経度を推定するシステム&#34;&gt;場所の説明文から、その場所の緯度経度を推定するシステム&lt;/h2&gt;
+&lt;!-- 文で研究紹介 --&gt;
+&lt;p&gt;ある場所を説明する文章から、その場所の緯度経度を推定する。&lt;a href=&#34;https://www.openstreetmap.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStreetMap&lt;/a&gt;から地理情報を取得し、説明文に応じた処理をすることで場所の推定を行う。&lt;/p&gt;
+&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ --&gt;
+&lt;p&gt;言葉を使って、現在地を説明しなければならない状況がある。例えば、交通事故に遭ったとき、警察や保険会社に電話をし、事故が発生した場所を伝えなければならない。言葉による説明から場所を特定するためには、聞き手に知識やスキルが必要である。聞き手の能力によって、推定の正確さに差が出ることもあるだろう。このシステムは、聞き手に代わって場所を推定し、聞き手の能力差によって生じる問題を解決する。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig2_geocoding.png&#34; alt=&#34;fig2_geocoding&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Refresh Location Search</title>
+      <link>/project_container/refreshlocation/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/refreshlocation/</guid>
+      <description>&lt;h2 id=&#34;あなたにとってストレス解消となる場所の探索&#34;&gt;あなたにとってストレス解消となる場所の探索&lt;/h2&gt;
+&lt;p&gt;Refresh Location Searchは、ストレス解消を求めるユーザの人の特徴と、ランドマークの特徴を用いることで、そのユーザにマッチしたストレス解消となる場所の提案を行います。&lt;/p&gt;
+&lt;p&gt;人がストレスを感じた場合、ストレスを解消する方法として、買い物へ出かけたり、登山をする等が挙げられます。それらには、場所を移動するといったことが共通し、ストレス解消を行う場合場所の移動という行動が重要であることが考えられます。また、ストレス解消を求める場所が馴染み深い場所であれば、自分自身でリフレッシュ場所を探すことも可能ですが、そうでない場合、例えば出先などでリフレッシュ場所を求める場合、Refresh Location Searchを導入することで、ユーザにマッチしたストレス解消場所の探索が容易となり、ストレスの解消につながることが期待されます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ブックマーク記事を続報順に自動マッピング</title>
+      <link>/project_container/zidomapping/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/zidomapping/</guid>
+      <description>&lt;h2 id=&#34;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&#34;&gt;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&lt;/h2&gt;
+&lt;!-- 文で研究紹介 --&gt;
+&lt;p&gt;記事アーカイブで検索を行いブックマークした記事集合の中で、どの記事がどの記事の続報かを自動で判断してグラフ化します。&lt;/p&gt;
+&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ --&gt;
+&lt;p&gt;記事アーカイブは新聞記事などを数十年間にわたって保存したものです。記事アーカイブは小中学校のまとめ学習で自分の気になるトピックを調べる際などに用いられます。しかし、従来のWeb検索画面のようなインタフェースは検索とまとめを行うのに不親切であることがあります。例えば、検索を進めていくと最初にブックマークした記事の内容や記事間の関係性を忘れることがあります。一度読んだ記事を再度読み返して内容を把握するのは面倒な作業です。&lt;/p&gt;
+&lt;p&gt;そこで、ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェースを提案しています。新聞記事は出来事に対し少しずつ新情報を報道します。従来のインタフェースではユーザは記事同士の続報関係を記憶にとどめたまま検索を行わなければなりませんが、提案するインタフェースは自動で記事を続報順に整理してグラフ化します。そのため、ユーザは視覚的に現在の検索状態を把握でき、まとめの際もブックマーク記事をいちから整理するという手間が省けます。&lt;/p&gt;
+&lt;p&gt;まるで記事アーカイブという入り組んだ情報の洞窟で、ブックマーク記事が自分の欲しい情報に向かって自動で道を切り開いて（マッピングして）いくといったものになります。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>位置推定が容易な場所の説明文の特徴分析</title>
+      <link>/project_container/itijoho/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/itijoho/</guid>
+      <description>&lt;h2 id=&#34;場所の説明文と人手による推定精度の関係についての分析&#34;&gt;「場所の説明文」と「人手による推定精度」の関係についての分析&lt;/h2&gt;
+&lt;p&gt;「計算科学センタービルの入り口の自転車置き場の横」といった、自然言語で書かれたある場所についての説明文から、その場所がどこであるかの位置推定を人が行うとき、容易に推定可能となる説明文はどのように書かれているのか特徴を分析する。&lt;/p&gt;
+&lt;p&gt;例えば、誰かが交通事故を起こしたときは、連絡を受けた警察や保険会社のオペレーターの人が電話で事故を起こした人がどこにいるのか説明を聞いて、記録をとる必要があります。そのときに絶対に記録する必要がある位置推定を行う際に場所の説明文の重要な要素が分かれば、誰が見ても分かりやすい記録を残せるようになります。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>健康情報を探すユーザの検索行動調査</title>
+      <link>/project_container/kenkojoho/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/kenkojoho/</guid>
+      <description>&lt;h2 id=&#34;健康情報を探すユーザの検索行動に注目した調査&#34;&gt;健康情報を探すユーザの検索行動に注目した調査&lt;/h2&gt;
+&lt;p&gt;本研究では、健康情報を探すユーザの検索行動を調査しています。具体的には、検索キーワードの傾向やウェブページのどこをみて情報が確かであると判断しているかについて調査をしています。&lt;/p&gt;
+&lt;p&gt;ユーザの検索行動調査することで、検索行動の傾向が見えてきます。検索行動の傾向からユーザがあまり探していない情報やウェブページ内で見ていない部分を明らかにできます。このように、現在のユーザの行動の傾向を調査することができます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>水質評価システム</title>
+      <link>/project_container/hoteiaoi/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/hoteiaoi/</guid>
+      <description>&lt;h2 id=&#34;ホテイアオイの葉の画像から水中の窒素量を測る&#34;&gt;ホテイアオイの葉の画像から水中の窒素量を測る&lt;/h2&gt;
+&lt;p&gt;水質評価システムは、植物の葉の画像から水質が分かるシステムです。具体的には、ユーザがスマートフォンでホテイアオイの葉の画像を撮影すると、水中の窒素量のレベルが分かります。ここで、ホテイアオイは、水質汚染の原因となる水中の窒素を吸収し、また、非常に繁殖力が強いことが分かっています。&lt;/p&gt;
+&lt;p&gt;このシステムができると、誰でも簡単に水質評価できるようになります。また、誰かが撮影したホテイアオイの葉の画像をネット上にアップすることで、データベースを構築することも出来ます。さらには、この技術を利用することで、環境問題に関心のない人も、水質汚染のみにとどまらず、マイクロプラスチック問題や地球温暖化といった、私たちにとって重要で身近な環境問題に取り組むきっかけになります。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>発明創造システム</title>
+      <link>/project_container/hatumeiou/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/hatumeiou/</guid>
+      <description>&lt;h2 id=&#34;これであなたも発明王&#34;&gt;これであなたも発明王&lt;/h2&gt;
+&lt;p&gt;皆さん、新たな発明を創造してその利権で大儲けしたくないですか？そんな夢をサポートするシステムを作成中です。先人たちが創造した数多くの発明は、特許として文書にまとめられています。その特許文書をAIに学習させることで、新たな発明のアイデアを皆さんに提案します。発明の創造で重要となる、素材の用途や機能に関する情報を特許文書から抽出し、素材の新たな用途を予測、発明のアイデアとして提案します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>転ばぬ先のAI</title>
+      <link>/project_container/korobanusakinoai/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/korobanusakinoai/</guid>
+      <description>&lt;h2 id=&#34;事故を事前に予測してくれるai&#34;&gt;事故を事前に予測してくれるAI&lt;/h2&gt;
+&lt;p&gt;転ばぬ先のAIとは、私たちの日常生活における行動を自然言語の形式で入力すると、それによって発生が考えられる事故を事前に予測してくれるAIモデルのことです。本取り組みでは、ウェブ上で公開されている事故情報を収集し、機械学習手法によって学習を行わせることで、理想のAIモデルの作成に取り組んでいます。&lt;/p&gt;
+&lt;p&gt;転ばぬ先のAIがあれば、何かの行動をする前の段階で事故リスクを把握できるため、事故への対策が今までよりも簡単になる効果が期待できます。&lt;/p&gt;
+&lt;!-- ※画像の一部は「いらすとや」から引用 --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>連想キャッチコピー生成</title>
+      <link>/project_container/rensocopywriting/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/rensocopywriting/</guid>
+      <description>&lt;h2 id=&#34;連想表現を用い商品の魅力を引き出す同時に消費者に新奇さを与えるキャッチコピー生成システム&#34;&gt;連想表現を用い、商品の魅力を引き出す同時に消費者に新奇さを与えるキャッチコピー生成システム&lt;/h2&gt;
+&lt;p&gt;ポスターの広告では、短い文案で商品のイメージをきちんと伝える同時に、一瞬で興味をもたらす。その理由は、使用された語は商品のドメインと異なっても、商品と同じ特徴を持つことである。例えば、スニーカーの広告文の「しなやかな雪豹」、防視機能付きカーテンの広告文の「透明な秘密」がある。このようなロジカルと想像力を同時に求める課題では、人にとっても簡単にできるわけではない。&lt;/p&gt;
+&lt;p&gt;連想キャッチコピー生成システムを利用し、商品の広告や陳列台のデザイン、イラスト撮影にの支援が期待できる。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;skycar1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>川嶋研、大島研、湯本研、山本研の合同研究会</title>
       <link>/post/2021/0706/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
@@ -167,12 +286,13 @@ type: post
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
 &lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
 &lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;p&gt;大島裕明さんが「日本データベース学会若手功績賞」を受賞しました。&lt;/p&gt;
+&lt;!-- ![](deim_2021_award_mibayashi.jpg) --&gt;
+&lt;p&gt;上田昌輝さんが「DEIM学生プレゼンテーション賞」を受賞しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;DEIM2021ueta.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;三林亮太さんが「DEIM最注目研究賞」を受賞しました。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;deim_2021_award_mibayashi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;上田昌輝さんが「DEIM学生プレゼンテーション賞」を受賞しました。&lt;/p&gt;
-&lt;!-- ![](deim_2021_award_mibayashi.jpg) --&gt;
-&lt;p&gt;大島裕明さんが「日本データベース学会若手功績賞」を受賞しました。&lt;/p&gt;
-&lt;!-- ![](deim_2021_award_mibayashi.jpg) --&gt;</description>
+</description>
     </item>
     
     <item>
@@ -895,126 +1015,6 @@ type: post
       <description>&lt;p&gt;2018年6月22日から23日に開催された第9回ソーシャルコンピューティングシンポジウム（SoC2018）において、
 大島研究室博士前期課程1回生の村本直樹さんが学生奨励賞を受賞しました。&lt;/p&gt;
 &lt;p&gt;SoC2018 Webサイト：http://db-event.jpn.org/soc2018/&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>AI Rap Battle System</title>
-      <link>/project_container/rapbattle/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/rapbattle/</guid>
-      <description>&lt;h2 id=&#34;aiのディスに耐えられるか&#34;&gt;AIのディスに耐えられるか？&lt;/h2&gt;
-&lt;p&gt;　「AI Rap Battle System」は、ラップバトルに特化した対話AIです。自由にラップ（バース）を入力することで、返答となるバースを生成します。&lt;/p&gt;
-&lt;p&gt;　近年、フリースタイルラップの流行によりラップバトルが人気です。しかし、ラップバトルは難しく、初心者にはとっつきにくい競技です。本システムを使うことで、誰でも気軽にラップバトルができます。また、ラップバトルの練習相手や新たな創作の発見につながることが期待されます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Micro Geocoding</title>
-      <link>/project_container/microgeocoding/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/microgeocoding/</guid>
-      <description>&lt;h2 id=&#34;場所の説明文からその場所の緯度経度を推定するシステム&#34;&gt;場所の説明文から，その場所の緯度経度を推定するシステム&lt;/h2&gt;
-&lt;!-- 文で研究紹介 --&gt;
-&lt;p&gt;　ある場所を説明する文章から，その場所の緯度経度を推定する．&lt;a href=&#34;https://www.openstreetmap.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStreetMap&lt;/a&gt;から地理情報を取得し，説明文に応じた処理をすることで場所の推定を行う．&lt;/p&gt;
-&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ --&gt;
-&lt;p&gt;　言葉を使って，現在地を説明しなければならない状況がある．例えば，交通事故に遭ったとき，警察や保険会社に電話をし，事故が発生した場所を伝えなければならない．言葉による説明から場所を特定するためには，聞き手に知識やスキルが必要である．聞き手の能力によって，推定の正確さに差が出ることもあるだろう．このシステムは，聞き手に代わって場所を推定し，聞き手の能力差によって生じる問題を解決する．&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;fig2_geocoding.png&#34; alt=&#34;fig2_geocoding&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Refresh Location Search</title>
-      <link>/project_container/refreshlocation/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/refreshlocation/</guid>
-      <description>&lt;h2 id=&#34;あなたにとってストレス解消となる場所の探索&#34;&gt;あなたにとってストレス解消となる場所の探索&lt;/h2&gt;
-&lt;p&gt;　Refresh Location Searchは，ストレス解消を求めるユーザの人の特徴と，ランドマークの特徴を用いることで，そのユーザにマッチしたストレス解消となる場所の提案を行います．&lt;/p&gt;
-&lt;p&gt;　人がストレスを感じた場合，ストレスを解消する方法として，買い物へ出かけたり，登山をする等が挙げられます．それらには，場所を移動するといったことが共通し，ストレス解消を行う場合場所の移動という行動が重要であることが考えられます．また，ストレス解消を求める場所が馴染み深い場所であれば，自分自身でリフレッシュ場所を探すことも可能ですが，そうでない場合，例えば出先などでリフレッシュ場所を求める場合，Refresh Location Searchを導入することで，ユーザにマッチしたストレス解消場所の探索が容易となり，ストレスの解消につながることが期待されます．&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ブックマーク記事を続報順に自動マッピング</title>
-      <link>/project_container/zidomapping/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/zidomapping/</guid>
-      <description>&lt;h2 id=&#34;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&#34;&gt;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&lt;/h2&gt;
-&lt;!-- 文で研究紹介 --&gt;
-&lt;p&gt;記事アーカイブで検索を行いブックマークした記事集合の中で、どの記事がどの記事の続報かを自動で判断してグラフ化する。&lt;/p&gt;
-&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ --&gt;
-&lt;p&gt;記事アーカイブは新聞記事などを数十年間にわたって保存したものです。記事アーカイブは小中学校のまとめ学習で自分の気になるトピックを調べる際などに用いられます。&lt;/p&gt;
-&lt;p&gt;しかし、従来のWeb検索画面のようなインタフェースは検索とまとめを行うのに不親切であることがあります。例えば、検索を進めていくと最初にブックマークした記事の内容や記事間の関係性を忘れることがあります。一度読んだ記事を再度読み返して内容を把握するのは面倒な作業です。&lt;/p&gt;
-&lt;p&gt;そこで、ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェースを提案しています。新聞記事は出来事に対し少しずつ新情報を報道します。従来のインタフェースではユーザは記事同士の続報関係を記憶にとどめたまま検索を行わなければなりませんが、提案するインタフェースは自動で記事を続報順に整理してグラフ化します。そのため、ユーザは視覚的に現在の検索状態を把握でき、まとめの際もブックマーク記事をいちから整理するという手間が省けます。&lt;/p&gt;
-&lt;p&gt;まるで記事アーカイブという入り組んだ情報の洞窟で、ブックマーク記事が自分の欲しい情報に向かって自動で道を切り開いて（マッピングして）いくといったものになります。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>位置推定が容易な場所の説明文の特徴分析</title>
-      <link>/project_container/itijoho/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/itijoho/</guid>
-      <description>&lt;h2 id=&#34;場所の説明文と人手による推定精度の関係についての分析&#34;&gt;「場所の説明文」と「人手による推定精度」の関係についての分析&lt;/h2&gt;
-&lt;p&gt;　「計算科学センタービルの入り口の自転車置き場の横」といった、自然言語で書かれたある場所についての説明文から、その場所がどこであるかの位置推定を人が行うとき、容易に推定可能となる説明文はどのように書かれているのか特徴を分析する。&lt;/p&gt;
-&lt;p&gt;　例えば、誰かが交通事故を起こしたときは、連絡を受けた警察や保険会社のオペレーターの人が電話で事故を起こした人がどこにいるのか説明を聞いて、記録をとる必要があります。そのときに絶対に記録する必要がある位置推定を行う際に場所の説明文の重要な要素が分かれば、誰が見ても分かりやすい記録を残せるようになります。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>健康情報を探すユーザの検索行動調査</title>
-      <link>/project_container/kenkojoho/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/kenkojoho/</guid>
-      <description>&lt;h2 id=&#34;健康情報を探すユーザの検索行動に注目した調査&#34;&gt;健康情報を探すユーザの検索行動に注目した調査&lt;/h2&gt;
-&lt;p&gt;　本研究では、健康情報を探すユーザの検索行動を調査しています。具体的には、検索キーワードの傾向やウェブページのどこをみて情報が確かであると判断しているかについて調査をしています。&lt;/p&gt;
-&lt;p&gt;　ユーザの検索行動調査することで、検索行動の傾向が見えてきます。検索行動の傾向からユーザがあまり探していない情報やウェブページ内で見ていない部分を明らかにできます。このように、現在のユーザの行動の傾向を調査することができます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>水質評価システム</title>
-      <link>/project_container/hoteiaoi/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/hoteiaoi/</guid>
-      <description>&lt;h2 id=&#34;ホテイアオイの葉の画像から水中の窒素量を測る&#34;&gt;ホテイアオイの葉の画像から水中の窒素量を測る&lt;/h2&gt;
-&lt;p&gt;　水質評価システムは，植物の葉の画像から水質が分かるシステムです．具体的には，ユーザがスマートフォンでホテイアオイの葉の画像を撮影すると，水中の窒素量のレベルが分かります．ここで，ホテイアオイは，水質汚染の原因となる水中の窒素を吸収し，また，非常に繁殖力が強いことが分かっています．&lt;/p&gt;
-&lt;p&gt;　このシステムができると，誰でも簡単に水質評価できるようになります．また，誰かが撮影したホテイアオイの葉の画像をネット上にアップすることで，データベースを構築することも出来ます．さらには，この技術を利用することで，環境問題に関心のない人も，水質汚染のみにとどまらず，マイクロプラスチック問題や地球温暖化といった，私たちにとって重要で身近な環境問題に取り組むきっかけになります．&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>発明創造システム</title>
-      <link>/project_container/hatumeiou/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/hatumeiou/</guid>
-      <description>&lt;h2 id=&#34;これであなたも発明王&#34;&gt;これであなたも発明王&lt;/h2&gt;
-&lt;p&gt;　皆さん，新たな発明を創造してその利権で大儲けしたくないですか？そんな夢をサポートするシステムを作成中です．先人たちが創造した数多くの発明は，特許として文書にまとめられています．その特許文書をAIに学習させることで，新たな発明のアイデアを皆さんに提案します．発明の創造で重要となる，素材の用途や機能に関する情報を特許文書から抽出し，素材の新たな用途を予測，発明のアイデアとして提案します．&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>転ばぬ先のAI</title>
-      <link>/project_container/korobanusakinoai/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/korobanusakinoai/</guid>
-      <description>&lt;h2 id=&#34;事故を事前に予測してくれるai&#34;&gt;事故を事前に予測してくれるAI&lt;/h2&gt;
-&lt;p&gt;　転ばぬ先のAIとは、私たちの日常生活における行動を自然言語の形式で入力すると、それによって発生が考えられる事故を事前に予測してくれるAIモデルのことです。本取り組みでは、ウェブ上で公開されている事故情報を収集し、機械学習手法によって学習を行わせることで、理想のAIモデルの作成に取り組んでいます。&lt;/p&gt;
-&lt;p&gt;　転ばぬ先のAIがあれば、何かの行動をする前の段階で事故リスクを把握できるため、事故への対策が今までよりも簡単になる効果が期待できます。&lt;/p&gt;
-&lt;!-- ※　画像の一部は「いらすとや」から引用 --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>連想キャッチコピー生成</title>
-      <link>/project_container/rensocopywriting/</link>
-      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project_container/rensocopywriting/</guid>
-      <description>&lt;h2 id=&#34;連想表現を用い商品の魅力を引き出す同時に消費者に新奇さを与えるキャッチコピー生成システム&#34;&gt;連想表現を用い、商品の魅力を引き出す同時に消費者に新奇さを与えるキャッチコピー生成システム&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;sakura.png&#34; alt=&#34;ふんわりとした桜餅&#34;&gt;&lt;/p&gt;
-&lt;p&gt;　ポスターの広告では,短い文案で商品のイメージをきちんと伝える同時に,一瞬で興味をもたらす.その理由は,使用された語は商品のドメインと異なっても,商品と同じ特徴を持つことである.例えば,スニーカーの広告文の「しなやかな雪豹」,防視機能付きカーテンの広告文の「透明な秘密」がある.このようなロジカルと想像力を同時に求める課題では,人にとっても簡単にできるわけではない.&lt;/p&gt;
-&lt;p&gt;　連想キャッチコピー生成システムを利用し、商品の広告や陳列台のデザイン、イラスト撮影にの支援が期待できる。&lt;/p&gt;
-</description>
     </item>
     
     <item>
