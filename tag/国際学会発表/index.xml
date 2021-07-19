@@ -5,7 +5,7 @@
     <link>/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
       <atom:link href="/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>国際学会発表</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>国際学会発表</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>濵島 聡一郎さんの論文が AAI 2021 に採録されました</title>
-      <link>/post/2021/0601/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0601/</guid>
+      <title>濵島 聡一郎さんが AAI 2021 で発表しました</title>
+      <link>/post/2021/0716/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021/0716/</guid>
       <description>&lt;!-- ---
 title: 濵島 聡一郎さんの論文が AAI 2021 に採録されました
 date: 2021-06-01
@@ -30,12 +30,15 @@ type: post
   + 複数名同学会の場合はあいうえお順で「大島研のn件論文が」
   + 研究室単位の時は「大島研の論文が」
   + バリエーションは「論文が採録されました」「が発表しました」「論文が受賞しました」ぐらい？ --&gt;
-&lt;p&gt;濵島 聡一郎さんの論文が「9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021)」に採録されました。&lt;/p&gt;
+&lt;!-- 濵島 聡一郎さんの論文が「9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021)」に採録されました。 --&gt;
+&lt;p&gt;濵島 聡一郎さんが「9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021)」で発表しました。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://iaiai.org/conference/aai2021/conferences/scai-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &amp;ldquo;Investigating Users’ Query Formulations in Consumer Health Search&amp;rdquo;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;2021年の7月11日～16日に発表予定。&lt;/p&gt;
+&lt;!-- 2021年の7月11日～16日に発表予定。 --&gt;
+&lt;p&gt;2021年の7月11日～16日に発表。
+&lt;img src=&#34;hamajima_20210716.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;

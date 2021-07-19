@@ -63,7 +63,7 @@ type: post
 &lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
 &lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
 &lt;p&gt;大島裕明さんが「日本データベース学会若手功績賞」を受賞しました。&lt;/p&gt;
-&lt;!-- ![](deim_2021_award_mibayashi.jpg) --&gt;
+&lt;p&gt;&lt;img src=&#34;ohshima_wakate.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;上田昌輝さんが「DEIM学生プレゼンテーション賞」を受賞しました。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;DEIM2021ueta.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;三林亮太さんが「DEIM最注目研究賞」を受賞しました。&lt;/p&gt;
