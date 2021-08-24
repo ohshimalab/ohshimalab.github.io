@@ -72,6 +72,16 @@ type: post
     </item>
     
     <item>
+      <title>三林さんが WISS 2020 で萌芽発表賞を受賞しました</title>
+      <link>/post/2020/1218/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020/1218/</guid>
+      <description>&lt;p&gt;三林 亮太さんが「第28回インタラクティブシステムとソフトウェアに関するワークショップ」で発表し、萌芽発表賞を受賞しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wiss.org/WISS2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;!-- + Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &#34;Investigating Users’ Query Formulations in Consumer Health Search&#34;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021. --&gt;</description>
+    </item>
+    
+    <item>
       <title>第139回情報基礎とアクセス技術研究発表会 参加報告</title>
       <link>/post/2020/0731/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
@@ -80,9 +90,9 @@ type: post
 &lt;h4 id=&#34;場所オンライン&#34;&gt;場所：オンライン&lt;/h4&gt;
 &lt;h4 id=&#34;公式-web-ページhttpswwwipsjorjpkenkyukaieventifat139html&#34;&gt;公式 Web ページ：https://www.ipsj.or.jp/kenkyukai/event/IFAT139.html&lt;/h4&gt;
 &lt;p&gt;上記日程にて、オンライン開催されました、 第 139 回情報基礎とアクセス技術研究発表会に参加しました。大島研究室からは、松本さんが口頭発表を行いました。詳細については以下のとおりです。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;「時間的推移を考慮した報道トピックの抽出と再構成」
-　松本 直彰、湯本 高行、山本 岳洋、大島 裕明
-&lt;/code&gt;&lt;/pre&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;松本 直彰, 湯本 高行, 山本 岳洋, 大島 裕明: 「時間的推移を考慮した報道トピックの抽出と再構成」, 研究報告情報基礎とアクセス技術 (IFAT), 2020(1),1-6, 2020年.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -205,6 +215,53 @@ type: post
 
   
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>大島研究室のメンバーがDEIM2020で発表しました</title>
+      <link>/post/2020/0304/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020/0304/</guid>
+      <description>&lt;!-- ---
+title: 濵島 聡一郎さんの論文が AAI 2021 に採録されました
+date: 2021-06-01
+subtitle: &#34;&#34;
+tags: [&#34;国際学会発表&#34;]
+type: post
+---
+
++ titile
+  + [第一著者]さんの論文が[学会短縮名]に採録されました
+  + 複数名同学会の場合はあいうえお順で「大島研のn件論文が」
+  + 研究室単位の時は「大島研の論文が」
+  + バリエーションは「論文が採録されました」「で発表しました」「論文が受賞しました」ぐらい？ --&gt;
+&lt;p&gt;大島研究室のメンバーが、2020年の3月2日～4日に開催された「第12回データ工学と情報マネジメントに関するフォーラム（DEIM2020）」で発表しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://db-event.jpn.org/deim2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://db-event.jpn.org/deim2020/post/proceedings/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;最終論文集ページ&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;堂本凌祐, 申吉浩, 大島裕明: 「特徴値選択における正規化相互情報量と分類正解率の関係分析」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), E8-2, 2020年3月.&lt;/li&gt;
+&lt;li&gt;楊澤華, 莊司慶行, 山本岳洋, 山本祐輔, 白石晃一, 相原健郎, 神門典子, 大島裕明: 「個人の鑑賞軸獲得のためのミュージアム事前学習システム」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), B4-4, 2020年3月.&lt;/li&gt;
+&lt;li&gt;村本直樹, 橋口友哉, 藤田澄男, 申吉浩, 山本岳洋, 湯本高行, 大島裕明: 「消費者の語彙と販売者の語彙の類似性を考慮した商品検索」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), D4-1, 2020年3月.&lt;/li&gt;
+&lt;li&gt;崔洙瑚, 木村塁, 南川敦宣, 黒柳茂, 申吉浩, 大島裕明: 「ウェブ広告閲覧履歴を用いたユーザ属性の推定」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), F2-4, 2020年3月.&lt;/li&gt;
+&lt;li&gt;中田祐誠, 村本直樹, 山本岳洋, 藤田澄男, 大島裕明: 「ウェブ検索ログを用いたユーザの商品購買行動予測」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), A5-4, 2020年3月.&lt;/li&gt;
+&lt;li&gt;橋口友哉, 山本岳洋, 藤田澄男, 大島裕明: 「CQAコンテンツからの類似する悩みの発見」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), D6-4, 2020年3月.&lt;/li&gt;
+&lt;li&gt;ファム フーロン, マハルジャン ラビン, 橋口友哉, 白石晃一, 山本岳洋, 山本祐輔, 大島裕明: 「センサデバイスからの行動認識と話題生成による独居高齢者のコミュニケーション促進」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), J6-1, 2020年3月.&lt;/li&gt;
+&lt;li&gt;顧席銘, 森川優, 稲村直樹, 小渕浩希, 大島裕明: 「半教師あり学習を用いた雲の種類と状態の分類」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), E8-1, 2020年3月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
     </item>
     
     <item>

@@ -65,13 +65,14 @@ type: post
 &lt;h4 id=&#34;公式-web-ページntcir15httpresearchniiacjpntcirntcir-15conferencehtml&#34;&gt;公式 Web ページ：&lt;a href=&#34;http://research.nii.ac.jp/ntcir/ntcir-15/conference.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ntcir15&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;上記日程にて、オンライン開催されました、The 15th NTCIR Conferenceに参加しました。大島研究室からは、三林さんと吉村さんが口頭発表を行いました。詳細については以下のとおりです。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;behavioral-classification-using-feature-selection-in-the-micro-activity-retrieval-task&#34;&gt;Behavioral Classification Using Feature Selection in the Micro Activity Retrieval Task&lt;/h3&gt;
-&lt;p&gt;　
-&lt;code&gt;Takuma Yoshimura, Huu-Long Pham, Ryota Mibayashi, Rui Kimura, Hiroaki Ohshima&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Takuma Yoshimura, Pham Huulong, Ryota Mibayashi, Rui Kimura and Hiroaki Ohshima: &amp;ldquo;Behavioral Classification Using Feature Selection in the Micro Activity Retrieval Task&amp;rdquo;, NTCIR 15 Conference: Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies, December 8-11, 2020 Tokyo Japan&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;Screenshot%20from%202021-01-13%2016-54-44.png&#34; alt=&#34;FS,FVS&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;uhai-at-the-ntcir-15-data-search-task&#34;&gt;Uhai at the NTCIR-15 Data Search Task&lt;/h3&gt;
-&lt;p&gt;　&lt;code&gt;Ryota Mibayashi, Huu-Long Pham, Takuma Yoshimura, Takehiro Yamamoto, Hiroaki Ohshima&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryota Mibayashi, Huulong Pham, Naoaki Matsumoto, Takehiro Yamamoto and Hiroaki Ohshima: &amp;ldquo;Uhai at the NTCIR-15 Data Search task&amp;rdquo;, NTCIR 15 Conference: Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies, December 8-11, 2020 Tokyo Japan&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;uhai.png&#34; alt=&#34;FS,FVS&#34;&gt;&lt;/p&gt;</description>
     </item>
     

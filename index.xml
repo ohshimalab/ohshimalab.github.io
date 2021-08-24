@@ -172,6 +172,9 @@ type: post
       <description>&lt;h2 id=&#34;aiのディスに耐えられるか&#34;&gt;AIのディスに耐えられるか？&lt;/h2&gt;
 &lt;p&gt;「AI Rap Battle System」は、ラップバトルに特化した対話AIです。自由にラップ（バース）を入力することで、返答となるバースを生成します。&lt;/p&gt;
 &lt;p&gt;近年、フリースタイルラップの流行によりラップバトルが人気です。しかし、ラップバトルは難しく、初心者にはとっつきにくい競技です。本システムを使うことで、誰でも気軽にラップバトルができます。また、ラップバトルの練習相手や新たな創作の発見につながることが期待されます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;三林 亮太, 橋口 友哉, 山本 岳洋, 大島 裕明: 「ラップバトルにおけるライムの意味類似性を考慮したバース生成」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F14-5, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -205,6 +208,9 @@ type: post
       <description>&lt;h2 id=&#34;あなたにとってストレス解消となる場所の探索&#34;&gt;あなたにとってストレス解消となる場所の探索&lt;/h2&gt;
 &lt;p&gt;Refresh Location Searchは、ストレス解消を求めるユーザの人の特徴と、ランドマークの特徴を用いることで、そのユーザにマッチしたストレス解消となる場所の提案を行います。&lt;/p&gt;
 &lt;p&gt;人がストレスを感じた場合、ストレスを解消する方法として、買い物へ出かけたり、登山をする等が挙げられます。それらには、場所を移動するといったことが共通し、ストレス解消を行う場合場所の移動という行動が重要であることが考えられます。また、ストレス解消を求める場所が馴染み深い場所であれば、自分自身でリフレッシュ場所を探すことも可能ですが、そうでない場合、例えば出先などでリフレッシュ場所を求める場合、Refresh Location Searchを導入することで、ユーザにマッチしたストレス解消場所の探索が容易となり、ストレスの解消につながることが期待されます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;吉村 拓真, ファム フーロン, 和田 真弥, 大島 裕明: 「空間的特徴量とパーソナリティ分析を用いたストレス推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), J33-3, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -221,6 +227,9 @@ type: post
 &lt;p&gt;そこで、ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェースを提案しています。新聞記事は出来事に対し少しずつ新情報を報道します。従来のインタフェースではユーザは記事同士の続報関係を記憶にとどめたまま検索を行わなければなりませんが、提案するインタフェースは自動で記事を続報順に整理してグラフ化します。そのため、ユーザは視覚的に現在の検索状態を把握でき、まとめの際もブックマーク記事をいちから整理するという手間が省けます。&lt;/p&gt;
 &lt;p&gt;まるで記事アーカイブという入り組んだ情報の洞窟で、ブックマーク記事が自分の欲しい情報に向かって自動で道を切り開いて（マッピングして）いくといったものになります。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;松本 直彰, 湯本 高行, 山本 岳洋, 大島 裕明: 「ニュースアーカイブ探索のための記事間の関係抽出とその可視化」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F25-3, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -232,6 +241,9 @@ type: post
       <description>&lt;h2 id=&#34;場所の説明文と人手による推定精度の関係についての分析&#34;&gt;「場所の説明文」と「人手による推定精度」の関係についての分析&lt;/h2&gt;
 &lt;p&gt;「計算科学センタービルの入り口の自転車置き場の横」といった、自然言語で書かれたある場所についての説明文から、その場所がどこであるかの位置推定を人が行うとき、容易に推定可能となる説明文はどのように書かれているのか特徴を分析する。&lt;/p&gt;
 &lt;p&gt;例えば、誰かが交通事故を起こしたときは、連絡を受けた警察や保険会社のオペレーターの人が電話で事故を起こした人がどこにいるのか説明を聞いて、記録をとる必要があります。そのときに絶対に記録する必要がある位置推定を行う際に場所の説明文の重要な要素が分かれば、誰が見ても分かりやすい記録を残せるようになります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;坂根 和光, 山本 岳洋, 澤田 祥一, 大塚 一路, 山本 光穂, 大島 裕明: 「自然言語からの緯度経度推定に向けた説明文収集とパターン分析」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), H33-2, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -243,6 +255,10 @@ type: post
       <description>&lt;h2 id=&#34;健康情報を探すユーザの検索行動に注目した調査&#34;&gt;健康情報を探すユーザの検索行動に注目した調査&lt;/h2&gt;
 &lt;p&gt;本研究では、健康情報を探すユーザの検索行動を調査しています。具体的には、検索キーワードの傾向やウェブページのどこをみて情報が確かであると判断しているかについて調査をしています。&lt;/p&gt;
 &lt;p&gt;ユーザの検索行動調査することで、検索行動の傾向が見えてきます。検索行動の傾向からユーザがあまり探していない情報やウェブページ内で見ていない部分を明らかにできます。このように、現在のユーザの行動の傾向を調査することができます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;浜島 聡一郎, 山本 岳洋, 大島 裕明: 「健康情報検索におけるユーザのクエリ作成能力の検証」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F11-4, 2021年3月.&lt;/li&gt;
+&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &amp;ldquo;Investigating Users’ Query Formulations in Consumer Health Search&amp;rdquo;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -275,6 +291,9 @@ type: post
       <description>&lt;h2 id=&#34;事故を事前に予測してくれるai&#34;&gt;事故を事前に予測してくれるAI&lt;/h2&gt;
 &lt;p&gt;転ばぬ先のAIとは、私たちの日常生活における行動を自然言語の形式で入力すると、それによって発生が考えられる事故を事前に予測してくれるAIモデルのことです。本取り組みでは、ウェブ上で公開されている事故情報を収集し、機械学習手法によって学習を行わせることで、理想のAIモデルの作成に取り組んでいます。&lt;/p&gt;
 &lt;p&gt;転ばぬ先のAIがあれば、何かの行動をする前の段階で事故リスクを把握できるため、事故への対策が今までよりも簡単になる効果が期待できます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;川原 敬史, 橋口 友哉, 湯本 高行, 大島 裕明: 「事故概要説明文の文脈理解による傷病の程度の推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), C25-2, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!-- ※画像の一部は「いらすとや」から引用 --&gt;
 </description>
     </item>
@@ -385,6 +404,16 @@ type: post
     </item>
     
     <item>
+      <title>三林さんが WISS 2020 で萌芽発表賞を受賞しました</title>
+      <link>/post/2020/1218/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020/1218/</guid>
+      <description>&lt;p&gt;三林 亮太さんが「第28回インタラクティブシステムとソフトウェアに関するワークショップ」で発表し、萌芽発表賞を受賞しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wiss.org/WISS2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;!-- + Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &#34;Investigating Users’ Query Formulations in Consumer Health Search&#34;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021. --&gt;</description>
+    </item>
+    
+    <item>
       <title>The 15th NTCIR Conference 参加報告</title>
       <link>/post/2020/1225/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
@@ -394,13 +423,14 @@ type: post
 &lt;h4 id=&#34;公式-web-ページntcir15httpresearchniiacjpntcirntcir-15conferencehtml&#34;&gt;公式 Web ページ：&lt;a href=&#34;http://research.nii.ac.jp/ntcir/ntcir-15/conference.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ntcir15&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;上記日程にて、オンライン開催されました、The 15th NTCIR Conferenceに参加しました。大島研究室からは、三林さんと吉村さんが口頭発表を行いました。詳細については以下のとおりです。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;behavioral-classification-using-feature-selection-in-the-micro-activity-retrieval-task&#34;&gt;Behavioral Classification Using Feature Selection in the Micro Activity Retrieval Task&lt;/h3&gt;
-&lt;p&gt;　
-&lt;code&gt;Takuma Yoshimura, Huu-Long Pham, Ryota Mibayashi, Rui Kimura, Hiroaki Ohshima&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Takuma Yoshimura, Pham Huulong, Ryota Mibayashi, Rui Kimura and Hiroaki Ohshima: &amp;ldquo;Behavioral Classification Using Feature Selection in the Micro Activity Retrieval Task&amp;rdquo;, NTCIR 15 Conference: Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies, December 8-11, 2020 Tokyo Japan&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;Screenshot%20from%202021-01-13%2016-54-44.png&#34; alt=&#34;FS,FVS&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;uhai-at-the-ntcir-15-data-search-task&#34;&gt;Uhai at the NTCIR-15 Data Search Task&lt;/h3&gt;
-&lt;p&gt;　&lt;code&gt;Ryota Mibayashi, Huu-Long Pham, Takuma Yoshimura, Takehiro Yamamoto, Hiroaki Ohshima&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryota Mibayashi, Huulong Pham, Naoaki Matsumoto, Takehiro Yamamoto and Hiroaki Ohshima: &amp;ldquo;Uhai at the NTCIR-15 Data Search task&amp;rdquo;, NTCIR 15 Conference: Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies, December 8-11, 2020 Tokyo Japan&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;uhai.png&#34; alt=&#34;FS,FVS&#34;&gt;&lt;/p&gt;</description>
     </item>
     
@@ -413,9 +443,9 @@ type: post
 &lt;h4 id=&#34;場所オンライン&#34;&gt;場所：オンライン&lt;/h4&gt;
 &lt;h4 id=&#34;公式-web-ページhttpswwwipsjorjpkenkyukaieventifat139html&#34;&gt;公式 Web ページ：https://www.ipsj.or.jp/kenkyukai/event/IFAT139.html&lt;/h4&gt;
 &lt;p&gt;上記日程にて、オンライン開催されました、 第 139 回情報基礎とアクセス技術研究発表会に参加しました。大島研究室からは、松本さんが口頭発表を行いました。詳細については以下のとおりです。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;「時間的推移を考慮した報道トピックの抽出と再構成」
-　松本 直彰、湯本 高行、山本 岳洋、大島 裕明
-&lt;/code&gt;&lt;/pre&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;松本 直彰, 湯本 高行, 山本 岳洋, 大島 裕明: 「時間的推移を考慮した報道トピックの抽出と再構成」, 研究報告情報基礎とアクセス技術 (IFAT), 2020(1),1-6, 2020年.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -538,6 +568,53 @@ type: post
 
   
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>大島研究室のメンバーがDEIM2020で発表しました</title>
+      <link>/post/2020/0304/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020/0304/</guid>
+      <description>&lt;!-- ---
+title: 濵島 聡一郎さんの論文が AAI 2021 に採録されました
+date: 2021-06-01
+subtitle: &#34;&#34;
+tags: [&#34;国際学会発表&#34;]
+type: post
+---
+
++ titile
+  + [第一著者]さんの論文が[学会短縮名]に採録されました
+  + 複数名同学会の場合はあいうえお順で「大島研のn件論文が」
+  + 研究室単位の時は「大島研の論文が」
+  + バリエーションは「論文が採録されました」「で発表しました」「論文が受賞しました」ぐらい？ --&gt;
+&lt;p&gt;大島研究室のメンバーが、2020年の3月2日～4日に開催された「第12回データ工学と情報マネジメントに関するフォーラム（DEIM2020）」で発表しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://db-event.jpn.org/deim2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://db-event.jpn.org/deim2020/post/proceedings/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;最終論文集ページ&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;堂本凌祐, 申吉浩, 大島裕明: 「特徴値選択における正規化相互情報量と分類正解率の関係分析」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), E8-2, 2020年3月.&lt;/li&gt;
+&lt;li&gt;楊澤華, 莊司慶行, 山本岳洋, 山本祐輔, 白石晃一, 相原健郎, 神門典子, 大島裕明: 「個人の鑑賞軸獲得のためのミュージアム事前学習システム」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), B4-4, 2020年3月.&lt;/li&gt;
+&lt;li&gt;村本直樹, 橋口友哉, 藤田澄男, 申吉浩, 山本岳洋, 湯本高行, 大島裕明: 「消費者の語彙と販売者の語彙の類似性を考慮した商品検索」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), D4-1, 2020年3月.&lt;/li&gt;
+&lt;li&gt;崔洙瑚, 木村塁, 南川敦宣, 黒柳茂, 申吉浩, 大島裕明: 「ウェブ広告閲覧履歴を用いたユーザ属性の推定」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), F2-4, 2020年3月.&lt;/li&gt;
+&lt;li&gt;中田祐誠, 村本直樹, 山本岳洋, 藤田澄男, 大島裕明: 「ウェブ検索ログを用いたユーザの商品購買行動予測」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), A5-4, 2020年3月.&lt;/li&gt;
+&lt;li&gt;橋口友哉, 山本岳洋, 藤田澄男, 大島裕明: 「CQAコンテンツからの類似する悩みの発見」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), D6-4, 2020年3月.&lt;/li&gt;
+&lt;li&gt;ファム フーロン, マハルジャン ラビン, 橋口友哉, 白石晃一, 山本岳洋, 山本祐輔, 大島裕明: 「センサデバイスからの行動認識と話題生成による独居高齢者のコミュニケーション促進」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), J6-1, 2020年3月.&lt;/li&gt;
+&lt;li&gt;顧席銘, 森川優, 稲村直樹, 小渕浩希, 大島裕明: 「半教師あり学習を用いた雲の種類と状態の分類」, 電子情報通信学会, 第12回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2020), E8-1, 2020年3月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
     </item>
     
     <item>
