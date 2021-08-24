@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>事故情報 | OHSHIMA LAB.</title>
+    <link>/tag/%E4%BA%8B%E6%95%85%E6%83%85%E5%A0%B1/</link>
+      <atom:link href="/tag/%E4%BA%8B%E6%95%85%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>事故情報</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>事故情報</title>
+      <link>/tag/%E4%BA%8B%E6%95%85%E6%83%85%E5%A0%B1/</link>
+    </image>
+    
+    <item>
+      <title>転ばぬ先のAI</title>
+      <link>/project_container/korobanusakinoai/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/korobanusakinoai/</guid>
+      <description>&lt;h2 id=&#34;事故を事前に予測してくれるai&#34;&gt;事故を事前に予測してくれるAI&lt;/h2&gt;
+&lt;p&gt;転ばぬ先のAIとは、私たちの日常生活における行動を自然言語の形式で入力すると、それによって発生が考えられる事故を事前に予測してくれるAIモデルのことです。本取り組みでは、ウェブ上で公開されている事故情報を収集し、機械学習手法によって学習を行わせることで、理想のAIモデルの作成に取り組んでいます。&lt;/p&gt;
+&lt;p&gt;転ばぬ先のAIがあれば、何かの行動をする前の段階で事故リスクを把握できるため、事故への対策が今までよりも簡単になる効果が期待できます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;川原 敬史, 橋口 友哉, 湯本 高行, 大島 裕明: 「事故概要説明文の文脈理解による傷病の程度の推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), C25-2, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ※画像の一部は「いらすとや」から引用 --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
