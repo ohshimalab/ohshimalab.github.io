@@ -31,6 +31,11 @@ type: post
   + 研究室単位の時は「大島研の論文が」
   + バリエーションは「論文が採録されました」「で発表しました」「論文が受賞しました」ぐらい？ --&gt;
 &lt;p&gt;大島研究室のメンバーが、2021年の3月1日～3日に開催された「第13回データ工学と情報マネジメントに関するフォーラム（DEIM2021）」で発表しました。&lt;/p&gt;
+&lt;p&gt;大島裕明先生が「日本データベース学会若手功績賞」を受賞しました。&lt;/p&gt;
+&lt;p&gt;上田昌輝さんが「DEIM学生プレゼンテーション賞」を受賞しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;DEIM2021ueta.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;三林亮太さんが「DEIM最注目研究賞」を受賞しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;deim_2021_award_mibayashi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://db-event.jpn.org/deim2021/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://proceedings-of-deim.github.io/DEIM2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;最終論文集ページ&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -61,24 +66,19 @@ type: post
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
 &lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
-&lt;p&gt;大島裕明さんが「日本データベース学会若手功績賞」を受賞しました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;ohshima_wakate.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;上田昌輝さんが「DEIM学生プレゼンテーション賞」を受賞しました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;DEIM2021ueta.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;三林亮太さんが「DEIM最注目研究賞」を受賞しました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;deim_2021_award_mibayashi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- &lt;!-- 同学会複数名の場合は並べて良い感じにして -- --&gt;
+&lt;!-- ![](ohshima_wakate.jpg) --&gt;
 </description>
     </item>
     
     <item>
-      <title>三林さんが WISS 2020 で萌芽発表賞を受賞しました</title>
+      <title>三林亮太さんが WISS 2020 で萌芽発表賞を受賞しました</title>
       <link>/post/2020/1218/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/post/2020/1218/</guid>
-      <description>&lt;p&gt;三林 亮太さんが「第28回インタラクティブシステムとソフトウェアに関するワークショップ」で発表し、萌芽発表賞を受賞しました。
-&lt;img src=&#34;mibayashi.jpg&#34; alt=&#34;&#34;&gt;
-&lt;a href=&#34;https://www.wiss.org/WISS2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;三林 亮太さんが「第28回インタラクティブシステムとソフトウェアに関するワークショップ」で発表し、萌芽発表賞を受賞しました。&lt;/p&gt;
+&lt;!-- ![](mibayashi.jpg) --&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wiss.org/WISS2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
 &lt;!-- + Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &#34;Investigating Users’ Query Formulations in Consumer Health Search&#34;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021. --&gt;</description>
     </item>
     
