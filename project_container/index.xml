@@ -51,7 +51,7 @@
 &lt;ul&gt;
 &lt;li&gt;吉村 拓真, ファム フーロン, 和田 真弥, 大島 裕明: 「空間的特徴量とパーソナリティ分析を用いたストレス推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), J33-3, 2021年3月.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/HV-Oum4N1Wk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
@@ -70,7 +70,7 @@
 &lt;ul&gt;
 &lt;li&gt;松本 直彰, 湯本 高行, 山本 岳洋, 大島 裕明: 「ニュースアーカイブ探索のための記事間の関係抽出とその可視化」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F25-3, 2021年3月.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cve4ufy9TRc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
@@ -84,7 +84,7 @@
 &lt;ul&gt;
 &lt;li&gt;坂根 和光, 山本 岳洋, 澤田 祥一, 大塚 一路, 山本 光穂, 大島 裕明: 「自然言語からの緯度経度推定に向けた説明文収集とパターン分析」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), H33-2, 2021年3月.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/I7xbdYrJLJo&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@
 &lt;li&gt;浜島 聡一郎, 山本 岳洋, 大島 裕明: 「健康情報検索におけるユーザのクエリ作成能力の検証」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F11-4, 2021年3月.&lt;/li&gt;
 &lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &amp;ldquo;Investigating Users’ Query Formulations in Consumer Health Search&amp;rdquo;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/OAEsdA8YYlI&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
@@ -110,6 +110,7 @@
       <description>&lt;h2 id=&#34;ホテイアオイの葉の画像から水中の窒素量を測る&#34;&gt;ホテイアオイの葉の画像から水中の窒素量を測る&lt;/h2&gt;
 &lt;p&gt;水質評価システムは、植物の葉の画像から水質が分かるシステムです。具体的には、ユーザがスマートフォンでホテイアオイの葉の画像を撮影すると、水中の窒素量のレベルが分かります。ここで、ホテイアオイは、水質汚染の原因となる水中の窒素を吸収し、また、非常に繁殖力が強いことが分かっています。&lt;/p&gt;
 &lt;p&gt;このシステムができると、誰でも簡単に水質評価できるようになります。また、誰かが撮影したホテイアオイの葉の画像をネット上にアップすることで、データベースを構築することも出来ます。さらには、この技術を利用することで、環境問題に関心のない人も、水質汚染のみにとどまらず、マイクロプラスチック問題や地球温暖化といった、私たちにとって重要で身近な環境問題に取り組むきっかけになります。&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/xL77IpaTcu0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -120,7 +121,7 @@
       <guid>/project_container/hatumeiou/</guid>
       <description>&lt;h2 id=&#34;これであなたも発明王&#34;&gt;これであなたも発明王&lt;/h2&gt;
 &lt;p&gt;皆さん、新たな発明を創造してその利権で大儲けしたくないですか？そんな夢をサポートするシステムを作成中です。先人たちが創造した数多くの発明は、特許として文書にまとめられています。その特許文書をAIに学習させることで、新たな発明のアイデアを皆さんに提案します。発明の創造で重要となる、素材の用途や機能に関する情報を特許文書から抽出し、素材の新たな用途を予測、発明のアイデアとして提案します。&lt;/p&gt;
-</description>
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/5V-5h7063p8&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
@@ -147,6 +148,7 @@
 &lt;p&gt;ポスターの広告では、短い文案で商品のイメージをきちんと伝える同時に、一瞬で興味をもたらす。その理由は、使用された語は商品のドメインと異なっても、商品と同じ特徴を持つことである。例えば、スニーカーの広告文の「しなやかな雪豹」、防視機能付きカーテンの広告文の「透明な秘密」がある。このようなロジカルと想像力を同時に求める課題では、人にとっても簡単にできるわけではない。&lt;/p&gt;
 &lt;p&gt;連想キャッチコピー生成システムを利用し、商品の広告や陳列台のデザイン、イラスト撮影にの支援が期待できる。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;skycar1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cFUPU7cqO7Q&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
