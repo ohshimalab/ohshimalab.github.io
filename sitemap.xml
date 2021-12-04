@@ -22,13 +22,19 @@
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2021/1129/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+    <loc>/post/2021/1204/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E7%99%BA%E8%A1%A8/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2021/1129/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/%E7%A0%94%E7%A9%B6%E5%AE%A4/</loc>
@@ -264,8 +270,6 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/post/2021/1204/</loc>
-  </url><url>
     <loc>/access/</loc>
   </url><url>
     <loc>/colabs/</loc>
@@ -275,8 +279,6 @@
     <loc>/admission/</loc>
   </url><url>
     <loc>/faculty/</loc>
-  </url><url>
-    <loc>/tag/%E7%99%BA%E8%A1%A8/</loc>
   </url><url>
     <loc>/members/</loc>
   </url><url>
