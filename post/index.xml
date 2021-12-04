@@ -1199,5 +1199,34 @@ type: post
 &lt;p&gt;SoC2018 Webサイト：http://db-event.jpn.org/soc2018/&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>M1の中間発表会を行いました。</title>
+      <link>/post/2021/1204/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2021/1204/</guid>
+      <description>&lt;h4 id=&#34;日時2021年12月3日金&#34;&gt;日時：2021年12月3日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所情報科学キャンパス商科キャンパスzoom&#34;&gt;場所：情報科学キャンパス、商科キャンパス、Zoom&lt;/h4&gt;
+&lt;p&gt;上記日程にて、修士1年生3人が中間発表を行いました。&lt;/p&gt;
+&lt;p&gt;研究生活1年目も終盤に差し掛かり、ひとつの節目になったと思っています。
+今後も頑張りましょう！！
+お疲れ様でした！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;furuya.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
   </channel>
 </rss>
