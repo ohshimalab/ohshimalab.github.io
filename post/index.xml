@@ -5,12 +5,90 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>豆まきをしました。</title>
+      <link>/post/2022/0214/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0214/</guid>
+      <description>&lt;h4 id=&#34;日時2022年2月3日木&#34;&gt;日時：2022年2月3日（木）&lt;/h4&gt;
+&lt;h4 id=&#34;場所研究室&#34;&gt;場所：研究室&lt;/h4&gt;
+&lt;p&gt;2022年度の豆まきを行いました。
+じゃんけんで鬼役を決めて、皆で和気あいあいと豆を投げました。&lt;/p&gt;
+&lt;p&gt;↓散らばる豆を見つめる鬼。
+&lt;img src=&#34;kick.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;↓華麗に豆を避ける鬼。
+&lt;img src=&#34;yokeru.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;↓頑張ってる鬼。
+&lt;img src=&#34;yokeru2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;以上です！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>修士論文発表会</title>
+      <link>/post/2022/0131/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0131/</guid>
+      <description>&lt;h4 id=&#34;日時2022年1月31日月2月1日火&#34;&gt;日時：2022年1月31日（月）～2月1日（火）&lt;/h4&gt;
+&lt;h4 id=&#34;場所情報科学キャンパス&#34;&gt;場所：情報科学キャンパス&lt;/h4&gt;
+&lt;p&gt;今年卒業される先輩方が修士論文発表を行いました。&lt;/p&gt;
+&lt;p&gt;先輩方の雄姿が素敵でした。&lt;/p&gt;
+&lt;p&gt;2年間研究お疲れ様でした。卒業されても仲良くしてください！！&lt;/p&gt;
+&lt;p&gt;残りの研究室生活もよろしくお願いしますm(__)m&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;5.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;6.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;7.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- 奥田 萌莉さんが「2022 IEEE International Conference on Big Data and Smart Computing (BigComp 2022)」で発表しました。
+
+[公式Webページ](http://www.bigcomputing.org/)
+
+
++ Moeri Okuda, and Hiroaki Ohshima:
+&#34;Feature Fusion for Leaf Image Classification&#34;
+In Proceedings of the 2022 IEEE International Conference on Big Data and Smart Computing, January, 2022.
+
+今後も頑張りましょう！！
+![](feature_fusion.jpg) --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>奥田萌莉さんがBigComp2022で発表しました。</title>
