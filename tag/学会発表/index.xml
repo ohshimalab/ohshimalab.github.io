@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学会発表 | OHSHIMA LAB.</title>
+    <link>/tag/%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
+      <atom:link href="/tag/%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>学会発表</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>学会発表</title>
+      <link>/tag/%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
+    </image>
+    
+    <item>
+      <title>大島研究室のメンバーがDEIM2022で発表しました。</title>
+      <link>/post/2022/0301/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0301/</guid>
+      <description>&lt;h4 id=&#34;日時2022年2月27日日3月2日水&#34;&gt;日時：2022年2月27日（日）～3月2日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所zoomovice&#34;&gt;場所：Zoom、Ovice&lt;/h4&gt;
+&lt;p&gt;大島研究室のメンバーがDEIM2022で発表しました。&lt;/p&gt;
+&lt;p&gt;↓何日目かの淡路屋さんのお弁当。美味でした。ごちそうさまです！
+&lt;img src=&#34;bentou.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;↓DEIM2022の拠点間を繋いで中継中です！
+&lt;img src=&#34;kyoten.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;↓拠点の写真その2。
+&lt;img src=&#34;kyoten2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;↓拠点の写真その5。
+&lt;img src=&#34;kyoten5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;↓わいわいがやがや。
+&lt;img src=&#34;kyoten4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;↓まだあります、拠点の写真。
+&lt;img src=&#34;ovice.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;↓大量のお茶たち。ひとり2本は飲めると聞いた覚えがありますが、3本くらい飲んだ気もする。。。
+&lt;img src=&#34;tea.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
