@@ -5,12 +5,41 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>第1回研究会</title>
+      <link>/post/2022/0421/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0421/</guid>
+      <description>&lt;h4 id=&#34;日時2022年4月8日金&#34;&gt;日時：2022年4月8日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所大講義室&#34;&gt;場所：大講義室&lt;/h4&gt;
+&lt;p&gt;桜が綺麗に咲き、新学期が始まりました。
+B4とM1が研究室配属され、研究室が溢れかえるほどの活気に包まれています。&lt;/p&gt;
+&lt;p&gt;上記日程で、新学期の第1回研究会を行いました。
+色んなコメントが飛び交い、お互いのことを知るよいきっかけになったかもしれませんね。&lt;/p&gt;
+&lt;p&gt;今後も頑張っていきましょう！
+&lt;img src=&#34;presen.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>商科キャンパスで新研究室を立ち上げました</title>
@@ -22,7 +51,7 @@
 &lt;p&gt;商科キャンパスにて新研究室を立ち上げました！
 4月からここでの生活が始まります！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;19465.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;19466.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;zyanken.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -109,6 +138,8 @@
 &lt;li&gt;[12] 	坂根 和光, 三林 亮太, 川原 敬史, 山本 岳洋, 澤田 祥一, 高階 勇人, 大島 裕明: 「BERTを用いた場所の説明文に対する位置特定容易性の推定」, 日本データベース学会, 第14回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2022), D21-3, 2022年2月.&lt;/li&gt;
 &lt;li&gt;[13] 	奥田 萌莉, 大島 裕明: 「BERTとPANNsを用いた文脈を考慮した効果音検索」, 日本データベース学会 , 第14回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2022), C21-1, 2022年2月.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;また、三林さん、濱島さん、吉村さんの3名が学生プレゼンテーション賞を受賞しました！&lt;/p&gt;
+&lt;p&gt;おめでとうございます！&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -903,7 +934,10 @@ type: post
       <guid>/post/2020/1218/</guid>
       <description>&lt;p&gt;三林 亮太さんが「第28回インタラクティブシステムとソフトウェアに関するワークショップ」で発表し、萌芽発表賞を受賞しました。&lt;/p&gt;
 &lt;!-- ![](mibayashi.jpg) --&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.wiss.org/WISS2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;三林亮太, 山本岳洋, 大島裕明：「ラップバトルのための意味類似性を考慮したライム検索システム」, WISS 2020: 第29回インタラクティブシステムとソフトウェアに関するワークショップ, 2020年12月
+&lt;a href=&#34;https://www.wiss.org/WISS2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!-- + Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &#34;Investigating Users’ Query Formulations in Consumer Health Search&#34;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021. --&gt;</description>
     </item>
     
