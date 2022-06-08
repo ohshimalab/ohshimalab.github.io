@@ -7,7 +7,7 @@
     <description>OHSHIMA LAB.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>OHSHIMA LAB.</title>
       <link>/</link>
     </image>
@@ -81,6 +81,33 @@
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>IR Rreading 2022春に参加しました</title>
+      <link>/post/2022/0521/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0521/</guid>
+      <description>&lt;h4 id=&#34;日時2022年5月21日土&#34;&gt;日時：2022年5月21日（土）&lt;/h4&gt;
+&lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
+&lt;p&gt;上記日程にて、大島研のメンバーがIR Readingに参加しました。&lt;/p&gt;
+&lt;p&gt;開催自体はZoomでしたが、研究室に集まって参加させていただきました！&lt;/p&gt;
+&lt;p&gt;お疲れ様でした！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sigir.jp/post/2022-05-21-irreading_2022spring/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IR Reading 2022 春 公式webページ&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
     </item>
     
     <item>
@@ -2063,14 +2090,14 @@ type: post
 高信頼情報科学コース --&gt;
 &lt;p&gt;大島研究室では、博士前期課程学生と博士後期課程学生を募集しています。
 正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;博士前期課程への入学を希望する方へ&#34;&gt;博士前期課程への入学を希望する方へ&lt;/h2&gt;
 &lt;p&gt;博士前期課程への入学を希望する方は、入学試験を受験していただく必要があります。&lt;/p&gt;
 &lt;!-- 情報科学研究科では、9 月、12 月に博士前期課程の入試を行っています。 --&gt;
 &lt;p&gt;情報科学研究科では、7 月に推薦、9 月に一般の博士前期課程の入試を行っています。
 そのいずれかを受験していただいて、それに合格することで、入学することができます。出願時に大島研究室に配属を希望することで、大島研究室に参加することができます。&lt;/p&gt;
 &lt;p&gt;正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;事前にご連絡いただく必要はありませんが、可能であれば事前にご連絡ください。
 研究の内容や研究の進め方などについて相談したいと思います。
 メールなどでご連絡いただけましたら、面談の機会を作りたいと思います。&lt;/p&gt;
@@ -2078,7 +2105,7 @@ type: post
 &lt;p&gt;また、兵庫県立大学情報科学研究科では、オープンキャンパスなどを行っていますので、そちらに来ていただくのもよいと思います。
 研究科全体の様子を知っていただくことができます。
 オープンキャンパスの情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;情報科学研究科： &lt;a href=&#34;http://u-hyogo.info/&#34;&gt;http://u-hyogo.info/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;情報科学研究科： &lt;a href=&#34;http://u-hyogo.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://u-hyogo.info/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;博士後期課程への入学を希望する方へ&#34;&gt;博士後期課程への入学を希望する方へ&lt;/h2&gt;
 &lt;p&gt;博士後期課程への入学を希望する方は、出願前に必ずご連絡ください。
 事前に、研究の内容や研究の進め方などについて相談したいと思います。
@@ -2088,7 +2115,7 @@ type: post
 &lt;!-- 4 月に入学を希望される方は、いずれの入試を受けていただいてもかまいません。
 10 月に入学を希望される方は、8 月の入試を受けていただく必要があります。 --&gt;
 &lt;p&gt;正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;研究生としての参加を希望する方へ&#34;&gt;研究生としての参加を希望する方へ&lt;/h2&gt;
 &lt;p&gt;まずは、博士前期課程か博士後期課程への入学をご検討ください。&lt;/p&gt;
 &lt;h2 id=&#34;入試に関する連絡先&#34;&gt;入試に関する連絡先&lt;/h2&gt;
@@ -2344,7 +2371,7 @@ type: post
 &lt;li&gt;Yoshinori Kitaguchi, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Formulation for Action Search by Bootstrapping&amp;rdquo;, Proceedings of the 16th International Conference on Asia-Pacific Digital Libraries (ICADL 2014), pp.417-422, November 2014.&lt;/li&gt;
 &lt;li&gt;Christian Nitschke, Yuki Minami, Masayuki Hiromoto, Hiroaki Ohshima, Takashi Sato: &amp;ldquo;A Quadrocopter Automatic Control Contest as an Example of Interdisciplinary Design Education&amp;rdquo;, Proceedings of the 14th International Conference on Control, Automation and Systems (ICCAS 2014), pp.678-685, October 2014.&lt;/li&gt;
 &lt;li&gt;Kosetsu Tsukuda, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Ranking of Coordinate Terms and Hypernyms Using a Hypernym-Hyponym Dictionary&amp;rdquo;, Proceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT), pp.15-21, August 2014.&lt;/li&gt;
-&lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Investigating users&#39; query formulations for cognitive search intents&amp;rdquo;, Proceedings of the 37th Annual SIGIR Conference (SIGIR 2014), pp.577-586, July 2014.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Investigating users&amp;rsquo; query formulations for cognitive search intents&amp;rdquo;, Proceedings of the 37th Annual SIGIR Conference (SIGIR 2014), pp.577-586, July 2014.&lt;/li&gt;
 &lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Cognitive Search Intents Hidden behind Queries: a User Study on Query Formulations&amp;rdquo;, Proceedings of the 23rd International Conference on World Wide Web Companion (WWW 2014), pp.313-314, April 2014.&lt;/li&gt;
 &lt;li&gt;Kosetsu Tsukuda, Hiroaki Ohshima, Mitsuo Yamamoto, Hirotoshi Iwasaki, and Katsumi Tanaka: &amp;ldquo;Discovering Unexpected Information on the basis of Popularity/Unpopularity Analysis of Coordinate Objects and their Relationships&amp;rdquo;, Proceedings of the 28th Annual ACM Symposium on Applied Computing (SAC 2013), pp.878-885, March 2013.&lt;/li&gt;
 &lt;li&gt;Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Panoramic Image Search by Similarity and Adjacency for Similar Landscape Discovery&amp;rdquo;, Proceedings of the 13th International Conference on Web Information Systems Engineering (WISE 2012), LNCS 7651, pp.284-297, November 2012.&lt;/li&gt;
@@ -2368,7 +2395,7 @@ type: post
 &lt;li&gt;Takuya Kobayashi, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Modeling and Analyzing Review Information on the Web Focusing on Credibility&amp;rdquo;, Proceedings of the 2009 ACM Symposium on Applied Computing (SAC 2009), pp.1316-1317, March 2009.&lt;/li&gt;
 &lt;li&gt;Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Real Time Extraction of Related Terms by Bi-directional Lexico-syntactic Patterns from the Web&amp;rdquo;, Proceedings of the 3rd International Conference on Ubiquitous Information Management and Communication (ICUIMC 2009), pp.441-449, January 2009.&lt;/li&gt;
 &lt;li&gt;Masashi Yamaguchi, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Unsupervised Discovery of Coordinate Terms for Multiple Aspects from Search Engine Query Logs&amp;rdquo;, Proceedings of the 2008 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2008), pp.249-257, December 2008.&lt;/li&gt;
-&lt;li&gt;Yasufumi Kaneko, Satoshi Nakamura, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Relaxation Based on Users&#39; Unconfidences on Query Terms and Web Knowledge Extraction&amp;rdquo;, Proceedings of the 11th International Conference on Asia-Pacific Digital Libraries (ICADL 2008), LNCS 5362, pp.71-81, December 2008.&lt;/li&gt;
+&lt;li&gt;Yasufumi Kaneko, Satoshi Nakamura, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Relaxation Based on Users&amp;rsquo; Unconfidences on Query Terms and Web Knowledge Extraction&amp;rdquo;, Proceedings of the 11th International Conference on Asia-Pacific Digital Libraries (ICADL 2008), LNCS 5362, pp.71-81, December 2008.&lt;/li&gt;
 &lt;li&gt;Makoto Kato, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Can Social Tagging Improve Web Image Search?&amp;rdquo;, Proceedings of the 9th International Conference on Web Information Systems Engineering (WISE 2008), LNCS 5175, pp.235-249, September 2008. (Best Paper Award)&lt;/li&gt;
 &lt;li&gt;Adam Jatowt, Yukiko Kawai, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;What can history tell us?: towards different models of interaction with document histories&amp;rdquo;, Proceedings of the 19th ACM Conference on Hypertext and Hypermedia (Hypertext 2008), pp.5-14, June 2008.&lt;/li&gt;
 &lt;li&gt;Shun Hattori, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Mining the Web for Hyponymy Relations based on Property Inheritance&amp;rdquo;, Proceedings of the 10th Asia-Pacific Web Conference (APWeb 2008), LNCS 4976, pp.99-110, April 2008.&lt;/li&gt;
