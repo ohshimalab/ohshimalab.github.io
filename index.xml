@@ -174,7 +174,7 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     </item>
     
     <item>
-      <title>IR Rreading 2022春に参加しました</title>
+      <title>IR Reading 2022春に参加しました</title>
       <link>/post/2022/0521/</link>
       <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0521/</guid>
@@ -184,6 +184,47 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
 &lt;p&gt;開催自体はZoomでしたが、研究室に集まって参加させていただきました！&lt;/p&gt;
 &lt;p&gt;お疲れ様でした！&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://sigir.jp/post/2022-05-21-irreading_2022spring/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IR Reading 2022 春 公式webページ&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>橋口さん・川原さんの論文誌が採録されました</title>
+      <link>/post/2022/0625/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0625/</guid>
+      <description>&lt;p&gt;橋口 友哉さんと、中田 祐誠さんの論文誌が採録されました。おめでとうございます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tomoya Hashiguchi, Takehiro Yamamoto, Sumio Fujita, Hiroaki Ohshima: &amp;ldquo;Toward Generating Robot-Robot Natural Counseling Dialogue&amp;rdquo;, Vol.E105-D, No.5, pp. 928-935, May 2022.&lt;/li&gt;
+&lt;li&gt;川原 敬史, 湯本 高行, 大島 裕明：「事故説明文からの傷病の程度の推定」, 電子情報通信学会論文誌D, J105-D巻, 5号, pp. 1881-0225, 2022年5月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 発表日を記入するが、まだ未定 --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
