@@ -22,6 +22,9 @@
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,6 +32,9 @@
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/%E4%B8%89%E6%9E%97-%E4%BA%AE%E5%A4%AA/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2022/0623/</loc>
@@ -260,9 +266,6 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
