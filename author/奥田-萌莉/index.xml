@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>奥田 萌莉 | OHSHIMA LAB.</title>
+    <link>/author/%E5%A5%A5%E7%94%B0-%E8%90%8C%E8%8E%89/</link>
+      <atom:link href="/author/%E5%A5%A5%E7%94%B0-%E8%90%8C%E8%8E%89/index.xml" rel="self" type="application/rss+xml" />
+    <description>奥田 萌莉</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>奥田 萌莉</title>
+      <link>/author/%E5%A5%A5%E7%94%B0-%E8%90%8C%E8%8E%89/</link>
+    </image>
+    
+    <item>
+      <title>奥田萌莉さんがThe 16th NTCIR Conferenceで発表しました</title>
+      <link>/post/2022/0622/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0622/</guid>
+      <description>&lt;h4 id=&#34;日時2022年6月14日火6月17日金&#34;&gt;日時：2022年6月14日（火）～6月17日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所gather&#34;&gt;場所：Gather&lt;/h4&gt;
+&lt;p&gt;M2の奥田萌莉です。&lt;/p&gt;
+&lt;p&gt;上記日程で行われた、The 16th NTCIR Confernceで発表しました。
+国際会議でリアルタイムで会話でき、とても楽しい時を過ごせました！
+現地で議論出来るようになる日を楽しみにしています！&lt;/p&gt;
+&lt;p&gt;詳細は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moeri Okuda, Ryota Mibayashi, Takafumi Kawahara, Naoaki Matsumoto, Kenji Tanaka, Takehiro Yamamoto, Hiroaki Ohshima：
+&amp;ldquo;UHGSIS at the NTCIR-16 Data Search 2 IR Subtask: A BERT-based Query Modification Approach&amp;rdquo;
+In proceedings of the 16th NTCIR Conference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://research.nii.ac.jp/ntcir/ntcir-16/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 発表日を記入するが、まだ未定 --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
