@@ -5,12 +5,54 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>コンペティションに参加しています</title>
+      <link>/post/2022/0704/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0704/</guid>
+      <description>&lt;p&gt;大島研では、みんなでコンペティションに挑戦しています。
+金メダルの獲得を目指し、最新の深層学習を用いて様々な問題に挑戦しています。&lt;/p&gt;
+&lt;p&gt;・FakeNewsの推定&lt;/p&gt;
+&lt;p&gt;人が書いたニュース記事とAIが生成したニュース記事を見分けるタスクに挑戦しました。最新の深層学習のモデルを使用することで、98％以上の精度を達成しました。&lt;/p&gt;
+&lt;p&gt;・野菜の価格推定&lt;/p&gt;
+&lt;p&gt;現在、野菜の価格変動を予測するタスクに挑戦中です。研究室のみんなで意見を出し合って、金メダルを目指しています。&lt;/p&gt;
+&lt;!-- 発表日を記入するが、まだ未定 --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>三林亮太さんが「未踏IT人材発掘・育成事業」に採択されました</title>
@@ -28,11 +70,11 @@
 　本システムの実現により、創造的な即興ラップ（バース）の生成が期待でき、人工知能技術にあらたなインパクトを与えることができる。これまでに、チェスや将棋など、人間VS人工知能の挑戦は社会に大きなインパクトを与えてきた。しかし、それらは強い制約に基づくルールが決められた競技での勝負であったが、ラップバトルのような、創造的な要素が強いルールにおいての人工知能との勝負は、チェスや将棋以上のインパクトがあると考えられる。
 　本プロジェクトの目標達成のために、具体的には大きく3つ、(1)バース生成手法、(2)ラップ音声変換手法、(3)多様なデモシステムを開発する。&lt;/p&gt;
 &lt;p&gt;・本プロジェクトの詳細
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;・2022年度採択テーマ一覧
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;・ネットニュースにも取り上げられているみたいです、、！
-&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&#34;&gt;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 発表日を記入するが、まだ未定 --&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
@@ -186,47 +228,6 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
       <link>/post/2022/0625/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0625/</guid>
-      <description>&lt;p&gt;橋口 友哉さんと、川原 敬史さんの論文誌が採録されました。おめでとうございます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Tomoya Hashiguchi, Takehiro Yamamoto, Sumio Fujita, Hiroaki Ohshima: &amp;ldquo;Toward Generating Robot-Robot Natural Counseling Dialogue&amp;rdquo;, Vol.E105-D, No.5, pp. 928-935, May 2022.&lt;/li&gt;
-&lt;li&gt;川原 敬史, 湯本 高行, 大島 裕明：「事故説明文からの傷病の程度の推定」, 電子情報通信学会論文誌D, J105-D巻, 5号, pp. 322-336, 2022年5月.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- 発表日を記入するが、まだ未定 --&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
-      <title>橋口さん・川原さんの論文誌が採録されました</title>
-      <link>/post/2022/0704/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0704/</guid>
       <description>&lt;p&gt;橋口 友哉さんと、川原 敬史さんの論文誌が採録されました。おめでとうございます。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tomoya Hashiguchi, Takehiro Yamamoto, Sumio Fujita, Hiroaki Ohshima: &amp;ldquo;Toward Generating Robot-Robot Natural Counseling Dialogue&amp;rdquo;, Vol.E105-D, No.5, pp. 928-935, May 2022.&lt;/li&gt;
