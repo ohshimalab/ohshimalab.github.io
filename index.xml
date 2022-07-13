@@ -7,7 +7,7 @@
     <description>OHSHIMA LAB.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>OHSHIMA LAB.</title>
       <link>/</link>
     </image>
@@ -142,11 +142,11 @@
 　本システムの実現により、創造的な即興ラップ（バース）の生成が期待でき、人工知能技術にあらたなインパクトを与えることができる。これまでに、チェスや将棋など、人間VS人工知能の挑戦は社会に大きなインパクトを与えてきた。しかし、それらは強い制約に基づくルールが決められた競技での勝負であったが、ラップバトルのような、創造的な要素が強いルールにおいての人工知能との勝負は、チェスや将棋以上のインパクトがあると考えられる。
 　本プロジェクトの目標達成のために、具体的には大きく3つ、(1)バース生成手法、(2)ラップ音声変換手法、(3)多様なデモシステムを開発する。&lt;/p&gt;
 &lt;p&gt;・本プロジェクトの詳細
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;・2022年度採択テーマ一覧
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;・ネットニュースにも取り上げられているみたいです、、！
-&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&#34;&gt;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 発表日を記入するが、まだ未定 --&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
@@ -262,13 +262,13 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     </item>
     
     <item>
-      <title>三林亮太さんと王丹さんがAAI2022で発表します</title>
+      <title>三林亮太さんと王丹さんがAAI2022で発表しました</title>
       <link>/post/2022/0603/</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0603/</guid>
       <description>&lt;h4 id=&#34;日時2022年7月4日火7月6日木&#34;&gt;日時：2022年7月4日（火）～7月6日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所ハイブリッド&#34;&gt;場所：ハイブリッド&lt;/h4&gt;
-&lt;p&gt;三林　亮太さんと王　丹さんが「14th International Conference on E-Service and Knowledge Management (ESKM 2022)」で発表します。
+&lt;p&gt;三林　亮太さんと王　丹さんが「14th International Conference on E-Service and Knowledge Management (ESKM 2022)」で発表しました。
 &lt;a href=&#34;https://iaiai.org/conference/aai2022/conferences/eskm-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 発表日を記入するが、まだ未定 --&gt;
 &lt;p&gt;2022年の7月4日～6日に発表。&lt;/p&gt;
@@ -371,7 +371,7 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     </item>
     
     <item>
-      <title>第1回研究会</title>
+      <title>B4、M1、M2、D1全員揃って新学期の第1回研究会を行いました。</title>
       <link>/post/2022/0421/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0421/</guid>
@@ -496,15 +496,13 @@ B4とM1が研究室配属され、研究室が溢れかえるほどの活気に�
 &lt;li&gt;[12] 	坂根 和光, 三林 亮太, 川原 敬史, 山本 岳洋, 澤田 祥一, 高階 勇人, 大島 裕明: 「BERTを用いた場所の説明文に対する位置特定容易性の推定」, 日本データベース学会, 第14回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2022), D21-3, 2022年2月.&lt;/li&gt;
 &lt;li&gt;[13] 	奥田 萌莉, 大島 裕明: 「BERTとPANNsを用いた文脈を考慮した効果音検索」, 日本データベース学会 , 第14回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2022), C21-1, 2022年2月.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;また、三林さん、濱島さん、吉村さんの3名が学生プレゼンテーション賞を受賞し、川原さんが優秀インタラクティブ賞と優秀論文賞を受賞しました！&lt;/p&gt;
+&lt;p&gt;また、三林さん、濱島さん、吉村さんの3名が学生プレゼンテーション賞を受賞しました！&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;mibayashi.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;m1.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;m2.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;hamajima.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;yoshimura.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;kawahara1.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;kawahara2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;yoshimura.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -1572,7 +1570,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0311/gallery/award.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2020/0311/gallery/award_hu67033d2ae59382f2e84382431a7ba891_224987_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2020/0311/gallery/award_hu63eb2714dd20425e0eb1151a69607141_3352730_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1581,7 +1579,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0311/gallery/muramoto.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2020/0311/gallery/muramoto_hu2ac67a5dbfa31d88e5c1c6eceb4b97ed_227269_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;244&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2020/0311/gallery/muramoto_hu0d2094bd31db9f34f0df571176644057_796577_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;244&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1590,7 +1588,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0311/gallery/rabin.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2020/0311/gallery/rabin_hu00ff898946877d8eae20dc245573b10a_185269_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2020/0311/gallery/rabin_huc271f3c41c4bc68d36b7deda71f7c3de_799821_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1599,7 +1597,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0311/gallery/yoshii.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2020/0311/gallery/yoshii_hubea8d59d7d4f5c47f9555f4081c2fcd1_209329_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2020/0311/gallery/yoshii_hud409dd357833f3bc2c3aa1d9b556d377_1354705_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -1644,7 +1642,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0310/gallery/award.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2020/0310/gallery/award_hu5f172630bfbcb9da54342c288ef56761_175650_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2020/0310/gallery/award_hu494c2350e76bd1171e06217f4555f76c_1226893_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -1758,7 +1756,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/01.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/01_huabcc47a8b8208ac0b001ad068ef2f259_201183_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/01_hu507ae19625d4a0446d27584a6f3de21d_2337229_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1767,7 +1765,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/02.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/02_hud3ae85b9694cd38f3b81025b221d058b_191199_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/02_hu64f7c8b4b2371e8a3b03f340a6c51e13_1868297_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1776,7 +1774,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/03.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/03_hu2f82ba21fff523a2401a202174e9c4e0_179890_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/03_hue0dd4d9e1d50ba45100c094ee9529519_1809089_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1785,7 +1783,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/04.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/04_hub64954e3f35241f5b21e6f8e3c64a1b4_232261_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/04_hubb191fd1cbb55bcdeff18d537cd90786_1977072_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1794,7 +1792,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/05.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/05_hu8906fa9c9cc1ead6164553d6b1b49261_173467_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/05_hu16cf646296a265e173c16519b198c30f_1862157_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1803,7 +1801,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/06.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/06_hu41ef8b69748ca38b8c9d3e6a05176f9e_227512_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/06_hud98f95fcafe83943a0bbc7b37ed47e51_2124023_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1812,7 +1810,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/07.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/07_hu233f0520666762edc562081dae1674a2_189033_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/07_hu63e8921e62054de66cdb11004722c23b_820270_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1821,7 +1819,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/08.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/08_hu57ce5262b55f77ff95d29eb504b6ebd6_218291_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/08_hu9d2df6c063ce81246e02d99bfd3e0580_776538_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1830,7 +1828,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/09.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/09_hud1abf67b306e9f6a94e1f8668be15668_198150_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/09_hu7a7137ee74759159bb98bba38dd40875_1367073_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1839,7 +1837,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/10.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/10_hu43923ce093fb77d4594b1538daa2e9d0_194736_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/10_hu0c6a8f0c4db2e7a8c03134b3a0a29866_1020329_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1848,7 +1846,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/11.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/11_hu40a7304fed9cd2b13022bdc203a155a6_205098_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/11_hu7bc21411e0be38c84679a108c685346f_1722347_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1857,7 +1855,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/12.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/12_hu2d859a0b9235cd98c6e3cf91ed8ae59b_224092_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/12_hu7b63c685be4bbccdf0b372ccd9113aaf_1602303_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1866,7 +1864,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/13.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0310/gallery/13_hueab5080a85d64ee3e0303944fb0c26af_192872_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/13_hu483a18e8b193bf548d8b0c0be94164bf_1550639_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -1906,7 +1904,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1210/gallery/%280%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1210/gallery/%280%29_hu6c592fdb143b1e3c823a6c22d02df1e9_189984_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2018/1210/gallery/%280%29_huad429df2875b7e39e8457bbbbc4f0ca2_965040_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1915,7 +1913,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1210/gallery/%281%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1210/gallery/%281%29_hu2aa19f4ae7b14151867cd448fd1327d9_68424_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2018/1210/gallery/%281%29_hu6484f5bf7b6381b28361153941fc29b1_1493894_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -1978,7 +1976,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1205/gallery/%281%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1205/gallery/%281%29_huc01c6069d4b954d4059906bc01c6fff3_179724_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2018/1205/gallery/%281%29_hu30c089157765bd1c0778eb167d34a15d_319193_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2101,7 +2099,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/0918/gallery/poster.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/0918/gallery/poster_hu47fead57ff307c8cccb894330140d26e_180909_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2018/0918/gallery/poster_hu2811efb51e60c4d9c31db0101ceddc22_1708015_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2110,7 +2108,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/0918/gallery/presentation.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/0918/gallery/presentation_hu57243267d05e734bc0989e0b7ba3bd9a_195987_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2018/0918/gallery/presentation_hu34966cf2a83735010037c2a98fb25477_964523_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2119,7 +2117,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/0918/gallery/rakuten.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/0918/gallery/rakuten_hu0e795e06c74deffe6018e3b09db8479a_180236_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2018/0918/gallery/rakuten_hue8bdc414d27a83c230741daa4a7903e6_4336527_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2128,7 +2126,7 @@ type: post
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/0918/gallery/student.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/0918/gallery/student_hu41abbaa3fa1aaa67b74022bdc3050e91_176470_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;/post/2018/0918/gallery/student_hu2cb22434c9dd41c708b9b388ee7af533_2754111_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -2393,14 +2391,14 @@ type: post
 高信頼情報科学コース --&gt;
 &lt;p&gt;大島研究室では、博士前期課程学生と博士後期課程学生を募集しています。
 正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;博士前期課程への入学を希望する方へ&#34;&gt;博士前期課程への入学を希望する方へ&lt;/h2&gt;
 &lt;p&gt;博士前期課程への入学を希望する方は、入学試験を受験していただく必要があります。&lt;/p&gt;
 &lt;!-- 情報科学研究科では、9 月、12 月に博士前期課程の入試を行っています。 --&gt;
 &lt;p&gt;情報科学研究科では、7 月に推薦、9 月に一般の博士前期課程の入試を行っています。
 そのいずれかを受験していただいて、それに合格することで、入学することができます。出願時に大島研究室に配属を希望することで、大島研究室に参加することができます。&lt;/p&gt;
 &lt;p&gt;正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;事前にご連絡いただく必要はありませんが、可能であれば事前にご連絡ください。
 研究の内容や研究の進め方などについて相談したいと思います。
 メールなどでご連絡いただけましたら、面談の機会を作りたいと思います。&lt;/p&gt;
@@ -2408,7 +2406,7 @@ type: post
 &lt;p&gt;また、兵庫県立大学情報科学研究科では、オープンキャンパスなどを行っていますので、そちらに来ていただくのもよいと思います。
 研究科全体の様子を知っていただくことができます。
 オープンキャンパスの情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;情報科学研究科： &lt;a href=&#34;http://u-hyogo.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://u-hyogo.info/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;情報科学研究科： &lt;a href=&#34;http://u-hyogo.info/&#34;&gt;http://u-hyogo.info/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;博士後期課程への入学を希望する方へ&#34;&gt;博士後期課程への入学を希望する方へ&lt;/h2&gt;
 &lt;p&gt;博士後期課程への入学を希望する方は、出願前に必ずご連絡ください。
 事前に、研究の内容や研究の進め方などについて相談したいと思います。
@@ -2418,7 +2416,7 @@ type: post
 &lt;!-- 4 月に入学を希望される方は、いずれの入試を受けていただいてもかまいません。
 10 月に入学を希望される方は、8 月の入試を受けていただく必要があります。 --&gt;
 &lt;p&gt;正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;研究生としての参加を希望する方へ&#34;&gt;研究生としての参加を希望する方へ&lt;/h2&gt;
 &lt;p&gt;まずは、博士前期課程か博士後期課程への入学をご検討ください。&lt;/p&gt;
 &lt;h2 id=&#34;入試に関する連絡先&#34;&gt;入試に関する連絡先&lt;/h2&gt;
@@ -2702,6 +2700,15 @@ NTTデータ関西&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;学術論文査読あり&#34;&gt;学術論文（査読あり）&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;Tomoya Hashiguchi, Takehiro Yamamoto, Sumio Fujita, Hiroaki Ohshima: &amp;ldquo;Toward Generating Robot-Robot Natural Counseling Dialogue&amp;rdquo;, Vol.E105-D, No.5, pp. 928-935, May 2022.&lt;/li&gt;
+&lt;li&gt;川原 敬史, 湯本 高行, 大島裕明：「事故説明文からの傷病の程度の推定」, 電子情報通信学会論文誌D, J105-D巻, 5号, pp. 1881-0225, 2022年5月.&lt;/li&gt;
+&lt;li&gt;莊司 慶行, 相原 健郎, 大島 裕明, 神門 典子, 白石 晃一, 中島 悠太, 山本 岳洋, 山本 祐輔：「提示型検索モデルに基づくミュージアム電子ガイドとその利用ログを用いた事前学習・事後学習支援」, 情報処理学会論文誌, Vol.63, No.2, pp.364-377, 2022年2月.&lt;/li&gt;
+&lt;li&gt;Katsurou Takahashi, and Hiroaki Ohshima: &amp;ldquo;Transitivity of transformation matrices to bridge word vector spaces over 1000 years&amp;rdquo;, The Journal of of Supercomputing, Vol.77, No.9, pp.9848-9878, February 2021.&lt;/li&gt;
+&lt;li&gt;橋口 友哉, 山本 岳洋, 藤田 澄男, 大島 裕明：「CQAコンテンツからの状況が類似する悩みの検索」, 人工知能学会論文誌, 36巻, 1号, WI2-B_1-13, 2021年1月.&lt;/li&gt;
+&lt;li&gt;中田 祐誠, 村本 直樹, 山本 岳洋, 藤田 澄男, 大島 裕明：「ウェブ検索ログからのカメラのオンライン購買行動予測」, 人工知能学会論文誌, 36巻, 1号, WI2-C_1-10, 2021年1月.&lt;/li&gt;
+&lt;li&gt;白髪 宙海, 村本 直樹, 高橋 克郎, 大島 裕明：「飲食店レビューサイトにおける再訪問・初訪問レビューの分類」, 日本データベース学会和文論文誌, Vol.18-J, Article No.9, 2020年3月.&lt;/li&gt;
+&lt;li&gt;岡 隆之介, 大島 裕明, 楠見 孝：「比喩研究のための直喩刺激-解釈セット作成および妥当性の検討」, 心理学研究, 第90巻, 第1号, pp.53-62, 2019年4月.&lt;/li&gt;
+&lt;li&gt;山本 祐輔, 山本 岳洋, 大島 裕明, 川上 浩司：「ウェブアクセスリテラシー尺度の開発」, 情報処理学会論文誌：データベース, Vol.12, No.1, pp.24-37, 2019年1月.&lt;/li&gt;
 &lt;li&gt;片岡 大祐，加藤 誠，山本 岳洋，大島 裕明，田中 克己：「SNS グラフデータにおける文脈を考慮した適合フィードバック検索」, 日本データベース学会和文論文誌, Vol.16-J, Article No.21, 2018 年 3 月.（採録決定）&lt;/li&gt;
 &lt;li&gt;武田 裕介, 大島 裕明, 田中 克己：「同一閲覧・検索意図に合致する Web ページ群の発見と再訪問ページ推薦」, 日本データベース学会和文論文誌, Vol.15-J, Article No.13, 2017 年 3 月.&lt;/li&gt;
 &lt;li&gt;Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Paraphrasing Sentential Queries by Incorporating Coordinate Relationship&amp;rdquo;, Journal of Information Processing, Vol.24, No.4, pp.721-731, January 2016.&lt;/li&gt;
@@ -2737,6 +2744,23 @@ NTTデータ関西&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;国際会議録査読あり&#34;&gt;国際会議録（査読あり）&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;Moeri Okuda and Hiroaki Ohshima: &amp;ldquo;Feature Fusion for Leaf Image Classification&amp;rdquo;, Proceedings of the 2022 IEEE International Conference on Big Data and Smart Computing (BigComp 2022), pp.259-262, January 2022.&lt;/li&gt;
+&lt;li&gt;Bowen Wang, Liangzhi Li, Yuta Nakashima, Takehiro Yamamoto, Hiroaki Ohshima, Yoshiyuki Shoji, Kenro Aihara, Noriko Kando: &amp;ldquo;Image Retrieval by Hierarchy-aware Deep Hashing Based on Multi-task Learning&amp;rdquo;, Proceedings of the 2021 International Conference on Multimedia Retrieval (ICMR 2021), pp. 486-490, November 2021.&lt;/li&gt;
+&lt;li&gt;Yoshiyuki Shoji, Kenro Aihara, Noriko Kando, Yuta Nakashima, Hiroaki Ohshima, Shio Takidaira, Masaki Ueta, Takehiro Yamamoto, Yusuke Yamamoto: &amp;ldquo;Museum Experience into a Souvenir: Generating Memorable Postcards from Guide Device Behavior Log&amp;rdquo;, Proceedings of the ACM/IEEE Joint Conference on Digital Libraries 2021 (JCDL 2021), pp.120-129, October 2021.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Hiroaki Ohshima, Ying-Hsang Liu, Hsin-Liang Chen: &amp;ldquo;A Test Collection for Ad-hoc Dataset Retrieval&amp;rdquo;, Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), pp.2450-2456, July 2021.&lt;/li&gt;
+&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima: &amp;ldquo;Investigating Users&#39; Query Formulations in Consumer Health Search&amp;rdquo;, Proceedings of the 10th International Congress on Advanced Applied Informatics (IIAI-AAI 2021), July 2021.&lt;/li&gt;
+&lt;li&gt;Momoha Murata, Hiroaki Ohshima and Yusuke Yamamoto: &amp;ldquo;SmileGlass: AR Glasses that make people appear to be smiling toward the enhancement of well-being&amp;rdquo;, Proceedings of the 10th International Congress on Advanced Applied Informatics (IIAI-AAI 2021), July 2021.&lt;/li&gt;
+&lt;li&gt;Masaki Ueta, Tomoya Hashiguchi, Huu-Long Pham, Yoshiyuki Shoji, Noriko Kando, Yusuke Yamamoto, Takehiro Yamamoto, Hiroaki Ohshima: &amp;ldquo;Quiz Generation on the Electronic Guide Application for Improving Learning Experience in the Museum&amp;rdquo;, Joint Proceedings of the 2nd Workshop on Bridging the Gap between Information Science, Information Retrieval and Data Science, and 3rd Workshop on Evaluation of Personalisation in Information Retrieval co-located with 6th ACM SIGIR Conference on Human Information Interaction and Retrieval (WEPIR 2021), pp.96-104, March 2021.&lt;/li&gt;
+&lt;li&gt;Yoshiyuki Shoji, Kenro Aihara, Martin J. Dürst, Noriko Kando, Takuya Nakaya, Hiroaki Ohshima, Takehiro Yamamoto, Yusuke Yamamoto: &amp;quot; Location-based Reminder for Memorizing What Visitors Learn at a Museum&amp;quot;, Joint Proceedings of the 2nd Workshop on Bridging the Gap between Information Science, Information Retrieval and Data Science, and 3rd Workshop on Evaluation of Personalisation in Information Retrieval co-located with 6th ACM SIGIR Conference on Human Information Interaction and Retrieval (WEPIR 2021), pp.79-87, March 2021.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Wiradee Imrattanatrai, Takehiro Yamamoto, Hiroaki Ohshima, Katsumi Tanaka: &amp;ldquo;Context-Guided Learning to Rank Entities&amp;rdquo;, Proceedings of the 42nd European Conference on IR Research (ECIR 2020), pp.83-96, April 2020.&lt;/li&gt;
+&lt;li&gt;Kilho Shin, Kenta Okumoto, David Lawrence Shepard, Tetsuji Kuboyama, Takako Hashimoto, Hiroaki Ohshima: &amp;ldquo;A Fast Algorithm for Unsupervised Feature Value Selection&amp;rdquo;, Proceedings of the 12th International Conference on Agents and Artificial Intelligence (ICAART 2020), pp.203-213, February 2020.&lt;/li&gt;
+&lt;li&gt;Katsurou Takahashi, Kilho Shin, Hiroaki Ohshima: &amp;ldquo;Generating Anthropomorphism of Subject and Verb by Transformation Matrix&amp;rdquo;, Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2019), pp.593-597, December 2019.&lt;/li&gt;
+&lt;li&gt;Rabin Maharjan, Koichi Shiraishi, Takehiro Yamamoto, Yusuke Yamamoto, Hiroaki Ohshima: &amp;ldquo;Development of IoT Monitoring Device and Prediction of Daily Life Behavior&amp;rdquo;, Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2019), pp.584-588, December 2019.&lt;/li&gt;
+&lt;li&gt;Naoki Muramoto, Hiromi Shiraga, Kilho Shin, Hiroaki Ohshima: &amp;ldquo;Fatten Features and Drop Wastes: Finding Repeaters&#39; Reviews by Feature Generation and Feature Selection&amp;rdquo;, Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2019), pp.161-165, December 2019.&lt;/li&gt;
+&lt;li&gt;Yusuke Nakano, Hiroaki Ohshima, Yusuke Yamamoto: &amp;quot; Film Genre Prediction Based on Film Content and Screenplay Structure&amp;quot;, Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2019), pp.151-155, December 2019.&lt;/li&gt;
+&lt;li&gt;Zehua Yang, Yusuke Yamamoto, Takehiro Yamamoto, Noriko Kando, Hiroaki Ohshima: &amp;ldquo;Finding the Connection between Artifact and Personal Knowledge of Museum Visitor&amp;rdquo;, Proceedings of the 2nd Annual Workshop on Evaluation of Personalisation in Information Retrieval (WEPIR 2019), 4 pages, March 2019.&lt;/li&gt;
+&lt;li&gt;Katsurou Takahashi, Hiroaki Ohshima: &amp;ldquo;Transitivity of Transformation Matrices to Bridge Word Vector Spaces Over Time&amp;rdquo;, Proceedings of the 2019 IEEE International Conference on Big Data and Smart Computing (BigComp 2019), pp.1-4, March 2019.&lt;/li&gt;
+&lt;li&gt;Yoshiyuki Shoji, Katsurou Takahashi, Martin J. Durst, Yusuke Yamamoto, Hiroaki Ohshima: &amp;ldquo;Location2Vec: Generating Distributed Representation of Location by Using Geo-tagged Microblog Posts&amp;rdquo;, Proceedings of the 10th International Conference (SocInfo 2018), Part II, pp.261-270, September 2018.&lt;/li&gt;
 &lt;li&gt;Yusuke Yamamoto, Takehiro Yamamoto, Hiroaki Ohshima, Hiroshi Kawakami: &amp;ldquo;Web Access Literacy Scale to Evaluate How Critically Users Can Browse and Search for Web Information&amp;rdquo;, The 10th ACM Conference on Web Science (WebSci 2018), pp.97-106, May 2018.&lt;/li&gt;
 &lt;li&gt;Shinryo Uchida, Takehiro Yamamoto, Makoto P. Kato, Hiroaki Ohshima, Katsumi Tanaka: &amp;ldquo;Entity Ranking by Learning and Inferring Pairwise Preferences from User Reviews&amp;rdquo;, The 2017 Asia Information Retrieval Societies Conference (AIRS 2017), pp.141-153, November 2017.&lt;/li&gt;
 &lt;li&gt;Daisuke Kataoka, Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, Katsumi Tanaka: &amp;ldquo;Context-aware relevance feedback over SNS graph data&amp;rdquo;, 2017 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2017), pp.823-830, August 2017.&lt;/li&gt;
@@ -2746,7 +2770,7 @@ NTTデータ関西&lt;/p&gt;
 &lt;li&gt;Yoshinori Kitaguchi, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Formulation for Action Search by Bootstrapping&amp;rdquo;, Proceedings of the 16th International Conference on Asia-Pacific Digital Libraries (ICADL 2014), pp.417-422, November 2014.&lt;/li&gt;
 &lt;li&gt;Christian Nitschke, Yuki Minami, Masayuki Hiromoto, Hiroaki Ohshima, Takashi Sato: &amp;ldquo;A Quadrocopter Automatic Control Contest as an Example of Interdisciplinary Design Education&amp;rdquo;, Proceedings of the 14th International Conference on Control, Automation and Systems (ICCAS 2014), pp.678-685, October 2014.&lt;/li&gt;
 &lt;li&gt;Kosetsu Tsukuda, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Ranking of Coordinate Terms and Hypernyms Using a Hypernym-Hyponym Dictionary&amp;rdquo;, Proceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT), pp.15-21, August 2014.&lt;/li&gt;
-&lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Investigating users&amp;rsquo; query formulations for cognitive search intents&amp;rdquo;, Proceedings of the 37th Annual SIGIR Conference (SIGIR 2014), pp.577-586, July 2014.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Investigating users&#39; query formulations for cognitive search intents&amp;rdquo;, Proceedings of the 37th Annual SIGIR Conference (SIGIR 2014), pp.577-586, July 2014.&lt;/li&gt;
 &lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Cognitive Search Intents Hidden behind Queries: a User Study on Query Formulations&amp;rdquo;, Proceedings of the 23rd International Conference on World Wide Web Companion (WWW 2014), pp.313-314, April 2014.&lt;/li&gt;
 &lt;li&gt;Kosetsu Tsukuda, Hiroaki Ohshima, Mitsuo Yamamoto, Hirotoshi Iwasaki, and Katsumi Tanaka: &amp;ldquo;Discovering Unexpected Information on the basis of Popularity/Unpopularity Analysis of Coordinate Objects and their Relationships&amp;rdquo;, Proceedings of the 28th Annual ACM Symposium on Applied Computing (SAC 2013), pp.878-885, March 2013.&lt;/li&gt;
 &lt;li&gt;Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Panoramic Image Search by Similarity and Adjacency for Similar Landscape Discovery&amp;rdquo;, Proceedings of the 13th International Conference on Web Information Systems Engineering (WISE 2012), LNCS 7651, pp.284-297, November 2012.&lt;/li&gt;
@@ -2770,7 +2794,7 @@ NTTデータ関西&lt;/p&gt;
 &lt;li&gt;Takuya Kobayashi, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Modeling and Analyzing Review Information on the Web Focusing on Credibility&amp;rdquo;, Proceedings of the 2009 ACM Symposium on Applied Computing (SAC 2009), pp.1316-1317, March 2009.&lt;/li&gt;
 &lt;li&gt;Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Real Time Extraction of Related Terms by Bi-directional Lexico-syntactic Patterns from the Web&amp;rdquo;, Proceedings of the 3rd International Conference on Ubiquitous Information Management and Communication (ICUIMC 2009), pp.441-449, January 2009.&lt;/li&gt;
 &lt;li&gt;Masashi Yamaguchi, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Unsupervised Discovery of Coordinate Terms for Multiple Aspects from Search Engine Query Logs&amp;rdquo;, Proceedings of the 2008 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2008), pp.249-257, December 2008.&lt;/li&gt;
-&lt;li&gt;Yasufumi Kaneko, Satoshi Nakamura, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Relaxation Based on Users&amp;rsquo; Unconfidences on Query Terms and Web Knowledge Extraction&amp;rdquo;, Proceedings of the 11th International Conference on Asia-Pacific Digital Libraries (ICADL 2008), LNCS 5362, pp.71-81, December 2008.&lt;/li&gt;
+&lt;li&gt;Yasufumi Kaneko, Satoshi Nakamura, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Relaxation Based on Users&#39; Unconfidences on Query Terms and Web Knowledge Extraction&amp;rdquo;, Proceedings of the 11th International Conference on Asia-Pacific Digital Libraries (ICADL 2008), LNCS 5362, pp.71-81, December 2008.&lt;/li&gt;
 &lt;li&gt;Makoto Kato, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Can Social Tagging Improve Web Image Search?&amp;rdquo;, Proceedings of the 9th International Conference on Web Information Systems Engineering (WISE 2008), LNCS 5175, pp.235-249, September 2008. (Best Paper Award)&lt;/li&gt;
 &lt;li&gt;Adam Jatowt, Yukiko Kawai, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;What can history tell us?: towards different models of interaction with document histories&amp;rdquo;, Proceedings of the 19th ACM Conference on Hypertext and Hypermedia (Hypertext 2008), pp.5-14, June 2008.&lt;/li&gt;
 &lt;li&gt;Shun Hattori, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Mining the Web for Hyponymy Relations based on Property Inheritance&amp;rdquo;, Proceedings of the 10th Asia-Pacific Web Conference (APWeb 2008), LNCS 4976, pp.99-110, April 2008.&lt;/li&gt;
