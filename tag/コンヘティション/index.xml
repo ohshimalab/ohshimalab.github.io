@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>コンペティション | OHSHIMA LAB.</title>
+    <link>/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <atom:link href="/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>コンペティション</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>コンペティション</title>
+      <link>/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+    </image>
+    
+    <item>
+      <title>コンペティションに参加しています</title>
+      <link>/post/2022/0704/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0704/</guid>
+      <description>&lt;p&gt;M2の古屋昭拓です。&lt;/p&gt;
+&lt;p&gt;大島研では、みんなでコンペティションに挑戦しています。
+金メダルの獲得を目指し、最新の深層学習を用いて様々な問題に挑戦しています。&lt;/p&gt;
+&lt;p&gt;・FakeNewsの推定&lt;/p&gt;
+&lt;p&gt;人が書いたニュース記事とAIが生成したニュース記事を見分けるタスクに挑戦しました。最新の深層学習のモデルを使用することで、98％以上の精度を達成しました。&lt;/p&gt;
+&lt;p&gt;・野菜の価格推定&lt;/p&gt;
+&lt;p&gt;現在、野菜の価格変動を予測するタスクに挑戦中です。研究室のみんなで意見を出し合って、金メダルを目指しています。&lt;/p&gt;
+&lt;!-- 発表日を記入するが、まだ未定 --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
