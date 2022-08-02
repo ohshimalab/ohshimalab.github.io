@@ -5,7 +5,7 @@
     <link>/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
       <atom:link href="/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>国際学会発表</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>国際学会発表</title>
@@ -13,24 +13,21 @@
     </image>
     
     <item>
-      <title>奥田萌莉さんがThe 16th NTCIR Conferenceで発表しました</title>
-      <link>/post/2022/0622/</link>
-      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0622/</guid>
-      <description>&lt;h4 id=&#34;日時2022年6月14日火6月17日金&#34;&gt;日時：2022年6月14日（火）～6月17日（金）&lt;/h4&gt;
-&lt;h4 id=&#34;場所gather&#34;&gt;場所：Gather&lt;/h4&gt;
-&lt;p&gt;M2の奥田萌莉です。&lt;/p&gt;
-&lt;p&gt;上記日程で行われた、The 16th NTCIR Confernceで発表しました。
-国際会議でリアルタイムで会話でき、とても楽しい時を過ごせました！
-現地で議論出来るようになる日を楽しみにしています！&lt;/p&gt;
-&lt;p&gt;詳細は以下の通りです。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Moeri Okuda, Ryota Mibayashi, Takafumi Kawahara, Naoaki Matsumoto, Kenji Tanaka, Takehiro Yamamoto, Hiroaki Ohshima：
-&amp;ldquo;UHGSIS at the NTCIR-16 Data Search 2 IR Subtask: A BERT-based Query Modification Approach&amp;rdquo;
-In proceedings of the 16th NTCIR Conference&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://research.nii.ac.jp/ntcir/ntcir-16/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+      <title>三林亮太さんと王丹さんがAAI2022で発表しました</title>
+      <link>/post/2022/0603/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0603/</guid>
+      <description>&lt;h4 id=&#34;日時2022年7月4日火7月6日木&#34;&gt;日時：2022年7月4日（火）～7月6日（木）&lt;/h4&gt;
+&lt;h4 id=&#34;場所ハイブリッド&#34;&gt;場所：ハイブリッド&lt;/h4&gt;
+&lt;!-- ![](mibayashi.jpg ) --&gt;
+&lt;p&gt;&lt;img src=&#34;mibayashi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- ![](wang.jpg ) --&gt;
+&lt;p&gt;三林　亮太さんと王　丹さんが「14th International Conference on E-Service and Knowledge Management (ESKM 2022)」で発表しました。
+&lt;a href=&#34;https://iaiai.org/conference/aai2022/conferences/eskm-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 発表日を記入するが、まだ未定 --&gt;
+&lt;p&gt;2022年の7月4日～6日に発表。&lt;/p&gt;
+&lt;p&gt;3日間お疲れ様でした！&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -62,16 +59,24 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     </item>
     
     <item>
-      <title>三林亮太さんと王丹さんがAAI2022で発表しました</title>
-      <link>/post/2022/0603/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0603/</guid>
-      <description>&lt;h4 id=&#34;日時2022年7月4日火7月6日木&#34;&gt;日時：2022年7月4日（火）～7月6日（木）&lt;/h4&gt;
-&lt;h4 id=&#34;場所ハイブリッド&#34;&gt;場所：ハイブリッド&lt;/h4&gt;
-&lt;p&gt;三林　亮太さんと王　丹さんが「14th International Conference on E-Service and Knowledge Management (ESKM 2022)」で発表しました。
-&lt;a href=&#34;https://iaiai.org/conference/aai2022/conferences/eskm-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+      <title>奥田萌莉さんがThe 16th NTCIR Conferenceで発表しました</title>
+      <link>/post/2022/0622/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0622/</guid>
+      <description>&lt;h4 id=&#34;日時2022年6月14日火6月17日金&#34;&gt;日時：2022年6月14日（火）～6月17日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所gather&#34;&gt;場所：Gather&lt;/h4&gt;
+&lt;p&gt;M2の奥田萌莉です。&lt;/p&gt;
+&lt;p&gt;上記日程で行われた、The 16th NTCIR Confernceで発表しました。
+国際会議でリアルタイムで会話でき、とても楽しい時を過ごせました！
+現地で議論出来るようになる日を楽しみにしています！&lt;/p&gt;
+&lt;p&gt;詳細は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moeri Okuda, Ryota Mibayashi, Takafumi Kawahara, Naoaki Matsumoto, Kenji Tanaka, Takehiro Yamamoto, Hiroaki Ohshima：
+&amp;ldquo;UHGSIS at the NTCIR-16 Data Search 2 IR Subtask: A BERT-based Query Modification Approach&amp;rdquo;
+In proceedings of the 16th NTCIR Conference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://research.nii.ac.jp/ntcir/ntcir-16/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 発表日を記入するが、まだ未定 --&gt;
-&lt;p&gt;2022年の7月4日～6日に発表。&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
