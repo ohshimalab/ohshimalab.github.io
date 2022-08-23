@@ -20,6 +20,7 @@
       <description>&lt;h4 id=&#34;日時2022年7月4日火7月6日木&#34;&gt;日時：2022年7月4日（火）～7月6日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所ハイブリッド&#34;&gt;場所：ハイブリッド&lt;/h4&gt;
 &lt;!-- ![](mibayashi.jpg ) --&gt;
+&lt;p&gt;&lt;img src=&#34;mibayashi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- ![](wang.jpg ) --&gt;
 &lt;p&gt;三林　亮太さんと王　丹さんが「14th International Conference on E-Service and Knowledge Management (ESKM 2022)」で発表しました。
@@ -27,6 +28,10 @@
 &lt;!-- 発表日を記入するが、まだ未定 --&gt;
 &lt;p&gt;2022年の7月4日～6日に発表。&lt;/p&gt;
 &lt;p&gt;3日間お疲れ様でした！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryota Mibayashi, Masaki Ueta, Takafumi Kawahara, Naoaki Matsumoto, Takuma, Yoshimura, Kenro Aihara, Noriko Kando, Yoshiyuki Shoji, Yuta Nakajima, Takehiro Yamamoto, Yusuke Yamamoto and Hiroaki Ohshima: &amp;ldquo;MinpakuBERT: A Language Model for Understanding Cultural Properties in Museum&amp;rdquo;, Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022).&lt;/li&gt;
+&lt;li&gt;Wang Dan, Ryota Mibayashi and Hiroaki Ohshima: &amp;quot; Visual Metaphor Construction for Image and Description of Fashion Goods&amp;quot;, Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022).&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
