@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/hoge/</loc>
   </url><url>
@@ -286,9 +280,6 @@
     <loc>/post/2020/0304/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -336,6 +327,9 @@
   </url><url>
     <loc>/post/2018/0914/</loc>
     <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2018/0629/</loc>
     <lastmod>2018-06-29T10:00:00+09:00</lastmod>
