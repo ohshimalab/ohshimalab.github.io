@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/hoge/</loc>
   </url><url>
     <loc>/talk/example/</loc>
@@ -331,9 +328,6 @@
     <loc>/post/2018/0914/</loc>
     <lastmod>2018-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/2018/0629/</loc>
     <lastmod>2018-06-29T10:00:00+09:00</lastmod>
   </url><url>
@@ -374,6 +368,8 @@
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/courses/</loc>
   </url><url>
     <loc>/access/</loc>
   </url><url>
