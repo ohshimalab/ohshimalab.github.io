@@ -42,6 +42,32 @@
     </item>
     
     <item>
+      <title>AtCoderに参加しています</title>
+      <link>/post/2022/0925/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0925/</guid>
+      <description>&lt;p&gt;大島研では、毎週みんなで&lt;a href=&#34;https://atcoder.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AtCoder&lt;/a&gt;に参加しています。&lt;/p&gt;
+&lt;p&gt;AtCoderは競技プログラミングサイトで、毎週末にAtCoder Beginner Contestが開催されています。&lt;/p&gt;
+&lt;p&gt;AtCoderではコンテストにRated参加をすると、解けた問題や解く速さに応じてRatingが変化し、Ratingに応じて色分けがされます。&lt;/p&gt;
+&lt;p&gt;大島研の学生では2022年9月25日現在、茶色が4人、灰色が10人となっています。&lt;/p&gt;
+&lt;p&gt;全員が茶色以上になることを目標に、これからも継続的に参加してきたいと思います！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
       <title>M2の中間報告会を行いました</title>
       <link>/post/2022/0805/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
@@ -869,30 +895,6 @@ M1、M2共に、活発で有意義な議論を行えました。
 お疲れ様でした！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;furuya.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
-      <title>2021年度研究室紹介ビデオを作成しました</title>
-      <link>/post/2021/1129/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1129/</guid>
-      <description>&lt;p&gt;2021年度研究室紹介ビデオを作成しました。&lt;/p&gt;
-&lt;p&gt;タイムラプスとインタビューで、大島研のリアルな1週間を紹介した映像になっています。&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EG0rhj5czGc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -2489,6 +2491,10 @@ type: post
 &lt;p&gt;大島研究室では、博士前期課程学生と博士後期課程学生を募集しています。
 正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
 &lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;研究室紹介&#34;&gt;研究室紹介&lt;/h2&gt;
+&lt;p&gt;大島研究室の紹介ビデオを以下に作成しています。
+詳細については、以下をご覧ください。&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EG0rhj5czGc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;博士前期課程への入学を希望する方へ&#34;&gt;博士前期課程への入学を希望する方へ&lt;/h2&gt;
 &lt;p&gt;博士前期課程への入学を希望する方は、入学試験を受験していただく必要があります。&lt;/p&gt;
 &lt;!-- 情報科学研究科では、9 月、12 月に博士前期課程の入試を行っています。 --&gt;
