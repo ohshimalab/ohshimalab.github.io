@@ -5,9 +5,13 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
+<<<<<<< HEAD
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+>>>>>>> 02a68512480f49e3f86e3c2f0342a16735654398
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>

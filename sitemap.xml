@@ -13,6 +13,7 @@
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>/authors/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -30,6 +31,19 @@
   </url><url>
     <loc>/tag/%E8%AB%96%E6%96%87%E8%AA%8C/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+=======
+    <loc>/post/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2022/0928/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E7%A0%94%E7%A9%B6%E5%AE%A4/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+>>>>>>> 02a68512480f49e3f86e3c2f0342a16735654398
   </url><url>
     <loc>/tag/atcoder/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
@@ -56,9 +70,6 @@
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2022/0721/</loc>
-    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E7%A0%94%E7%A9%B6%E5%AE%A4/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2022/0603/</loc>
