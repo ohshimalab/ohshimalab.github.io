@@ -13,31 +13,6 @@
     </image>
     
     <item>
-      <title>MRデバイス環境における物理インタラクションを伴う日常タスク処理</title>
-      <link>/project_container/tsuda/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/tsuda/</guid>
-      <description>&lt;h2 id=&#34;mrデバイスで物理インタラクションを用いてメール作成などの日常的なタスクを直感的に処理しようという研究です&#34;&gt;MRデバイスで物理インタラクションを用いて、メール作成などの日常的なタスクを直感的に処理しようという研究です。&lt;/h2&gt;
-&lt;p&gt;tags:
-タスクを直感的に処理しようという研究です。&lt;/p&gt;
-&lt;p&gt;社会は急速にデジタル化しており、従来のディスプレイでは情報の整理や処理が追い付かなくなっていく恐れがある。そこで、MRデバイスであるHoloLens2を用いて物体認識を行い、その物体に情報を紐づけることによって、情報を手で操作できるようにする研究を行っている。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VR空間を用いたオンライン授業受講環境</title>
-      <link>/project_container/okumura/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/okumura/</guid>
-      <description>&lt;h2 id=&#34;授業動画や授業資料pcを用いる課題が存在する一般的なオンライン授業においてタブレットやpcではなく&#34;&gt;授業動画や授業資料、PCを用いる課題が存在する一般的なオンライン授業において、タブレットやPCではなく、&lt;/h2&gt;
-&lt;p&gt;VRデバイスを用いた受講システムを構築する。&lt;/p&gt;
-&lt;p&gt;オンライン授業において生徒は自身が所持している、ノートPCなどを用いて授業を受講する。
-しかし、授業では同時に画面を閲覧する機会が多いのに対し、一般的なデバイスでは画面が小さいため、作業効率が悪くなる。
-そこで、VR空間を用いた画面の大きさにとらわれない受講環境を構築することで、作業効率の向上を目指す。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>ファッション商品における視覚的比喩データセットの構築とその応用</title>
       <link>/project_container/wang/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
