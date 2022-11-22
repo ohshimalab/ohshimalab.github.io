@@ -7,7 +7,7 @@
     <description>OHSHIMA LAB.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>OHSHIMA LAB.</title>
       <link>/</link>
     </image>
@@ -38,6 +38,165 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MRデバイス環境における物理インタラクションを伴う日常タスク処理</title>
+      <link>/project_container/tsuda/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/tsuda/</guid>
+      <description>&lt;h2 id=&#34;mrデバイスで物理インタラクションを用いてメール作成などの日常的なタスクを直感的に処理しようという研究です&#34;&gt;MRデバイスで物理インタラクションを用いて、メール作成などの日常的なタスクを直感的に処理しようという研究です。&lt;/h2&gt;
+&lt;p&gt;tags:
+タスクを直感的に処理しようという研究です。&lt;/p&gt;
+&lt;p&gt;社会は急速にデジタル化しており、従来のディスプレイでは情報の整理や処理が追い付かなくなっていく恐れがある。そこで、MRデバイスであるHoloLens2を用いて物体認識を行い、その物体に情報を紐づけることによって、情報を手で操作できるようにする研究を行っている。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VR空間を用いたオンライン授業受講環境</title>
+      <link>/project_container/okumura/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/okumura/</guid>
+      <description>&lt;h2 id=&#34;授業動画や授業資料pcを用いる課題が存在する一般的なオンライン授業においてタブレットやpcではなく&#34;&gt;授業動画や授業資料、PCを用いる課題が存在する一般的なオンライン授業において、タブレットやPCではなく、&lt;/h2&gt;
+&lt;p&gt;VRデバイスを用いた受講システムを構築する。&lt;/p&gt;
+&lt;p&gt;オンライン授業において生徒は自身が所持している、ノートPCなどを用いて授業を受講する。
+しかし、授業では同時に画面を閲覧する機会が多いのに対し、一般的なデバイスでは画面が小さいため、作業効率が悪くなる。
+そこで、VR空間を用いた画面の大きさにとらわれない受講環境を構築することで、作業効率の向上を目指す。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ファッション商品における視覚的比喩データセットの構築とその応用</title>
+      <link>/project_container/wang/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/wang/</guid>
+      <description>&lt;h2 id=&#34;あなたはaiより想像力が豊かでしょうか&#34;&gt;あなたはAIより想像力が豊かでしょうか？&lt;/h2&gt;
+&lt;p&gt;ファッション商品の視覚的比喩とは、商品の外観と類似する事物である。人間にとっての視覚的比喩の成立は、色、形状、質感など、様々な方面の類似度によると考えられ、複雑な問題だと認識されている。本研究は、その視覚的比喩を自動的に尋ねることができるニューラルネットワークを学習させるためのデータセットを作りました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>事前学習済み機械学習モデルの検索</title>
+      <link>/project_container/hioki/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/hioki/</guid>
+      <description>&lt;h2 id=&#34;タスクに最適な事前学習済み機械学習モデルを検索します&#34;&gt;タスクに最適な事前学習済み機械学習モデルを検索します&lt;/h2&gt;
+&lt;p&gt;現在，事前学習された機械学習モデルは数多く存在し，解決したいタスクに対して，最適な機械学習モデルを見つけることは大変困難になっている．本研究では，上記の問題に対して，機械学習モデルの事前学習に用いられたデータと解決したいタスクで用いられるデータの類似度に着目した検索手法を提案する．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>人のパーソナリティと場所の特徴を用いたストレス推定と推定根拠の説明</title>
+      <link>/project_container/hazama/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/hazama/</guid>
+      <description>&lt;h2 id=&#34;人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする&#34;&gt;人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする．&lt;/h2&gt;
+&lt;p&gt;本研究では，人のパーソナリティと場所の特徴を用いて
+ストレスの推定と推定根拠の説明を行う．
+提案手法を用いることで，ある人にとって落ち着く場所や，
+ストレスを感じる場所を事前に把握することができる．
+ストレスの推定には教師あり機械学習モデルを用いる．
+ここで提案するストレス推定モデルは，
+人のパーソナリティと場所の特徴を入力とし，
+ストレス値を出力とする．
+人のパーソナリティはTIPI-JとGHQ30と呼ばれるアンケートから
+パーソナリティ分析手法を用いて取得する．
+場所の特徴はTripAdvisorから得られるレビュー文を用いる．
+ここで，レビュー文は場所の特徴を含む
+テキストデータであるため，
+BERTを用いて768次元の特徴ベクトルを取得し，
+これを利用する．
+ストレス値には心拍変動指数であるLF/HF値を用いる．
+LF/HF値の算出には心拍間隔の時間差が必要となる．
+そのため，心拍波形を取得しピークの検出を行う．
+心拍波形の取得には耳朶脈波計を用いる．
+ストレス推定モデルの説明にはLIMEやSHAP，
+AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>博物館での新たな興味の発見</title>
+      <link>/project_container/nishimoto/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/nishimoto/</guid>
+      <description>&lt;h2 id=&#34;ゲーミフィケーションを取り入れた博物館での鑑賞体験&#34;&gt;ゲーミフィケーションを取り入れた博物館での鑑賞体験&lt;/h2&gt;
+&lt;p&gt;博物館では、多くの展示物が存在することや展示場が広大であることが原因で、限られた時間内での満足な鑑賞体験は得難い。この問題を解決するには、鑑賞する展示物の絞り込みが重要であると考えた。
+大阪府にある国立民族学博物館（みんぱく）を対象として、ガイドシステム「みんぱくガイド」にゲーミフィケーションを取り入れる。鑑賞した展示物で行う穴埋めゲームを実装し、ゲームを進行する上で、類似した展示物の推薦を行うことによって、新たな興味の発見や展示物の記憶への定着を目的とする。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>書家俵越山AI</title>
+      <link>/project_container/kuwata/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/kuwata/</guid>
+      <description>&lt;h2 id=&#34;書家をai化&#34;&gt;書家をAI化&lt;/h2&gt;
+&lt;p&gt;書家俵越山の書道作品を、機械学習を用いて模倣し生成する研究を行っています。近年、AIによるアート生成が盛んに行われるようになりました。今を生きるアーティストがAI化されたとき、アーティスト本人はどう感じるのでしょうか。この研究は、AIとアートの関わり方を考えるきっかけになると考えています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>機械学習モデルを用いて新たな知識発見</title>
+      <link>/project_container/manabe/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/manabe/</guid>
+      <description>&lt;h2 id=&#34;transformer-encoderを用いたプラズマ乱流の予測と生成&#34;&gt;Transformer encoderを用いたプラズマ乱流の予測と生成&lt;/h2&gt;
+&lt;p&gt;Transformerモデルを用いてプラズマ乱流の流れを予測する手法を提案する。
+世の中で起こっている物理現象の中にはメカニズムが解明されていないものが多く存在する。我々は、物理現象の時系列データを模倣する機械学習モデルを作成することによって、
+メカニズムを解明へと繋げる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>特許を用いた重要な特許の発見</title>
+      <link>/project_container/hanatani/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/hanatani/</guid>
+      <description>&lt;h2 id=&#34;特許の被引用数の予測&#34;&gt;特許の被引用数の予測&lt;/h2&gt;
+&lt;p&gt;本研究では特許のデータを用いて重要な特許を発見する研究を行っている。重要な特許とは、例えば、山中伸弥教授の iPS 細胞の特許、トヨタ自動車株式会社の電気自動車の特許や、株式会社日立製作所のウェアラブル端末の特許などが挙げられる。しかし、特許は日本で年間 30 万件ほど出願されており、すべての特許からこれらの特許を発見するのは現実的ではない。そのため、私は重要な特許を発見することで企業が必要な特許を効率的に発見出来るようにしたいと考えている。本研究では重要な特許を、社会に大きな影響を与えている特許としている。 基本的には重要な特許を見つける際に、被引用数に注目する。しかし、被引用数は特許が公開されてから数年は増えにくいという問題がある。そこで、被引用数以外の特徴も用いて、公開されてから 2 年以内に5年後の特許の被引用数を予測する手法の提案を行う。本研究の手法としては、重要な特許には様々な特徴がみられる。現状、重要な特許の特徴を 3つ考えている。その 3 つの特徴とは、初めての技術用語が含まれているという特徴、汎用性があるという特徴、技術用語が初めての組み合わせであるという特徴である。ここで、挙げている特徴を特許中の情報からテキストマイニング等の手法を用いて抽出していく。そして、抽出した特徴を用いて重要な特許の分類を行っていく。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>画像認識によるウキクサ科植物の総枚数と表面積の推定</title>
+      <link>/project_container/okuda/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/okuda/</guid>
+      <description>&lt;h2 id=&#34;画像認識の植物への応用&#34;&gt;画像認識の植物への応用&lt;/h2&gt;
+&lt;p&gt;本研究では，水生植物であるウキクサ科植物の葉の総枚数と表面積を推定する問題に取り組む．
+入力はウキクサ科植物の画像であり，出力は葉の総枚数と葉を垂直から見たときの表面積の2つである．
+ウキクサ科植物は，親に当たる葉と子に当たる葉が水面に浮かんでいる水生植物である．
+本研究ではたとえば，親に当たる葉と子に当たる葉を合わせて，全部で8枚ある場合，出力される総枚数は8枚となることを目指す．
+さらに，入力された画像を垂直方向から見た時の葉の面積の合計も出力することを目指す．
+表面積を出力するために，親に当たる葉と子に当たる葉のかたまりを領域認識する必要がある．
+本研究では，ウキクサという1つのクラスに対して，葉のかたまりを領域認識した．
+総枚数を出力するために，親に当たる葉と子に当たる葉のかたまりに対して，各枚数を推定する必要がある．
+本研究では，
+親に当たる葉と子に当たる葉を合わせたかたまりの形から，画像認識モデルを用いて，各枚数を推定した．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>細粒度な観点をクエリとした小説検索</title>
+      <link>/project_container/itou/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/itou/</guid>
+      <description>&lt;h2 id=&#34;あなたはどんな小説を読みたいですか&#34;&gt;あなたはどんな小説を読みたいですか？&lt;/h2&gt;
+&lt;p&gt;現在、自分が気に入る小説を見つけるには読む以外に方法はなく、小説に対する細かい好みを反映した検索をすることは出来ない。
+例えば、伏線回収が綺麗な小説の例として「ゴールデンスランバー」が挙げられるが、この本のタイトルやあらすじを見ても伏線回収が綺麗であるという特徴を得ることは難しい。
+この研究では小説につくレビューから情報を得ることで、小説の内容や雰囲気からその人の好みに合った小説を提案する。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>食品レビューにおける観点抽出とその検索への応用</title>
+      <link>/project_container/ashizawa/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/ashizawa/</guid>
+      <description>&lt;h2 id=&#34;食品レビューからユーザが欲しい情報である観点を作成しレビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする&#34;&gt;食品レビューから、ユーザが欲しい情報である観点を作成し、レビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする。&lt;/h2&gt;
+&lt;p&gt;実物の見えないオンラインショッピングではレビューが購入の判断材料の一つとなる。レビューは様々な観点から書かれており、ユーザは観点をクエリとして検索することが想定される。そこで本研究では、同じ観点について異なる表現で表されているものを統合し、大量にあるレビューからユーザが望む観点の情報を網羅的に検索する手法を提案する。&lt;/p&gt;
 </description>
     </item>
     
@@ -255,7 +414,7 @@
 放送日　：9月7日（水）&lt;br&gt;
 放送内容：「データがすごい」&lt;/p&gt;
 &lt;p&gt;ラジオはこちらで公開されています。&lt;br&gt;
-&lt;a href=&#34;https://www.u-hyogo.ac.jp/outline/media/radio/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/outline/media/radio/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.u-hyogo.ac.jp/outline/media/radio/index.html&#34;&gt;https://www.u-hyogo.ac.jp/outline/media/radio/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -282,7 +441,7 @@
 &lt;p&gt;2022年9月27日、三林亮太さんが知の交流シンポジウムに参加しました。&lt;/p&gt;
 &lt;p&gt;お疲れ様でした！&lt;/p&gt;
 &lt;p&gt;・ホームページ&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.u-hyogo.ac.jp/research/event/2022/20220927/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/research/event/2022/20220927/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.u-hyogo.ac.jp/research/event/2022/20220927/index.html&#34;&gt;https://www.u-hyogo.ac.jp/research/event/2022/20220927/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;mibayashi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
@@ -613,11 +772,11 @@
 　本システムの実現により、創造的な即興ラップ（バース）の生成が期待でき、人工知能技術にあらたなインパクトを与えることができる。これまでに、チェスや将棋など、人間VS人工知能の挑戦は社会に大きなインパクトを与えてきた。しかし、それらは強い制約に基づくルールが決められた競技での勝負であったが、ラップバトルのような、創造的な要素が強いルールにおいての人工知能との勝負は、チェスや将棋以上のインパクトがあると考えられる。
 　本プロジェクトの目標達成のために、具体的には大きく3つ、(1)バース生成手法、(2)ラップ音声変換手法、(3)多様なデモシステムを開発する。&lt;/p&gt;
 &lt;p&gt;・本プロジェクトの詳細
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;・2022年度採択テーマ一覧
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;・ネットニュースにも取り上げられているみたいです、、！
-&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&#34;&gt;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 発表日を記入するが、まだ未定 --&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
@@ -1432,7 +1591,7 @@ M1、M2共に、活発で有意義な議論を行えました。
 &lt;h4 id=&#34;場所ovice&#34;&gt;場所：oVice&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研のメンバーが東海関西データベースワークショップ 2021に参加しました。&lt;/p&gt;
 &lt;p&gt;たくさんのコメントをいただいたり、色んな研究を知ることができたりと、とても充実した2日間でした。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;final.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;final.png&#34; alt=&#34;&#34;&gt; 
 &lt;img src=&#34;dbws_img0.png&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;dbws_img2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;また、三林亮太さんが最優秀学生プレゼンテーション賞を受賞しました。&lt;/p&gt;
@@ -2801,7 +2960,7 @@ type: post
 高信頼情報科学コース --&gt;
 &lt;p&gt;大島研究室では、博士前期課程学生と博士後期課程学生を募集しています。
 正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;研究室紹介&#34;&gt;研究室紹介&lt;/h2&gt;
 &lt;p&gt;大島研究室の紹介ビデオを以下に作成しています。
 詳細については、以下をご覧ください。&lt;/p&gt;
@@ -2812,7 +2971,7 @@ type: post
 &lt;p&gt;情報科学研究科では、7 月に推薦、9 月に一般の博士前期課程の入試を行っています。
 そのいずれかを受験していただいて、それに合格することで、入学することができます。出願時に大島研究室に配属を希望することで、大島研究室に参加することができます。&lt;/p&gt;
 &lt;p&gt;正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;事前にご連絡いただく必要はありませんが、可能であれば事前にご連絡ください。
 研究の内容や研究の進め方などについて相談したいと思います。
 メールなどでご連絡いただけましたら、面談の機会を作りたいと思います。&lt;/p&gt;
@@ -2820,7 +2979,7 @@ type: post
 &lt;p&gt;また、兵庫県立大学情報科学研究科では、オープンキャンパスなどを行っていますので、そちらに来ていただくのもよいと思います。
 研究科全体の様子を知っていただくことができます。
 オープンキャンパスの情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;情報科学研究科： &lt;a href=&#34;http://u-hyogo.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://u-hyogo.info/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;情報科学研究科： &lt;a href=&#34;http://u-hyogo.info/&#34;&gt;http://u-hyogo.info/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;博士後期課程への入学を希望する方へ&#34;&gt;博士後期課程への入学を希望する方へ&lt;/h2&gt;
 &lt;p&gt;博士後期課程への入学を希望する方は、出願前に必ずご連絡ください。
 事前に、研究の内容や研究の進め方などについて相談したいと思います。
@@ -2830,7 +2989,7 @@ type: post
 &lt;!-- 4 月に入学を希望される方は、いずれの入試を受けていただいてもかまいません。
 10 月に入学を希望される方は、8 月の入試を受けていただく必要があります。 --&gt;
 &lt;p&gt;正式な入学試験の情報については、以下のページをご覧ください。&lt;/p&gt;
-&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;入試情報： &lt;a href=&#34;https://www.u-hyogo.ac.jp/gsis/&#34;&gt;https://www.u-hyogo.ac.jp/gsis/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;研究生としての参加を希望する方へ&#34;&gt;研究生としての参加を希望する方へ&lt;/h2&gt;
 &lt;p&gt;まずは、博士前期課程か博士後期課程への入学をご検討ください。&lt;/p&gt;
 &lt;h2 id=&#34;入試に関する連絡先&#34;&gt;入試に関する連絡先&lt;/h2&gt;
@@ -3164,7 +3323,7 @@ NTTデータ関西&lt;/p&gt;
 &lt;li&gt;Bowen Wang, Liangzhi Li, Yuta Nakashima, Takehiro Yamamoto, Hiroaki Ohshima, Yoshiyuki Shoji, Kenro Aihara, Noriko Kando: &amp;ldquo;Image Retrieval by Hierarchy-aware Deep Hashing Based on Multi-task Learning&amp;rdquo;, Proceedings of the 2021 International Conference on Multimedia Retrieval (ICMR 2021), pp. 486-490, November 2021.&lt;/li&gt;
 &lt;li&gt;Yoshiyuki Shoji, Kenro Aihara, Noriko Kando, Yuta Nakashima, Hiroaki Ohshima, Shio Takidaira, Masaki Ueta, Takehiro Yamamoto, Yusuke Yamamoto: &amp;ldquo;Museum Experience into a Souvenir: Generating Memorable Postcards from Guide Device Behavior Log&amp;rdquo;, Proceedings of the ACM/IEEE Joint Conference on Digital Libraries 2021 (JCDL 2021), pp.120-129, October 2021.&lt;/li&gt;
 &lt;li&gt;Makoto P. Kato, Hiroaki Ohshima, Ying-Hsang Liu, Hsin-Liang Chen: &amp;ldquo;A Test Collection for Ad-hoc Dataset Retrieval&amp;rdquo;, Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), pp.2450-2456, July 2021.&lt;/li&gt;
-&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima: &amp;ldquo;Investigating Users&amp;rsquo; Query Formulations in Consumer Health Search&amp;rdquo;, Proceedings of the 10th International Congress on Advanced Applied Informatics (IIAI-AAI 2021), July 2021.&lt;/li&gt;
+&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima: &amp;ldquo;Investigating Users&#39; Query Formulations in Consumer Health Search&amp;rdquo;, Proceedings of the 10th International Congress on Advanced Applied Informatics (IIAI-AAI 2021), July 2021.&lt;/li&gt;
 &lt;li&gt;Momoha Murata, Hiroaki Ohshima and Yusuke Yamamoto: &amp;ldquo;SmileGlass: AR Glasses that make people appear to be smiling toward the enhancement of well-being&amp;rdquo;, Proceedings of the 10th International Congress on Advanced Applied Informatics (IIAI-AAI 2021), July 2021.&lt;/li&gt;
 &lt;li&gt;Masaki Ueta, Tomoya Hashiguchi, Huu-Long Pham, Yoshiyuki Shoji, Noriko Kando, Yusuke Yamamoto, Takehiro Yamamoto, Hiroaki Ohshima: &amp;ldquo;Quiz Generation on the Electronic Guide Application for Improving Learning Experience in the Museum&amp;rdquo;, Joint Proceedings of the 2nd Workshop on Bridging the Gap between Information Science, Information Retrieval and Data Science, and 3rd Workshop on Evaluation of Personalisation in Information Retrieval co-located with 6th ACM SIGIR Conference on Human Information Interaction and Retrieval (WEPIR 2021), pp.96-104, March 2021.&lt;/li&gt;
 &lt;li&gt;Yoshiyuki Shoji, Kenro Aihara, Martin J. Dürst, Noriko Kando, Takuya Nakaya, Hiroaki Ohshima, Takehiro Yamamoto, Yusuke Yamamoto: &amp;quot; Location-based Reminder for Memorizing What Visitors Learn at a Museum&amp;quot;, Joint Proceedings of the 2nd Workshop on Bridging the Gap between Information Science, Information Retrieval and Data Science, and 3rd Workshop on Evaluation of Personalisation in Information Retrieval co-located with 6th ACM SIGIR Conference on Human Information Interaction and Retrieval (WEPIR 2021), pp.79-87, March 2021.&lt;/li&gt;
@@ -3172,7 +3331,7 @@ NTTデータ関西&lt;/p&gt;
 &lt;li&gt;Kilho Shin, Kenta Okumoto, David Lawrence Shepard, Tetsuji Kuboyama, Takako Hashimoto, Hiroaki Ohshima: &amp;ldquo;A Fast Algorithm for Unsupervised Feature Value Selection&amp;rdquo;, Proceedings of the 12th International Conference on Agents and Artificial Intelligence (ICAART 2020), pp.203-213, February 2020.&lt;/li&gt;
 &lt;li&gt;Katsurou Takahashi, Kilho Shin, Hiroaki Ohshima: &amp;ldquo;Generating Anthropomorphism of Subject and Verb by Transformation Matrix&amp;rdquo;, Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2019), pp.593-597, December 2019.&lt;/li&gt;
 &lt;li&gt;Rabin Maharjan, Koichi Shiraishi, Takehiro Yamamoto, Yusuke Yamamoto, Hiroaki Ohshima: &amp;ldquo;Development of IoT Monitoring Device and Prediction of Daily Life Behavior&amp;rdquo;, Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2019), pp.584-588, December 2019.&lt;/li&gt;
-&lt;li&gt;Naoki Muramoto, Hiromi Shiraga, Kilho Shin, Hiroaki Ohshima: &amp;ldquo;Fatten Features and Drop Wastes: Finding Repeaters&amp;rsquo; Reviews by Feature Generation and Feature Selection&amp;rdquo;, Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2019), pp.161-165, December 2019.&lt;/li&gt;
+&lt;li&gt;Naoki Muramoto, Hiromi Shiraga, Kilho Shin, Hiroaki Ohshima: &amp;ldquo;Fatten Features and Drop Wastes: Finding Repeaters&#39; Reviews by Feature Generation and Feature Selection&amp;rdquo;, Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2019), pp.161-165, December 2019.&lt;/li&gt;
 &lt;li&gt;Yusuke Nakano, Hiroaki Ohshima, Yusuke Yamamoto: &amp;quot; Film Genre Prediction Based on Film Content and Screenplay Structure&amp;quot;, Proceedings of the 21st International Conference on Information Integration and Web-based Applications &amp;amp; Services (iiWAS 2019), pp.151-155, December 2019.&lt;/li&gt;
 &lt;li&gt;Zehua Yang, Yusuke Yamamoto, Takehiro Yamamoto, Noriko Kando, Hiroaki Ohshima: &amp;ldquo;Finding the Connection between Artifact and Personal Knowledge of Museum Visitor&amp;rdquo;, Proceedings of the 2nd Annual Workshop on Evaluation of Personalisation in Information Retrieval (WEPIR 2019), 4 pages, March 2019.&lt;/li&gt;
 &lt;li&gt;Katsurou Takahashi, Hiroaki Ohshima: &amp;ldquo;Transitivity of Transformation Matrices to Bridge Word Vector Spaces Over Time&amp;rdquo;, Proceedings of the 2019 IEEE International Conference on Big Data and Smart Computing (BigComp 2019), pp.1-4, March 2019.&lt;/li&gt;
@@ -3186,7 +3345,7 @@ NTTデータ関西&lt;/p&gt;
 &lt;li&gt;Yoshinori Kitaguchi, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Formulation for Action Search by Bootstrapping&amp;rdquo;, Proceedings of the 16th International Conference on Asia-Pacific Digital Libraries (ICADL 2014), pp.417-422, November 2014.&lt;/li&gt;
 &lt;li&gt;Christian Nitschke, Yuki Minami, Masayuki Hiromoto, Hiroaki Ohshima, Takashi Sato: &amp;ldquo;A Quadrocopter Automatic Control Contest as an Example of Interdisciplinary Design Education&amp;rdquo;, Proceedings of the 14th International Conference on Control, Automation and Systems (ICCAS 2014), pp.678-685, October 2014.&lt;/li&gt;
 &lt;li&gt;Kosetsu Tsukuda, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Ranking of Coordinate Terms and Hypernyms Using a Hypernym-Hyponym Dictionary&amp;rdquo;, Proceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT), pp.15-21, August 2014.&lt;/li&gt;
-&lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Investigating users&amp;rsquo; query formulations for cognitive search intents&amp;rdquo;, Proceedings of the 37th Annual SIGIR Conference (SIGIR 2014), pp.577-586, July 2014.&lt;/li&gt;
+&lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Investigating users&#39; query formulations for cognitive search intents&amp;rdquo;, Proceedings of the 37th Annual SIGIR Conference (SIGIR 2014), pp.577-586, July 2014.&lt;/li&gt;
 &lt;li&gt;Makoto P. Kato, Takehiro Yamamoto, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Cognitive Search Intents Hidden behind Queries: a User Study on Query Formulations&amp;rdquo;, Proceedings of the 23rd International Conference on World Wide Web Companion (WWW 2014), pp.313-314, April 2014.&lt;/li&gt;
 &lt;li&gt;Kosetsu Tsukuda, Hiroaki Ohshima, Mitsuo Yamamoto, Hirotoshi Iwasaki, and Katsumi Tanaka: &amp;ldquo;Discovering Unexpected Information on the basis of Popularity/Unpopularity Analysis of Coordinate Objects and their Relationships&amp;rdquo;, Proceedings of the 28th Annual ACM Symposium on Applied Computing (SAC 2013), pp.878-885, March 2013.&lt;/li&gt;
 &lt;li&gt;Meng Zhao, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Panoramic Image Search by Similarity and Adjacency for Similar Landscape Discovery&amp;rdquo;, Proceedings of the 13th International Conference on Web Information Systems Engineering (WISE 2012), LNCS 7651, pp.284-297, November 2012.&lt;/li&gt;
@@ -3210,7 +3369,7 @@ NTTデータ関西&lt;/p&gt;
 &lt;li&gt;Takuya Kobayashi, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Modeling and Analyzing Review Information on the Web Focusing on Credibility&amp;rdquo;, Proceedings of the 2009 ACM Symposium on Applied Computing (SAC 2009), pp.1316-1317, March 2009.&lt;/li&gt;
 &lt;li&gt;Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Real Time Extraction of Related Terms by Bi-directional Lexico-syntactic Patterns from the Web&amp;rdquo;, Proceedings of the 3rd International Conference on Ubiquitous Information Management and Communication (ICUIMC 2009), pp.441-449, January 2009.&lt;/li&gt;
 &lt;li&gt;Masashi Yamaguchi, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Unsupervised Discovery of Coordinate Terms for Multiple Aspects from Search Engine Query Logs&amp;rdquo;, Proceedings of the 2008 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2008), pp.249-257, December 2008.&lt;/li&gt;
-&lt;li&gt;Yasufumi Kaneko, Satoshi Nakamura, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Relaxation Based on Users&amp;rsquo; Unconfidences on Query Terms and Web Knowledge Extraction&amp;rdquo;, Proceedings of the 11th International Conference on Asia-Pacific Digital Libraries (ICADL 2008), LNCS 5362, pp.71-81, December 2008.&lt;/li&gt;
+&lt;li&gt;Yasufumi Kaneko, Satoshi Nakamura, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;Query Relaxation Based on Users&#39; Unconfidences on Query Terms and Web Knowledge Extraction&amp;rdquo;, Proceedings of the 11th International Conference on Asia-Pacific Digital Libraries (ICADL 2008), LNCS 5362, pp.71-81, December 2008.&lt;/li&gt;
 &lt;li&gt;Makoto Kato, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Can Social Tagging Improve Web Image Search?&amp;rdquo;, Proceedings of the 9th International Conference on Web Information Systems Engineering (WISE 2008), LNCS 5175, pp.235-249, September 2008. (Best Paper Award)&lt;/li&gt;
 &lt;li&gt;Adam Jatowt, Yukiko Kawai, Hiroaki Ohshima, and Katsumi Tanaka: &amp;ldquo;What can history tell us?: towards different models of interaction with document histories&amp;rdquo;, Proceedings of the 19th ACM Conference on Hypertext and Hypermedia (Hypertext 2008), pp.5-14, June 2008.&lt;/li&gt;
 &lt;li&gt;Shun Hattori, Hiroaki Ohshima, Satoshi Oyama, and Katsumi Tanaka: &amp;ldquo;Mining the Web for Hyponymy Relations based on Property Inheritance&amp;rdquo;, Proceedings of the 10th Asia-Pacific Web Conference (APWeb 2008), LNCS 4976, pp.99-110, April 2008.&lt;/li&gt;

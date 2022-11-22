@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>画像認識 | OHSHIMA LAB.</title>
+    <link>/tag/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98/</link>
+      <atom:link href="/tag/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98/index.xml" rel="self" type="application/rss+xml" />
+    <description>画像認識</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>画像認識</title>
+      <link>/tag/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98/</link>
+    </image>
+    
+    <item>
+      <title>ファッション商品における視覚的比喩データセットの構築とその応用</title>
+      <link>/project_container/wang/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/wang/</guid>
+      <description>&lt;h2 id=&#34;あなたはaiより想像力が豊かでしょうか&#34;&gt;あなたはAIより想像力が豊かでしょうか？&lt;/h2&gt;
+&lt;p&gt;ファッション商品の視覚的比喩とは、商品の外観と類似する事物である。人間にとっての視覚的比喩の成立は、色、形状、質感など、様々な方面の類似度によると考えられ、複雑な問題だと認識されている。本研究は、その視覚的比喩を自動的に尋ねることができるニューラルネットワークを学習させるためのデータセットを作りました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>事前学習済み機械学習モデルの検索</title>
+      <link>/project_container/hioki/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/hioki/</guid>
+      <description>&lt;h2 id=&#34;タスクに最適な事前学習済み機械学習モデルを検索します&#34;&gt;タスクに最適な事前学習済み機械学習モデルを検索します&lt;/h2&gt;
+&lt;p&gt;現在，事前学習された機械学習モデルは数多く存在し，解決したいタスクに対して，最適な機械学習モデルを見つけることは大変困難になっている．本研究では，上記の問題に対して，機械学習モデルの事前学習に用いられたデータと解決したいタスクで用いられるデータの類似度に着目した検索手法を提案する．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>書家俵越山AI</title>
+      <link>/project_container/kuwata/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/kuwata/</guid>
+      <description>&lt;h2 id=&#34;書家をai化&#34;&gt;書家をAI化&lt;/h2&gt;
+&lt;p&gt;書家俵越山の書道作品を、機械学習を用いて模倣し生成する研究を行っています。近年、AIによるアート生成が盛んに行われるようになりました。今を生きるアーティストがAI化されたとき、アーティスト本人はどう感じるのでしょうか。この研究は、AIとアートの関わり方を考えるきっかけになると考えています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>機械学習モデルを用いて新たな知識発見</title>
+      <link>/project_container/manabe/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/manabe/</guid>
+      <description>&lt;h2 id=&#34;transformer-encoderを用いたプラズマ乱流の予測と生成&#34;&gt;Transformer encoderを用いたプラズマ乱流の予測と生成&lt;/h2&gt;
+&lt;p&gt;Transformerモデルを用いてプラズマ乱流の流れを予測する手法を提案する。
+世の中で起こっている物理現象の中にはメカニズムが解明されていないものが多く存在する。我々は、物理現象の時系列データを模倣する機械学習モデルを作成することによって、
+メカニズムを解明へと繋げる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>画像認識によるウキクサ科植物の総枚数と表面積の推定</title>
+      <link>/project_container/okuda/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/project_container/okuda/</guid>
+      <description>&lt;h2 id=&#34;画像認識の植物への応用&#34;&gt;画像認識の植物への応用&lt;/h2&gt;
+&lt;p&gt;本研究では，水生植物であるウキクサ科植物の葉の総枚数と表面積を推定する問題に取り組む．
+入力はウキクサ科植物の画像であり，出力は葉の総枚数と葉を垂直から見たときの表面積の2つである．
+ウキクサ科植物は，親に当たる葉と子に当たる葉が水面に浮かんでいる水生植物である．
+本研究ではたとえば，親に当たる葉と子に当たる葉を合わせて，全部で8枚ある場合，出力される総枚数は8枚となることを目指す．
+さらに，入力された画像を垂直方向から見た時の葉の面積の合計も出力することを目指す．
+表面積を出力するために，親に当たる葉と子に当たる葉のかたまりを領域認識する必要がある．
+本研究では，ウキクサという1つのクラスに対して，葉のかたまりを領域認識した．
+総枚数を出力するために，親に当たる葉と子に当たる葉のかたまりに対して，各枚数を推定する必要がある．
+本研究では，
+親に当たる葉と子に当たる葉を合わせたかたまりの形から，画像認識モデルを用いて，各枚数を推定した．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>水質評価システム</title>
+      <link>/project_container/hoteiaoi/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/hoteiaoi/</guid>
+      <description>&lt;h2 id=&#34;ホテイアオイの葉の画像から水中の窒素量を測る&#34;&gt;ホテイアオイの葉の画像から水中の窒素量を測る&lt;/h2&gt;
+&lt;p&gt;水質評価システムは、植物の葉の画像から水質が分かるシステムです。具体的には、ユーザがスマートフォンでホテイアオイの葉の画像を撮影すると、水中の窒素量のレベルが分かります。ここで、ホテイアオイは、水質汚染の原因となる水中の窒素を吸収し、また、非常に繁殖力が強いことが分かっています。&lt;/p&gt;
+&lt;p&gt;このシステムができると、誰でも簡単に水質評価できるようになります。また、誰かが撮影したホテイアオイの葉の画像をネット上にアップすることで、データベースを構築することも出来ます。さらには、この技術を利用することで、環境問題に関心のない人も、水質汚染のみにとどまらず、マイクロプラスチック問題や地球温暖化といった、私たちにとって重要で身近な環境問題に取り組むきっかけになります。&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/xL77IpaTcu0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
