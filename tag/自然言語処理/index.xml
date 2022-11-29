@@ -7,7 +7,7 @@
     <description>自然言語処理</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>自然言語処理</title>
       <link>/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</link>
     </image>
@@ -71,6 +71,20 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
       <guid>/project_container/ashizawa/</guid>
       <description>&lt;h2 id=&#34;食品レビューからユーザが欲しい情報である観点を作成しレビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする&#34;&gt;食品レビューから、ユーザが欲しい情報である観点を作成し、レビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする。&lt;/h2&gt;
 &lt;p&gt;実物の見えないオンラインショッピングではレビューが購入の判断材料の一つとなる。レビューは様々な観点から書かれており、ユーザは観点をクエリとして検索することが想定される。そこで本研究では、同じ観点について異なる表現で表されているものを統合し、大量にあるレビューからユーザが望む観点の情報を網羅的に検索する手法を提案する。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI Rap Battle System</title>
+      <link>/project_container/rapbattle/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/rapbattle/</guid>
+      <description>&lt;h2 id=&#34;aiのディスに耐えられるか&#34;&gt;AIのディスに耐えられるか？&lt;/h2&gt;
+&lt;p&gt;「AI Rap Battle System」は、ラップバトルに特化した対話AIです。自由にラップ（バース）を入力することで、返答となるバースを生成します。&lt;/p&gt;
+&lt;p&gt;近年、フリースタイルラップの流行によりラップバトルが人気です。しかし、ラップバトルは難しく、初心者にはとっつきにくい競技です。本システムを使うことで、誰でも気軽にラップバトルができます。また、ラップバトルの練習相手や新たな創作の発見につながることが期待されます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;三林 亮太, 橋口 友哉, 山本 岳洋, 大島 裕明: 「ラップバトルにおけるライムの意味類似性を考慮したバース生成」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F14-5, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
