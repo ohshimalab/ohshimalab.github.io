@@ -147,15 +147,64 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
     </item>
     
     <item>
-      <title>水質評価システム</title>
-      <link>/project_container/hoteiaoi/</link>
+      <title>AI Rap Battle System</title>
+      <link>/project_container/rapbattle/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project_container/hoteiaoi/</guid>
-      <description>&lt;h2 id=&#34;ホテイアオイの葉の画像から水中の窒素量を測る&#34;&gt;ホテイアオイの葉の画像から水中の窒素量を測る&lt;/h2&gt;
-&lt;p&gt;水質評価システムは、植物の葉の画像から水質が分かるシステムです。具体的には、ユーザがスマートフォンでホテイアオイの葉の画像を撮影すると、水中の窒素量のレベルが分かります。ここで、ホテイアオイは、水質汚染の原因となる水中の窒素を吸収し、また、非常に繁殖力が強いことが分かっています。&lt;/p&gt;
-&lt;p&gt;このシステムができると、誰でも簡単に水質評価できるようになります。また、誰かが撮影したホテイアオイの葉の画像をネット上にアップすることで、データベースを構築することも出来ます。さらには、この技術を利用することで、環境問題に関心のない人も、水質汚染のみにとどまらず、マイクロプラスチック問題や地球温暖化といった、私たちにとって重要で身近な環境問題に取り組むきっかけになります。&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/xL77IpaTcu0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+      <guid>/project_container/rapbattle/</guid>
+      <description>&lt;h2 id=&#34;aiのディスに耐えられるか&#34;&gt;AIのディスに耐えられるか？&lt;/h2&gt;
+&lt;p&gt;「AI Rap Battle System」は、ラップバトルに特化した対話AIです。自由にラップ（バース）を入力することで、返答となるバースを生成します。&lt;/p&gt;
+&lt;p&gt;近年、フリースタイルラップの流行によりラップバトルが人気です。しかし、ラップバトルは難しく、初心者にはとっつきにくい競技です。本システムを使うことで、誰でも気軽にラップバトルができます。また、ラップバトルの練習相手や新たな創作の発見につながることが期待されます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;三林 亮太, 橋口 友哉, 山本 岳洋, 大島 裕明: 「ラップバトルにおけるライムの意味類似性を考慮したバース生成」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F14-5, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Micro Geocoding</title>
+      <link>/project_container/microgeocoding/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/microgeocoding/</guid>
+      <description>&lt;h2 id=&#34;場所の説明文からその場所の緯度経度を推定するシステム&#34;&gt;場所の説明文から、その場所の緯度経度を推定するシステム&lt;/h2&gt;
+&lt;!-- 文で研究紹介 --&gt;
+&lt;p&gt;ある場所を説明する文章から、その場所の緯度経度を推定する。&lt;a href=&#34;https://www.openstreetmap.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStreetMap&lt;/a&gt;から地理情報を取得し、説明文に応じた処理をすることで場所の推定を行う。&lt;/p&gt;
+&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ --&gt;
+&lt;p&gt;言葉を使って、現在地を説明しなければならない状況がある。例えば、交通事故に遭ったとき、警察や保険会社に電話をし、事故が発生した場所を伝えなければならない。言葉による説明から場所を特定するためには、聞き手に知識やスキルが必要である。聞き手の能力によって、推定の正確さに差が出ることもあるだろう。このシステムは、聞き手に代わって場所を推定し、聞き手の能力差によって生じる問題を解決する。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig2_geocoding.png&#34; alt=&#34;fig2_geocoding&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Refresh Location Search</title>
+      <link>/project_container/refreshlocation/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/refreshlocation/</guid>
+      <description>&lt;h2 id=&#34;あなたにとってストレス解消となる場所の探索&#34;&gt;あなたにとってストレス解消となる場所の探索&lt;/h2&gt;
+&lt;p&gt;Refresh Location Searchは、ストレス解消を求めるユーザの人の特徴と、ランドマークの特徴を用いることで、そのユーザにマッチしたストレス解消となる場所の提案を行います。&lt;/p&gt;
+&lt;p&gt;人がストレスを感じた場合、ストレスを解消する方法として、買い物へ出かけたり、登山をする等が挙げられます。それらには、場所を移動するといったことが共通し、ストレス解消を行う場合場所の移動という行動が重要であることが考えられます。また、ストレス解消を求める場所が馴染み深い場所であれば、自分自身でリフレッシュ場所を探すことも可能ですが、そうでない場合、例えば出先などでリフレッシュ場所を求める場合、Refresh Location Searchを導入することで、ユーザにマッチしたストレス解消場所の探索が容易となり、ストレスの解消につながることが期待されます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;吉村 拓真, ファム フーロン, 和田 真弥, 大島 裕明: 「空間的特徴量とパーソナリティ分析を用いたストレス推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), J33-3, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/HV-Oum4N1Wk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>ブックマーク記事を続報順に自動マッピング</title>
+      <link>/project_container/zidomapping/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/zidomapping/</guid>
+      <description>&lt;h2 id=&#34;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&#34;&gt;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&lt;/h2&gt;
+&lt;!-- 文で研究紹介 --&gt;
+&lt;p&gt;記事アーカイブで検索を行いブックマークした記事集合の中で、どの記事がどの記事の続報かを自動で判断してグラフ化します。&lt;/p&gt;
+&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ --&gt;
+&lt;p&gt;記事アーカイブは新聞記事などを数十年間にわたって保存したものです。記事アーカイブは小中学校のまとめ学習で自分の気になるトピックを調べる際などに用いられます。しかし、従来のWeb検索画面のようなインタフェースは検索とまとめを行うのに不親切であることがあります。例えば、検索を進めていくと最初にブックマークした記事の内容や記事間の関係性を忘れることがあります。一度読んだ記事を再度読み返して内容を把握するのは面倒な作業です。&lt;/p&gt;
+&lt;p&gt;そこで、ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェースを提案しています。新聞記事は出来事に対し少しずつ新情報を報道します。従来のインタフェースではユーザは記事同士の続報関係を記憶にとどめたまま検索を行わなければなりませんが、提案するインタフェースは自動で記事を続報順に整理してグラフ化します。そのため、ユーザは視覚的に現在の検索状態を把握でき、まとめの際もブックマーク記事をいちから整理するという手間が省けます。&lt;/p&gt;
+&lt;p&gt;まるで記事アーカイブという入り組んだ情報の洞窟で、ブックマーク記事が自分の欲しい情報に向かって自動で道を切り開いて（マッピングして）いくといったものになります。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;松本 直彰, 湯本 高行, 山本 岳洋, 大島 裕明: 「ニュースアーカイブ探索のための記事間の関係抽出とその可視化」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F25-3, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cve4ufy9TRc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>

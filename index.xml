@@ -1828,18 +1828,6 @@ type: post
     </item>
     
     <item>
-      <title>水質評価システム</title>
-      <link>/project_container/hoteiaoi/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project_container/hoteiaoi/</guid>
-      <description>&lt;h2 id=&#34;ホテイアオイの葉の画像から水中の窒素量を測る&#34;&gt;ホテイアオイの葉の画像から水中の窒素量を測る&lt;/h2&gt;
-&lt;p&gt;水質評価システムは、植物の葉の画像から水質が分かるシステムです。具体的には、ユーザがスマートフォンでホテイアオイの葉の画像を撮影すると、水中の窒素量のレベルが分かります。ここで、ホテイアオイは、水質汚染の原因となる水中の窒素を吸収し、また、非常に繁殖力が強いことが分かっています。&lt;/p&gt;
-&lt;p&gt;このシステムができると、誰でも簡単に水質評価できるようになります。また、誰かが撮影したホテイアオイの葉の画像をネット上にアップすることで、データベースを構築することも出来ます。さらには、この技術を利用することで、環境問題に関心のない人も、水質汚染のみにとどまらず、マイクロプラスチック問題や地球温暖化といった、私たちにとって重要で身近な環境問題に取り組むきっかけになります。&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/xL77IpaTcu0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>発明創造システム</title>
       <link>/project_container/hatumeiou/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
