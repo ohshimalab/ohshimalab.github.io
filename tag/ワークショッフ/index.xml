@@ -5,12 +5,71 @@
     <link>/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/</link>
       <atom:link href="/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/index.xml" rel="self" type="application/rss+xml" />
     <description>ワークショップ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>ワークショップ</title>
       <link>/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/</link>
     </image>
+    
+    <item>
+      <title>大島研のメンバーが東海関西DBWS2022で発表しました</title>
+      <link>/post/2022/1026/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/1026/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;dbws_title.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;日時2022年9月20日火9月21日水&#34;&gt;日時：2022年9月20日（火）～9月21日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所甲南大学-平生セミナーハウス&#34;&gt;場所：甲南大学 平生セミナーハウス&lt;/h4&gt;
+&lt;p&gt;上記日程にて、大島研のメンバーが東海関西データベースワークショップ 2022に参加しました。&lt;/p&gt;
+&lt;p&gt;他大学の学生と研究について意見を交わすことができる貴重な場でした。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;また、桑田 若菜さん、芦澤 亜里紗さん、髙嶋 優快さん、西本 海生さん、津田 裕哉さんが優秀学生プレゼンテーション賞を受賞しました。&lt;/p&gt;
+&lt;p&gt;おめでとうございます！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;発表タイトル&#34;&gt;発表タイトル&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;三林 亮太, MinpakuBERT：文化財の特徴理解に特化したBERTモデル, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;奥田 萌莉, 画像認識によるウキクサ科植物の総枚数と表面積の推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;古屋 昭拓, 特許文書を用いた用途の関係理解に基づく物質の新たな用途の発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;王 丹, ファッション商品における視覚的比喩データセットの構築とその応用, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;伊藤 優真, 意味類似性に基づく細粒度の観点をクエリとした小説検索, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;奥村 笑大, VRにおけるオンライン授業受講環境, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;髙嶋 優快, Transformer Encoderによる場所説明文からの位置推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;谷口 明徳, 地物の位置説明に役立つランドマークの発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;張 雯佳, PCログからのタスク認識に基づく行動推薦, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;津田 裕哉, MRデバイスによる物理インタラクションを交えたタスク処理システム, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;西本 海生, ゲーミフィケーションによる共通点を持つ展示物の推薦に基づく博物館での興味喚起, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;日置 淳也, データ類似性に基づく事前学習済み機械学習モデルの検索, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;芦澤 亜里紗, 食品レビューにおける観点抽出とその検索への応用, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;桑田 若菜, Transformer Encoderによる書家俵越山を模倣した書道作品生成, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;狹間 亮太朗, スマートウォッチで取得される断続的な心拍データからのストレス推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;花谷 翔, 特許マイニングによる重要な特許の発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;眞鍋 陽向, Transformer Encoderによるプラズマ乱流モデルの構築, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;皆さんお疲れさまでした！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/mil.doshisha.ac.jp/dbws2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式webページ&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>大島研のメンバーが東海関西DBWS 2021で発表しました</title>
@@ -21,7 +80,7 @@
 &lt;h4 id=&#34;場所ovice&#34;&gt;場所：oVice&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研のメンバーが東海関西データベースワークショップ 2021に参加しました。&lt;/p&gt;
 &lt;p&gt;たくさんのコメントをいただいたり、色んな研究を知ることができたりと、とても充実した2日間でした。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;final.png&#34; alt=&#34;&#34;&gt; 
+&lt;p&gt;&lt;img src=&#34;final.png&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;dbws_img0.png&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;dbws_img2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;また、三林亮太さんが最優秀学生プレゼンテーション賞を受賞しました。&lt;/p&gt;
