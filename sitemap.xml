@@ -355,9 +355,6 @@
     <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/ohshimalab/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -365,6 +362,9 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/%E5%A4%A7%E5%B3%B6-%E8%A3%95%E6%98%8E/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2019/0310/</loc>
@@ -445,8 +445,6 @@
     <loc>/colabs/</loc>
   </url><url>
     <loc>/mastersthesis/</loc>
-  </url><url>
-    <loc>/author/%E5%A4%A7%E5%B3%B6-%E8%A3%95%E6%98%8E/</loc>
   </url><url>
     <loc>/admission/</loc>
   </url><url>
