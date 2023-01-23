@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>/hoge/</loc>
   </url><url>
     <loc>/talk/example/</loc>
@@ -13,149 +22,14 @@
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project_container/tsuda/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/okumura/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E3%82%B1%E3%83%BC%E3%83%9F%E3%83%95%E3%82%A3%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/wang/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/hioki/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/hazama/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/nishimoto/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/kuwata/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E6%A4%8D%E7%89%A9/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/manabe/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/hanatani/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/okuda/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/itou/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project_container/ashizawa/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/1104/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2022-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/%E7%99%BA%E8%A1%A8/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/1026/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/1021/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E3%82%A4%E3%83%98%E3%83%B3%E3%83%88/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/1014/</loc>
-    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0929/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E8%AB%96%E6%96%87%E8%AA%8C/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0928/</loc>
-    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E7%A0%94%E7%A9%B6%E5%AE%A4/</loc>
-    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E3%82%B7%E3%83%B3%E3%83%9B%E3%82%B7%E3%82%A6%E3%83%A0/</loc>
-    <lastmod>2022-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0926/</loc>
-    <lastmod>2022-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/atcoder/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0925/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0911/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0805/</loc>
-    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8/</loc>
-    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0817/</loc>
-    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/%E5%A5%A5%E7%94%B0-%E8%90%8C%E8%8E%89/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0729/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0721/</loc>
-    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2022/0603/</loc>
-    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</loc>
-    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2022-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/</loc>
     <lastmod>2022-07-02T00:00:00+00:00</lastmod>
@@ -175,11 +49,17 @@
     <loc>/post/2022/0623/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2022/0705/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <loc>/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/%E5%A5%A5%E7%94%B0-%E8%90%8C%E8%8E%89/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2022/0622/</loc>
     <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2022/0603/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2022/0521/</loc>
     <lastmod>2022-05-21T00:00:00+00:00</lastmod>
@@ -190,11 +70,17 @@
     <loc>/post/2022/0625/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2022/0421/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <loc>/tag/%E8%AB%96%E6%96%87%E8%AA%8C/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2022/0421/</loc>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E3%82%A4%E3%83%98%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2022/0315/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
@@ -212,6 +98,9 @@
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2022/0131/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E7%99%BA%E8%A1%A8/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A/</loc>
@@ -244,6 +133,12 @@
     <loc>/post/2021/1204/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/post/2021/1129/</loc>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E7%A0%94%E7%A9%B6%E5%AE%A4/</loc>
+    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/2021/1126/</loc>
     <lastmod>2021-11-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -259,11 +154,20 @@
     <loc>/post/2021/0929/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/2021/0917/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/2021/0905/</loc>
     <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E3%82%B7%E3%83%B3%E3%83%9B%E3%82%B7%E3%82%A6%E3%83%A0/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2021/0815/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
@@ -283,16 +187,31 @@
     <loc>/project_container/microgeocoding/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project_container/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project_container/refreshlocation/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/%E3%83%86%E3%82%A4%E3%83%BC%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF/</loc>
+    <loc>/tag/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E3%83%86%E3%82%B7%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%95/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%A4%9C%E7%B4%A2/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project_container/zidomapping/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E3%83%AA%E3%82%B9%E3%82%AF%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E4%BA%8B%E6%95%85%E6%83%85%E5%A0%B1/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project_container/itijoho/</loc>
@@ -301,16 +220,19 @@
     <loc>/project_container/kenkojoho/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project_container/hoteiaoi/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project_container/hatumeiou/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project_container/korobanusakinoai/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project_container/rensocopywriting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2021/0706/</loc>
@@ -349,13 +271,13 @@
     <loc>/post/2020/0304/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/ohshimalab/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -365,6 +287,9 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/%E5%A4%A7%E5%B3%B6-%E8%A3%95%E6%98%8E/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2019/0310/</loc>
@@ -438,15 +363,11 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/courses/</loc>
-  </url><url>
     <loc>/access/</loc>
   </url><url>
     <loc>/colabs/</loc>
   </url><url>
     <loc>/mastersthesis/</loc>
-  </url><url>
-    <loc>/author/%E5%A4%A7%E5%B3%B6-%E8%A3%95%E6%98%8E/</loc>
   </url><url>
     <loc>/admission/</loc>
   </url><url>

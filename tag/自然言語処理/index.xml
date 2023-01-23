@@ -5,88 +5,12 @@
     <link>/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</link>
       <atom:link href="/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <description>自然言語処理</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>自然言語処理</title>
       <link>/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</link>
     </image>
-    
-    <item>
-      <title>人のパーソナリティと場所の特徴を用いたストレス推定と推定根拠の説明</title>
-      <link>/project_container/hazama/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/hazama/</guid>
-      <description>&lt;h2 id=&#34;人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする&#34;&gt;人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする．&lt;/h2&gt;
-&lt;p&gt;本研究では，人のパーソナリティと場所の特徴を用いて
-ストレスの推定と推定根拠の説明を行う．
-提案手法を用いることで，ある人にとって落ち着く場所や，
-ストレスを感じる場所を事前に把握することができる．
-ストレスの推定には教師あり機械学習モデルを用いる．
-ここで提案するストレス推定モデルは，
-人のパーソナリティと場所の特徴を入力とし，
-ストレス値を出力とする．
-人のパーソナリティはTIPI-JとGHQ30と呼ばれるアンケートから
-パーソナリティ分析手法を用いて取得する．
-場所の特徴はTripAdvisorから得られるレビュー文を用いる．
-ここで，レビュー文は場所の特徴を含む
-テキストデータであるため，
-BERTを用いて768次元の特徴ベクトルを取得し，
-これを利用する．
-ストレス値には心拍変動指数であるLF/HF値を用いる．
-LF/HF値の算出には心拍間隔の時間差が必要となる．
-そのため，心拍波形を取得しピークの検出を行う．
-心拍波形の取得には耳朶脈波計を用いる．
-ストレス推定モデルの説明にはLIMEやSHAP，
-AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>特許を用いた重要な特許の発見</title>
-      <link>/project_container/hanatani/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/hanatani/</guid>
-      <description>&lt;h2 id=&#34;特許の被引用数の予測&#34;&gt;特許の被引用数の予測&lt;/h2&gt;
-&lt;p&gt;本研究では特許のデータを用いて重要な特許を発見する研究を行っている。重要な特許とは、例えば、山中伸弥教授の iPS 細胞の特許、トヨタ自動車株式会社の電気自動車の特許や、株式会社日立製作所のウェアラブル端末の特許などが挙げられる。しかし、特許は日本で年間 30 万件ほど出願されており、すべての特許からこれらの特許を発見するのは現実的ではない。そのため、私は重要な特許を発見することで企業が必要な特許を効率的に発見出来るようにしたいと考えている。本研究では重要な特許を、社会に大きな影響を与えている特許としている。 基本的には重要な特許を見つける際に、被引用数に注目する。しかし、被引用数は特許が公開されてから数年は増えにくいという問題がある。そこで、被引用数以外の特徴も用いて、公開されてから 2 年以内に5年後の特許の被引用数を予測する手法の提案を行う。本研究の手法としては、重要な特許には様々な特徴がみられる。現状、重要な特許の特徴を 3つ考えている。その 3 つの特徴とは、初めての技術用語が含まれているという特徴、汎用性があるという特徴、技術用語が初めての組み合わせであるという特徴である。ここで、挙げている特徴を特許中の情報からテキストマイニング等の手法を用いて抽出していく。そして、抽出した特徴を用いて重要な特許の分類を行っていく。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>細粒度な観点をクエリとした小説検索</title>
-      <link>/project_container/itou/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/itou/</guid>
-      <description>&lt;h2 id=&#34;あなたはどんな小説を読みたいですか&#34;&gt;あなたはどんな小説を読みたいですか？&lt;/h2&gt;
-&lt;p&gt;現在、自分が気に入る小説を見つけるには読む以外に方法はなく、小説に対する細かい好みを反映した検索をすることは出来ない。
-例えば、伏線回収が綺麗な小説の例として「ゴールデンスランバー」が挙げられるが、この本のタイトルやあらすじを見ても伏線回収が綺麗であるという特徴を得ることは難しい。
-この研究では小説につくレビューから情報を得ることで、小説の内容や雰囲気からその人の好みに合った小説を提案する。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>食品レビューにおける観点抽出とその検索への応用</title>
-      <link>/project_container/ashizawa/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/ashizawa/</guid>
-      <description>&lt;h2 id=&#34;食品レビューからユーザが欲しい情報である観点を作成しレビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする&#34;&gt;食品レビューから、ユーザが欲しい情報である観点を作成し、レビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする。&lt;/h2&gt;
-&lt;p&gt;実物の見えないオンラインショッピングではレビューが購入の判断材料の一つとなる。レビューは様々な観点から書かれており、ユーザは観点をクエリとして検索することが想定される。そこで本研究では、同じ観点について異なる表現で表されているものを統合し、大量にあるレビューからユーザが望む観点の情報を網羅的に検索する手法を提案する。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AI Rap Battle System</title>
-      <link>/project_container/rapbattle/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project_container/rapbattle/</guid>
-      <description>&lt;h2 id=&#34;aiのディスに耐えられるか&#34;&gt;AIのディスに耐えられるか？&lt;/h2&gt;
-&lt;p&gt;「AI Rap Battle System」は、ラップバトルに特化した対話AIです。自由にラップ（バース）を入力することで、返答となるバースを生成します。&lt;/p&gt;
-&lt;p&gt;近年、フリースタイルラップの流行によりラップバトルが人気です。しかし、ラップバトルは難しく、初心者にはとっつきにくい競技です。本システムを使うことで、誰でも気軽にラップバトルができます。また、ラップバトルの練習相手や新たな創作の発見につながることが期待されます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;三林 亮太, 橋口 友哉, 山本 岳洋, 大島 裕明: 「ラップバトルにおけるライムの意味類似性を考慮したバース生成」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F14-5, 2021年3月.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>ブックマーク記事を続報順に自動マッピング</title>
