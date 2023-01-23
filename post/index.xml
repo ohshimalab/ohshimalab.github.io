@@ -5,12 +5,526 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>M1研究中間報告会が行われました</title>
+      <link>/post/2022/1104/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/1104/</guid>
+      <description>&lt;h4 id=&#34;日時2021年11月4日金&#34;&gt;日時：2021年11月4日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
+&lt;p&gt;2022年11月4日、情報科学研究科のM1の学生が全員集まって、研究中間報告会が行われました。&lt;/p&gt;
+&lt;p&gt;Zoomで港島（神戸情報科学）キャンパスと繋ぎ、大島研究室の学生は午前中の発表でした。
+発表4分、質疑1分で行われました。&lt;/p&gt;
+&lt;p&gt;一人当たりの時間は短かったですが、いい議論の場となったと思います。これからも無理せず頑張りましょう！&lt;/p&gt;
+&lt;!-- 発表日を記入するが、まだ未定 --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>大島研のメンバーが東海関西DBWS2022で発表しました</title>
+      <link>/post/2022/1026/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/1026/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;dbws_title.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;日時2022年9月20日火9月21日水&#34;&gt;日時：2022年9月20日（火）～9月21日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所甲南大学-平生セミナーハウス&#34;&gt;場所：甲南大学 平生セミナーハウス&lt;/h4&gt;
+&lt;p&gt;上記日程にて、大島研のメンバーが東海関西データベースワークショップ 2022に参加しました。&lt;/p&gt;
+&lt;p&gt;他大学の学生と研究について意見を交わすことができる貴重な場でした。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;また、桑田 若菜さん、芦澤 亜里紗さん、髙嶋 優快さん、西本 海生さん、津田 裕哉さんが優秀学生プレゼンテーション賞を受賞しました。&lt;/p&gt;
+&lt;p&gt;おめでとうございます！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;発表タイトル&#34;&gt;発表タイトル&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;三林 亮太, MinpakuBERT：文化財の特徴理解に特化したBERTモデル, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;奥田 萌莉, 画像認識によるウキクサ科植物の総枚数と表面積の推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;古屋 昭拓, 特許文書を用いた用途の関係理解に基づく物質の新たな用途の発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;王 丹, ファッション商品における視覚的比喩データセットの構築とその応用, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;伊藤 優真, 意味類似性に基づく細粒度の観点をクエリとした小説検索, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;奥村 笑大, VRにおけるオンライン授業受講環境, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;髙嶋 優快, Transformer Encoderによる場所説明文からの位置推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;谷口 明徳, 地物の位置説明に役立つランドマークの発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;張 雯佳, PCログからのタスク認識に基づく行動推薦, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;津田 裕哉, MRデバイスによる物理インタラクションを交えたタスク処理システム, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;西本 海生, ゲーミフィケーションによる共通点を持つ展示物の推薦に基づく博物館での興味喚起, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;日置 淳也, データ類似性に基づく事前学習済み機械学習モデルの検索, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;芦澤 亜里紗, 食品レビューにおける観点抽出とその検索への応用, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;桑田 若菜, Transformer Encoderによる書家俵越山を模倣した書道作品生成, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;狹間 亮太朗, スマートウォッチで取得される断続的な心拍データからのストレス推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;花谷 翔, 特許マイニングによる重要な特許の発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;眞鍋 陽向, Transformer Encoderによるプラズマ乱流モデルの構築, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;皆さんお疲れさまでした！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/mil.doshisha.ac.jp/dbws2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式webページ&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>B4の大学院入試合格をお祝いするBBQを開催しました！</title>
+      <link>/post/2022/1021/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/1021/</guid>
+      <description>&lt;h4 id=&#34;日時2022年10月21日火&#34;&gt;日時：2022年10月21日（火）&lt;/h4&gt;
+&lt;h4 id=&#34;場所大蔵海岸bbq-zazaza&#34;&gt;場所：大蔵海岸BBQ ZAZAZA&lt;/h4&gt;
+&lt;p&gt;2022年10月21日、大蔵海岸のスペースでBBQをしてきました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;picture1.jpg&#34; alt=&#34;&#34;&gt;
+学園都市駅から朝霧駅までのバスで会場へ！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;picture2.jpg&#34; alt=&#34;&#34;&gt;
+良い肉を買ってくださいました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;picture3.jpg&#34; alt=&#34;&#34;&gt;
+朝霧駅をバックに。&lt;/p&gt;
+&lt;p&gt;B4の皆さん、院試お疲れさまでした！！イベント係の皆さんもありがとうございました！
+これから寒くなり、学会の時期に入るので、かなり大変な時期に入っていきますが、頑張っていきましょう！！！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>B4が卒業研究中間発表を行いました</title>
+      <link>/post/2022/1014/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/1014/</guid>
+      <description>&lt;h4 id=&#34;日時2021年10月14日金&#34;&gt;日時：2021年10月14日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
+&lt;p&gt;上記日程にて、大島研究室からは、学部4年生5人が卒業研究中間発表を行いました。&lt;/p&gt;
+&lt;p&gt;卒業研究中間発表は4研究室合同で行い、22人が発表しました。&lt;/p&gt;
+&lt;p&gt;発表は、スライド1枚を使った1分間のショットガンセッションと、
+各ブースに分かれて発表や質疑を行うインタラクティブセッションの2部構成で行われました。&lt;/p&gt;
+&lt;p&gt;今後も頑張りましょう！お疲れ様でした！&lt;/p&gt;
+&lt;!-- 発表日を記入するが、まだ未定 --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>奥田萌莉さんの論文が論文誌に採録されました</title>
+      <link>/post/2022/0929/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0929/</guid>
+      <description>&lt;p&gt;情報処理学会論文誌データベース（IPSJ-TOD）の1月号に、奥田萌莉さんの論文が採録されました。&lt;/p&gt;
+&lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;奥田 萌莉, 大島 裕明：「形・葉脈の特徴に着目した樹葉画像の深層学習に基づく分類」,情報処理学会論文誌データベース（TOD）, No.16, Vol.1, 14-25, 2023年1月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>大島先生がラジオに出演されました</title>
+      <link>/post/2022/0928/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0928/</guid>
+      <description>&lt;p&gt;大島先生がラジオに出演されました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;radio1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;収録の様子&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;radio2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;番組名　：ラジオ関西　水曜ききもん「こちら兵庫県立大学です！」&lt;br&gt;
+放送日　：9月7日（水）&lt;br&gt;
+放送内容：「データがすごい」&lt;/p&gt;
+&lt;p&gt;ラジオはこちらで公開されています。&lt;br&gt;
+&lt;a href=&#34;https://www.u-hyogo.ac.jp/outline/media/radio/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/outline/media/radio/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>三林亮太さんが知の交流シンポジウム2022に参加しました</title>
+      <link>/post/2022/0926/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0926/</guid>
+      <description>&lt;h4 id=&#34;日時2022年9月27日火&#34;&gt;日時：2022年9月27日（火）&lt;/h4&gt;
+&lt;h4 id=&#34;場所アクリエひめじ姫路市文化コンベンションセンター&#34;&gt;場所：アクリエひめじ（姫路市文化コンベンションセンター）&lt;/h4&gt;
+&lt;p&gt;2022年9月27日、三林亮太さんが知の交流シンポジウムに参加しました。&lt;/p&gt;
+&lt;p&gt;お疲れ様でした！&lt;/p&gt;
+&lt;p&gt;・ホームページ&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.u-hyogo.ac.jp/research/event/2022/20220927/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/research/event/2022/20220927/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;mibayashi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>AtCoderに参加しています</title>
+      <link>/post/2022/0925/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0925/</guid>
+      <description>&lt;p&gt;大島研では、毎週みんなで&lt;a href=&#34;https://atcoder.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AtCoder&lt;/a&gt;に参加しています。&lt;/p&gt;
+&lt;p&gt;AtCoderは競技プログラミングサイトで、毎週末にAtCoder Beginner Contestが開催されています。&lt;/p&gt;
+&lt;p&gt;AtCoderではコンテストにRated参加をすると、解けた問題や解く速さに応じてRatingが変化し、Ratingに応じて色分けがされます。&lt;/p&gt;
+&lt;p&gt;大島研の学生では2022年9月25日現在、茶色が4人、灰色が10人となっています。&lt;/p&gt;
+&lt;p&gt;全員が茶色以上になることを目標に、これからも継続的に参加してきたいと思います！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>講座旅行に行ってきました！</title>
+      <link>/post/2022/0911/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0911/</guid>
+      <description>&lt;h4 id=&#34;日時2022年9月11日日13日火&#34;&gt;日時：2022年9月11日（日）～13日（火）&lt;/h4&gt;
+&lt;h4 id=&#34;場所神戸市立自然の家&#34;&gt;場所：神戸市立自然の家&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;&#34;&gt;
+2022年8月17日、神戸市立自然の家へ講座旅行に行ってきました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;2_1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;2_2.jpg&#34; alt=&#34;&#34;&gt;
+1日目は山登り。新神戸駅から布引の滝を経由して、摩耶山の掬星台へ。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;3.jpg&#34; alt=&#34;&#34;&gt;
+いろいろハプニングはあったものの、山を登り切って、自然の家に向かったら、カップヌードルを用意してくれました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;4.jpg&#34; alt=&#34;&#34;&gt;
+その後、カヌーをしました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;5.jpg&#34; alt=&#34;&#34;&gt;
+夕食はBBQ！肉がおいしかったです！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;6.jpg&#34; alt=&#34;&#34;&gt;
+おはようございます。2日目は朝から六甲山アスレチックパークGREENIAへ行ってきました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;7_1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;7_2.jpg&#34; alt=&#34;&#34;&gt;
+六甲山アスレチックパークでは、とにかく遊び、濡れました。。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;9.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;9_1.jpg&#34; alt=&#34;&#34;&gt;
+バスで帰って、その後、飯盒炊爨でした。
+カレーを作りましたが、点火が大変でした。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;10.jpg&#34; alt=&#34;&#34;&gt;
+3日目の朝は、卓球をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;10_1.jpg&#34; alt=&#34;&#34;&gt;
+卓球後、自然の家から離れ、バスとロープウェイで有馬温泉へ。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;11.jpg&#34; alt=&#34;&#34;&gt;
+そこで食べたハンバーガーが美味しかったです！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;12.jpg&#34; alt=&#34;&#34;&gt;
+その後、現地解散しました！お疲れ様でした！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>M2の中間報告会を行いました</title>
+      <link>/post/2022/0805/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0805/</guid>
+      <description>&lt;h4 id=&#34;日時2022年7月29日金&#34;&gt;日時：2022年7月29日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
+&lt;p&gt;2022年7月29日、M2の中間報告会を行いました。&lt;/p&gt;
+&lt;p&gt;奥田萌莉さん、王丹さん、古屋昭弘さんが、修士研究の内容を発表しました。&lt;/p&gt;
+&lt;p&gt;残りの期間も、頑張っていきましょう！！！！！！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>研究室内の大掃除を行いました！</title>
+      <link>/post/2022/0817/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0817/</guid>
+      <description>&lt;h4 id=&#34;日時2022年8月17日水&#34;&gt;日時：2022年8月17日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所研究室&#34;&gt;場所：研究室&lt;/h4&gt;
+&lt;p&gt;2022年8月17日、研究室内の大掃除を行いました。&lt;/p&gt;
+&lt;p&gt;大掃除が始まり、椅子を移動させました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;&#34;&gt;
+ディスプレイをきれいにしています。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;3.jpg&#34; alt=&#34;&#34;&gt;
+大掃除が終わった後の研究室&lt;/p&gt;
+&lt;p&gt;きれいになった研究室で、頑張っていきましょう！！！！！！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>奥田萌莉さんがMIRU2022で発表しました</title>
+      <link>/post/2022/0729/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0729/</guid>
+      <description>&lt;h4 id=&#34;日時2022年7月25日月7月28日木&#34;&gt;日時：2022年7月25日（月）～7月28日（木）&lt;/h4&gt;
+&lt;h4 id=&#34;場所姫路市文化コンベンションセンター--アクリエひめじ-ハイブリッド開催&#34;&gt;場所：姫路市文化コンベンションセンター  アクリエひめじ （ハイブリッド開催）&lt;/h4&gt;
+&lt;p&gt;M2の奥田萌莉です。&lt;/p&gt;
+&lt;p&gt;7月25日から7月28日に行われたMIRU2022でポスター発表を行いました。&lt;/p&gt;
+&lt;p&gt;私にとって、初めての現地開催での発表でした！&lt;/p&gt;
+&lt;p&gt;たくさんの知り合いができ、多くの方々にポスターを見に来て頂けて、刺激になりました！&lt;/p&gt;
+&lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;奥田萌莉, 大島裕明：「多様な特徴に基づく葉の分類」, 第25回 画像の認識・理解シンポジウム（MIRU2022）, 2022年7月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;今後もこのような場で対面で議論できることを楽しみにしつつ、今後も頑張ります。&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>大島研でBBQをしました</title>
+      <link>/post/2022/0721/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0721/</guid>
+      <description>&lt;h4 id=&#34;日時2022年7月15日金&#34;&gt;日時：2022年7月15日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所大蔵海岸bbq-zazaza&#34;&gt;場所：大蔵海岸BBQ ZAZAZA&lt;/h4&gt;
+&lt;p&gt;大島研のメンバーでBBQをしました。&lt;/p&gt;
+&lt;p&gt;徒歩で最寄りの学園都市駅へ。そこからはバスを使いました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bbq2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bbq3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;やって来たのは「大蔵海岸BBQ ZAZAZA」。朝霧駅前にあり、瀬戸内海が一望できます。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bbq4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;大量の肉を焼いていきます。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bbq5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bbq6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bbq1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;燃えるマシュマロ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bbq7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;イベント係の皆様、楽しい企画をありがとうございました！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>三林亮太さんと王丹さんがAAI2022で発表しました</title>
+      <link>/post/2022/0603/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0603/</guid>
+      <description>&lt;h4 id=&#34;日時2022年7月4日火7月6日木&#34;&gt;日時：2022年7月4日（火）～7月6日（木）&lt;/h4&gt;
+&lt;h4 id=&#34;場所ハイブリッド&#34;&gt;場所：ハイブリッド&lt;/h4&gt;
+&lt;!-- ![](mibayashi.jpg ) --&gt;
+&lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- ![](wang.jpg ) --&gt;
+&lt;p&gt;三林　亮太さんと王　丹さんが「14th International Conference on E-Service and Knowledge Management (ESKM 2022)」で発表しました。
+&lt;a href=&#34;https://iaiai.org/conference/aai2022/conferences/eskm-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 発表日を記入するが、まだ未定 --&gt;
+&lt;p&gt;2022年の7月4日～6日に発表。&lt;/p&gt;
+&lt;p&gt;3日間お疲れ様でした！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryota Mibayashi, Masaki Ueta, Takafumi Kawahara, Naoaki Matsumoto, Takuma Yoshimura, Kenro Aihara, Noriko Kando, Yoshiyuki Shoji, Yuta Nakajima, Takehiro Yamamoto, Yusuke Yamamoto and Hiroaki Ohshima: &amp;ldquo;MinpakuBERT: A Language Model for Understanding Cultural Properties in Museum&amp;rdquo;, Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022).&lt;/li&gt;
+&lt;li&gt;Wang Dan, Ryota Mibayashi and Hiroaki Ohshima: &amp;quot; Visual Metaphor Construction for Image and Description of Fashion Goods&amp;quot;, Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>コンペティションに参加しています</title>
@@ -71,11 +585,11 @@
 　本システムの実現により、創造的な即興ラップ（バース）の生成が期待でき、人工知能技術にあらたなインパクトを与えることができる。これまでに、チェスや将棋など、人間VS人工知能の挑戦は社会に大きなインパクトを与えてきた。しかし、それらは強い制約に基づくルールが決められた競技での勝負であったが、ラップバトルのような、創造的な要素が強いルールにおいての人工知能との勝負は、チェスや将棋以上のインパクトがあると考えられる。
 　本プロジェクトの目標達成のために、具体的には大きく3つ、(1)バース生成手法、(2)ラップ音声変換手法、(3)多様なデモシステムを開発する。&lt;/p&gt;
 &lt;p&gt;・本プロジェクトの詳細
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;・2022年度採択テーマ一覧
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;・ネットニュースにも取り上げられているみたいです、、！
-&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&#34;&gt;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 発表日を記入するが、まだ未定 --&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
@@ -91,6 +605,40 @@
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
 &lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
 &lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>大島研でフットサルをしました</title>
+      <link>/post/2022/0705/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0705/</guid>
+      <description>&lt;h4 id=&#34;日時2022年6月22日水&#34;&gt;日時：2022年6月22日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所ミズノスポーツプラザ神戸和田岬&#34;&gt;場所：ミズノスポーツプラザ神戸和田岬&lt;/h4&gt;
+&lt;p&gt;大島研のメンバーでフットサルをしました。&lt;/p&gt;
+&lt;p&gt;天気予報では雨が降りそうで開催できるかどうか怪しかったのですが、当日になってみると無事に晴れ、開催することができました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;game.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;参加人数は18人！3チームに分かれ、総当たり戦をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;keeper.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;試合開始前、大島先生の無防備な姿。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;winners1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;winners2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;優勝チームには景品が送られました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;楽しい1日でした！&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -157,47 +705,6 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     </item>
     
     <item>
-      <title>三林亮太さんと王丹さんがAAI2022で発表します</title>
-      <link>/post/2022/0603/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0603/</guid>
-      <description>&lt;h4 id=&#34;日時2022年7月4日火7月6日木&#34;&gt;日時：2022年7月4日（火）～7月6日（木）&lt;/h4&gt;
-&lt;h4 id=&#34;場所ハイブリッド&#34;&gt;場所：ハイブリッド&lt;/h4&gt;
-&lt;p&gt;三林　亮太さんと王　丹さんが「14th International Conference on E-Service and Knowledge Management (ESKM 2022)」で発表します。
-&lt;a href=&#34;https://iaiai.org/conference/aai2022/conferences/eskm-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
-&lt;!-- 発表日を記入するが、まだ未定 --&gt;
-&lt;p&gt;2022年の7月4日～6日に発表。&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
       <title>IR Reading 2022春に参加しました</title>
       <link>/post/2022/0521/</link>
       <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
@@ -225,11 +732,11 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     </item>
     
     <item>
-      <title>橋口さん・川原さんの論文誌が採録されました</title>
+      <title>橋口さん・川原さんの論文が論文誌に採録されました</title>
       <link>/post/2022/0625/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0625/</guid>
-      <description>&lt;p&gt;橋口 友哉さんと、川原 敬史さんの論文誌が採録されました。おめでとうございます。&lt;/p&gt;
+      <description>&lt;p&gt;橋口 友哉さんの論文と川原 敬史さんの論文が電子情報通信学会論文誌に採録されました。おめでとうございます。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tomoya Hashiguchi, Takehiro Yamamoto, Sumio Fujita, Hiroaki Ohshima: &amp;ldquo;Toward Generating Robot-Robot Natural Counseling Dialogue&amp;rdquo;, Vol.E105-D, No.5, pp. 928-935, May 2022.&lt;/li&gt;
 &lt;li&gt;川原 敬史, 湯本 高行, 大島 裕明：「事故説明文からの傷病の程度の推定」, 電子情報通信学会論文誌D, J105-D巻, 5号, pp. 322-336, 2022年5月.&lt;/li&gt;
@@ -266,7 +773,7 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     </item>
     
     <item>
-      <title>第1回研究会</title>
+      <title>B4、M1、M2、D1全員揃って新学期の第1回研究会を行いました。</title>
       <link>/post/2022/0421/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0421/</guid>
@@ -398,6 +905,10 @@ B4とM1が研究室配属され、研究室が溢れかえるほどの活気に�
 &lt;img src=&#34;m2.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;hamajima.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;yoshimura.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;川原さんが、優秀論文賞と優秀インタラクティブ賞を受賞しました！
+&lt;img src=&#34;kawahara1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;kawahara2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;おめでとうございます！&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -447,7 +958,7 @@ B4とM1が研究室配属され、研究室が溢れかえるほどの活気に�
     </item>
     
     <item>
-      <title>修士論文発表会</title>
+      <title>修士論文発表会を行いました</title>
       <link>/post/2022/0131/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0131/</guid>
@@ -551,7 +1062,7 @@ In Proceedings of the 2022 IEEE International Conference on Big Data and Smart C
     </item>
     
     <item>
-      <title>年末ゲーム忘年会</title>
+      <title>年末ゲーム忘年会をしました</title>
       <link>/post/2021/1227/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/post/2021/1227/</guid>
@@ -667,30 +1178,6 @@ M1、M2共に、活発で有意義な議論を行えました。
 お疲れ様でした！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;furuya.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
-      <title>2021年度研究室紹介ビデオを作成しました</title>
-      <link>/post/2021/1129/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1129/</guid>
-      <description>&lt;p&gt;2021年度研究室紹介ビデオを作成しました。&lt;/p&gt;
-&lt;p&gt;タイムラプスとインタビューで、大島研のリアルな1週間を紹介した映像になっています。&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EG0rhj5czGc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -828,7 +1315,7 @@ M1、M2共に、活発で有意義な議論を行えました。
     </item>
     
     <item>
-      <title>9月の4研究室合同研究会</title>
+      <title>川嶋研究室、大島研究室、湯本研究室、山本研究室の4研究室で合同研究会を行いました</title>
       <link>/post/2021/0929/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <guid>/post/2021/0929/</guid>
@@ -917,7 +1404,7 @@ M1、M2共に、活発で有意義な議論を行えました。
 &lt;h4 id=&#34;場所ovice&#34;&gt;場所：oVice&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研のメンバーが東海関西データベースワークショップ 2021に参加しました。&lt;/p&gt;
 &lt;p&gt;たくさんのコメントをいただいたり、色んな研究を知ることができたりと、とても充実した2日間でした。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;final.png&#34; alt=&#34;&#34;&gt; 
+&lt;p&gt;&lt;img src=&#34;final.png&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;dbws_img0.png&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;dbws_img2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;また、三林亮太さんが最優秀学生プレゼンテーション賞を受賞しました。&lt;/p&gt;
@@ -1035,10 +1522,10 @@ type: post
   + 研究室単位の時は「大島研の論文が」
   + バリエーションは「論文が採録されました」「が発表しました」「論文が受賞しました」ぐらい？ --&gt;
 &lt;!-- 濵島 聡一郎さんの論文が「9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021)」に採録されました。 --&gt;
-&lt;p&gt;濵島 聡一郎さんが「9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021)」で発表しました。&lt;/p&gt;
+&lt;p&gt;濵島 聡一郎さんが「10th International Congress on Advanced Applied Informatics (IIAI-AAI 2021)」で発表しました。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://iaiai.org/conference/aai2021/conferences/scai-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &amp;ldquo;Investigating Users’ Query Formulations in Consumer Health Search&amp;rdquo;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021.&lt;/li&gt;
+&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &amp;ldquo;Investigating Users’ Query Formulations in Consumer Health Search&amp;rdquo;, 10th International Congress on Advanced Applied Informatics (IIAI-AAI 2021), July 2021.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- 2021年の7月11日～16日に発表予定。 --&gt;
 &lt;p&gt;2021年の7月11日～16日に発表。&lt;/p&gt;
@@ -1754,7 +2241,7 @@ type: post
     </item>
     
     <item>
-      <title>Newデスク！</title>
+      <title>デスクがやってきました！</title>
       <link>/post/2018/1101/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/post/2018/1101/</guid>
