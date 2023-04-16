@@ -54,10 +54,8 @@
 &lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;M2の先輩たちからも先生にプレゼント！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;present.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;追いコンの最後に集合写真をパシャり。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;syugo1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;また、B4が卒業、M2が修了するということで、学位記授与式の日にも記念撮影を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;syugo2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;また、B4が卒業、M2が修了するということで、学位記授与式の日に記念撮影を行いました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;syugo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;B4は5人全員大島研のM1に、M2は3人中2人が就職し、1人が大島研のD1になります。&lt;/p&gt;
 &lt;p&gt;M2の先輩方お2人はお疲れ様でした！&lt;/p&gt;
 &lt;p&gt;残りの6人は今後ともよろしくお願いいたします！&lt;/p&gt;
@@ -90,14 +88,16 @@
 &lt;li&gt;[15] 	眞鍋 陽向, 三林 亮太, 沼田 龍介, 山本 岳洋, 大島 裕明: 「Transformer Encoderを用いたプラズマ乱流の予測と分析」, 日本データベース学会 , 第15回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2023), 2023年3月.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;また、王さん、奥田さん、狹間さん、三林さん、桑田さんの5名が学生プレゼンテーション賞を受賞しました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;presentation.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;okuda.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;hazama.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;mibayashi.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;kuwata.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 &lt;p&gt;さらに、三林さん、高嶋さんが最優秀インタラクティブ賞を、奥村さんが優秀インタラクティブ賞を受賞しました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;mibayashi_interactive.jpg&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;interactive.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;mibayashi_interactive.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;takashima.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;okumura.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
@@ -2981,13 +2981,15 @@ type: post
     </item>
     
     <item>
-      <title>修士論文</title>
-      <link>/mastersthesis/</link>
+      <title>学位論文</title>
+      <link>/thesis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/mastersthesis/</guid>
+      <guid>/thesis/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/publications&#34;&gt;研究成果へ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e4%bf%ae%e5%a3%ab%e8%ab%96%e6%96%87&#34;&gt;修士論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%8d%92%e6%a5%ad%e8%ab%96%e6%96%87&#34;&gt;卒業論文&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- + [研究成果へ](/publications) --&gt;
 &lt;h2 id=&#34;修士論文&#34;&gt;修士論文&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -2998,6 +3000,21 @@ type: post
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2023&lt;/td&gt;
+&lt;td&gt;奥田 萌莉&lt;/td&gt;
+&lt;td&gt;深層学習を用いた画像認識による植物の葉の解析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;古屋 昭拓&lt;/td&gt;
+&lt;td&gt;特許マイニングによる類似度推定に基づく物質の新たな用途の発見&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;王 丹&lt;/td&gt;
+&lt;td&gt;外観と概念の類似性に基づく視覚的比喩の生成&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2022&lt;/td&gt;
 &lt;td&gt;上田 昌輝&lt;/td&gt;
@@ -3105,6 +3122,43 @@ type: post
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h2 id=&#34;卒業論文&#34;&gt;卒業論文&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;発行年&lt;/th&gt;
+&lt;th&gt;氏名&lt;/th&gt;
+&lt;th&gt;論文タイトル&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2023&lt;/td&gt;
+&lt;td&gt;芦澤 亜里紗&lt;/td&gt;
+&lt;td&gt;食品レビューにおける観点抽出とその検索への応用&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;桑田 若菜&lt;/td&gt;
+&lt;td&gt;文字種とスタイルを考慮した文字生成モデルによる文字の生成と分析&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;狹間 亮太朗&lt;/td&gt;
+&lt;td&gt;観光地における人と場所の特徴を用いたストレスおよび主観的な場所評価の推定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;花谷 翔&lt;/td&gt;
+&lt;td&gt;特許中の語に着目した被引用数予測による重要な特許の発見&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;眞鍋 陽向&lt;/td&gt;
+&lt;td&gt;深層学習を用いたプラズマ乱流の予測&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
@@ -3179,7 +3233,7 @@ type: post
 &lt;li&gt;&lt;a href=&#34;#%e6%95%99%e5%93%a1&#34;&gt;教員&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e5%ad%a6%e7%94%9f&#34;&gt;学生&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e7%a4%be%e4%bc%9a%e4%ba%ba%e5%ad%a6%e7%94%9f&#34;&gt;社会人学生&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#%e4%bf%ae%e4%ba%86%e7%94%9f&#34;&gt;修了生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%8d%92%e6%a5%ad%e7%94%9f%e4%bf%ae%e4%ba%86%e7%94%9f&#34;&gt;卒業生・修了生&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e5%85%83%e7%a0%94%e7%a9%b6%e7%94%9f&#34;&gt;元研究生&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e5%b0%b1%e8%81%b7%e5%85%88&#34;&gt;就職先&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e4%bf%ae%e5%a3%ab%e5%85%a5%e5%ad%a6%e8%80%85%e3%81%ae%e5%87%ba%e8%ba%ab%e5%a4%a7%e5%ad%a6%e5%9b%bd%e5%86%85&#34;&gt;修士入学者の出身大学（国内）&lt;/a&gt;&lt;/li&gt;
@@ -3319,7 +3373,7 @@ type: post
 &lt;/table&gt;
 &lt;!-- ## 研究生 --&gt;
 &lt;!-- 新しく研究生が入った時に入れる --&gt;
-&lt;h2 id=&#34;卒業生修了生&#34;&gt;卒業生・修了生&lt;/h2&gt;
+&lt;h2 id=&#34;a-name卒業生修了生卒業生修了生a&#34;&gt;&lt;a name=&#34;卒業生修了生&#34;&gt;卒業生・修了生&lt;/a&gt;&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -3504,8 +3558,8 @@ type: post
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#%e5%ad%a6%e8%a1%93%e8%ab%96%e6%96%87%e6%9f%bb%e8%aa%ad%e3%81%82%e3%82%8a&#34;&gt;学術論文（査読あり）&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e5%9b%bd%e9%9a%9b%e4%bc%9a%e8%ad%b0%e9%8c%b2%e6%9f%bb%e8%aa%ad%e3%81%82%e3%82%8a&#34;&gt;国際会議録（査読あり）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/mastersthesis&#34;&gt;修士論文&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- + [修士論文](/thesis) --&gt;
 &lt;h2 id=&#34;学術論文査読あり&#34;&gt;学術論文（査読あり）&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;坂根 和光, 三林 亮太, 川原 敬史, 山本 岳洋, 澤田 祥一, 高階 勇人, 大島 裕明: 「BERT を用いた場所の説明文に対する位置特定容易性の推定」, 日本データベース学会データドリブンスタディーズ, Vol.1, No.6, pp.1-8, 2023年3月.&lt;/li&gt;
