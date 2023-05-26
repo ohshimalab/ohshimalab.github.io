@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | OHSHIMA LAB.</title>
+    <link>/tag/deep-learning/</link>
+      <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>発明創造システム</title>
+      <link>/project_container/hatumeiou/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/hatumeiou/</guid>
+      <description>&lt;h2 id=&#34;これであなたも発明王&#34;&gt;これであなたも発明王&lt;/h2&gt;
+&lt;p&gt;皆さん、新たな発明を創造してその利権で大儲けしたくないですか？そんな夢をサポートするシステムを作成中です。先人たちが創造した数多くの発明は、特許として文書にまとめられています。その特許文書をAIに学習させることで、新たな発明のアイデアを皆さんに提案します。発明の創造で重要となる、素材の用途や機能に関する情報を特許文書から抽出し、素材の新たな用途を予測、発明のアイデアとして提案します。&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/5V-5h7063p8&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>連想キャッチコピー生成</title>
+      <link>/project_container/rensocopywriting/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/rensocopywriting/</guid>
+      <description>&lt;h2 id=&#34;連想表現を用い商品の魅力を引き出す同時に消費者に新奇さを与えるキャッチコピー生成システム&#34;&gt;連想表現を用い、商品の魅力を引き出す同時に消費者に新奇さを与えるキャッチコピー生成システム&lt;/h2&gt;
+&lt;p&gt;ポスターの広告では、短い文案で商品のイメージをきちんと伝える同時に、一瞬で興味をもたらす。その理由は、使用された語は商品のドメインと異なっても、商品と同じ特徴を持つことである。例えば、スニーカーの広告文の「しなやかな雪豹」、防視機能付きカーテンの広告文の「透明な秘密」がある。このようなロジカルと想像力を同時に求める課題では、人にとっても簡単にできるわけではない。&lt;/p&gt;
+&lt;p&gt;連想キャッチコピー生成システムを利用し、商品の広告や陳列台のデザイン、イラスト撮影にの支援が期待できる。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;skycar1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cFUPU7cqO7Q&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
