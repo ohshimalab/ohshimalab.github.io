@@ -47,7 +47,7 @@
       <link>/post/2023/0327/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/post/2023/0327/</guid>
-      <description>&lt;h4 id=&#34;日時2023年3月27日月&#34;&gt;日時：2023年3月27日（月）&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;日時2022年3月27日月&#34;&gt;日時：2022年3月27日（月）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;D1の奥田萌莉です。&lt;/p&gt;
 &lt;p&gt;このたび、上河賞を受賞いたしました。
@@ -103,9 +103,9 @@
     
     <item>
       <title>大島研のメンバーがDEIM2023で発表しました</title>
-      <link>/post/2023/0309/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0309/</guid>
+      <link>/post/2023/0315/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/post/2023/0315/</guid>
       <description>&lt;h4 id=&#34;日時2023年3月5日日3月9日木&#34;&gt;日時：2023年3月5日（日）～3月9日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoomと長良川国際会議場&#34;&gt;場所：Zoomと長良川国際会議場&lt;/h4&gt;
 &lt;p&gt;大島研究室のメンバーがDEIM2023で発表しました。&lt;/p&gt;
@@ -184,9 +184,9 @@
     
     <item>
       <title>大島研のメンバーが節分イベントを行いました！</title>
-      <link>/post/2023/0203/</link>
+      <link>/post/2023/0202/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0203/</guid>
+      <guid>/post/2023/0202/</guid>
       <description>&lt;h4 id=&#34;日時2023年2月3日金&#34;&gt;日時：2023年2月3日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所研究室&#34;&gt;場所：研究室&lt;/h4&gt;
 &lt;p&gt;大島研で節分イベントを行いました！&lt;/p&gt;
@@ -219,7 +219,7 @@
       <link>/post/2022/1104/</link>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/1104/</guid>
-      <description>&lt;h4 id=&#34;日時2022年11月4日金&#34;&gt;日時：2022年11月4日（金）&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;日時2021年11月4日金&#34;&gt;日時：2021年11月4日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;2022年11月4日、情報科学研究科のM1の学生が全員集まって、研究中間報告会が行われました。&lt;/p&gt;
 &lt;p&gt;Zoomで港島（神戸情報科学）キャンパスと繋ぎ、大島研究室の学生は午前中の発表でした。
@@ -240,6 +240,65 @@
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
 &lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
 &lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>大島研のメンバーが東海関西DBWS2022で発表しました</title>
+      <link>/post/2022/1026/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/1026/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;dbws_title.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;日時2022年9月20日火9月21日水&#34;&gt;日時：2022年9月20日（火）～9月21日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所甲南大学-平生セミナーハウス&#34;&gt;場所：甲南大学 平生セミナーハウス&lt;/h4&gt;
+&lt;p&gt;上記日程にて、大島研のメンバーが東海関西データベースワークショップ 2022に参加しました。&lt;/p&gt;
+&lt;p&gt;他大学の学生と研究について意見を交わすことができる貴重な場でした。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;また、桑田 若菜さん、芦澤 亜里紗さん、髙嶋 優快さん、西本 海生さん、津田 裕哉さんが優秀学生プレゼンテーション賞を受賞しました。&lt;/p&gt;
+&lt;p&gt;おめでとうございます！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dbws_award6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;発表タイトル&#34;&gt;発表タイトル&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;三林 亮太, MinpakuBERT：文化財の特徴理解に特化したBERTモデル, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;奥田 萌莉, 画像認識によるウキクサ科植物の総枚数と表面積の推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;古屋 昭拓, 特許文書を用いた用途の関係理解に基づく物質の新たな用途の発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;王 丹, ファッション商品における視覚的比喩データセットの構築とその応用, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;伊藤 優真, 意味類似性に基づく細粒度の観点をクエリとした小説検索, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;奥村 笑大, VRにおけるオンライン授業受講環境, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;髙嶋 優快, Transformer Encoderによる場所説明文からの位置推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;谷口 明徳, 地物の位置説明に役立つランドマークの発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;張 雯佳, PCログからのタスク認識に基づく行動推薦, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;津田 裕哉, MRデバイスによる物理インタラクションを交えたタスク処理システム, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;西本 海生, ゲーミフィケーションによる共通点を持つ展示物の推薦に基づく博物館での興味喚起, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;日置 淳也, データ類似性に基づく事前学習済み機械学習モデルの検索, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;芦澤 亜里紗, 食品レビューにおける観点抽出とその検索への応用, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;桑田 若菜, Transformer Encoderによる書家俵越山を模倣した書道作品生成, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;狹間 亮太朗, スマートウォッチで取得される断続的な心拍データからのストレス推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;花谷 翔, 特許マイニングによる重要な特許の発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;li&gt;眞鍋 陽向, Transformer Encoderによるプラズマ乱流モデルの構築, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;皆さんお疲れさまでした！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/mil.doshisha.ac.jp/dbws2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式webページ&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -293,7 +352,7 @@
       <link>/post/2022/1014/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/1014/</guid>
-      <description>&lt;h4 id=&#34;日時2022年10月14日金&#34;&gt;日時：2022年10月14日（金）&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;日時2021年10月14日金&#34;&gt;日時：2021年10月14日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研究室からは、学部4年生5人が卒業研究中間発表を行いました。&lt;/p&gt;
 &lt;p&gt;卒業研究中間発表は4研究室合同で行い、22人が発表しました。&lt;/p&gt;
@@ -389,9 +448,9 @@
     
     <item>
       <title>三林亮太さんが知の交流シンポジウム2022に参加しました</title>
-      <link>/post/2022/0927/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0927/</guid>
+      <link>/post/2022/0926/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0926/</guid>
       <description>&lt;h4 id=&#34;日時2022年9月27日火&#34;&gt;日時：2022年9月27日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所アクリエひめじ姫路市文化コンベンションセンター&#34;&gt;場所：アクリエひめじ（姫路市文化コンベンションセンター）&lt;/h4&gt;
 &lt;p&gt;2022年9月27日、三林亮太さんが知の交流シンポジウムに参加しました。&lt;/p&gt;
@@ -425,65 +484,6 @@
 &lt;p&gt;AtCoderではコンテストにRated参加をすると、解けた問題や解く速さに応じてRatingが変化し、Ratingに応じて色分けがされます。&lt;/p&gt;
 &lt;p&gt;大島研の学生では2022年9月25日現在、茶色が4人、灰色が10人となっています。&lt;/p&gt;
 &lt;p&gt;全員が茶色以上になることを目標に、これからも継続的に参加してきたいと思います！&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
-      <title>大島研のメンバーが東海関西DBWS2022で発表しました</title>
-      <link>/post/2022/0921/</link>
-      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0921/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;dbws_title.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;日時2022年9月20日火9月21日水&#34;&gt;日時：2022年9月20日（火）～9月21日（水）&lt;/h4&gt;
-&lt;h4 id=&#34;場所甲南大学-平生セミナーハウス&#34;&gt;場所：甲南大学 平生セミナーハウス&lt;/h4&gt;
-&lt;p&gt;上記日程にて、大島研のメンバーが東海関西データベースワークショップ 2022に参加しました。&lt;/p&gt;
-&lt;p&gt;他大学の学生と研究について意見を交わすことができる貴重な場でした。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;dbws1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;dbws2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;dbws3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;また、桑田 若菜さん、芦澤 亜里紗さん、髙嶋 優快さん、西本 海生さん、津田 裕哉さんが優秀学生プレゼンテーション賞を受賞しました。&lt;/p&gt;
-&lt;p&gt;おめでとうございます！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;dbws_award1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;dbws_award2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;dbws_award3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;dbws_award4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;dbws_award5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;dbws_award6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;発表タイトル&#34;&gt;発表タイトル&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;三林 亮太, MinpakuBERT：文化財の特徴理解に特化したBERTモデル, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;奥田 萌莉, 画像認識によるウキクサ科植物の総枚数と表面積の推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;古屋 昭拓, 特許文書を用いた用途の関係理解に基づく物質の新たな用途の発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;王 丹, ファッション商品における視覚的比喩データセットの構築とその応用, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;伊藤 優真, 意味類似性に基づく細粒度の観点をクエリとした小説検索, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;奥村 笑大, VRにおけるオンライン授業受講環境, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;髙嶋 優快, Transformer Encoderによる場所説明文からの位置推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;谷口 明徳, 地物の位置説明に役立つランドマークの発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;張 雯佳, PCログからのタスク認識に基づく行動推薦, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;津田 裕哉, MRデバイスによる物理インタラクションを交えたタスク処理システム, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;西本 海生, ゲーミフィケーションによる共通点を持つ展示物の推薦に基づく博物館での興味喚起, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;日置 淳也, データ類似性に基づく事前学習済み機械学習モデルの検索, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;芦澤 亜里紗, 食品レビューにおける観点抽出とその検索への応用, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;桑田 若菜, Transformer Encoderによる書家俵越山を模倣した書道作品生成, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;狹間 亮太朗, スマートウォッチで取得される断続的な心拍データからのストレス推定, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;花谷 翔, 特許マイニングによる重要な特許の発見, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;li&gt;眞鍋 陽向, Transformer Encoderによるプラズマ乱流モデルの構築, 第7回東海関西データベースワークショップ, 2022年&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;皆さんお疲れさまでした！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sites.google.com/mil.doshisha.ac.jp/dbws2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式webページ&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -553,6 +553,32 @@
     </item>
     
     <item>
+      <title>M2が中間報告会で発表しました</title>
+      <link>/post/2022/0805/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0805/</guid>
+      <description>&lt;h4 id=&#34;日時2022年7月29日金&#34;&gt;日時：2022年7月29日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
+&lt;p&gt;2022年7月29日、M2の中間報告会を行いました。&lt;/p&gt;
+&lt;p&gt;奥田萌莉さん、王丹さん、古屋昭拓さんが、修士研究の内容を発表しました。&lt;/p&gt;
+&lt;p&gt;残りの期間も、頑張っていきましょう！！！！！！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
       <title>大島研のメンバーが研究室内の大掃除を行いました！</title>
       <link>/post/2022/0817/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
@@ -583,36 +609,10 @@
     </item>
     
     <item>
-      <title>M2が中間報告会で発表しました</title>
-      <link>/post/2022/0729/</link>
-      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0729/</guid>
-      <description>&lt;h4 id=&#34;日時2022年7月29日金&#34;&gt;日時：2022年7月29日（金）&lt;/h4&gt;
-&lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
-&lt;p&gt;2022年7月29日、M2の中間報告会を行いました。&lt;/p&gt;
-&lt;p&gt;奥田萌莉さん、王丹さん、古屋昭拓さんが、修士研究の内容を発表しました。&lt;/p&gt;
-&lt;p&gt;残りの期間も、頑張っていきましょう！！！！！！&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
       <title>奥田萌莉さんがMIRU2022で発表しました</title>
-      <link>/post/2022/0728/</link>
+      <link>/post/2022/0729/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0728/</guid>
+      <guid>/post/2022/0729/</guid>
       <description>&lt;h4 id=&#34;日時2022年7月25日月7月28日木&#34;&gt;日時：2022年7月25日（月）～7月28日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所姫路市文化コンベンションセンター--アクリエひめじ-ハイブリッド開催&#34;&gt;場所：姫路市文化コンベンションセンター  アクリエひめじ （ハイブリッド開催）&lt;/h4&gt;
 &lt;p&gt;M2の奥田萌莉です。&lt;/p&gt;
@@ -645,9 +645,9 @@
     
     <item>
       <title>大島研のメンバーがBBQをしました</title>
-      <link>/post/2022/0715/</link>
+      <link>/post/2022/0721/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0715/</guid>
+      <guid>/post/2022/0721/</guid>
       <description>&lt;h4 id=&#34;日時2022年7月15日金&#34;&gt;日時：2022年7月15日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所大蔵海岸bbq-zazaza&#34;&gt;場所：大蔵海岸BBQ ZAZAZA&lt;/h4&gt;
 &lt;p&gt;大島研のメンバーでBBQをしました。&lt;/p&gt;
@@ -681,9 +681,9 @@
     
     <item>
       <title>三林亮太さんと王丹さんがAAI2022で発表しました</title>
-      <link>/post/2022/0706/</link>
+      <link>/post/2022/0603/</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0706/</guid>
+      <guid>/post/2022/0603/</guid>
       <description>&lt;h4 id=&#34;日時2022年7月4日火7月6日木&#34;&gt;日時：2022年7月4日（火）～7月6日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所ハイブリッド&#34;&gt;場所：ハイブリッド&lt;/h4&gt;
 &lt;!-- ![](mibayashi.jpg ) --&gt;
@@ -730,9 +730,9 @@
     
     <item>
       <title>大島研のメンバーがコンペティションに参加しています</title>
-      <link>/post/2022/0702/</link>
+      <link>/post/2022/0704/</link>
       <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0702/</guid>
+      <guid>/post/2022/0704/</guid>
       <description>&lt;p&gt;M2の古屋昭拓です。&lt;/p&gt;
 &lt;p&gt;大島研では、みんなでコンペティションに挑戦しています。
 金メダルの獲得を目指し、最新の深層学習を用いて様々な問題に挑戦しています。&lt;/p&gt;
@@ -772,44 +772,10 @@
     </item>
     
     <item>
-      <title>大島研のメンバーがフットサルをしました</title>
-      <link>/post/2022/0622/</link>
-      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0622/</guid>
-      <description>&lt;h4 id=&#34;日時2022年6月22日水&#34;&gt;日時：2022年6月22日（水）&lt;/h4&gt;
-&lt;h4 id=&#34;場所ミズノスポーツプラザ神戸和田岬&#34;&gt;場所：ミズノスポーツプラザ神戸和田岬&lt;/h4&gt;
-&lt;p&gt;大島研のメンバーでフットサルをしました。&lt;/p&gt;
-&lt;p&gt;天気予報では雨が降りそうで開催できるかどうか怪しかったのですが、当日になってみると無事に晴れ、開催することができました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;game.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;参加人数は18人！3チームに分かれ、総当たり戦をしました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;keeper.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;試合開始前、大島先生の無防備な姿。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;winners1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;winners2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;優勝チームには景品が送られました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;楽しい1日でした！&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
       <title>三林亮太さんが「未踏IT人材発掘・育成事業」に採択されました</title>
-      <link>/post/2022/0620/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0620/</guid>
+      <link>/post/2022/0623/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0623/</guid>
       <description>&lt;h4 id=&#34;日時2022年6月20日&#34;&gt;日時：2022年6月20日&lt;/h4&gt;
 &lt;p&gt;D1の三林亮太です。&lt;/p&gt;
 &lt;p&gt;この度、2022年度 未踏IT人材発掘・育成事業に採択されました。
@@ -858,10 +824,44 @@
     </item>
     
     <item>
+      <title>大島研のメンバーがフットサルをしました</title>
+      <link>/post/2022/0705/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0705/</guid>
+      <description>&lt;h4 id=&#34;日時2022年6月22日水&#34;&gt;日時：2022年6月22日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所ミズノスポーツプラザ神戸和田岬&#34;&gt;場所：ミズノスポーツプラザ神戸和田岬&lt;/h4&gt;
+&lt;p&gt;大島研のメンバーでフットサルをしました。&lt;/p&gt;
+&lt;p&gt;天気予報では雨が降りそうで開催できるかどうか怪しかったのですが、当日になってみると無事に晴れ、開催することができました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;game.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;参加人数は18人！3チームに分かれ、総当たり戦をしました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;keeper.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;試合開始前、大島先生の無防備な姿。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;winners1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;winners2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;優勝チームには景品が送られました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;楽しい1日でした！&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
       <title>奥田萌莉さんがThe 16th NTCIR Conferenceで発表しました</title>
-      <link>/post/2022/0617/</link>
+      <link>/post/2022/0622/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0617/</guid>
+      <guid>/post/2022/0622/</guid>
       <description>&lt;h4 id=&#34;日時2022年6月14日火6月17日金&#34;&gt;日時：2022年6月14日（火）～6月17日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所gather&#34;&gt;場所：Gather&lt;/h4&gt;
 &lt;p&gt;M2の奥田萌莉です。&lt;/p&gt;
@@ -935,9 +935,9 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     
     <item>
       <title>橋口友哉さんと川原敬史さんの論文が論文誌に採録されました</title>
-      <link>/post/2022/0501/</link>
+      <link>/post/2022/0625/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0501/</guid>
+      <guid>/post/2022/0625/</guid>
       <description>&lt;p&gt;橋口 友哉さんの論文と川原 敬史さんの論文が電子情報通信学会論文誌に採録されました。おめでとうございます。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tomoya Hashiguchi, Takehiro Yamamoto, Sumio Fujita, Hiroaki Ohshima: &amp;ldquo;Toward Generating Robot-Robot Natural Counseling Dialogue&amp;rdquo;, Vol.E105-D, No.5, pp. 928-935, May 2022.&lt;/li&gt;
@@ -976,9 +976,9 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     
     <item>
       <title>大島研のメンバーが新学期の第1回研究会を行いました。</title>
-      <link>/post/2022/0408/</link>
+      <link>/post/2022/0421/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0408/</guid>
+      <guid>/post/2022/0421/</guid>
       <description>&lt;h4 id=&#34;日時2022年4月8日金&#34;&gt;日時：2022年4月8日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所大講義室&#34;&gt;場所：大講義室&lt;/h4&gt;
 &lt;p&gt;桜が綺麗に咲き、新学期が始まりました。
@@ -1032,9 +1032,9 @@ B4とM1が研究室配属され、研究室が溢れかえるほどの活気に�
     
     <item>
       <title>大島研のメンバーが追いコンをしました</title>
-      <link>/post/2022/0304/</link>
+      <link>/post/2022/0310/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0304/</guid>
+      <guid>/post/2022/0310/</guid>
       <description>&lt;h4 id=&#34;日時2022年3月4日金&#34;&gt;日時：2022年3月4日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所研究室&#34;&gt;場所：研究室&lt;/h4&gt;
 &lt;p&gt;M2の先輩たちの追いコンを行いました！
@@ -1079,9 +1079,9 @@ B4とM1が研究室配属され、研究室が溢れかえるほどの活気に�
     
     <item>
       <title>大島研のメンバーがDEIM2022で発表しました</title>
-      <link>/post/2022/0302/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0302/</guid>
+      <link>/post/2022/0301/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022/0301/</guid>
       <description>&lt;h4 id=&#34;日時2022年2月27日日3月2日水&#34;&gt;日時：2022年2月27日（日）～3月2日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoomovice&#34;&gt;場所：Zoom、Ovice&lt;/h4&gt;
 &lt;p&gt;大島研究室のメンバーがDEIM2022で発表しました。&lt;/p&gt;
@@ -1129,9 +1129,9 @@ B4とM1が研究室配属され、研究室が溢れかえるほどの活気に�
     
     <item>
       <title>大島研のメンバーが豆まきをしました</title>
-      <link>/post/2022/0203/</link>
+      <link>/post/2022/0214/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0203/</guid>
+      <guid>/post/2022/0214/</guid>
       <description>&lt;h4 id=&#34;日時2022年2月3日木&#34;&gt;日時：2022年2月3日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所研究室&#34;&gt;場所：研究室&lt;/h4&gt;
 &lt;p&gt;2022年度の豆まきを行いました。
@@ -1161,9 +1161,9 @@ B4とM1が研究室配属され、研究室が溢れかえるほどの活気に�
     
     <item>
       <title>M2が修士論文発表会で発表を行いました</title>
-      <link>/post/2022/0201/</link>
+      <link>/post/2022/0131/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0201/</guid>
+      <guid>/post/2022/0131/</guid>
       <description>&lt;h4 id=&#34;日時2022年1月31日月2月1日火&#34;&gt;日時：2022年1月31日（月）～2月1日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所情報科学キャンパス&#34;&gt;場所：情報科学キャンパス&lt;/h4&gt;
 &lt;p&gt;今年卒業される先輩方が修士論文発表を行いました。&lt;/p&gt;
@@ -1207,9 +1207,9 @@ In Proceedings of the 2022 IEEE International Conference on Big Data and Smart C
     
     <item>
       <title>奥田萌莉さんがBigComp2022で発表しました</title>
-      <link>/post/2022/0120/</link>
+      <link>/post/2022/0122/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0120/</guid>
+      <guid>/post/2022/0122/</guid>
       <description>&lt;h4 id=&#34;日時2022年1月17日月1月20日木&#34;&gt;日時：2022年1月17日（月）～1月20日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
 &lt;p&gt;奥田 萌莉さんが「2022 IEEE International Conference on Big Data and Smart Computing (BigComp 2022)」で発表しました。&lt;/p&gt;
@@ -1338,9 +1338,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>三林さんがWISS 2021で発表しました</title>
-      <link>/post/2021/1210/</link>
+      <link>/post/2021/1208/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1210/</guid>
+      <guid>/post/2021/1208/</guid>
       <description>&lt;h4 id=&#34;日時2021年12月8日水10日金&#34;&gt;日時：2021年12月8日(水)～10日(金)&lt;/h4&gt;
 &lt;h4 id=&#34;場所ザ浜名湖オンライン&#34;&gt;場所：ザ浜名湖，オンライン&lt;/h4&gt;
 &lt;p&gt;三林 亮太さんが「WISS: 2021 第29回インタラクティブシステムとソフトウェアに関するワークショップ」で発表しました。&lt;/p&gt;
@@ -1369,9 +1369,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>M1が研究中間報告会を行いました</title>
-      <link>/post/2021/1203/</link>
+      <link>/post/2021/1204/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1203/</guid>
+      <guid>/post/2021/1204/</guid>
       <description>&lt;h4 id=&#34;日時2021年12月3日金&#34;&gt;日時：2021年12月3日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所情報科学キャンパス商科キャンパスzoom&#34;&gt;場所：情報科学キャンパス、商科キャンパス、Zoom&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研究室からは、修士1年生3人が研究中間報告会を行いました。&lt;/p&gt;
@@ -1429,7 +1429,7 @@ M1、M2共に、活発で有意義な議論を行えました。
     <item>
       <title>王丹さんがIDRユーザフォーラム 2021で発表しました</title>
       <link>/post/2021/1122/</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/post/2021/1122/</guid>
       <description>&lt;h4 id=&#34;日時2021年11月22日月&#34;&gt;日時：2021年11月22日（月）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoomgathertown&#34;&gt;場所：Zoom，Gather.Town&lt;/h4&gt;
@@ -1460,9 +1460,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>IR Readingに参加しました</title>
-      <link>/post/2021/1030/</link>
+      <link>/post/2021/1102/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1030/</guid>
+      <guid>/post/2021/1102/</guid>
       <description>&lt;h4 id=&#34;日時2021年10月30日土&#34;&gt;日時：2021年10月30日（土）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研のメンバーがIR Readingに参加しました。&lt;/p&gt;
@@ -1489,9 +1489,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>懇親会を行いました！</title>
-      <link>/post/2021/1029/</link>
+      <link>/post/2021/1116/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1029/</guid>
+      <guid>/post/2021/1116/</guid>
       <description>&lt;h4 id=&#34;日時2021年10月29日金&#34;&gt;日時：2021年10月29日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
 &lt;p&gt;上記日程にて、川嶋研、大島研、湯本研、山本研のメンバーで懇親会を行いました。
@@ -1554,7 +1554,7 @@ M1、M2共に、活発で有意義な議論を行えました。
     <item>
       <title>松本直彰さんと奥田萌莉さんがDE/DBS/IFAT合同研究会で発表しました</title>
       <link>/post/2021/0917/</link>
-      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
       <guid>/post/2021/0917/</guid>
       <description>&lt;h4 id=&#34;日時2021年9月16日木9月17日金&#34;&gt;日時：2021年9月16日（木）～9月17日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
@@ -1599,9 +1599,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>大島研のメンバーが東海関西DBWS 2021で発表しました</title>
-      <link>/post/2021/0906/</link>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0906/</guid>
+      <link>/post/2021/0905/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021/0905/</guid>
       <description>&lt;h4 id=&#34;日時2021年9月5日日9月6日月&#34;&gt;日時：2021年9月5日（日）～9月6日（月）&lt;/h4&gt;
 &lt;h4 id=&#34;場所ovice&#34;&gt;場所：oVice&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研のメンバーが東海関西データベースワークショップ 2021に参加しました。&lt;/p&gt;
@@ -1637,9 +1637,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>三林亮太さんがYANSで発表しました</title>
-      <link>/post/2021/0831/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0831/</guid>
+      <link>/post/2021/0815/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021/0815/</guid>
       <description>&lt;!-- ![](IMG_20210721_141008.jpg ) --&gt;
 &lt;h4 id=&#34;日時2021年8月30日月31日火&#34;&gt;日時：2021年8月30日（月）～31日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
@@ -1668,9 +1668,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>大島研、Dürst研の合同研究会</title>
-      <link>/post/2021/0721/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0721/</guid>
+      <link>/post/2021/0727/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021/0727/</guid>
       <description>&lt;!-- ![](IMG_20210721_141008.jpg ) --&gt;
 &lt;h4 id=&#34;日時2021年7月21日水&#34;&gt;日時：2021年7月21日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパスzoom&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス、Zoom&lt;/h4&gt;
@@ -1749,9 +1749,9 @@ type: post
     
     <item>
       <title>川嶋研、大島研、湯本研、山本研の合同研究会</title>
-      <link>/post/2021/0630/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0630/</guid>
+      <link>/post/2021/0706/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021/0706/</guid>
       <description>&lt;!-- ![](IMG_20210630_154409.jpg &#34;神戸情報科学キャンパスの様子&#34;) --&gt;
 &lt;h4 id=&#34;日時2021年6月30日水&#34;&gt;日時：2021年6月30日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパス商科キャンパスzoom&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス、商科キャンパス、Zoom&lt;/h4&gt;
@@ -1783,9 +1783,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>卒業生を送る会</title>
-      <link>/post/2021/0324/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0324/</guid>
+      <link>/post/2021/0325/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021/0325/</guid>
       <description>&lt;!-- ![](IMG_1922.JPG) --&gt;
 &lt;p&gt;3月24日に兵庫県立大学の学位授与式が行われました。
 午後には、全メンバーが研究室に集まり、M1から研究室を去る先輩方にプレゼントや表彰状（贈る言葉）を渡しました。
@@ -1806,9 +1806,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>大島研究室のメンバーがDEIM2021で発表しました</title>
-      <link>/post/2021/0303/</link>
+      <link>/post/2021/0622/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0303/</guid>
+      <guid>/post/2021/0622/</guid>
       <description>&lt;!-- ---
 title: 濵島 聡一郎さんの論文が AAI 2021 に採録されました
 date: 2021-06-01
@@ -1876,9 +1876,9 @@ type: post
     
     <item>
       <title>橋口友哉さんと中田祐誠さんの論文誌が採録されました</title>
-      <link>/post/2021/0101/</link>
+      <link>/post/2022/0624/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0101/</guid>
+      <guid>/post/2022/0624/</guid>
       <description>&lt;p&gt;橋口 友哉さんと、中田 祐誠さんの論文誌が採録されました。おめでとうございます。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;橋口 友哉, 山本 岳洋, 藤田 澄男, 大島 裕明：「CQAコンテンツからの状況が類似する悩みの検索」, 人工知能学会論文誌, 36巻, 1号, WI2-B_1-13, 2021年1月.&lt;/li&gt;
@@ -1931,9 +1931,9 @@ type: post
     
     <item>
       <title>吉村さんと三林さんがThe 15th NTCIR Conferenceで発表しました</title>
-      <link>/post/2020/1210/</link>
+      <link>/post/2020/1225/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020/1210/</guid>
+      <guid>/post/2020/1225/</guid>
       <description>&lt;h4 id=&#34;日時2020-年-12-月-10-日木&#34;&gt;日時：2020 年 12 月 10 日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所オンライン&#34;&gt;場所：オンライン&lt;/h4&gt;
 &lt;h4 id=&#34;公式-web-ページntcir15httpresearchniiacjpntcirntcir-15conferencehtml&#34;&gt;公式 Web ページ：&lt;a href=&#34;http://research.nii.ac.jp/ntcir/ntcir-15/conference.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ntcir15&lt;/a&gt;&lt;/h4&gt;
@@ -1962,6 +1962,128 @@ type: post
 &lt;ul&gt;
 &lt;li&gt;松本 直彰, 湯本 高行, 山本 岳洋, 大島 裕明: 「時間的推移を考慮した報道トピックの抽出と再構成」, 研究報告情報基礎とアクセス技術 (IFAT), 2020(1),1-6, 2020年.&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>村本さん、ラビンさん、吉井さんが「2019年度 情報処理学会関西支部 支部大会で発表しました</title>
+      <link>/post/2020/0311/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020/0311/</guid>
+      <description>&lt;h4 id=&#34;日時2019-年-9-月-23-日月&#34;&gt;日時：2019 年 9 月 23 日（月）&lt;/h4&gt;
+&lt;h4 id=&#34;場所大阪大学中之島センター大阪府大阪市北区中之島&#34;&gt;場所：大阪大学中之島センター、大阪府大阪市北区中之島&lt;/h4&gt;
+&lt;h4 id=&#34;公式-web-ページhttpskansaiipsjorjp2019sibutaikai_kaisai&#34;&gt;公式 Web ページ：https://kansai.ipsj.or.jp/2019sibutaikai_kaisai/&lt;/h4&gt;
+&lt;p&gt;上記日程にて、大阪大学中之島センターで行われました、 2019 年度 情報処理学会関西支部 支部大会に参加しました。大島研究室からは、村本さん、ラビンさんの 2 名が口頭発表、吉井さんがインタラクティブ発表を行いました。詳細については以下のとおりです。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;「商品の利用目的の特徴表現と検索への応用」
+　村本 直樹、湯本 高行、大島 裕明
+「IoT見守りデバイスの開発とセンサデータからの行動予測」
+　マハルジャン ラビン、白石 晃一（京都造形芸大）、山本 岳洋（京大）、山本 祐輔（静岡大）、大島 裕明
+
+「VR空間における複数ページを同時提示する文書閲覧環境」
+　吉井 健紘、高橋 克郎、大島 裕明
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;また、村本さんが支部大会奨励賞を受賞しました！&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0311/gallery/award.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2020/0311/gallery/award_hu63eb2714dd20425e0eb1151a69607141_3352730_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0311/gallery/muramoto.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2020/0311/gallery/muramoto_hu0d2094bd31db9f34f0df571176644057_796577_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;244&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0311/gallery/rabin.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2020/0311/gallery/rabin_huc271f3c41c4bc68d36b7deda71f7c3de_799821_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0311/gallery/yoshii.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2020/0311/gallery/yoshii_hud409dd357833f3bc2c3aa1d9b556d377_1354705_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>高橋さんがDE/DBS/IFAT合同研究会で発表しました</title>
+      <link>/post/2020/0310/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020/0310/</guid>
+      <description>&lt;h4 id=&#34;日時2019-年-9-月-23-日月&#34;&gt;日時：2019 年 9 月 23 日（月）&lt;/h4&gt;
+&lt;h4 id=&#34;場所工学院大学-新宿キャンパス&#34;&gt;場所：工学院大学 新宿キャンパス&lt;/h4&gt;
+&lt;h4 id=&#34;公式-web-ページhttpswwwipsjorjpkenkyukaieventdbs169ifat136html&#34;&gt;公式 Web ページ：https://www.ipsj.or.jp/kenkyukai/event/dbs169ifat136.html&lt;/h4&gt;
+&lt;p&gt;上記日程にて、工学院大学 新宿キャンパスで行われました、 情報処理学会第 169 回データベースシステム・第 136 回情報基礎とアクセス技術・電子情報通信学会データ工学研究会合同研究会に参加しました。大島研究室からは、高橋さんが以下の内容で口頭発表を行いました。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;「分散表現空間間の変換行列による擬人化の比喩表現の自動生成」
+　高橋 克郎、大島 裕明
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;また、学生奨励賞を受賞しました！&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020/0310/gallery/award.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2020/0310/gallery/award_hu494c2350e76bd1171e06217f4555f76c_1226893_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -2012,132 +2134,10 @@ type: post
     </item>
     
     <item>
-      <title>村本さん、ラビンさん、吉井さんが「2019年度 情報処理学会関西支部 支部大会で発表しました</title>
-      <link>/post/2019/0923-2/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019/0923-2/</guid>
-      <description>&lt;h4 id=&#34;日時2019-年-9-月-23-日月&#34;&gt;日時：2019 年 9 月 23 日（月）&lt;/h4&gt;
-&lt;h4 id=&#34;場所大阪大学中之島センター大阪府大阪市北区中之島&#34;&gt;場所：大阪大学中之島センター、大阪府大阪市北区中之島&lt;/h4&gt;
-&lt;h4 id=&#34;公式-web-ページhttpskansaiipsjorjp2019sibutaikai_kaisai&#34;&gt;公式 Web ページ：https://kansai.ipsj.or.jp/2019sibutaikai_kaisai/&lt;/h4&gt;
-&lt;p&gt;上記日程にて、大阪大学中之島センターで行われました、 2019 年度 情報処理学会関西支部 支部大会に参加しました。大島研究室からは、村本さん、ラビンさんの 2 名が口頭発表、吉井さんがインタラクティブ発表を行いました。詳細については以下のとおりです。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;「商品の利用目的の特徴表現と検索への応用」
-　村本 直樹、湯本 高行、大島 裕明
-「IoT見守りデバイスの開発とセンサデータからの行動予測」
-　マハルジャン ラビン、白石 晃一（京都造形芸大）、山本 岳洋（京大）、山本 祐輔（静岡大）、大島 裕明
-
-「VR空間における複数ページを同時提示する文書閲覧環境」
-　吉井 健紘、高橋 克郎、大島 裕明
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;また、村本さんが支部大会奨励賞を受賞しました！&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0923-2/gallery/award.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0923-2/gallery/award_hu63eb2714dd20425e0eb1151a69607141_3352730_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0923-2/gallery/muramoto.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0923-2/gallery/muramoto_hu0d2094bd31db9f34f0df571176644057_796577_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;244&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0923-2/gallery/rabin.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0923-2/gallery/rabin_huc271f3c41c4bc68d36b7deda71f7c3de_799821_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0923-2/gallery/yoshii.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0923-2/gallery/yoshii_hud409dd357833f3bc2c3aa1d9b556d377_1354705_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>高橋さんがDE/DBS/IFAT合同研究会で発表しました</title>
-      <link>/post/2019/0923-1/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019/0923-1/</guid>
-      <description>&lt;h4 id=&#34;日時2019-年-9-月-23-日月&#34;&gt;日時：2019 年 9 月 23 日（月）&lt;/h4&gt;
-&lt;h4 id=&#34;場所工学院大学-新宿キャンパス&#34;&gt;場所：工学院大学 新宿キャンパス&lt;/h4&gt;
-&lt;h4 id=&#34;公式-web-ページhttpswwwipsjorjpkenkyukaieventdbs169ifat136html&#34;&gt;公式 Web ページ：https://www.ipsj.or.jp/kenkyukai/event/dbs169ifat136.html&lt;/h4&gt;
-&lt;p&gt;上記日程にて、工学院大学 新宿キャンパスで行われました、 情報処理学会第 169 回データベースシステム・第 136 回情報基礎とアクセス技術・電子情報通信学会データ工学研究会合同研究会に参加しました。大島研究室からは、高橋さんが以下の内容で口頭発表を行いました。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;「分散表現空間間の変換行列による擬人化の比喩表現の自動生成」
-　高橋 克郎、大島 裕明
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;また、学生奨励賞を受賞しました！&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0923-1/gallery/award.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0923-1/gallery/award_hu494c2350e76bd1171e06217f4555f76c_1226893_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
       <title>DEIM2019で発表しました</title>
-      <link>/post/2019/0306/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019/0306/</guid>
+      <link>/post/2019/0310/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019/0310/</guid>
       <description>&lt;h4 id=&#34;日時2019年3月4日月6日水&#34;&gt;日時：2019年3月4日（月）～6日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所ホテルオークラjrハウステンボス長崎県佐世保市&#34;&gt;場所：ホテルオークラJRハウステンボス、長崎県佐世保市&lt;/h4&gt;
 &lt;h4 id=&#34;公式webページhttpdb-eventjpnorgdeim2019&#34;&gt;公式Webページ：http://db-event.jpn.org/deim2019/&lt;/h4&gt;
@@ -2177,8 +2177,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/01.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/01_hu507ae19625d4a0446d27584a6f3de21d_2337229_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/01.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/01_hu507ae19625d4a0446d27584a6f3de21d_2337229_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2186,8 +2186,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/02.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/02_hu64f7c8b4b2371e8a3b03f340a6c51e13_1868297_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/02.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/02_hu64f7c8b4b2371e8a3b03f340a6c51e13_1868297_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2195,8 +2195,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/03.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/03_hue0dd4d9e1d50ba45100c094ee9529519_1809089_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/03.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/03_hue0dd4d9e1d50ba45100c094ee9529519_1809089_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2204,8 +2204,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/04.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/04_hubb191fd1cbb55bcdeff18d537cd90786_1977072_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/04.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/04_hubb191fd1cbb55bcdeff18d537cd90786_1977072_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2213,8 +2213,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/05.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/05_hu16cf646296a265e173c16519b198c30f_1862157_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/05.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/05_hu16cf646296a265e173c16519b198c30f_1862157_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;190&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2222,8 +2222,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/06.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/06_hud98f95fcafe83943a0bbc7b37ed47e51_2124023_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/06.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/06_hud98f95fcafe83943a0bbc7b37ed47e51_2124023_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2231,8 +2231,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/07.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/07_hu63e8921e62054de66cdb11004722c23b_820270_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/07.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/07_hu63e8921e62054de66cdb11004722c23b_820270_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2240,8 +2240,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/08.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/08_hu9d2df6c063ce81246e02d99bfd3e0580_776538_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/08.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/08_hu9d2df6c063ce81246e02d99bfd3e0580_776538_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2249,8 +2249,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/09.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/09_hu7a7137ee74759159bb98bba38dd40875_1367073_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/09.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/09_hu7a7137ee74759159bb98bba38dd40875_1367073_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2258,8 +2258,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/10.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/10_hu0c6a8f0c4db2e7a8c03134b3a0a29866_1020329_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/10.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/10_hu0c6a8f0c4db2e7a8c03134b3a0a29866_1020329_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2267,8 +2267,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/11.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/11_hu7bc21411e0be38c84679a108c685346f_1722347_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/11.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/11_hu7bc21411e0be38c84679a108c685346f_1722347_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2276,8 +2276,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/12.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/12_hu7b63c685be4bbccdf0b372ccd9113aaf_1602303_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/12.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/12_hu7b63c685be4bbccdf0b372ccd9113aaf_1602303_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2285,8 +2285,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0306/gallery/13.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2019/0306/gallery/13_hu483a18e8b193bf548d8b0c0be94164bf_1550639_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019/0310/gallery/13.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2019/0310/gallery/13_hu483a18e8b193bf548d8b0c0be94164bf_1550639_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -2296,9 +2296,9 @@ type: post
     
     <item>
       <title>企業実践的ＡＩ（人工知能）利活用研究会 リレーセミナー</title>
-      <link>/post/2018/1207/</link>
-      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/post/2018/1207/</guid>
+      <link>/post/2018/1210/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018/1210/</guid>
       <description>&lt;h4 id=&#34;日時2018年12月6日木7日金&#34;&gt;日時：2018年12月6日（木）、7日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所一般財団法人関西情報センター-第1会議室&#34;&gt;場所：一般財団法人関西情報センター 第1会議室&lt;/h4&gt;
 &lt;p&gt;一般財団法人関西情報センター（KIIS）様主催の「企業実践的ＡＩ（人工知能）利活用研究会 リレーセミナー」にて、大島裕明准教授が「機械学習による情報検索とその応用」というテーマで、2日間に渡り講義を行いました。&lt;/p&gt;
@@ -2325,8 +2325,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1207/gallery/%280%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1207/gallery/%280%29_huad429df2875b7e39e8457bbbbc4f0ca2_965040_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1210/gallery/%280%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1210/gallery/%280%29_huad429df2875b7e39e8457bbbbc4f0ca2_965040_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2334,8 +2334,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1207/gallery/%281%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1207/gallery/%281%29_hu6484f5bf7b6381b28361153941fc29b1_1493894_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1210/gallery/%281%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1210/gallery/%281%29_hu6484f5bf7b6381b28361153941fc29b1_1493894_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -2351,9 +2351,9 @@ type: post
     
     <item>
       <title>甲南大灘本研，静岡大山本研，大島研合同研究会</title>
-      <link>/post/2018/1204/</link>
-      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/post/2018/1204/</guid>
+      <link>/post/2018/1205/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018/1205/</guid>
       <description>&lt;h4 id=&#34;日時2018年12月4日&#34;&gt;日時：2018年12月4日&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパス&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;
 &lt;p&gt;　上記日程にて、甲南大学の灘本明代教授と研究室の学生11名、静岡大学の山本祐輔先生と研究室の学生3名、京都大学の山本岳洋助教に、兵庫県立大学神戸情報科学キャンパスへお越しいただき、合同研究会を行いました。&lt;/p&gt;
@@ -2388,8 +2388,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%280%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1204/gallery/%280%29_huc547ed8f1cfe268c3523300799a8304f_60957_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1205/gallery/%280%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1205/gallery/%280%29_huc547ed8f1cfe268c3523300799a8304f_60957_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2397,8 +2397,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%281%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1204/gallery/%281%29_hu30c089157765bd1c0778eb167d34a15d_319193_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1205/gallery/%281%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1205/gallery/%281%29_hu30c089157765bd1c0778eb167d34a15d_319193_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2406,8 +2406,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%282%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1204/gallery/%282%29_hu1e9082068d1121af564bb0236be1f981_154941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1205/gallery/%282%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1205/gallery/%282%29_hu1e9082068d1121af564bb0236be1f981_154941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2415,8 +2415,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%283%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1204/gallery/%283%29_hu0da7b6cdb47795af03efa9954462e07a_128324_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1205/gallery/%283%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1205/gallery/%283%29_hu0da7b6cdb47795af03efa9954462e07a_128324_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2424,8 +2424,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%284%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1204/gallery/%284%29_hu39c6ef2ac294a2577c0cfb2ce0acf10c_194530_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1205/gallery/%284%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1205/gallery/%284%29_hu39c6ef2ac294a2577c0cfb2ce0acf10c_194530_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2433,8 +2433,8 @@ type: post
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%285%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;/post/2018/1204/gallery/%285%29_hu494f5ef16ff1f4c0abebef767ecc0780_235516_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1205/gallery/%285%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1205/gallery/%285%29_hu494f5ef16ff1f4c0abebef767ecc0780_235516_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -2621,7 +2621,7 @@ type: post
     <item>
       <title>Newホワイトボード！</title>
       <link>/post/2018/0629/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Jun 2018 10:00:00 +0900</pubDate>
       <guid>/post/2018/0629/</guid>
       <description>&lt;p&gt;研究室に大きなホワイトボードがやってきました！
 2700mm×1200mmです。畳スペースに設置しています。&lt;/p&gt;</description>
@@ -2629,9 +2629,9 @@ type: post
     
     <item>
       <title>SoC2018において学生奨励賞を受賞</title>
-      <link>/post/2018/0623/</link>
-      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/post/2018/0623/</guid>
+      <link>/post/2018/0622/</link>
+      <pubDate>Fri, 22 Jun 2018 18:00:00 +0900</pubDate>
+      <guid>/post/2018/0622/</guid>
       <description>&lt;p&gt;2018年6月22日から23日に開催された第9回ソーシャルコンピューティングシンポジウム（SoC2018）において、
 大島研究室博士前期課程1回生の村本直樹さんが学生奨励賞を受賞しました。&lt;/p&gt;
 &lt;p&gt;SoC2018 Webサイト：http://db-event.jpn.org/soc2018/&lt;/p&gt;</description>
