@@ -5,12 +5,41 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>三林亮太さんの論文がCMMR2023に採録されました</title>
+      <link>/post/2023/0913/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/post/2023/0913/</guid>
+      <description>&lt;p&gt;三林亮太さんの論文が「The 16th International Symposium on Computer Music Multidisciplinary Research」に採録されました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cmmr2023.gttm.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMMR2023 公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto and Hiroaki Ohshima: &amp;ldquo;Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 書誌情報は以下の通りです。
+- Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto and Hiroaki Ohshima: &#34;Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles&#34;, Proceedings of the 16th International Symposium on Computer Music Multidisciplinary Research (CMMR 2023)&#34;. --&gt;
+&lt;p&gt;2023年11月に発表予定です。&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>奥田萌莉さんがMIRU2023で発表を行いました</title>
