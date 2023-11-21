@@ -42,6 +42,36 @@
     </item>
     
     <item>
+      <title>三林亮太さんが国際会議CMMR2023で発表を行いました</title>
+      <link>/post/2023/1117/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/post/2023/1117/</guid>
+      <description>&lt;h4 id=&#34;日時2023年11月13日月2023年11月17日金&#34;&gt;日時：2023年11月13日（月）～2023年11月17日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所東京理科大学-森戸記念館&#34;&gt;場所：東京理科大学 森戸記念館&lt;/h4&gt;
+&lt;p&gt;三林亮太さんが「The 16th International Symposium on Computer Music Multidisciplinary Research」で発表を行いました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;oral.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto, Hiroaki Ohshima: &amp;ldquo;Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles&amp;rdquo; Proceedings of the 16th International Symposium on Computer Music Multidisciplinary Research (CMMR 2023), pp30-41, November 2023.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://cmmr2023.gttm.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMMR2023 公式Webページ&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
       <title>大島研のメンバーが商大祭に出店と展示を行いました！</title>
       <link>/post/2023/1103/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
@@ -97,35 +127,6 @@
 &lt;/ul&gt;
 &lt;p&gt;皆さんお疲れ様でした！&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.nadasemi.jp/dbws-2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東海関西DBWS2023 公式Webページ&lt;/a&gt;&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
-      <title>三林亮太さんの論文が国際会議CMMR2023に採録されました</title>
-      <link>/post/2023/0913/</link>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0913/</guid>
-      <description>&lt;p&gt;三林亮太さんの論文が「The 16th International Symposium on Computer Music Multidisciplinary Research」に採録されました。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://cmmr2023.gttm.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMMR2023 公式Webページ&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto and Hiroaki Ohshima: &amp;ldquo;Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- 書誌情報は以下の通りです。
-- Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto and Hiroaki Ohshima: &#34;Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles&#34;, Proceedings of the 16th International Symposium on Computer Music Multidisciplinary Research (CMMR 2023)&#34;. --&gt;
-&lt;p&gt;2023年11月に発表予定です。&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -3901,9 +3902,9 @@ type: post
 &lt;/ol&gt;
 &lt;h2 id=&#34;国際会議録査読あり&#34;&gt;国際会議録（査読あり）&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Ryota Mibayashi, Masaki Ueta, Takafumi Kawahara, Naoaki Matsumoto, Takuma Yoshimura, Kenro Aihara, Noriko Kando, Yoshiyuki Shoji, Yuta Nakajima, Takehiro Yamamoto, Yusuke Yamamoto and Hiroaki Ohshima: &amp;ldquo;MinpakuBERT: A Language Model for Understanding Cultural Properties in Museum&amp;rdquo;, Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022), pp.13-18, July 2022.&lt;/li&gt;
-&lt;li&gt;Wang Dan, Ryota Mibayashi and Hiroaki Ohshima: &amp;ldquo;Visual Metaphor Construction for Image and Description of Fashion Goods&amp;rdquo;, Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022), pp.158-163
-, July 2022.&lt;/li&gt;
+&lt;li&gt;Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto, Hiroaki Ohshima: &amp;ldquo;Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles&amp;rdquo; Proceedings of the 16th International Symposium on Computer Music Multidisciplinary Research (CMMR 2023), pp30-41, November 2023.&lt;/li&gt;
+&lt;li&gt;Ryota Mibayashi, Masaki Ueta, Takafumi Kawahara, Naoaki Matsumoto, Takuma Yoshimura, Kenro Aihara, Noriko Kando, Yoshiyuki Shoji, Yuta Nakajima, Takehiro Yamamoto, Yusuke Yamamoto, Hiroaki Ohshima: &amp;ldquo;MinpakuBERT: A Language Model for Understanding Cultural Properties in Museum&amp;rdquo;, Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022), pp.13-18, July 2022.&lt;/li&gt;
+&lt;li&gt;Wang Dan, Ryota Mibayashi, Hiroaki Ohshima: &amp;ldquo;Visual Metaphor Construction for Image and Description of Fashion Goods&amp;rdquo;, Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022), pp.158-163, July 2022.&lt;/li&gt;
 &lt;li&gt;Moeri Okuda and Hiroaki Ohshima: &amp;ldquo;Feature Fusion for Leaf Image Classification&amp;rdquo;, Proceedings of the 2022 IEEE International Conference on Big Data and Smart Computing (BigComp 2022), pp.259-262, January 2022.&lt;/li&gt;
 &lt;li&gt;Bowen Wang, Liangzhi Li, Yuta Nakashima, Takehiro Yamamoto, Hiroaki Ohshima, Yoshiyuki Shoji, Kenro Aihara, Noriko Kando: &amp;ldquo;Image Retrieval by Hierarchy-aware Deep Hashing Based on Multi-task Learning&amp;rdquo;, Proceedings of the 2021 International Conference on Multimedia Retrieval (ICMR 2021), pp.486-490, November 2021.&lt;/li&gt;
 &lt;li&gt;Yoshiyuki Shoji, Kenro Aihara, Noriko Kando, Yuta Nakashima, Hiroaki Ohshima, Shio Takidaira, Masaki Ueta, Takehiro Yamamoto, Yusuke Yamamoto: &amp;ldquo;Museum Experience into a Souvenir: Generating Memorable Postcards from Guide Device Behavior Log&amp;rdquo;, Proceedings of the ACM/IEEE Joint Conference on Digital Libraries 2021 (JCDL 2021), pp.120-129, October 2021.&lt;/li&gt;
