@@ -5,12 +5,41 @@
     <link>/tag/%E8%AB%96%E6%96%87%E8%AA%8C/</link>
       <atom:link href="/tag/%E8%AB%96%E6%96%87%E8%AA%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>論文誌</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>論文誌</title>
       <link>/tag/%E8%AB%96%E6%96%87%E8%AA%8C/</link>
     </image>
+    
+    <item>
+      <title>奥田萌莉さんの論文が電子情報通信学会論文誌に採録されました</title>
+      <link>/post/2024/0314/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024/0314/</guid>
+      <description>&lt;!-- #### 日時：2024年3月10日（日）～2024年3月14日（木）
+#### 場所： シェフィールド大学 (Sheffield, UK)  --&gt;
+&lt;p&gt;奥田萌莉さんの論文が電子情報通信学会論文誌D「データ工学と情報マネジメント特集」に採録されました。おめでとうございます。&lt;/p&gt;
+&lt;!-- ![](image.jpg) --&gt;
+&lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;奥田 萌莉, 石澤 秀紘, 大島 裕明：「形・色の特徴に着目したウキクサ科植物の面積と枚数の推定」, 電子情報通信学会論文誌D, 2024年5月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>奥田萌莉さんの論文が論文誌に採録されました</title>

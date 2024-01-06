@@ -5,12 +5,82 @@
     <link>/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/</link>
       <atom:link href="/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/index.xml" rel="self" type="application/rss+xml" />
     <description>ワークショップ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>ワークショップ</title>
       <link>/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/</link>
     </image>
+    
+    <item>
+      <title>芦澤亜里紗さんと中山裕紀さんがIDRユーザフォーラム 2023で発表を行いました</title>
+      <link>/post/2023/1211/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/post/2023/1211/</guid>
+      <description>&lt;h4 id=&#34;日時2023年12月11日月&#34;&gt;日時：2023年12月11日（月）&lt;/h4&gt;
+&lt;h4 id=&#34;場所一橋講堂-中会議場&#34;&gt;場所：一橋講堂 中会議場&lt;/h4&gt;
+&lt;p&gt;M1の芦澤亜里紗さんとB4の中山裕紀さんがIDRユーザフォーラム 2023でポスター発表を行いました。&lt;/p&gt;
+&lt;p&gt;IDRユーザフォーラムとは、国立情報学研究所の「情報学研究データリポジトリ（IDR）」で提供されているデータの提供者と利用者が直接意見交換できる場です。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;nakayama.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ashizawa.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;発表タイトルは以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;芦澤亜里紗，三林亮太，大島裕明，食品レビュー検索のためのLLMによる同義フレーズ生成のクエリ拡張への応用，IDRユーザフォーラム 2023，2023年12月
+&lt;a href=&#34;https://www.nii.ac.jp/dsc/idr/userforum/startup/IDR-UF2023_S03.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ポスター資料&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;中山裕紀，莊司慶行，大島裕明, 不動産情報探索のためのVRインタフェースにおける情報との物理的距離によるLoD制御, IDRユーザフォーラム 2023，2023年12月
+&lt;a href=&#34;https://www.nii.ac.jp/dsc/idr/userforum/startup/IDR-UF2023_S08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ポスター資料&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nii.ac.jp/dsc/idr/userforum/2023.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IDRユーザフォーラム 2023公式サイト&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>津田裕哉さんがWISS2023でデモ＆ポスター発表を行いました</title>
+      <link>/post/2023/1201/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/post/2023/1201/</guid>
+      <description>&lt;h4 id=&#34;日時2023年11月29日水2023年12月1日金&#34;&gt;日時：2023年11月29日（水）～2023年12月1日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所ロイヤルホテル八ヶ岳&#34;&gt;場所：ロイヤルホテル八ヶ岳&lt;/h4&gt;
+&lt;p&gt;M2の津田裕哉です。「第31回インタラクティブシステムとソフトウェアに関するワークショップ（WISS2023）」でデモ＆ポスター発表を行いました。&lt;/p&gt;
+&lt;p&gt;WISSは主にインタラクティブシステムに関するアイデア、技術に関するワークショップです。山間のホテルに学生や教員が一緒に泊まり、深夜までお酒を飲みながら議論したりデモしたりするとても楽しい学会でした。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;津田裕哉，山本岳洋，大島裕明，MR空間におけるホワイトボードに対するインタラクションを用いた商品情報検索，第31回インタラクティブシステムとソフトウェアに関するワークショップ，2023&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wiss.org/WISS2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WISS2023公式サイト&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>大島研のメンバーが東海関西DBWS2023で発表しました</title>
