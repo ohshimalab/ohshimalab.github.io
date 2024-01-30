@@ -147,20 +147,6 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
     </item>
     
     <item>
-      <title>AI Rap Battle System</title>
-      <link>/project_container/rapbattle/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project_container/rapbattle/</guid>
-      <description>&lt;h2 id=&#34;aiのディスに耐えられるか&#34;&gt;AIのディスに耐えられるか？&lt;/h2&gt;
-&lt;p&gt;「AI Rap Battle System」は、ラップバトルに特化した対話AIです。自由にラップ（バース）を入力することで、返答となるバースを生成します。&lt;/p&gt;
-&lt;p&gt;近年、フリースタイルラップの流行によりラップバトルが人気です。しかし、ラップバトルは難しく、初心者にはとっつきにくい競技です。本システムを使うことで、誰でも気軽にラップバトルができます。また、ラップバトルの練習相手や新たな創作の発見につながることが期待されます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;三林 亮太, 橋口 友哉, 山本 岳洋, 大島 裕明: 「ラップバトルにおけるライムの意味類似性を考慮したバース生成」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F14-5, 2021年3月.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Micro Geocoding</title>
       <link>/project_container/microgeocoding/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
