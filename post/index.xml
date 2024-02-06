@@ -5,12 +5,41 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>奥田萌莉さんの研究が技術雑誌に掲載されました</title>
+      <link>/post/2024/0206/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024/0206/</guid>
+      <description>&lt;!-- #### 日時：2024年3月10日（日）～2024年3月14日（木）
+#### 場所： シェフィールド大学 (Sheffield, UK)  --&gt;
+&lt;p&gt;奥田萌莉さんの研究内容が、技術雑誌「画像ラボ」に掲載されました。
+書誌情報は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;奥田 萌莉, 石澤 秀紘, 大島 裕明：「深層学習を用いたウキクサ科植物の葉の表面積と枚数の推定」, 画像ラボ, 日本工業出版, 2024年2月.
+HP：https://www.nikko-pb.co.jp/products/detail.php?product_id=5692&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>三林亮太さんの論文が情報処理学会論文誌データベースに採録されました</title>
@@ -331,6 +360,24 @@
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
 &lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
 &lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
+    
+    <item>
+      <title>三林亮太さんの執筆した記事が学会誌「情報処理」に掲載されました</title>
+      <link>/post/2023/0801/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/post/2023/0801/</guid>
+      <description>&lt;!-- #### 日時：2023年7月24日（月）～7月28日（金）
+#### 場所：アクトシティ浜松 --&gt;
+&lt;p&gt;三林です。
+情報処理学会誌8月号の「〇〇×情報処理」特集に寄稿しました。
+今回、私は「ラップ×情報処理」を担当しました。
+他にも、ダンスや昆虫といった。幅広いテーマの「〇〇×情報処理」の記事が載っているので、ぜひご覧ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学会誌「情報処理」「ラップ×情報処理」情報処理学会 Vol.64 No.8 pp.e11 2023年8月.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;amp;active_action=repository_view_main_item_detail&amp;amp;item_id=226871&amp;amp;item_no=1&amp;amp;page_id=13&amp;amp;block_id=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=226871&amp;item_no=1&amp;page_id=13&amp;block_id=8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
