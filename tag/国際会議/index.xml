@@ -5,7 +5,7 @@
     <link>/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/</link>
       <atom:link href="/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>国際会議</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>国際会議</title>
@@ -13,19 +13,21 @@
     </image>
     
     <item>
-      <title>ファムフーロンさんと桑田若菜さんの論文がBigComp2024に採択されました</title>
+      <title>ファム フーロンさんと桑田 若菜さんがBigComp2024で発表しました</title>
       <link>/post/2024/0221/</link>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/post/2024/0221/</guid>
-      <description>&lt;!-- #### 日時：2024年2月18日（日）～2024年2月21日（水）
-#### 場所：The Sukosol Hotel, Bangkok, Thailand  --&gt;
-&lt;p&gt;ファムフーロンさんと桑田若菜さんの論文が国際会議2024 International Conference on Big Data and Smart Computing (BigComp 2024)に採択されました。&lt;/p&gt;
-&lt;p&gt;BigComp 2024は2月18日から2月21日にかけてタイのバンコクで開催されます。
-そこで2人とも口頭発表を行う予定です。&lt;/p&gt;
-&lt;!-- ![](image.jpg) --&gt;
-&lt;!-- 
-書誌情報は以下の通りです。
-- Tomoya Hashiguchi, Ryota Mibayashi, Huu-Long Pham, Wakana Kuwata, Yuka Kawada, Yuya Tsuda, Takehiro Yamamoto and Hiroaki Ohshima，KANDUH at the NTCIR-17 Transfer Task，In proceedings of the 17th NTCIR Conference --&gt;
+      <description>&lt;h4 id=&#34;日時2024年2月18日日2024年2月21日水&#34;&gt;日時：2024年2月18日（日）～2024年2月21日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所the-sukosol-hotel-bangkok-thailand&#34;&gt;場所：The Sukosol Hotel, Bangkok, Thailand&lt;/h4&gt;
+&lt;p&gt;ファム フーロンさんと桑田 若菜さんの論文が国際会議「2024 IEEE International Conference on Big Data and Smart Computing (BigComp 2024)」に採択されました。&lt;/p&gt;
+&lt;p&gt;カンファレンスが2月18日から2月21日にかけてタイのバンコクで開催され口頭発表を行いました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;pham.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;kuwata.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P. Kato, Yusuke Yamamoto, Yoshiyuki Shoji, Hiroaki Ohshima: “Inference-Based No-Learning Approach on Pre-Trained BERT Model Retrieval”, In proceedings of the 2024 IEEE International Conference on Big Data and Smart Computing (BigComp 2024), pp.234-241, February 2024.&lt;/li&gt;
+&lt;li&gt;Wakana Kuwata, Ryota Mibayashi, Masanori Tani, and Hiroaki Ohshima: “Glyph Generation for Japanese Calligraphy based on Encoding both Content and Style”, In proceedings of the 2024 IEEE International Conference on Big Data and Smart Computing (BigComp 2024), pp.207-214, February 2024.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.bigcomputing.org/conf2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigComp 2024公式サイト&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
