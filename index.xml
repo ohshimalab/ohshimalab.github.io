@@ -3650,6 +3650,36 @@ type: post
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2024&lt;/td&gt;
+&lt;td&gt;伊藤 優真&lt;/td&gt;
+&lt;td&gt;大規模言語モデル活用による意味類似性を考慮した本のレビュー検索&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;髙嶋 優快&lt;/td&gt;
+&lt;td&gt;地図情報と場所の説明文から地点を推定するアプリケーション&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;張 雯佳&lt;/td&gt;
+&lt;td&gt;Recommending of Revisit-Worthy Information based on History of Web Browsing and File Usage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;津田 裕哉&lt;/td&gt;
+&lt;td&gt;物理オブジェクトとのMixed-Realityインタラクションに基づく情報組織化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;西本 海生&lt;/td&gt;
+&lt;td&gt;ミュージアム鑑賞におけるビンゴゲームを用いた鑑賞軸の習得に関する研究&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;日置 淳也&lt;/td&gt;
+&lt;td&gt;インスタンスセグメンテーションにおける画像類似性に基づく機械学習モデル検索&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2023&lt;/td&gt;
 &lt;td&gt;奥田 萌莉&lt;/td&gt;
 &lt;td&gt;深層学習を用いた画像認識による植物の葉の解析&lt;/td&gt;
@@ -3686,22 +3716,22 @@ type: post
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;松本 直彰    　　　　　&lt;/td&gt;
+&lt;td&gt;松本 直彰&lt;/td&gt;
 &lt;td&gt;記事の続報関係に基づく探索者ビューを用いたニュースアーカイブ探索&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;三林 亮太   　　　　　&lt;/td&gt;
+&lt;td&gt;三林 亮太&lt;/td&gt;
 &lt;td&gt;ラップバトルにおけるライムとアンサーを考慮したバース生成&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;吉村 拓真    　　　　　&lt;/td&gt;
+&lt;td&gt;吉村 拓真&lt;/td&gt;
 &lt;td&gt;人の特徴と場所の特徴を用いたストレス推定&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;福島 航平    　　　　　&lt;/td&gt;
+&lt;td&gt;福島 航平&lt;/td&gt;
 &lt;td&gt;チラシ媒体通販における商品の販売数予測&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3781,6 +3811,31 @@ type: post
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2024&lt;/td&gt;
+&lt;td&gt;奥田 颯馬&lt;/td&gt;
+&lt;td&gt;トピック具体化による映画レビュー執筆支援&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;常松 大雅&lt;/td&gt;
+&lt;td&gt;高圧ガス関連文書を用いた検索拡張生成による質問応答&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;中西 勇輝&lt;/td&gt;
+&lt;td&gt;授業改善のための意見を引き出すAIインタビュアー&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;中山 裕紀&lt;/td&gt;
+&lt;td&gt;VR空間における情報の絞り込みとLoD操作による不動産情報探索&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;門垣 幸樹&lt;/td&gt;
+&lt;td&gt;強化学習による差動二輪車制御における内外乱適応&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2023&lt;/td&gt;
 &lt;td&gt;芦澤 亜里紗&lt;/td&gt;
@@ -3916,40 +3971,12 @@ type: post
 &lt;td&gt;高橋 克郎 （Katsurou TAKAHASHI）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;D3&lt;/td&gt;
-&lt;td&gt;田中 謙次 （Kenji TANAKA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td&gt;D2&lt;/td&gt;
 &lt;td&gt;三林 亮太 （Ryota MIBAYASHI）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;D1&lt;/td&gt;
 &lt;td&gt;奥田 萌莉 （Moeri OKUDA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;伊藤 優真 （Yuma ITO）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;髙嶋 優快 （Masayoshi TAKASHIMA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;張 雯佳 （Wenjia ZHANG）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;津田 裕哉 （Yuya TSUDA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;西本 海生 （Kaisei NISHIMOTO）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M2&lt;/td&gt;
-&lt;td&gt;日置 淳也 （Junya HIOKI）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;M1&lt;/td&gt;
@@ -3973,14 +4000,6 @@ type: post
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;B4&lt;/td&gt;
-&lt;td&gt;奥田 颯馬 （Soma OKUDA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;B4&lt;/td&gt;
-&lt;td&gt;常松 大雅 （Taiga TSUNEMATSU）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;B4&lt;/td&gt;
 &lt;td&gt;中西 勇輝 （Yuki NAKANISHI）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3993,6 +4012,25 @@ type: post
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;!-- | 学年 | 名前                              |
+| ---- | -------------------------------- |
+| D3   | 高橋 克郎 （Katsurou TAKAHASHI）  |
+| D3   | 三林 亮太 （Ryota MIBAYASHI）     |
+| D2   | 奥田 萌莉 （Moeri OKUDA）         |
+| M2   | 芦澤 亜里紗 （Arisa ASHIZAWA）    |
+| M2   | 桑田 若菜 （Wakana KUWATA）       |
+| M2   | 狹間 亮太朗 （Ryotaro HAZAMA）    |
+| M2   | 花谷 翔 （Sho HANATANI）          |
+| M2   | 眞鍋 陽向 （Hinata MANABE）       |
+| M1   | 黒木 （）      |
+| M1   | 中西 勇輝 （Yuki NAKANISHI）      |
+| M1   | 中山 裕紀 （Yuki NAKAYAMA）       |
+| M1   | 門垣 幸樹 （Koki MONGAKI）        |
+| B4   | 上田 （）      |
+| B4   | 上村 （）      |
+| B4   | 木下 （）      |
+| B4   | 高田 （）      |
+| B4   | 山口 （）      | --&gt;
 &lt;h2 id=&#34;社会人学生&#34;&gt;社会人学生&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -4024,6 +4062,61 @@ type: post
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;修士&lt;/td&gt;
+&lt;td&gt;伊藤 優真 （Yuma ITO）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;修士&lt;/td&gt;
+&lt;td&gt;髙嶋 優快 （Masayoshi TAKASHIMA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;修士&lt;/td&gt;
+&lt;td&gt;張 雯佳 （Wenjia ZHANG）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;修士&lt;/td&gt;
+&lt;td&gt;津田 裕哉 （Yuya TSUDA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;修士&lt;/td&gt;
+&lt;td&gt;西本 海生 （Kaisei NISHIMOTO）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;修士&lt;/td&gt;
+&lt;td&gt;日置 淳也 （Junya HIOKI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;学士&lt;/td&gt;
+&lt;td&gt;奥田 颯馬 （Soma OKUDA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;学士&lt;/td&gt;
+&lt;td&gt;常松 大雅 （Taiga TSUNEMATSU）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;学士&lt;/td&gt;
+&lt;td&gt;中西 勇輝 （Yuki NAKANISHI）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;学士&lt;/td&gt;
+&lt;td&gt;中山 裕紀 （Yuki NAKAYAMA）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2024.3&lt;/td&gt;
+&lt;td&gt;学士&lt;/td&gt;
+&lt;td&gt;門垣 幸樹 （Koki MONGAKI）&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;2023.3&lt;/td&gt;
 &lt;td&gt;修士&lt;/td&gt;
