@@ -5,12 +5,40 @@
     <link>/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/</link>
       <atom:link href="/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>国際会議</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>国際会議</title>
       <link>/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/</link>
     </image>
+    
+    <item>
+      <title>西本海生さんがICIET 2024で発表しました</title>
+      <link>/post/2024/0320/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024/0320/</guid>
+      <description>&lt;h4 id=&#34;日時2024年3月18日月2024年3月20日水&#34;&gt;日時：2024年3月18日（月）～2024年3月20日（水）&lt;/h4&gt;
+&lt;h4 id=&#34;場所海峡メッセ下関&#34;&gt;場所：海峡メッセ下関&lt;/h4&gt;
+&lt;p&gt;西本海生さんの論文が国際会議「2024 12th International Conference on Information and Education Technology (ICIET 2024)」に採択されました。&lt;/p&gt;
+&lt;p&gt;カンファレンスが3月18日から3月20日にかけて開催され口頭発表を行いました。&lt;/p&gt;
+&lt;!-- 書誌情報は以下の通りです。
+- Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P. Kato, Yusuke Yamamoto, Yoshiyuki Shoji, Hiroaki Ohshima: “Inference-Based No-Learning Approach on Pre-Trained BERT Model Retrieval”, In proceedings of the 2024 12th International Conference on Information and Education Technology (ICIET 2024), pp.234-241, March 2024. --&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.iciet.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIET 2024公式サイト&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>津田裕哉さんがACM CHIIR 2024で発表しました</title>
@@ -44,13 +72,13 @@
     </item>
     
     <item>
-      <title>ファム フーロンさんと桑田 若菜さんがBigComp2024で発表しました</title>
+      <title>ファムフーロンさんと桑田若菜さんがBigComp2024で発表しました</title>
       <link>/post/2024/0221/</link>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/post/2024/0221/</guid>
       <description>&lt;h4 id=&#34;日時2024年2月18日日2024年2月21日水&#34;&gt;日時：2024年2月18日（日）～2024年2月21日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所the-sukosol-hotel-bangkok-thailand&#34;&gt;場所：The Sukosol Hotel, Bangkok, Thailand&lt;/h4&gt;
-&lt;p&gt;ファム フーロンさんと桑田 若菜さんの論文が国際会議「2024 IEEE International Conference on Big Data and Smart Computing (BigComp 2024)」に採択されました。&lt;/p&gt;
+&lt;p&gt;ファムフーロンさんと桑田若菜さんの論文が国際会議「2024 IEEE International Conference on Big Data and Smart Computing (BigComp 2024)」に採択されました。&lt;/p&gt;
 &lt;p&gt;カンファレンスが2月18日から2月21日にかけてタイのバンコクで開催され口頭発表を行いました。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;pham.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;kuwata.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
