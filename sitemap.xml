@@ -14,22 +14,13 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2024/0326/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E5%8F%97%E8%B3%9E/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2024/0320/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2024/0314/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
@@ -117,6 +108,9 @@
   </url><url>
     <loc>/post/2023/0405/</loc>
     <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</loc>
+    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2023/0327/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
@@ -240,9 +234,6 @@
   </url><url>
     <loc>/tag/%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E5%9B%BD%E5%86%85%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2022/0728/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
@@ -526,8 +517,6 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/courses/</loc>
-  </url><url>
-    <loc>/author/ohshimalab/</loc>
   </url><url>
     <loc>/access/</loc>
   </url><url>
