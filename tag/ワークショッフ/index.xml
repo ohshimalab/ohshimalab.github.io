@@ -5,12 +5,47 @@
     <link>/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/</link>
       <atom:link href="/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/index.xml" rel="self" type="application/rss+xml" />
     <description>ワークショップ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>ワークショップ</title>
       <link>/tag/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%95/</link>
     </image>
+    
+    <item>
+      <title>大島研のメンバーがERDSE2024で発表しました</title>
+      <link>/post/2024/0702/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024/0702/</guid>
+      <description>&lt;h4 id=&#34;日時2024年7月2日火&#34;&gt;日時：2024年7月2日（火）&lt;/h4&gt;
+&lt;h4 id=&#34;場所長良川国際会議場&#34;&gt;場所：長良川国際会議場&lt;/h4&gt;
+&lt;p&gt;大島研のメンバーがThe 29th International Conference on Database Systems for Advanced Applications (DASFAA 2024)の併設ワークショップであるThe DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024)で発表しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Ashizawa.JPG&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;Sasaki.JPG&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;Nakai.JPG&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;Nakayama.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arisa Ashizawa, Ryota Mibayashi, Hiroaki Ohshima: &amp;ldquo;Query Expansion in Food Review Search with Synonymous Phrase Generation by LLM&amp;rdquo;, The DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), Jury 2024.&lt;/li&gt;
+&lt;li&gt;Taiga Sasaki, Takehiro Yamamoto, Yoshiyuki Shoji, Takayuki Kuge, Hiroaki Ohshima: &amp;ldquo;Generating News Headline Containing Specific Person Name&amp;rdquo;, The DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), Jury 2024.&lt;/li&gt;
+&lt;li&gt;Kanako Nakai, Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima: &amp;ldquo;Investigating Evidence in Sentence Similarity using MASK in BERT&amp;rdquo;, The DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), Jury 2024.&lt;/li&gt;
+&lt;li&gt;Yuki Nakayama, Yuuya Tsuda, Yoshiyuki Shoji, Hiroaki Ohshima: &amp;ldquo;Query Expansion in Food Review Search with Synonymous Phrase Generation by LLM&amp;rdquo;, The DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), Jury 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://erdse2024.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ERDSE 2024公式サイト&lt;/a&gt;&lt;/p&gt;
+&lt;!-- 1. 論文採録バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- [年月日]に発表予定 --&gt;
+&lt;!-- 2. 論文発表済みバージョン --&gt;
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 3. 論文受賞バージョン --&gt;
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
+&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
+    </item>
     
     <item>
       <title>芦澤亜里紗さんと中山裕紀さんがIDRユーザフォーラム 2023で発表を行いました</title>
