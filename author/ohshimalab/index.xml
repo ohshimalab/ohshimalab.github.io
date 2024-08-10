@@ -27,6 +27,14 @@
     </item>
     
     <item>
+      <title>OhshimaLab</title>
+      <link>/author/ohshimalab/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/ohshimalab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Fast Algorithm for Unsupervised Feature Value Selection</title>
       <link>/publication/supercwc/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -81,6 +89,14 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>OhshimaLab</title>
+      <link>/author/ohshimalab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/ohshimalab/</guid>
+      <description></description>
     </item>
     
   </channel>
