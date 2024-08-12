@@ -20,8 +20,8 @@
       <description>&lt;h4 id=&#34;日時2024年8月6日火8月9日金&#34;&gt;日時：2024年8月6日（火）～8月9日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所-熊本城ホール&#34;&gt;場所： 熊本城ホール&lt;/h4&gt;
 &lt;p&gt;上記の日程で奥田萌莉さんが第27回 画像の認識・理解シンポジウムに参加し、ポスター発表を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/0809/okuda1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2024/0809/wakate.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;okuda1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;wakate.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;奥田萌莉, 石澤秀紘, 大島裕明：「コウキクサの成長率推定：葉の領域認識と葉の外形的特徴への着目を組み合わせた手法」, 第27回 画像の認識・理解シンポジウム（MIRU2024）, 2024年8月.&lt;/li&gt;
 &lt;li&gt;上田栞, 奥田萌莉, 金岡大樹：「ろぼやん×MIRU2024若手プログラム」, 第27回 画像の認識・理解シンポジウム 若手プログラム, 2024年8月.&lt;/li&gt;
@@ -38,7 +38,7 @@
       <description>&lt;h4 id=&#34;日時2024年7月10日水&#34;&gt;日時：2024年7月10日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所一橋大学一橋講堂&#34;&gt;場所：一橋大学一橋講堂&lt;/h4&gt;
 &lt;p&gt;上記の日程で三林亮太さんが未来の博士フェス 2024に参加し、ポスター発表を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/0710/hakushifes1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hakushifes1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;三林亮太, ラップバトルにおける即興ラップの生成に関する研究, 未来の博士フェス 2024, 2024年&lt;/li&gt;
 &lt;/ul&gt;
@@ -68,8 +68,8 @@
 &lt;p&gt;また、ファム フーロンさん、三林 亮太さん、津田 裕哉さん、芦澤 亜里紗さん、桑田 若菜さんの5名が学生プレゼンテーション賞を受賞しました！&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 &lt;p&gt;さらに、三林さんらの研究が優秀インタラクティブ賞を受賞しました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/0305/Award.png&#34;&gt;
-&lt;img src=&#34;/post/2024/0305/Mibayashi.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Award.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;Mibayashi.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 </description>
     </item>
@@ -160,7 +160,7 @@
 &lt;ul&gt;
 &lt;li&gt;奥田萌莉, 石澤秀紘, 大島裕明：「画像認識によるウキクサ科植物の表面積と総枚数の推定」, 情報処理学会, 第26回画像の認識・理解シンポジウム（MIRU2023）, 2023年7月.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0728/picture.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;picture.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://cvim.ipsj.or.jp/MIRU2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第26回画像の認識・理解シンポジウムMIRU2023公式ページ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -182,7 +182,7 @@
 &lt;p&gt;芦澤亜里紗&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The Web Conference 2023 の概要&lt;/li&gt;
-&lt;li&gt;Keynote: Using Diversity as a Source of Scientific Innovation for the
+&lt;li&gt;Keynote: Using Diversity as a Source of Scientific Innovation for the 
 Webの紹介&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -207,14 +207,14 @@ Webの紹介&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;狹間亮太朗&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Best paper&lt;/em&gt; Simplistic Collection and Labeling Practices Limit the
+&lt;li&gt;&lt;em&gt;Best paper&lt;/em&gt; Simplistic Collection and Labeling Practices Limit the 
 Utility of Benchmark Datasets for Twitter Bot Detectionの紹介&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;奥田萌莉&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Best student paper&lt;/em&gt; A Vector Is Not Enough: Taxonomy Expansion via Box
+&lt;li&gt;&lt;em&gt;Best student paper&lt;/em&gt; A Vector Is Not Enough: Taxonomy Expansion via Box 
 Embeddingsの紹介&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -225,7 +225,7 @@ Embeddingsの紹介&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0708/picture1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;picture1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www2023.thewebconf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Web Conference 2023公式ページ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.sigmodj.org/conf/detail.php?conf_no=82&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM SIGMOD日本支部第82回支部大会公式ページ&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -257,18 +257,18 @@ Embeddingsの紹介&lt;/li&gt;
 &lt;li&gt;[15] 	眞鍋 陽向, 三林 亮太, 沼田 龍介, 山本 岳洋, 大島 裕明: 「Transformer Encoderを用いたプラズマ乱流の予測と分析」, 日本データベース学会 , 第15回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2023), 2023年3月.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;また、王さん、奥田さん、狹間さん、三林さん、桑田さんの5名が学生プレゼンテーション賞を受賞しました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0309/presentation.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/wang.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/okuda.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/hazama.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/mibayashi.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/kuwata.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;presentation.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;okuda.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;hazama.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;mibayashi.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;kuwata.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 &lt;p&gt;さらに、三林さんらの研究と、高嶋さんらの研究が最優秀インタラクティブ賞を、奥村さんらの研究が優秀インタラクティブ賞を受賞しました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0309/interactive.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/mibayashi_interactive.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/takashima.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/okumura.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;interactive.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;mibayashi_interactive.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;takashima.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;okumura.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 </description>
     </item>
@@ -287,8 +287,8 @@ Embeddingsの紹介&lt;/li&gt;
 &lt;p&gt;修士研究の締めくくりと言える修士論文発表会で、無事発表を終えられました。&lt;/p&gt;
 &lt;p&gt;お疲れ様でした！&lt;/p&gt;
 &lt;!-- ![](okudajpg) --&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0221/wang.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0221/furuya.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;furuya.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -304,11 +304,11 @@ Embeddingsの紹介&lt;/li&gt;
 &lt;p&gt;研究室ごとに発表を行い、大島研究室は1日目のトップバッターでした。&lt;/p&gt;
 &lt;p&gt;みんな多かれ少なかれ緊張していましたが、無事発表を終えることができました。&lt;/p&gt;
 &lt;p&gt;お疲れ様でした！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/ashizawa.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/kuwata.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/hazama.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/hanatani.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/manabe.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ashizawa.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kuwata.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hazama.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hanatani.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;manabe.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -408,14 +408,14 @@ Embeddingsの紹介&lt;/li&gt;
 &lt;p&gt;先輩方の雄姿が素敵でした。&lt;/p&gt;
 &lt;p&gt;2年間研究お疲れ様でした。卒業されても仲良くしてください！！&lt;/p&gt;
 &lt;p&gt;残りの研究室生活もよろしくお願いしますm(__)m&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0201/1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/2.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/3.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/4.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/5.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/6.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/7.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/8.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;5.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;6.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;7.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- 奥田 萌莉さんが「2022 IEEE International Conference on Big Data and Smart Computing (BigComp 2022)」で発表しました。
 
 [公式Webページ](http://www.bigcomputing.org/)
@@ -454,8 +454,8 @@ In Proceedings of the 2022 IEEE International Conference on Big Data and Smart C
 &lt;p&gt;研究生活1年目も終盤に差し掛かり、ひとつの節目になったと思っています。&lt;/p&gt;
 &lt;p&gt;今後も頑張りましょう！！
 お疲れ様でした！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2021/1203/wang.jpg&#34;&gt;
-&lt;img src=&#34;/post/2021/1203/furuya.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;wang.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;furuya.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
