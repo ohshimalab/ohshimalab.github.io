@@ -42,6 +42,37 @@
     </item>
     
     <item>
+      <title>大島研のメンバーがプチDBWS2024で発表しました</title>
+      <link>/post/2024/0924/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024/0924/</guid>
+      <description>&lt;h4 id=&#34;日時2024年9月24日火&#34;&gt;日時：2024年9月24日（火）&lt;/h4&gt;
+&lt;h4 id=&#34;場所-甲南大学岡本キャンパス-icommons&#34;&gt;場所： 甲南大学岡本キャンパス iCommons&lt;/h4&gt;
+&lt;p&gt;上記日程にて開催されたプチDBWS2024に大島研のメンバーが参加し、発表しました。
+岐阜大学や甲南大学、静岡大学、同志社大学の方々も参加され、活発な議論を交わしていました。&lt;/p&gt;
+&lt;p&gt;お疲れ様でした！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Kuroki_poster.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;Nakanishi_poster.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;Ueda_poster.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;Kinoshita_poster.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;発表タイトル&#34;&gt;発表タイトル&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;三林 亮太, RLHFによる意味的関連性を考慮したライム生成, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;ファム フーロン, 性能類似性を考慮した画像セグメンテーション機械学習モデル検索, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;芦澤 亜里紗, 人の意図に沿ったセルフケア関連新聞記事の意味理解, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;桑田 若菜, 日本書道における文字の骨格を考慮したバリエーションのある字形の生成, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;黒木 空翔, 動機づけ面接技法に基づく対話生成, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;佐々木 泰河, 進化的モデルマージを用いた多言語検索モデルの構築, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;中西 勇輝, 地図を理解するLMMの構築, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;中山 裕紀, 情報の俯瞰を可能とする不動産情報探索VRインタフェース, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;王 一霖, 類似モーラ検索と文の自然さ判定を用いただじゃれ生成, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;上田 健斗, テキスト生成AIによる解法に従った数学解説の生成, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;li&gt;木下 真帆, 形状に着目した意外な展示物の発見, プチDBWS2024, 2024年&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>大島先生が研究室紹介を行いました</title>
       <link>/post/2024/0829/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
@@ -4129,6 +4160,10 @@ type: post
 &lt;td&gt;三林 亮太 （Ryota MIBAYASHI）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;D2&lt;/td&gt;
+&lt;td&gt;ファム フーロン （HuuLong PHAM）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;M2&lt;/td&gt;
 &lt;td&gt;芦澤 亜里紗 （Arisa ASHIZAWA）&lt;/td&gt;
 &lt;/tr&gt;
@@ -4158,14 +4193,6 @@ type: post
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;佐々木 泰河 (Taiga SASAKI)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;中井 香那子 (Kanako NAKAI)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
 &lt;td&gt;中西 勇輝 （Yuki NAKANISHI）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -4175,10 +4202,6 @@ type: post
 &lt;tr&gt;
 &lt;td&gt;M1&lt;/td&gt;
 &lt;td&gt;門垣 幸樹 （Koki MONGAKI）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;M1&lt;/td&gt;
-&lt;td&gt;王 一霖（Yilin WANG）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;B4&lt;/td&gt;
@@ -4218,10 +4241,6 @@ type: post
 &lt;tr&gt;
 &lt;td&gt;D2&lt;/td&gt;
 &lt;td&gt;奥田 萌莉 （Moeri OKUDA）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;D2&lt;/td&gt;
-&lt;td&gt;ファム フーロン （HuuLong PHAM）&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;D1&lt;/td&gt;
