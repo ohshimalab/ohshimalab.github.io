@@ -5,12 +5,32 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>三林亮太さんの研究がSIGGRAPH Asia 2024のReal-Time Live!に採録されました</title>
+      <link>/post/2024/1206/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024/1206/</guid>
+      <description>&lt;h4 id=&#34;日時2024年12月3日火2024年12月6日金&#34;&gt;日時：2024年12月3日（火）～2024年12月6日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所東京国際フォーラム有楽町&#34;&gt;場所：東京国際フォーラム（有楽町）&lt;/h4&gt;
+&lt;p&gt;三林亮太さんの研究が「第17回SIGGRAPH Asia：コンピュータグラフィックスとインタラクティブ技術に関する国際会議と展示会」のReal-Time Live!に採録されました。&lt;/p&gt;
+&lt;p&gt;2024年12月6日（金）のReal-Time Live!セッション内でライブデモを行う予定です。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://asia.siggraph.org/2024/ja/presentation/?id=real_117&amp;amp;sess=sess208&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;発表詳細はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryota Mibayashi Toru Urakawa Dai Takanashi Kanata Yamagishi Tomoya Morohoshi Ryuho Sekikawa Yasuhiko Nishimura Yuta Takeuchi Mina Shibasaki Hideaki Tamori Takehiro Yamamoto Hiroaki Ohshima: &amp;ldquo;Debate Generation System in Japanese Rap Battle Format&amp;rdquo;, SIGGRAPH Asia 2024 Real Time Live!, December 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://asia.siggraph.org/2024/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGGRAPH Asia 2024公式ページ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://asia.siggraph.org/2024/ja/program/real-time-live/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Live!ページ&lt;/a&gt;&lt;/p&gt;
+&lt;!-- ![]() --&gt;
+</description>
+    </item>
     
     <item>
       <title>大島研のメンバーがプチDBWS2024で発表しました</title>
