@@ -105,31 +105,12 @@
       <guid>/post/2024/1101/</guid>
       <description>&lt;h4 id=&#34;日時2024年11月01日&#34;&gt;日時：2024年11月01日&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学　神戸商科キャンパス&lt;/h4&gt;
-&lt;p&gt;M1が卒業研究の中間報告を行いました。お疲れさまでした！&lt;/p&gt;
+&lt;p&gt;M1が中間報告を行いました。お疲れさまでした！&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;黒木 空翔：「動機づけ面接に基づく対話生成」&lt;/li&gt;
 &lt;li&gt;中西 勇輝：「地図を理解するLMMの構築」&lt;/li&gt;
 &lt;li&gt;中山 裕紀：「不動産情報探索の為のVRインターフェイス」&lt;/li&gt;
 &lt;li&gt;門垣 幸樹：「強化学習を用いた環境変化に適応可能な制御」&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>M2が中間報告を行いました</title>
-      <link>/post/2024/0802/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0802/</guid>
-      <description>&lt;h4 id=&#34;日時2024年08月02日&#34;&gt;日時：2024年08月02日&lt;/h4&gt;
-&lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学　神戸商科キャンパス&lt;/h4&gt;
-&lt;p&gt;M2が卒業研究の中間報告を行いました。お疲れさまでした！&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;芦澤 亜里紗：「言語モデルを用いた人の意図に沿ったテキスト意味理解」&lt;/li&gt;
-&lt;li&gt;桑田 若菜：「日本語手書き文字における文字種とスタイルを考慮した文字生成」&lt;/li&gt;
-&lt;li&gt;中屋 岳：「歌詞の類似性に着目したDJのための楽曲推薦」&lt;/li&gt;
-&lt;li&gt;狹間 亮太朗：「性格特性の観点を用いた観光地レビューの検索」&lt;/li&gt;
-&lt;li&gt;花谷 翔：「特許情報を用いた業界の売り上げ予測」&lt;/li&gt;
-&lt;li&gt;眞鍋 陽向：「モデルを用いたプラズマ乱流の予測」&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -213,6 +194,25 @@
 &lt;li&gt;上田栞, 奥田萌莉, 金岡大樹：「ろぼやん×MIRU2024若手プログラム」, 第27回 画像の認識・理解シンポジウム 若手プログラム, 2024年8月.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://miru-committee.github.io/miru2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIRU2024公式サイト&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>M2が中間報告を行いました</title>
+      <link>/post/2024/0802/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024/0802/</guid>
+      <description>&lt;h4 id=&#34;日時2024年08月02日&#34;&gt;日時：2024年08月02日&lt;/h4&gt;
+&lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学　神戸商科キャンパス&lt;/h4&gt;
+&lt;p&gt;M2が中間報告を行いました。お疲れさまでした！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;芦澤 亜里紗：「言語モデルを用いた人の意図に沿ったテキスト意味理解」&lt;/li&gt;
+&lt;li&gt;桑田 若菜：「日本語手書き文字における文字種とスタイルを考慮した文字生成」&lt;/li&gt;
+&lt;li&gt;中屋 岳：「歌詞の類似性に着目したDJのための楽曲推薦」&lt;/li&gt;
+&lt;li&gt;狹間 亮太朗：「性格特性の観点を用いた観光地レビューの検索」&lt;/li&gt;
+&lt;li&gt;花谷 翔：「特許情報を用いた業界の売り上げ予測」&lt;/li&gt;
+&lt;li&gt;眞鍋 陽向：「モデルを用いたプラズマ乱流の予測」&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
