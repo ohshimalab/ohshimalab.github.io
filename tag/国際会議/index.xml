@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>国際会議 | OHSHIMA LAB.</title>
-    <link>//localhost:1313/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/</link>
-      <atom:link href="//localhost:1313/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/</link>
+      <atom:link href="/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>国際会議</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>国際会議</title>
-      <link>//localhost:1313/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/</link>
+      <link>/tag/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0/</link>
     </image>
     
     <item>
       <title>西本海生さんがICIET 2024で発表しました</title>
-      <link>//localhost:1313/post/2024/0320/</link>
+      <link>/post/2024/0320/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024/0320/</guid>
+      <guid>/post/2024/0320/</guid>
       <description>&lt;h4 id=&#34;日時2024年3月18日月2024年3月20日水&#34;&gt;日時：2024年3月18日（月）～2024年3月20日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所海峡メッセ下関&#34;&gt;場所：海峡メッセ下関&lt;/h4&gt;
 &lt;p&gt;西本海生さんの論文が国際会議「2024 12th International Conference on Information and Education Technology (ICIET 2024)」に採択されました。&lt;/p&gt;
@@ -44,14 +44,14 @@
     
     <item>
       <title>津田裕哉さんがACM CHIIR 2024で発表しました</title>
-      <link>//localhost:1313/post/2024/0314/</link>
+      <link>/post/2024/0314/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024/0314/</guid>
+      <guid>/post/2024/0314/</guid>
       <description>&lt;h4 id=&#34;日時2024年3月10日日2024年3月14日木&#34;&gt;日時：2024年3月10日（日）～2024年3月14日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所-シェフィールド大学-sheffield-uk&#34;&gt;場所： シェフィールド大学 (Sheffield, UK)&lt;/h4&gt;
 &lt;p&gt;津田裕哉さんの論文が国際会議The 2024 ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2024)に採択されました。&lt;/p&gt;
 &lt;p&gt;CHIIR 2024は3月10日から3月14日にかけてイギリスのシェフィールドで開催され、口頭発表を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/0314/happyou.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2024/0314/happyou.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Yuya Tsuda, Takehiro Yamamoto and Hiroaki Ohshima: &amp;ldquo;Mixed Reality Interaction Enhanced by Whiteboard for Product Search&amp;rdquo;, Proceedings of the 2024 Conference on Human Information Interaction and Retrieval (CHIIR 2024), pp.396-400, March 2024.&lt;/li&gt;
@@ -75,15 +75,15 @@
     
     <item>
       <title>ファムフーロンさんと桑田若菜さんがBigComp2024で発表しました</title>
-      <link>//localhost:1313/post/2024/0221/</link>
+      <link>/post/2024/0221/</link>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024/0221/</guid>
+      <guid>/post/2024/0221/</guid>
       <description>&lt;h4 id=&#34;日時2024年2月18日日2024年2月21日水&#34;&gt;日時：2024年2月18日（日）～2024年2月21日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所the-sukosol-hotel-bangkok-thailand&#34;&gt;場所：The Sukosol Hotel, Bangkok, Thailand&lt;/h4&gt;
 &lt;p&gt;ファムフーロンさんと桑田若菜さんの論文が国際会議「2024 IEEE International Conference on Big Data and Smart Computing (BigComp 2024)」に採択されました。&lt;/p&gt;
 &lt;p&gt;カンファレンスが2月18日から2月21日にかけてタイのバンコクで開催され口頭発表を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/0221/pham.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2024/0221/kuwata.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2024/0221/pham.jpg&#34;&gt;
+&lt;img src=&#34;/post/2024/0221/kuwata.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P. Kato, Yusuke Yamamoto, Yoshiyuki Shoji, Hiroaki Ohshima: “Inference-Based No-Learning Approach on Pre-Trained BERT Model Retrieval”, Proceedings of the 2024 IEEE International Conference on Big Data and Smart Computing (BigComp 2024), pp.234-241, February 2024.&lt;/li&gt;
@@ -108,13 +108,13 @@
     
     <item>
       <title>大島研のメンバーがThe 17th NTCIR Conferenceに参加しました</title>
-      <link>//localhost:1313/post/2023/1215/</link>
+      <link>/post/2023/1215/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2023/1215/</guid>
+      <guid>/post/2023/1215/</guid>
       <description>&lt;h4 id=&#34;日時2023年12月12日火2023年12月15日金&#34;&gt;日時：2023年12月12日（火）～2023年12月15日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所一橋講堂-中会議場&#34;&gt;場所：一橋講堂 中会議場&lt;/h4&gt;
 &lt;p&gt;大島研のメンバーがThe 17th NTCIR Conferenceに参加しました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/1215/image.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2023/1215/image.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tomoya Hashiguchi, Ryota Mibayashi, Huu-Long Pham, Wakana Kuwata, Yuka Kawada, Yuya Tsuda, Takehiro Yamamoto and Hiroaki Ohshima: &amp;ldquo;KANDUH at the NTCIR-17 Transfer Task&amp;rdquo;, Proceedings of the 17th NTCIR Conference, December 2023.&lt;/li&gt;
@@ -138,13 +138,13 @@
     
     <item>
       <title>三林亮太さんが国際会議CMMR2023で発表を行いました</title>
-      <link>//localhost:1313/post/2023/1117/</link>
+      <link>/post/2023/1117/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2023/1117/</guid>
+      <guid>/post/2023/1117/</guid>
       <description>&lt;h4 id=&#34;日時2023年11月13日月2023年11月17日金&#34;&gt;日時：2023年11月13日（月）～2023年11月17日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所東京理科大学-森戸記念館&#34;&gt;場所：東京理科大学 森戸記念館&lt;/h4&gt;
 &lt;p&gt;三林亮太さんが「The 16th International Symposium on Computer Music Multidisciplinary Research」で発表を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/1117/oral.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2023/1117/oral.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto, Hiroaki Ohshima: &amp;ldquo;Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles&amp;rdquo;, Proceedings of the 16th International Symposium on Computer Music Multidisciplinary Research (CMMR 2023), pp30-41, November 2023.&lt;/li&gt;

@@ -2,26 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OhshimaLab | OHSHIMA LAB.</title>
-    <link>//localhost:1313/author/ohshimalab/</link>
-      <atom:link href="//localhost:1313/author/ohshimalab/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/ohshimalab/</link>
+      <atom:link href="/author/ohshimalab/index.xml" rel="self" type="application/rss+xml" />
     <description>OhshimaLab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>OhshimaLab</title>
-      <link>//localhost:1313/author/ohshimalab/</link>
-    </image>
-    
-  </channel>
-</rss>
-thor/ohshimalab/</link>
+      <link>/author/ohshimalab/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>//localhost:1313/publication/preprint/</link>
+      <link>/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/preprint/</guid>
+      <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -33,17 +28,17 @@ thor/ohshimalab/</link>
     
     <item>
       <title>OhshimaLab</title>
-      <link>//localhost:1313/author/ohshimalab/</link>
+      <link>/author/ohshimalab/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/author/ohshimalab/</guid>
+      <guid>/author/ohshimalab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Fast Algorithm for Unsupervised Feature Value Selection</title>
-      <link>//localhost:1313/publication/supercwc/</link>
+      <link>/publication/supercwc/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/supercwc/</guid>
+      <guid>/publication/supercwc/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -60,9 +55,9 @@ thor/ohshimalab/</link>
     
     <item>
       <title>An example journal article</title>
-      <link>//localhost:1313/publication/journal-article/</link>
+      <link>/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/journal-article/</guid>
+      <guid>/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -79,9 +74,9 @@ thor/ohshimalab/</link>
     
     <item>
       <title>An example conference paper</title>
-      <link>//localhost:1313/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -98,9 +93,9 @@ thor/ohshimalab/</link>
     
     <item>
       <title>OhshimaLab</title>
-      <link>//localhost:1313/author/ohshimalab/</link>
+      <link>/author/ohshimalab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/author/ohshimalab/</guid>
+      <guid>/author/ohshimalab/</guid>
       <description></description>
     </item>
     

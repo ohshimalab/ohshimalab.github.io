@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>国際学会発表 | OHSHIMA LAB.</title>
-    <link>//localhost:1313/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
-      <atom:link href="//localhost:1313/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
+      <atom:link href="/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>国際学会発表</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>国際学会発表</title>
-      <link>//localhost:1313/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
+      <link>/tag/%E5%9B%BD%E9%9A%9B%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
     </image>
     
     <item>
       <title>三林亮太さんと王丹さんがAAI2022で発表しました</title>
-      <link>//localhost:1313/post/2022/0706/</link>
+      <link>/post/2022/0706/</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2022/0706/</guid>
+      <guid>/post/2022/0706/</guid>
       <description>&lt;h4 id=&#34;日時2022年7月4日火7月6日木&#34;&gt;日時：2022年7月4日（火）～7月6日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所ハイブリッド&#34;&gt;場所：ハイブリッド&lt;/h4&gt;
 &lt;!-- ![](mibayashi.jpg ) --&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0706/wang.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2022/0706/wang.jpg&#34;&gt;&lt;/p&gt;
 &lt;!-- ![](wang.jpg ) --&gt;
 &lt;p&gt;三林　亮太さんと王　丹さんが「14th International Conference on E-Service and Knowledge Management (ESKM 2022)」で発表しました。
 &lt;a href=&#34;https://iaiai.org/conference/aai2022/conferences/eskm-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式Webページ&lt;/a&gt;&lt;/p&gt;
@@ -63,9 +63,9 @@
     
     <item>
       <title>奥田萌莉さんがThe 16th NTCIR Conferenceで発表しました</title>
-      <link>//localhost:1313/post/2022/0617/</link>
+      <link>/post/2022/0617/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2022/0617/</guid>
+      <guid>/post/2022/0617/</guid>
       <description>&lt;h4 id=&#34;日時2022年6月14日火6月17日金&#34;&gt;日時：2022年6月14日（火）～6月17日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所gather&#34;&gt;場所：Gather&lt;/h4&gt;
 &lt;p&gt;M2の奥田萌莉です。&lt;/p&gt;
@@ -112,9 +112,9 @@ In proceedings of the 16th NTCIR Conference&lt;/li&gt;
     
     <item>
       <title>濵島 聡一郎さんが AAI 2021 で発表しました</title>
-      <link>//localhost:1313/post/2021/0716/</link>
+      <link>/post/2021/0716/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2021/0716/</guid>
+      <guid>/post/2021/0716/</guid>
       <description>&lt;!-- ![](hamajima_20210716.jpg ) --&gt;
 &lt;!-- ---
 title: 濵島 聡一郎さんの論文が AAI 2021 に採録されました
@@ -155,9 +155,9 @@ type: post
     
     <item>
       <title>吉村さんと三林さんがThe 15th NTCIR Conferenceで発表しました</title>
-      <link>//localhost:1313/post/2020/1210/</link>
+      <link>/post/2020/1210/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2020/1210/</guid>
+      <guid>/post/2020/1210/</guid>
       <description>&lt;h4 id=&#34;日時2020-年-12-月-10-日木&#34;&gt;日時：2020 年 12 月 10 日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所オンライン&#34;&gt;場所：オンライン&lt;/h4&gt;
 &lt;h4 id=&#34;公式-web-ページntcir15httpresearchniiacjpntcirntcir-15conferencehtml&#34;&gt;公式 Web ページ：&lt;a href=&#34;http://research.nii.ac.jp/ntcir/ntcir-15/conference.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ntcir15&lt;/a&gt;&lt;/h4&gt;
@@ -166,12 +166,12 @@ type: post
 &lt;ul&gt;
 &lt;li&gt;Takuma Yoshimura, Pham Huulong, Ryota Mibayashi, Rui Kimura and Hiroaki Ohshima: &amp;ldquo;Behavioral Classification Using Feature Selection in the Micro Activity Retrieval Task&amp;rdquo;, NTCIR 15 Conference: Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies, December 8-11, 2020 Tokyo Japan&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;FS,FVS&#34; src=&#34;//localhost:1313/post/2020/1210/Screenshot%20from%202021-01-13%2016-54-44.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;FS,FVS&#34; src=&#34;/post/2020/1210/Screenshot%20from%202021-01-13%2016-54-44.png&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Ryota Mibayashi, Huulong Pham, Naoaki Matsumoto, Takehiro Yamamoto and Hiroaki Ohshima: &amp;ldquo;Uhai at the NTCIR-15 Data Search task&amp;rdquo;, NTCIR 15 Conference: Proceedings of the 15th NTCIR Conference on Evaluation of Information Access Technologies, December 8-11, 2020 Tokyo Japan&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;FS,FVS&#34; src=&#34;//localhost:1313/post/2020/1210/uhai.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;FS,FVS&#34; src=&#34;/post/2020/1210/uhai.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

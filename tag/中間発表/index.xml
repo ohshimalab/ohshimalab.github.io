@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>中間発表 | OHSHIMA LAB.</title>
-    <link>//localhost:1313/tag/%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8/</link>
-      <atom:link href="//localhost:1313/tag/%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8/</link>
+      <atom:link href="/tag/%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>中間発表</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>中間発表</title>
-      <link>//localhost:1313/tag/%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8/</link>
+      <link>/tag/%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8/</link>
     </image>
     
     <item>
       <title>M2が中間報告会で発表しました</title>
-      <link>//localhost:1313/post/2022/0729/</link>
+      <link>/post/2022/0729/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2022/0729/</guid>
+      <guid>/post/2022/0729/</guid>
       <description>&lt;h4 id=&#34;日時2022年7月29日金&#34;&gt;日時：2022年7月29日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;2022年7月29日、M2の中間報告会を行いました。&lt;/p&gt;

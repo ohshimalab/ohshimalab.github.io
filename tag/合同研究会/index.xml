@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>合同研究会 | OHSHIMA LAB.</title>
-    <link>//localhost:1313/tag/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
-      <atom:link href="//localhost:1313/tag/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
+      <atom:link href="/tag/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     <description>合同研究会</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>合同研究会</title>
-      <link>//localhost:1313/tag/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
+      <link>/tag/%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
     </image>
     
     <item>
       <title>12月の4研究室合同研究会</title>
-      <link>//localhost:1313/post/2021/1222/</link>
+      <link>/post/2021/1222/</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2021/1222/</guid>
+      <guid>/post/2021/1222/</guid>
       <description>&lt;!-- ![](IMG_20210630_154409.jpg &#34;神戸情報科学キャンパスの様子&#34;) --&gt;
 &lt;h4 id=&#34;日時2021年12月22日水&#34;&gt;日時：2021年12月22日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所港島キャンパス商科キャンパス&#34;&gt;場所：港島キャンパス，商科キャンパス&lt;/h4&gt;
@@ -24,12 +24,12 @@
 &lt;p&gt;川嶋研究室2名、大島研究室9名、湯本研究室2名、山本研究室3名の合計16名で発表し合いました。
 M1、M2共に、活発で有意義な議論を行えました。
 川嶋先生、湯本先生、山本先生ありがとうございました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2021/1222/IMG_20211222_143018.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/1222/IMG_20211222_174811.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/1222/iOS%E3%81%AE%E7%94%BB%E5%83%8F52.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/1222/iOS%E3%81%AE%E7%94%BB%E5%83%8F64.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/1222/ImagefromiOS.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/1222/iOS%E3%81%AE%E7%94%BB%E5%83%8F66.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2021/1222/IMG_20211222_143018.jpg&#34;&gt;
+&lt;img src=&#34;/post/2021/1222/IMG_20211222_174811.jpg&#34;&gt;
+&lt;img src=&#34;/post/2021/1222/iOS%E3%81%AE%E7%94%BB%E5%83%8F52.jpg&#34;&gt;
+&lt;img src=&#34;/post/2021/1222/iOS%E3%81%AE%E7%94%BB%E5%83%8F64.jpg&#34;&gt;
+&lt;img src=&#34;/post/2021/1222/ImagefromiOS.jpg&#34;&gt;
+&lt;img src=&#34;/post/2021/1222/iOS%E3%81%AE%E7%94%BB%E5%83%8F66.jpg&#34;&gt;&lt;/p&gt;
 &lt;!-- ![](IMG_0011.JPG) --&gt;
 &lt;h4 id=&#34;各研究室先生方のホームページ&#34;&gt;各研究室・先生方のホームページ&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://interaction-lab.org/kawashima/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;川嶋研究室のHP&lt;/a&gt;&lt;br&gt;
@@ -53,9 +53,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>川嶋研究室、大島研究室、湯本研究室、山本研究室の4研究室で合同研究会を行いました</title>
-      <link>//localhost:1313/post/2021/0929/</link>
+      <link>/post/2021/0929/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2021/0929/</guid>
+      <guid>/post/2021/0929/</guid>
       <description>&lt;!-- ![](IMG_20210630_154409.jpg &#34;神戸情報科学キャンパスの様子&#34;) --&gt;
 &lt;h4 id=&#34;日時2021年9月29日水&#34;&gt;日時：2021年9月29日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
@@ -63,8 +63,8 @@ M1、M2共に、活発で有意義な議論を行えました。
 &lt;p&gt;川嶋研究室2名、大島研究室7名、湯本研究室1名、山本研究室2名の合計12名で発表し合いました。
 M1、M2共に、活発で有意義な議論を行えました。
 川嶋先生、湯本先生、山本先生ありがとうございました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2021/0929/img1.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/0929/img2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2021/0929/img1.png&#34;&gt;
+&lt;img src=&#34;/post/2021/0929/img2.png&#34;&gt;&lt;/p&gt;
 &lt;!-- ![](IMG_0011.JPG) --&gt;
 &lt;h4 id=&#34;各研究室先生方のホームページ&#34;&gt;各研究室・先生方のホームページ&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://interaction-lab.org/kawashima/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;川嶋研究室のHP&lt;/a&gt;&lt;br&gt;
@@ -88,9 +88,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>大島研、Dürst研の合同研究会</title>
-      <link>//localhost:1313/post/2021/0721/</link>
+      <link>/post/2021/0721/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2021/0721/</guid>
+      <guid>/post/2021/0721/</guid>
       <description>&lt;!-- ![](IMG_20210721_141008.jpg ) --&gt;
 &lt;h4 id=&#34;日時2021年7月21日水&#34;&gt;日時：2021年7月21日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパスzoom&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス、Zoom&lt;/h4&gt;
@@ -100,11 +100,11 @@ M1、M2共に、活発で有意義な議論を行えました。
 夜は、Discordにて、Among Usとお絵描き伝言ゲームを行いました。
 お絵描き伝言ゲームは、いつしても珍図画が生まれて、非常に楽しいです。&lt;/p&gt;
 &lt;p&gt;青山学院大学Dürst研究室の皆様、ありがとうございました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2021/0721/IMG_20210721_141616.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/0721/IMG_20210721_143215.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/0721/IMG_20210721_162553.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/0721/IMG_20210721_164936.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2021/0721/IMG_20210721_165819.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2021/0721/IMG_20210721_141616.jpg&#34;&gt;
+&lt;img src=&#34;/post/2021/0721/IMG_20210721_143215.jpg&#34;&gt;
+&lt;img src=&#34;/post/2021/0721/IMG_20210721_162553.jpg&#34;&gt;
+&lt;img src=&#34;/post/2021/0721/IMG_20210721_164936.jpg&#34;&gt;
+&lt;img src=&#34;/post/2021/0721/IMG_20210721_165819.jpg&#34;&gt;&lt;/p&gt;
 &lt;!-- ![](IMG_0011.JPG) --&gt;
 &lt;h4 id=&#34;各研究室先生方のホームページ&#34;&gt;各研究室・先生方のホームページ&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://moo.sw.it.aoyama.ac.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dürst研究室のHP&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
@@ -126,9 +126,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>川嶋研、大島研、湯本研、山本研の合同研究会</title>
-      <link>//localhost:1313/post/2021/0630/</link>
+      <link>/post/2021/0630/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2021/0630/</guid>
+      <guid>/post/2021/0630/</guid>
       <description>&lt;!-- ![](IMG_20210630_154409.jpg &#34;神戸情報科学キャンパスの様子&#34;) --&gt;
 &lt;h4 id=&#34;日時2021年6月30日水&#34;&gt;日時：2021年6月30日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパス商科キャンパスzoom&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス、商科キャンパス、Zoom&lt;/h4&gt;
@@ -136,7 +136,7 @@ M1、M2共に、活発で有意義な議論を行えました。
 &lt;p&gt;川嶋研究室2名、大島研究室9名、湯本研究室2名、山本研究室3名の合計16名で発表し合いました。
 M1、M2共に、活発で有意義な議論を行えました。
 川嶋先生、湯本先生、山本先生ありがとうございました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2021/0630/IMG_0005.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2021/0630/IMG_0005.JPG&#34;&gt;&lt;/p&gt;
 &lt;!-- ![](IMG_0011.JPG) --&gt;
 &lt;h4 id=&#34;各研究室先生方のホームページ&#34;&gt;各研究室・先生方のホームページ&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://interaction-lab.org/kawashima/index-j.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;川嶋研究室のHP&lt;/a&gt;&lt;br&gt;
@@ -160,9 +160,9 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     <item>
       <title>甲南大灘本研，静岡大山本研，大島研合同研究会</title>
-      <link>//localhost:1313/post/2018/1204/</link>
+      <link>/post/2018/1204/</link>
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2018/1204/</guid>
+      <guid>/post/2018/1204/</guid>
       <description>&lt;h4 id=&#34;日時2018年12月4日&#34;&gt;日時：2018年12月4日&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸情報科学キャンパス&#34;&gt;場所：兵庫県立大学神戸情報科学キャンパス&lt;/h4&gt;
 &lt;p&gt;　上記日程にて、甲南大学の灘本明代教授と研究室の学生11名、静岡大学の山本祐輔先生と研究室の学生3名、京都大学の山本岳洋助教に、兵庫県立大学神戸情報科学キャンパスへお越しいただき、合同研究会を行いました。&lt;/p&gt;
@@ -197,8 +197,8 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/2018/1204/gallery/%280%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;//localhost:1313/post/2018/1204/gallery/%280%29_huc547ed8f1cfe268c3523300799a8304f_60957_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%280%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1204/gallery/%280%29_huc547ed8f1cfe268c3523300799a8304f_60957_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -206,8 +206,8 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/2018/1204/gallery/%281%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;//localhost:1313/post/2018/1204/gallery/%281%29_hu30c089157765bd1c0778eb167d34a15d_319193_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%281%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1204/gallery/%281%29_hu30c089157765bd1c0778eb167d34a15d_319193_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -215,8 +215,8 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/2018/1204/gallery/%282%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;//localhost:1313/post/2018/1204/gallery/%282%29_hu1e9082068d1121af564bb0236be1f981_154941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%282%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1204/gallery/%282%29_hu1e9082068d1121af564bb0236be1f981_154941_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -224,8 +224,8 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/2018/1204/gallery/%283%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;//localhost:1313/post/2018/1204/gallery/%283%29_hu0da7b6cdb47795af03efa9954462e07a_128324_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%283%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1204/gallery/%283%29_hu0da7b6cdb47795af03efa9954462e07a_128324_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -233,8 +233,8 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/2018/1204/gallery/%284%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;//localhost:1313/post/2018/1204/gallery/%284%29_hu39c6ef2ac294a2577c0cfb2ce0acf10c_194530_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%284%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1204/gallery/%284%29_hu39c6ef2ac294a2577c0cfb2ce0acf10c_194530_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -242,8 +242,8 @@ M1、M2共に、活発で有意義な議論を行えました。
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;//localhost:1313/post/2018/1204/gallery/%285%29.jpg&#34; &gt;
-  &lt;img data-src=&#34;//localhost:1313/post/2018/1204/gallery/%285%29_hu494f5ef16ff1f4c0abebef767ecc0780_235516_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018/1204/gallery/%285%29.jpg&#34; &gt;
+  &lt;img data-src=&#34;/post/2018/1204/gallery/%285%29_hu494f5ef16ff1f4c0abebef767ecc0780_235516_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
