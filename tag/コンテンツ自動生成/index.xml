@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>コンテンツ自動生成 | OHSHIMA LAB.</title>
-    <link>/tag/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link>
-      <atom:link href="/tag/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link>
+      <atom:link href="//localhost:1313/tag/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
     <description>コンテンツ自動生成</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>コンテンツ自動生成</title>
-      <link>/tag/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link>
+      <link>//localhost:1313/tag/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link>
     </image>
     
     <item>
       <title>書家俵越山AI</title>
-      <link>/project_container/kuwata/</link>
+      <link>//localhost:1313/project_container/kuwata/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/kuwata/</guid>
+      <guid>//localhost:1313/project_container/kuwata/</guid>
       <description>&lt;h2 id=&#34;書家をai化&#34;&gt;書家をAI化&lt;/h2&gt;
 &lt;p&gt;書家俵越山の書道作品を、機械学習を用いて模倣し生成する研究を行っています。近年、AIによるアート生成が盛んに行われるようになりました。今を生きるアーティストがAI化されたとき、アーティスト本人はどう感じるのでしょうか。この研究は、AIとアートの関わり方を考えるきっかけになると考えています。&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>機械学習モデルを用いて新たな知識発見</title>
-      <link>/project_container/manabe/</link>
+      <link>//localhost:1313/project_container/manabe/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/manabe/</guid>
+      <guid>//localhost:1313/project_container/manabe/</guid>
       <description>&lt;h2 id=&#34;transformer-encoderを用いたプラズマ乱流の予測と生成&#34;&gt;Transformer encoderを用いたプラズマ乱流の予測と生成&lt;/h2&gt;
 &lt;p&gt;Transformerモデルを用いてプラズマ乱流の流れを予測する手法を提案する。
 世の中で起こっている物理現象の中にはメカニズムが解明されていないものが多く存在する。我々は、物理現象の時系列データを模倣する機械学習モデルを作成することによって、

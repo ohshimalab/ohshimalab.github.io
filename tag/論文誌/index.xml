@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>論文誌 | OHSHIMA LAB.</title>
-    <link>/tag/%E8%AB%96%E6%96%87%E8%AA%8C/</link>
-      <atom:link href="/tag/%E8%AB%96%E6%96%87%E8%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/%E8%AB%96%E6%96%87%E8%AA%8C/</link>
+      <atom:link href="//localhost:1313/tag/%E8%AB%96%E6%96%87%E8%AA%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>論文誌</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>論文誌</title>
-      <link>/tag/%E8%AB%96%E6%96%87%E8%AA%8C/</link>
+      <link>//localhost:1313/tag/%E8%AB%96%E6%96%87%E8%AA%8C/</link>
     </image>
     
     <item>
       <title>三林亮太さんの論文が情報処理学会論文誌データベースに採録されました</title>
-      <link>/post/2024/0121/</link>
+      <link>//localhost:1313/post/2024/0121/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0121/</guid>
+      <guid>//localhost:1313/post/2024/0121/</guid>
       <description>&lt;!-- #### 日時：2024年3月10日（日）～2024年3月14日（木）
 #### 場所： シェフィールド大学 (Sheffield, UK)  --&gt;
 &lt;p&gt;三林亮太さんの論文が情報処理学会論文誌データベース(IPSJ-TOD)に採録されました。&lt;/p&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>奥田萌莉さんの論文が電子情報通信学会論文誌に採録されました</title>
-      <link>/post/2024/0106/</link>
+      <link>//localhost:1313/post/2024/0106/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0106/</guid>
+      <guid>//localhost:1313/post/2024/0106/</guid>
       <description>&lt;!-- #### 日時：2024年3月10日（日）～2024年3月14日（木）
 #### 場所： シェフィールド大学 (Sheffield, UK)  --&gt;
 &lt;p&gt;奥田萌莉さんの論文が電子情報通信学会論文誌D「データ工学と情報マネジメント特集」に採録されました。おめでとうございます。&lt;/p&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>奥田萌莉さんの論文が論文誌に採録されました</title>
-      <link>/post/2022/0929/</link>
+      <link>//localhost:1313/post/2022/0929/</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0929/</guid>
+      <guid>//localhost:1313/post/2022/0929/</guid>
       <description>&lt;p&gt;情報処理学会論文誌データベース（IPSJ-TOD）の1月号に、奥田萌莉さんの論文が採録されました。&lt;/p&gt;
 &lt;p&gt;書誌情報は以下の通りです。&lt;/p&gt;
 &lt;ul&gt;
@@ -98,9 +98,9 @@
     
     <item>
       <title>橋口友哉さんと川原敬史さんの論文が論文誌に採録されました</title>
-      <link>/post/2022/0501/</link>
+      <link>//localhost:1313/post/2022/0501/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0501/</guid>
+      <guid>//localhost:1313/post/2022/0501/</guid>
       <description>&lt;p&gt;橋口 友哉さんの論文と川原 敬史さんの論文が電子情報通信学会論文誌に採録されました。おめでとうございます。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tomoya Hashiguchi, Takehiro Yamamoto, Sumio Fujita, Hiroaki Ohshima: &amp;ldquo;Toward Generating Robot-Robot Natural Counseling Dialogue&amp;rdquo;, Vol.E105-D, No.5, pp. 928-935, May 2022.&lt;/li&gt;
@@ -139,9 +139,9 @@
     
     <item>
       <title>橋口友哉さんと中田祐誠さんの論文誌が採録されました</title>
-      <link>/post/2021/0101/</link>
+      <link>//localhost:1313/post/2021/0101/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0101/</guid>
+      <guid>//localhost:1313/post/2021/0101/</guid>
       <description>&lt;p&gt;橋口 友哉さんと、中田 祐誠さんの論文誌が採録されました。おめでとうございます。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;橋口 友哉, 山本 岳洋, 藤田 澄男, 大島 裕明：「CQAコンテンツからの状況が類似する悩みの検索」, 人工知能学会論文誌, 36巻, 1号, WI2-B_1-13, 2021年1月.&lt;/li&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>植物 | OHSHIMA LAB.</title>
-    <link>/tag/%E6%A4%8D%E7%89%A9/</link>
-      <atom:link href="/tag/%E6%A4%8D%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/%E6%A4%8D%E7%89%A9/</link>
+      <atom:link href="//localhost:1313/tag/%E6%A4%8D%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
     <description>植物</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>植物</title>
-      <link>/tag/%E6%A4%8D%E7%89%A9/</link>
+      <link>//localhost:1313/tag/%E6%A4%8D%E7%89%A9/</link>
     </image>
     
     <item>
       <title>画像認識によるウキクサ科植物の総枚数と表面積の推定</title>
-      <link>/project_container/okuda/</link>
+      <link>//localhost:1313/project_container/okuda/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/okuda/</guid>
+      <guid>//localhost:1313/project_container/okuda/</guid>
       <description>&lt;h2 id=&#34;画像認識の植物への応用&#34;&gt;画像認識の植物への応用&lt;/h2&gt;
 &lt;p&gt;本研究では，水生植物であるウキクサ科植物の葉の総枚数と表面積を推定する問題に取り組む．
 入力はウキクサ科植物の画像であり，出力は葉の総枚数と葉を垂直から見たときの表面積の2つである．

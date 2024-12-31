@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>発表 | OHSHIMA LAB.</title>
-    <link>/tag/%E7%99%BA%E8%A1%A8/</link>
-      <atom:link href="/tag/%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/%E7%99%BA%E8%A1%A8/</link>
+      <atom:link href="//localhost:1313/tag/%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>発表</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>発表</title>
-      <link>/tag/%E7%99%BA%E8%A1%A8/</link>
+      <link>//localhost:1313/tag/%E7%99%BA%E8%A1%A8/</link>
     </image>
     
     <item>
       <title>奥田萌莉さんが定量生物の会九州キャバラン2025でショートトークを行います</title>
-      <link>/post/2024/1231/</link>
+      <link>//localhost:1313/post/2024/1231/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/1231/</guid>
+      <guid>//localhost:1313/post/2024/1231/</guid>
       <description>&lt;h4 id=&#34;日時2025年1月11日土2025年1月12日日&#34;&gt;日時：2025年1月11日（土）～2025年1月12日（日）&lt;/h4&gt;
 &lt;h4 id=&#34;場所九州大学馬出病院キャンパス&#34;&gt;場所：九州大学　馬出病院キャンパス&lt;/h4&gt;
 &lt;p&gt;奥田萌莉さんが「定量生物の会 九州キャバラン 2025」でショートトークを行います。&lt;/p&gt;
@@ -31,14 +31,14 @@
     
     <item>
       <title>三林亮太さんがSIGGRAPH Asia 2024のReal-Time Live!でBEST OF SHOW AWARDを受賞しました</title>
-      <link>/post/2024/1208/</link>
+      <link>//localhost:1313/post/2024/1208/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/1208/</guid>
+      <guid>//localhost:1313/post/2024/1208/</guid>
       <description>&lt;h4 id=&#34;日時2024年12月3日火2024年12月6日金&#34;&gt;日時：2024年12月3日（火）～2024年12月6日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所東京国際フォーラム有楽町&#34;&gt;場所：東京国際フォーラム（有楽町）&lt;/h4&gt;
 &lt;p&gt;三林亮太さんが「第17回SIGGRAPH Asia：コンピュータグラフィックスとインタラクティブ技術に関する国際会議と展示会」のReal-Time Live!でBEST OF SHOW AWARDを受賞しました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/1208/award.png&#34;&gt;
-&lt;img src=&#34;/post/2024/1208/mibayashi.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/1208/award.png&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/1208/mibayashi.png&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Ryota Mibayashi, Toru Urakawa, Dai Takanashi, Kanata Yamagishi, Tomoya Morohoshi, Ryuho Sekikawa, Yasuhiko Nishimura, Yuta Takeuchi, Mina Shibasaki, Hideaki Tamori, Takehiro Yamamoto, Hiroaki Ohshima: &amp;ldquo;Debate Generation System in Japanese Rap Battle Format&amp;rdquo;, SIGGRAPH Asia 2024 Real-Time Live!&lt;/li&gt;
 &lt;/ul&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>三林亮太さんの研究がSIGGRAPH Asia 2024のReal-Time Live!に採録されました</title>
-      <link>/post/2024/1206/</link>
+      <link>//localhost:1313/post/2024/1206/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/1206/</guid>
+      <guid>//localhost:1313/post/2024/1206/</guid>
       <description>&lt;h4 id=&#34;日時2024年12月3日火2024年12月6日金&#34;&gt;日時：2024年12月3日（火）～2024年12月6日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所東京国際フォーラム有楽町&#34;&gt;場所：東京国際フォーラム（有楽町）&lt;/h4&gt;
 &lt;p&gt;三林亮太さんの研究が「第17回SIGGRAPH Asia：コンピュータグラフィックスとインタラクティブ技術に関する国際会議と展示会」のReal-Time Live!に採録されました。&lt;/p&gt;
@@ -71,9 +71,9 @@
     
     <item>
       <title>M1が中間報告を行いました</title>
-      <link>/post/2024/1101/</link>
+      <link>//localhost:1313/post/2024/1101/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/1101/</guid>
+      <guid>//localhost:1313/post/2024/1101/</guid>
       <description>&lt;h4 id=&#34;日時2024年11月01日&#34;&gt;日時：2024年11月01日&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学　神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;M1が中間報告を行いました。お疲れさまでした！&lt;/p&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>B4が中間報告を行いました</title>
-      <link>/post/2024/1011/</link>
+      <link>//localhost:1313/post/2024/1011/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/1011/</guid>
+      <guid>//localhost:1313/post/2024/1011/</guid>
       <description>&lt;h4 id=&#34;日時2024年10月11日&#34;&gt;日時：2024年10月11日&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学　神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;B4が卒業研究の中間報告を行いました。お疲れさまでした！&lt;/p&gt;
@@ -106,18 +106,18 @@
     
     <item>
       <title>大島研のメンバーがプチDBWS2024で発表しました</title>
-      <link>/post/2024/0924/</link>
+      <link>//localhost:1313/post/2024/0924/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0924/</guid>
+      <guid>//localhost:1313/post/2024/0924/</guid>
       <description>&lt;h4 id=&#34;日時2024年9月24日火&#34;&gt;日時：2024年9月24日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所-甲南大学岡本キャンパス-icommons&#34;&gt;場所： 甲南大学岡本キャンパス iCommons&lt;/h4&gt;
 &lt;p&gt;上記日程にて開催されたプチDBWS2024に大島研のメンバーが参加し、発表しました。
 岐阜大学や甲南大学、静岡大学、同志社大学の方々も参加され、活発な議論を交わしていました。&lt;/p&gt;
 &lt;p&gt;お疲れ様でした！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/0924/Kuroki_poster.jpg&#34;&gt;
-&lt;img src=&#34;/post/2024/0924/Nakanishi_poster.jpg&#34;&gt;
-&lt;img src=&#34;/post/2024/0924/Ueda_poster.jpg&#34;&gt;
-&lt;img src=&#34;/post/2024/0924/Kinoshita_poster.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/0924/Kuroki_poster.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/0924/Nakanishi_poster.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/0924/Ueda_poster.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/0924/Kinoshita_poster.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;発表タイトル&#34;&gt;発表タイトル&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;三林 亮太, RLHFによる意味的関連性を考慮したライム生成, プチDBWS2024, 2024年&lt;/li&gt;
@@ -137,29 +137,29 @@
     
     <item>
       <title>大島先生が研究室紹介を行いました</title>
-      <link>/post/2024/0829/</link>
+      <link>//localhost:1313/post/2024/0829/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0829/</guid>
+      <guid>//localhost:1313/post/2024/0829/</guid>
       <description>&lt;h4 id=&#34;日時2024年8月29日木&#34;&gt;日時：2024年8月29日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所-神戸商科キャンパス-情報科学研究棟&#34;&gt;場所： 神戸商科キャンパス 情報科学研究棟&lt;/h4&gt;
 &lt;p&gt;上記の日程で情報科学研究科のオープンラボが行われ、大島先生が研究室紹介を行いました。
 訪れた学生の方々に研究の説明を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/0829/poster.jpg&#34;&gt;
-&lt;img src=&#34;/post/2024/0829/ohshima.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/0829/poster.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/0829/ohshima.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://u-hyogo.info/topics/%E4%BB%A4%E5%92%8C6%E5%B9%B48%E6%9C%8829%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%A9%E3%83%9C%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;情報科学研究科オープンラボ公式サイト&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>奥田萌莉さんがMIRU2024で発表しました</title>
-      <link>/post/2024/0809/</link>
+      <link>//localhost:1313/post/2024/0809/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0809/</guid>
+      <guid>//localhost:1313/post/2024/0809/</guid>
       <description>&lt;h4 id=&#34;日時2024年8月6日火8月9日金&#34;&gt;日時：2024年8月6日（火）～8月9日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所-熊本城ホール&#34;&gt;場所： 熊本城ホール&lt;/h4&gt;
 &lt;p&gt;上記の日程で奥田萌莉さんが第27回 画像の認識・理解シンポジウムに参加し、ポスター発表を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/0809/okuda1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2024/0809/wakate.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/0809/okuda1.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/0809/wakate.jpg&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;奥田萌莉, 石澤秀紘, 大島裕明：「コウキクサの成長率推定：葉の領域認識と葉の外形的特徴への着目を組み合わせた手法」, 第27回 画像の認識・理解シンポジウム（MIRU2024）, 2024年8月.&lt;/li&gt;
 &lt;li&gt;上田栞, 奥田萌莉, 金岡大樹：「ろぼやん×MIRU2024若手プログラム」, 第27回 画像の認識・理解シンポジウム 若手プログラム, 2024年8月.&lt;/li&gt;
@@ -170,9 +170,9 @@
     
     <item>
       <title>M2が中間報告を行いました</title>
-      <link>/post/2024/0802/</link>
+      <link>//localhost:1313/post/2024/0802/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0802/</guid>
+      <guid>//localhost:1313/post/2024/0802/</guid>
       <description>&lt;h4 id=&#34;日時2024年08月02日&#34;&gt;日時：2024年08月02日&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学　神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;M2が中間報告を行いました。お疲れさまでした！&lt;/p&gt;
@@ -189,13 +189,13 @@
     
     <item>
       <title>三林亮太さんが未来の博士フェス 2024で発表しました</title>
-      <link>/post/2024/0710/</link>
+      <link>//localhost:1313/post/2024/0710/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0710/</guid>
+      <guid>//localhost:1313/post/2024/0710/</guid>
       <description>&lt;h4 id=&#34;日時2024年7月10日水&#34;&gt;日時：2024年7月10日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所一橋大学一橋講堂&#34;&gt;場所：一橋大学一橋講堂&lt;/h4&gt;
 &lt;p&gt;上記の日程で三林亮太さんが未来の博士フェス 2024に参加し、ポスター発表を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/0710/hakushifes1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/0710/hakushifes1.jpg&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;三林亮太, ラップバトルにおける即興ラップの生成に関する研究, 未来の博士フェス 2024, 2024年&lt;/li&gt;
 &lt;/ul&gt;
@@ -205,9 +205,9 @@
     
     <item>
       <title>大島研のメンバーがDEIM2024で発表しました</title>
-      <link>/post/2024/0305/</link>
+      <link>//localhost:1313/post/2024/0305/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0305/</guid>
+      <guid>//localhost:1313/post/2024/0305/</guid>
       <description>&lt;h4 id=&#34;日時2024年2月28日水3月5日火&#34;&gt;日時：2024年2月28日（水）～3月5日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoomとアクリエひめじ姫路市文化コンベンションセンター&#34;&gt;場所：Zoomとアクリエひめじ（姫路市文化コンベンションセンター）&lt;/h4&gt;
 &lt;p&gt;大島研究室のメンバーがDEIM2024で発表しました。&lt;/p&gt;
@@ -225,18 +225,18 @@
 &lt;p&gt;また、ファム フーロンさん、三林 亮太さん、津田 裕哉さん、芦澤 亜里紗さん、桑田 若菜さんの5名が学生プレゼンテーション賞を受賞しました！&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 &lt;p&gt;さらに、三林さんらの研究が優秀インタラクティブ賞を受賞しました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/0305/Award.png&#34;&gt;
-&lt;img src=&#34;/post/2024/0305/Mibayashi.png&#34;&gt;
-&lt;img src=&#34;/post/2024/0305/trophy.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/0305/Award.png&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/0305/Mibayashi.png&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/0305/trophy.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>M2が修士論文発表会で発表を行いました</title>
-      <link>/post/2024/0220/</link>
+      <link>//localhost:1313/post/2024/0220/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0220/</guid>
+      <guid>//localhost:1313/post/2024/0220/</guid>
       <description>&lt;h4 id=&#34;日時2024年2月19日月2024年2月20日火&#34;&gt;日時：2024年2月19日（月）～2024年2月20日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸情報科学キャンパス&#34;&gt;場所：神戸情報科学キャンパス&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研究室からは修士2年生6人が修士論文発表を行いました。&lt;/p&gt;
@@ -270,9 +270,9 @@
     
     <item>
       <title>B4が卒論報告会で発表を行いました</title>
-      <link>/post/2024/0206-2/</link>
+      <link>//localhost:1313/post/2024/0206-2/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0206-2/</guid>
+      <guid>//localhost:1313/post/2024/0206-2/</guid>
       <description>&lt;h4 id=&#34;日時2024年2月5日月2月6日火&#34;&gt;日時：2024年2月5日（月）～2月6日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研究室の学部4年生5人が卒論報告を行いました。&lt;/p&gt;
@@ -303,9 +303,9 @@
     
     <item>
       <title>奥田萌莉さんがMIRU2023で発表を行いました</title>
-      <link>/post/2023/0728/</link>
+      <link>//localhost:1313/post/2023/0728/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0728/</guid>
+      <guid>//localhost:1313/post/2023/0728/</guid>
       <description>&lt;h4 id=&#34;日時2023年7月24日月7月28日金&#34;&gt;日時：2023年7月24日（月）～7月28日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所アクトシティ浜松&#34;&gt;場所：アクトシティ浜松&lt;/h4&gt;
 &lt;p&gt;D1の奥田萌莉です。
@@ -318,16 +318,16 @@
 &lt;ul&gt;
 &lt;li&gt;奥田萌莉, 石澤秀紘, 大島裕明：「画像認識によるウキクサ科植物の表面積と総枚数の推定」, 情報処理学会, 第26回画像の認識・理解シンポジウム（MIRU2023）, 2023年7月.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0728/picture.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0728/picture.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://cvim.ipsj.or.jp/MIRU2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第26回画像の認識・理解シンポジウムMIRU2023公式ページ&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>大島研のメンバーがACM SIGMOD日本支部第82回支部大会で国際会議報告を行いました</title>
-      <link>/post/2023/0708/</link>
+      <link>//localhost:1313/post/2023/0708/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0708/</guid>
+      <guid>//localhost:1313/post/2023/0708/</guid>
       <description>&lt;h4 id=&#34;日時2023年7月8日土&#34;&gt;日時：2023年7月8日（土）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
 &lt;p&gt;大島研の芦澤亜里紗さん、ファムフーロンさん、三林亮太さん、桑田若菜さん、狹間亮太朗さん、奥田萌莉さん、日置淳也さんがACM SIGMOD日本支部第82回支部大会（第45回先端的データベースとWeb技術動向講演会）でThe Web Conference 2023国際会議報告を行いました。&lt;/p&gt;
@@ -383,7 +383,7 @@ Embeddingsの紹介&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0708/picture1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0708/picture1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www2023.thewebconf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Web Conference 2023公式ページ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.sigmodj.org/conf/detail.php?conf_no=82&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM SIGMOD日本支部第82回支部大会公式ページ&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -391,9 +391,9 @@ Embeddingsの紹介&lt;/li&gt;
     
     <item>
       <title>大島研のメンバーがDEIM2023で発表しました</title>
-      <link>/post/2023/0309/</link>
+      <link>//localhost:1313/post/2023/0309/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0309/</guid>
+      <guid>//localhost:1313/post/2023/0309/</guid>
       <description>&lt;h4 id=&#34;日時2023年3月5日日3月9日木&#34;&gt;日時：2023年3月5日（日）～3月9日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoomと長良川国際会議場&#34;&gt;場所：Zoomと長良川国際会議場&lt;/h4&gt;
 &lt;p&gt;大島研究室のメンバーがDEIM2023で発表しました。&lt;/p&gt;
@@ -415,27 +415,27 @@ Embeddingsの紹介&lt;/li&gt;
 &lt;li&gt;[15] 	眞鍋 陽向, 三林 亮太, 沼田 龍介, 山本 岳洋, 大島 裕明: 「Transformer Encoderを用いたプラズマ乱流の予測と分析」, 日本データベース学会 , 第15回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2023), 2023年3月.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;また、王さん、奥田さん、狹間さん、三林さん、桑田さんの5名が学生プレゼンテーション賞を受賞しました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0309/presentation.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/wang.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/okuda.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/hazama.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/mibayashi.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/kuwata.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0309/presentation.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0309/wang.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0309/okuda.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0309/hazama.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0309/mibayashi.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0309/kuwata.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 &lt;p&gt;さらに、三林さんらの研究と、高嶋さんらの研究が最優秀インタラクティブ賞を、奥村さんらの研究が優秀インタラクティブ賞を受賞しました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0309/interactive.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/mibayashi_interactive.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/takashima.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0309/okumura.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0309/interactive.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0309/mibayashi_interactive.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0309/takashima.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0309/okumura.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>M2が修士論文発表会で発表を行いました</title>
-      <link>/post/2023/0221/</link>
+      <link>//localhost:1313/post/2023/0221/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0221/</guid>
+      <guid>//localhost:1313/post/2023/0221/</guid>
       <description>&lt;h4 id=&#34;日時2023年2月20日月2月21日火&#34;&gt;日時：2023年2月20日（月）～2月21日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸情報科学キャンパス&#34;&gt;場所：神戸情報科学キャンパス&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研究室からは修士2年生3人が修士論文発表を行いました。&lt;/p&gt;
@@ -445,16 +445,16 @@ Embeddingsの紹介&lt;/li&gt;
 &lt;p&gt;修士研究の締めくくりと言える修士論文発表会で、無事発表を終えられました。&lt;/p&gt;
 &lt;p&gt;お疲れ様でした！&lt;/p&gt;
 &lt;!-- ![](okudajpg) --&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0221/wang.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0221/furuya.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0221/wang.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0221/furuya.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>B4が卒業研究報告会で発表を行いました</title>
-      <link>/post/2023/0217/</link>
+      <link>//localhost:1313/post/2023/0217/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0217/</guid>
+      <guid>//localhost:1313/post/2023/0217/</guid>
       <description>&lt;h4 id=&#34;日時2023年2月16日木2月17日金&#34;&gt;日時：2023年2月16日（木）～2月17日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研究室からは学部4年生5人が卒業研究報告を行いました。&lt;/p&gt;
@@ -462,19 +462,19 @@ Embeddingsの紹介&lt;/li&gt;
 &lt;p&gt;研究室ごとに発表を行い、大島研究室は1日目のトップバッターでした。&lt;/p&gt;
 &lt;p&gt;みんな多かれ少なかれ緊張していましたが、無事発表を終えることができました。&lt;/p&gt;
 &lt;p&gt;お疲れ様でした！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/ashizawa.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/kuwata.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/hazama.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/hanatani.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0217/manabe.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0217/ashizawa.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0217/kuwata.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0217/hazama.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0217/hanatani.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0217/manabe.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>M1が研究中間報告会で発表しました</title>
-      <link>/post/2022/1104/</link>
+      <link>//localhost:1313/post/2022/1104/</link>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/1104/</guid>
+      <guid>//localhost:1313/post/2022/1104/</guid>
       <description>&lt;h4 id=&#34;日時2022年11月4日金&#34;&gt;日時：2022年11月4日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;2022年11月4日、情報科学研究科のM1の学生が全員集まって、研究中間報告会が行われました。&lt;/p&gt;
@@ -514,9 +514,9 @@ Embeddingsの紹介&lt;/li&gt;
     
     <item>
       <title>B4が卒業研究中間発表を行いました</title>
-      <link>/post/2022/1014/</link>
+      <link>//localhost:1313/post/2022/1014/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/1014/</guid>
+      <guid>//localhost:1313/post/2022/1014/</guid>
       <description>&lt;h4 id=&#34;日時2022年10月14日金&#34;&gt;日時：2022年10月14日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研究室からは、学部4年生5人が卒業研究中間発表を行いました。&lt;/p&gt;
@@ -557,23 +557,23 @@ Embeddingsの紹介&lt;/li&gt;
     
     <item>
       <title>M2が修士論文発表会で発表を行いました</title>
-      <link>/post/2022/0201/</link>
+      <link>//localhost:1313/post/2022/0201/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0201/</guid>
+      <guid>//localhost:1313/post/2022/0201/</guid>
       <description>&lt;h4 id=&#34;日時2022年1月31日月2月1日火&#34;&gt;日時：2022年1月31日（月）～2月1日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所情報科学キャンパス&#34;&gt;場所：情報科学キャンパス&lt;/h4&gt;
 &lt;p&gt;今年卒業される先輩方が修士論文発表を行いました。&lt;/p&gt;
 &lt;p&gt;先輩方の雄姿が素敵でした。&lt;/p&gt;
 &lt;p&gt;2年間研究お疲れ様でした。卒業されても仲良くしてください！！&lt;/p&gt;
 &lt;p&gt;残りの研究室生活もよろしくお願いしますm(__)m&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0201/1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/2.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/3.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/4.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/5.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/6.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/7.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0201/8.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0201/1.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0201/2.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0201/3.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0201/4.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0201/5.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0201/6.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0201/7.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0201/8.jpg&#34;&gt;&lt;/p&gt;
 &lt;!-- 奥田 萌莉さんが「2022 IEEE International Conference on Big Data and Smart Computing (BigComp 2022)」で発表しました。
 
 [公式Webページ](http://www.bigcomputing.org/)
@@ -603,17 +603,17 @@ In Proceedings of the 2022 IEEE International Conference on Big Data and Smart C
     
     <item>
       <title>M1が研究中間報告会を行いました</title>
-      <link>/post/2021/1203/</link>
+      <link>//localhost:1313/post/2021/1203/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1203/</guid>
+      <guid>//localhost:1313/post/2021/1203/</guid>
       <description>&lt;h4 id=&#34;日時2021年12月3日金&#34;&gt;日時：2021年12月3日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所情報科学キャンパス商科キャンパスzoom&#34;&gt;場所：情報科学キャンパス、商科キャンパス、Zoom&lt;/h4&gt;
 &lt;p&gt;上記日程にて、大島研究室からは、修士1年生3人が研究中間報告会を行いました。&lt;/p&gt;
 &lt;p&gt;研究生活1年目も終盤に差し掛かり、ひとつの節目になったと思っています。&lt;/p&gt;
 &lt;p&gt;今後も頑張りましょう！！
 お疲れ様でした！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2021/1203/wang.jpg&#34;&gt;
-&lt;img src=&#34;/post/2021/1203/furuya.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2021/1203/wang.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/1203/furuya.jpg&#34;&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
