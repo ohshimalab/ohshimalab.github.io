@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>研究会 | OHSHIMA LAB.</title>
-    <link>//localhost:1313/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
-      <atom:link href="//localhost:1313/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
+      <atom:link href="/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     <description>研究会</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>研究会</title>
-      <link>//localhost:1313/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
+      <link>/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
     </image>
     
     <item>
       <title>大島研のメンバーが今年度初回研究会を行いました</title>
-      <link>//localhost:1313/post/2023/0414/</link>
+      <link>/post/2023/0414/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2023/0414/</guid>
+      <guid>/post/2023/0414/</guid>
       <description>&lt;h4 id=&#34;日時2023年4月14日金&#34;&gt;日時：2023年4月14日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所k201講義室&#34;&gt;場所：K201講義室&lt;/h4&gt;
 &lt;p&gt;暖かく過ごしやすい時期が来て新学期が始まり、大島研では新しいメンバーを迎えて初めての研究発表会を行いました。&lt;/p&gt;
 &lt;p&gt;発表内容は自己紹介やこれまでの研究内容など。質問やコメントも多く飛び交い、お互いのことをより詳しく知る機会となりました。&lt;/p&gt;
 &lt;p&gt;これからも頑張っていきましょう！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0414/picture1.jpg&#34;&gt;
-&lt;img src=&#34;//localhost:1313/post/2023/0414/picture2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2023/0414/picture1.jpg&#34;&gt;
+&lt;img src=&#34;/post/2023/0414/picture2.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>大島研のメンバーが新学期の第1回研究会を行いました。</title>
-      <link>//localhost:1313/post/2022/0408/</link>
+      <link>/post/2022/0408/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2022/0408/</guid>
+      <guid>/post/2022/0408/</guid>
       <description>&lt;h4 id=&#34;日時2022年4月8日金&#34;&gt;日時：2022年4月8日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所大講義室&#34;&gt;場所：大講義室&lt;/h4&gt;
 &lt;p&gt;桜が綺麗に咲き、新学期が始まりました。

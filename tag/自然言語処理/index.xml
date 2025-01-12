@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>自然言語処理 | OHSHIMA LAB.</title>
-    <link>//localhost:1313/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</link>
-      <atom:link href="//localhost:1313/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</link>
+      <atom:link href="/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <description>自然言語処理</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>自然言語処理</title>
-      <link>//localhost:1313/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</link>
+      <link>/tag/%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86/</link>
     </image>
     
     <item>
       <title>人のパーソナリティと場所の特徴を用いたストレス推定と推定根拠の説明</title>
-      <link>//localhost:1313/project_container/hazama/</link>
+      <link>/project_container/hazama/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project_container/hazama/</guid>
+      <guid>/project_container/hazama/</guid>
       <description>&lt;h2 id=&#34;人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする&#34;&gt;人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする．&lt;/h2&gt;
 &lt;p&gt;本研究では，人のパーソナリティと場所の特徴を用いて
 ストレスの推定と推定根拠の説明を行う．
@@ -44,9 +44,9 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
     
     <item>
       <title>特許を用いた重要な特許の発見</title>
-      <link>//localhost:1313/project_container/hanatani/</link>
+      <link>/project_container/hanatani/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project_container/hanatani/</guid>
+      <guid>/project_container/hanatani/</guid>
       <description>&lt;h2 id=&#34;特許の被引用数の予測&#34;&gt;特許の被引用数の予測&lt;/h2&gt;
 &lt;p&gt;本研究では特許のデータを用いて重要な特許を発見する研究を行っている。重要な特許とは、例えば、山中伸弥教授の iPS 細胞の特許、トヨタ自動車株式会社の電気自動車の特許や、株式会社日立製作所のウェアラブル端末の特許などが挙げられる。しかし、特許は日本で年間 30 万件ほど出願されており、すべての特許からこれらの特許を発見するのは現実的ではない。そのため、私は重要な特許を発見することで企業が必要な特許を効率的に発見出来るようにしたいと考えている。本研究では重要な特許を、社会に大きな影響を与えている特許としている。 基本的には重要な特許を見つける際に、被引用数に注目する。しかし、被引用数は特許が公開されてから数年は増えにくいという問題がある。そこで、被引用数以外の特徴も用いて、公開されてから 2 年以内に5年後の特許の被引用数を予測する手法の提案を行う。本研究の手法としては、重要な特許には様々な特徴がみられる。現状、重要な特許の特徴を 3つ考えている。その 3 つの特徴とは、初めての技術用語が含まれているという特徴、汎用性があるという特徴、技術用語が初めての組み合わせであるという特徴である。ここで、挙げている特徴を特許中の情報からテキストマイニング等の手法を用いて抽出していく。そして、抽出した特徴を用いて重要な特許の分類を行っていく。&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
     
     <item>
       <title>細粒度な観点をクエリとした小説検索</title>
-      <link>//localhost:1313/project_container/itou/</link>
+      <link>/project_container/itou/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project_container/itou/</guid>
+      <guid>/project_container/itou/</guid>
       <description>&lt;h2 id=&#34;あなたはどんな小説を読みたいですか&#34;&gt;あなたはどんな小説を読みたいですか？&lt;/h2&gt;
 &lt;p&gt;現在、自分が気に入る小説を見つけるには読む以外に方法はなく、小説に対する細かい好みを反映した検索をすることは出来ない。
 例えば、伏線回収が綺麗な小説の例として「ゴールデンスランバー」が挙げられるが、この本のタイトルやあらすじを見ても伏線回収が綺麗であるという特徴を得ることは難しい。
@@ -66,9 +66,9 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
     
     <item>
       <title>食品レビューにおける観点抽出とその検索への応用</title>
-      <link>//localhost:1313/project_container/ashizawa/</link>
+      <link>/project_container/ashizawa/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project_container/ashizawa/</guid>
+      <guid>/project_container/ashizawa/</guid>
       <description>&lt;h2 id=&#34;食品レビューからユーザが欲しい情報である観点を作成しレビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする&#34;&gt;食品レビューから、ユーザが欲しい情報である観点を作成し、レビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする。&lt;/h2&gt;
 &lt;p&gt;実物の見えないオンラインショッピングではレビューが購入の判断材料の一つとなる。レビューは様々な観点から書かれており、ユーザは観点をクエリとして検索することが想定される。そこで本研究では、同じ観点について異なる表現で表されているものを統合し、大量にあるレビューからユーザが望む観点の情報を網羅的に検索する手法を提案する。&lt;/p&gt;
 </description>
@@ -76,9 +76,9 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
     
     <item>
       <title>ブックマーク記事を続報順に自動マッピング</title>
-      <link>//localhost:1313/project_container/zidomapping/</link>
+      <link>/project_container/zidomapping/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project_container/zidomapping/</guid>
+      <guid>/project_container/zidomapping/</guid>
       <description>&lt;h2 id=&#34;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&#34;&gt;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&lt;/h2&gt;
 &lt;!-- 文で研究紹介 --&gt;
 &lt;p&gt;記事アーカイブで検索を行いブックマークした記事集合の中で、どの記事がどの記事の続報かを自動で判断してグラフ化します。&lt;/p&gt;
@@ -86,7 +86,7 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
 &lt;p&gt;記事アーカイブは新聞記事などを数十年間にわたって保存したものです。記事アーカイブは小中学校のまとめ学習で自分の気になるトピックを調べる際などに用いられます。しかし、従来のWeb検索画面のようなインタフェースは検索とまとめを行うのに不親切であることがあります。例えば、検索を進めていくと最初にブックマークした記事の内容や記事間の関係性を忘れることがあります。一度読んだ記事を再度読み返して内容を把握するのは面倒な作業です。&lt;/p&gt;
 &lt;p&gt;そこで、ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェースを提案しています。新聞記事は出来事に対し少しずつ新情報を報道します。従来のインタフェースではユーザは記事同士の続報関係を記憶にとどめたまま検索を行わなければなりませんが、提案するインタフェースは自動で記事を続報順に整理してグラフ化します。そのため、ユーザは視覚的に現在の検索状態を把握でき、まとめの際もブックマーク記事をいちから整理するという手間が省けます。&lt;/p&gt;
 &lt;p&gt;まるで記事アーカイブという入り組んだ情報の洞窟で、ブックマーク記事が自分の欲しい情報に向かって自動で道を切り開いて（マッピングして）いくといったものになります。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/project_container/zidomapping/img2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/project_container/zidomapping/img2.png&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;松本 直彰, 湯本 高行, 山本 岳洋, 大島 裕明: 「ニュースアーカイブ探索のための記事間の関係抽出とその可視化」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F25-3, 2021年3月.&lt;/li&gt;
 &lt;/ul&gt;
@@ -95,9 +95,9 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
     
     <item>
       <title>転ばぬ先のAI</title>
-      <link>//localhost:1313/project_container/korobanusakinoai/</link>
+      <link>/project_container/korobanusakinoai/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project_container/korobanusakinoai/</guid>
+      <guid>/project_container/korobanusakinoai/</guid>
       <description>&lt;h2 id=&#34;事故を事前に予測してくれるai&#34;&gt;事故を事前に予測してくれるAI&lt;/h2&gt;
 &lt;p&gt;転ばぬ先のAIとは、私たちの日常生活における行動を自然言語の形式で入力すると、それによって発生が考えられる事故を事前に予測してくれるAIモデルのことです。本取り組みでは、ウェブ上で公開されている事故情報を収集し、機械学習手法によって学習を行わせることで、理想のAIモデルの作成に取り組んでいます。&lt;/p&gt;
 &lt;p&gt;転ばぬ先のAIがあれば、何かの行動をする前の段階で事故リスクを把握できるため、事故への対策が今までよりも簡単になる効果が期待できます。&lt;/p&gt;

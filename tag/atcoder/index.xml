@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AtCoder | OHSHIMA LAB.</title>
-    <link>//localhost:1313/tag/atcoder/</link>
-      <atom:link href="//localhost:1313/tag/atcoder/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/atcoder/</link>
+      <atom:link href="/tag/atcoder/index.xml" rel="self" type="application/rss+xml" />
     <description>AtCoder</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>AtCoder</title>
-      <link>//localhost:1313/tag/atcoder/</link>
+      <link>/tag/atcoder/</link>
     </image>
     
     <item>
       <title>大島研のメンバーがAtCoderに参加しています</title>
-      <link>//localhost:1313/post/2022/0925/</link>
+      <link>/post/2022/0925/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2022/0925/</guid>
+      <guid>/post/2022/0925/</guid>
       <description>&lt;p&gt;大島研では、毎週みんなで&lt;a href=&#34;https://atcoder.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AtCoder&lt;/a&gt;に参加しています。&lt;/p&gt;
 &lt;p&gt;AtCoderは競技プログラミングサイトで、毎週末にAtCoder Beginner Contestが開催されています。&lt;/p&gt;
 &lt;p&gt;AtCoderではコンテストにRated参加をすると、解けた問題や解く速さに応じてRatingが変化し、Ratingに応じて色分けがされます。&lt;/p&gt;
