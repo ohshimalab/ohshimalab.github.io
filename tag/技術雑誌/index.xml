@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技術雑誌 | OHSHIMA LAB.</title>
-    <link>/tag/%E6%8A%80%E8%A1%93%E9%9B%91%E8%AA%8C/</link>
-      <atom:link href="/tag/%E6%8A%80%E8%A1%93%E9%9B%91%E8%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/%E6%8A%80%E8%A1%93%E9%9B%91%E8%AA%8C/</link>
+      <atom:link href="//localhost:1313/tag/%E6%8A%80%E8%A1%93%E9%9B%91%E8%AA%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>技術雑誌</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>技術雑誌</title>
-      <link>/tag/%E6%8A%80%E8%A1%93%E9%9B%91%E8%AA%8C/</link>
+      <link>//localhost:1313/tag/%E6%8A%80%E8%A1%93%E9%9B%91%E8%AA%8C/</link>
     </image>
     
     <item>
       <title>奥田萌莉さんの研究が技術雑誌に掲載されました</title>
-      <link>/post/2024/0206/</link>
+      <link>//localhost:1313/post/2024/0206/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0206/</guid>
+      <guid>//localhost:1313/post/2024/0206/</guid>
       <description>&lt;!-- #### 日時：2024年3月10日（日）～2024年3月14日（木）
 #### 場所： シェフィールド大学 (Sheffield, UK)  --&gt;
 &lt;p&gt;奥田萌莉さんの研究内容が、技術雑誌「画像ラボ」に掲載されました。

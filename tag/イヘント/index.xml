@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>イベント | OHSHIMA LAB.</title>
-    <link>/tag/%E3%82%A4%E3%83%98%E3%83%B3%E3%83%88/</link>
-      <atom:link href="/tag/%E3%82%A4%E3%83%98%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/%E3%82%A4%E3%83%98%E3%83%B3%E3%83%88/</link>
+      <atom:link href="//localhost:1313/tag/%E3%82%A4%E3%83%98%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <description>イベント</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>イベント</title>
-      <link>/tag/%E3%82%A4%E3%83%98%E3%83%B3%E3%83%88/</link>
+      <link>//localhost:1313/tag/%E3%82%A4%E3%83%98%E3%83%B3%E3%83%88/</link>
     </image>
     
     <item>
       <title>大島研のメンバーが商大祭に出店しました！</title>
-      <link>/post/2024/1103/</link>
+      <link>//localhost:1313/post/2024/1103/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/1103/</guid>
+      <guid>//localhost:1313/post/2024/1103/</guid>
       <description>&lt;h4 id=&#34;日時2024年11月1日金2024年11月3日日&#34;&gt;日時：2024年11月1日（金）～2024年11月3日（日）&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;上記日程にて商大祭が開催され、大島研究室のメンバーが模擬店の出店を行いました！&lt;/p&gt;
@@ -24,84 +24,84 @@
 2日はあいにくの天気で出店中止となるなど、先行きは不安でした。&lt;br&gt;
 ですが、3日目は天候にも恵まれ、たくさんの方々にお買い求めいただきました。&lt;/p&gt;
 &lt;p&gt;皆さん、お疲れさまでした！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2024/1103/yakisoba_poster.jpg&#34;&gt;
-&lt;img src=&#34;/post/2024/1103/tonpei_cooking.jpg&#34;&gt;
-&lt;img src=&#34;/post/2024/1103/yakisoba.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/1103/yakisoba_poster.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/1103/tonpei_cooking.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2024/1103/yakisoba.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>大島研のメンバーが商大祭に出店と展示を行いました！</title>
-      <link>/post/2023/1103/</link>
+      <link>//localhost:1313/post/2023/1103/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/1103/</guid>
+      <guid>//localhost:1313/post/2023/1103/</guid>
       <description>&lt;h4 id=&#34;日時2023年11月3日金2023年11月5日日&#34;&gt;日時：2023年11月3日（金）～2023年11月5日（日）&lt;/h4&gt;
 &lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;上記日程にて商大祭が開催され、大島研究室のメンバーが模擬店の出店と展示を行いました。
 季節外れの暑さの中、飲み代を賭けた漢達の熱い戦いが幕を開けました。&lt;/p&gt;
 &lt;p&gt;模擬店ではたませんを販売しました。
 たくさんの人々に好評いただき、3日間かけ完売することができました。
-&lt;img src=&#34;/post/2023/1103/Tamasen_Yatai.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/1103/Tamasen_making.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/1103/Kanbai.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/1103/Tamasen_making2.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/1103/Tamasen_Yatai.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/1103/Tamasen_making.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/1103/Kanbai.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/1103/Tamasen_making2.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;展示では大島研メンバーの津田さん、西本さんが自作ゲームを展示しました。
 慣れないVRゲームや、難易度の高いアクションゲームに苦戦しながらも、たくさんの人々に楽しんでいただけました。
-&lt;img src=&#34;/post/2023/1103/Tenzi.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/1103/VR_playing1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/1103/VR_highscore.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/1103/Tenzi.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/1103/VR_playing1.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/1103/VR_highscore.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;3日間の最後には後夜祭がありました。
 綺麗な花火が打ちあがり、3日間の締めくくりとなりました。
-&lt;img src=&#34;/post/2023/1103/Kouyasai1.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/1103/Kouyasai1.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>新入生歓迎会を行いました</title>
-      <link>/post/2023/0519/</link>
+      <link>//localhost:1313/post/2023/0519/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0519/</guid>
+      <guid>//localhost:1313/post/2023/0519/</guid>
       <description>&lt;h4 id=&#34;日時2023年5月19日金&#34;&gt;日時：2023年5月19日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所大蔵海岸bbq-zazaza&#34;&gt;場所：大蔵海岸BBQ ZAZAZA&lt;/h4&gt;
 &lt;p&gt;大蔵海岸BBQ ZAZAZAにて新入生歓迎会を行いました。&lt;/p&gt;
 &lt;p&gt;先輩後輩交えてたくさん話が弾み、より仲が深まりました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0519/picture1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0519/picture2.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0519/picture3.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0519/picture4.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0519/picture1.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0519/picture2.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0519/picture3.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0519/picture4.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>お花見をしました</title>
-      <link>/post/2023/0405/</link>
+      <link>//localhost:1313/post/2023/0405/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0405/</guid>
+      <guid>//localhost:1313/post/2023/0405/</guid>
       <description>&lt;h4 id=&#34;日時2023年4月5日水&#34;&gt;日時：2023年4月5日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所総合運動公園&#34;&gt;場所：総合運動公園&lt;/h4&gt;
 &lt;p&gt;総合運動公園にてお花見を行いました。&lt;/p&gt;
 &lt;p&gt;当日は天候に恵まれませんでしたが、新入生と一緒に楽しい時間が過ごせました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0405/picture1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0405/picture2.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0405/picture3.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0405/picture1.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0405/picture2.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0405/picture3.jpg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>追いコンをしました</title>
-      <link>/post/2023/0323/</link>
+      <link>//localhost:1313/post/2023/0323/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0323/</guid>
+      <guid>//localhost:1313/post/2023/0323/</guid>
       <description>&lt;h4 id=&#34;日時2023年3月23日木&#34;&gt;日時：2023年3月23日（木）&lt;/h4&gt;
 &lt;p&gt;M2の先輩たちの追いコンを行いました！&lt;/p&gt;
 &lt;p&gt;大島研究室では、毎年恒例でM2の方々にそれぞれ表彰状とプレゼントをお渡ししています！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0323/furuya.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0323/okuda.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0323/wang.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0323/furuya.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0323/okuda.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0323/wang.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;M2の先輩たちからも先生にプレゼント！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0323/present.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0323/present.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;また、B4が卒業、M2が修了するということで、学位記授与式の日に記念撮影を行いました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0323/syugo.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0323/syugo.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;B4は5人全員大島研のM1に、M2は3人中2人が就職し、1人が大島研のD1になります。&lt;/p&gt;
 &lt;p&gt;M2の先輩方お2人はお疲れ様でした！&lt;/p&gt;
 &lt;p&gt;残りの6人は今後ともよろしくお願いいたします！&lt;/p&gt;
@@ -110,17 +110,17 @@
     
     <item>
       <title>大島研のメンバーがB4の大学院入試合格をお祝いするBBQを開催しました！</title>
-      <link>/post/2022/1021/</link>
+      <link>//localhost:1313/post/2022/1021/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/1021/</guid>
+      <guid>//localhost:1313/post/2022/1021/</guid>
       <description>&lt;h4 id=&#34;日時2022年10月21日火&#34;&gt;日時：2022年10月21日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所大蔵海岸bbq-zazaza&#34;&gt;場所：大蔵海岸BBQ ZAZAZA&lt;/h4&gt;
 &lt;p&gt;2022年10月21日、大蔵海岸のスペースでBBQをしてきました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/1021/picture1.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/1021/picture1.jpg&#34;&gt;
 学園都市駅から朝霧駅までのバスで会場へ！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/1021/picture2.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/1021/picture2.jpg&#34;&gt;
 良い肉を買ってくださいました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/1021/picture3.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/1021/picture3.jpg&#34;&gt;
 朝霧駅をバックに。&lt;/p&gt;
 &lt;p&gt;B4の皆さん、院試お疲れさまでした！！イベント係の皆さんもありがとうございました！
 これから寒くなり、学会の時期に入るので、かなり大変な時期に入っていきますが、頑張っていきましょう！！！&lt;/p&gt;
@@ -142,39 +142,39 @@
     
     <item>
       <title>大島研のメンバーが講座旅行に行ってきました！</title>
-      <link>/post/2022/0911/</link>
+      <link>//localhost:1313/post/2022/0911/</link>
       <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0911/</guid>
+      <guid>//localhost:1313/post/2022/0911/</guid>
       <description>&lt;h4 id=&#34;日時2022年9月11日日13日火&#34;&gt;日時：2022年9月11日（日）～13日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸市立自然の家&#34;&gt;場所：神戸市立自然の家&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/1.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/1.jpg&#34;&gt;
 2022年8月17日、神戸市立自然の家へ講座旅行に行ってきました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/2.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0911/2_1.JPG&#34;&gt;
-&lt;img src=&#34;/post/2022/0911/2_2.JPG&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/2.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0911/2_1.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0911/2_2.JPG&#34;&gt;
 1日目は山登り。新神戸駅から布引の滝を経由して、摩耶山の掬星台へ。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/3.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/3.jpg&#34;&gt;
 いろいろハプニングはあったものの、山を登り切って、自然の家に向かったら、カップヌードルを用意してくれました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/4.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/4.jpg&#34;&gt;
 その後、カヌーをしました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/5.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/5.jpg&#34;&gt;
 夕食はBBQ！肉がおいしかったです！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/6.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/6.jpg&#34;&gt;
 おはようございます。2日目は朝から六甲山アスレチックパークGREENIAへ行ってきました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/7_1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0911/7_2.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/7_1.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0911/7_2.jpg&#34;&gt;
 六甲山アスレチックパークでは、とにかく遊び、濡れました。。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/9.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0911/9_1.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/9.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0911/9_1.jpg&#34;&gt;
 バスで帰って、その後、飯盒炊爨でした。
 カレーを作りましたが、点火が大変でした。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/10.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/10.jpg&#34;&gt;
 3日目の朝は、卓球をしました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/10_1.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/10_1.jpg&#34;&gt;
 卓球後、自然の家から離れ、バスとロープウェイで有馬温泉へ。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/11.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/11.jpg&#34;&gt;
 そこで食べたハンバーガーが美味しかったです！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0911/12.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0911/12.jpg&#34;&gt;
 その後、現地解散しました！お疲れ様でした！&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
@@ -194,16 +194,16 @@
     
     <item>
       <title>大島研のメンバーが研究室内の大掃除を行いました！</title>
-      <link>/post/2022/0817/</link>
+      <link>//localhost:1313/post/2022/0817/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0817/</guid>
+      <guid>//localhost:1313/post/2022/0817/</guid>
       <description>&lt;h4 id=&#34;日時2022年8月17日水&#34;&gt;日時：2022年8月17日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所研究室&#34;&gt;場所：研究室&lt;/h4&gt;
 &lt;p&gt;2022年8月17日、研究室内の大掃除を行いました。&lt;/p&gt;
 &lt;p&gt;大掃除が始まり、椅子を移動させました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0817/2.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0817/2.jpg&#34;&gt;
 ディスプレイをきれいにしています。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0817/3.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0817/3.jpg&#34;&gt;
 大掃除が終わった後の研究室&lt;/p&gt;
 &lt;p&gt;きれいになった研究室で、頑張っていきましょう！！！！！！&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
@@ -224,16 +224,16 @@
     
     <item>
       <title>大島研のメンバーが商科キャンパスで新研究室を立ち上げました</title>
-      <link>/post/2022/0315/</link>
+      <link>//localhost:1313/post/2022/0315/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0315/</guid>
+      <guid>//localhost:1313/post/2022/0315/</guid>
       <description>&lt;h4 id=&#34;日時2022年3月15日火&#34;&gt;日時：2022年3月15日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所研究室&#34;&gt;場所：研究室&lt;/h4&gt;
 &lt;p&gt;商科キャンパスにて新研究室を立ち上げました！
 4月からここでの生活が始まります！&lt;/p&gt;
 &lt;p&gt;今年度から大島研は大家族になりました。
 研究もイベントも楽しんでいきましょう！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2022/0315/19465.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0315/19465.jpg&#34;&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -252,31 +252,31 @@
     
     <item>
       <title>大島研のメンバーが追いコンをしました</title>
-      <link>/post/2022/0304/</link>
+      <link>//localhost:1313/post/2022/0304/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0304/</guid>
+      <guid>//localhost:1313/post/2022/0304/</guid>
       <description>&lt;h4 id=&#34;日時2022年3月4日金&#34;&gt;日時：2022年3月4日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所研究室&#34;&gt;場所：研究室&lt;/h4&gt;
 &lt;p&gt;M2の先輩たちの追いコンを行いました！
 大島研究室では、毎年恒例でおひとりおひとりに表彰状とプレゼントをお渡ししています！！&lt;/p&gt;
 &lt;p&gt;↓表彰状贈呈前の、先生からのお言葉。
-&lt;img src=&#34;/post/2022/0304/okotoba.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/okotoba.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;↓表彰状を贈呈中！
-&lt;img src=&#34;/post/2022/0304/kawahara.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0304/hamajima.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0304/matsumoto.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0304/mibayashi.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0304/ueta.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0304/yoshimura.jpg&#34;&gt;
-&lt;img src=&#34;/post/2022/0304/sakane.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/kawahara.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/hamajima.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/matsumoto.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/mibayashi.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/ueta.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/yoshimura.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/sakane.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;↓ビンゴ大会を企画しました！
-&lt;img src=&#34;/post/2022/0304/bingo.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/bingo.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;↓ビンゴ大会を企画しているM1の雄姿。
-&lt;img src=&#34;/post/2022/0304/huruya.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/huruya.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;↓M2の先輩たちから先生にプレゼント！サプライズです。
-&lt;img src=&#34;/post/2022/0304/give_present.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/give_present.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;↓先生、嬉しそうです！
-&lt;img src=&#34;/post/2022/0304/sensei.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0304/sensei.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;先輩方、2年間本当にお疲れ様でした！！
 先輩方が研究のみではなく生活面まで相談に乗って下さったりと、本当に支えて頂きました！&lt;/p&gt;
 &lt;p&gt;私たちはいつでも皆さんの訪問を待っています！！
@@ -299,19 +299,19 @@
     
     <item>
       <title>大島研のメンバーが豆まきをしました</title>
-      <link>/post/2022/0203/</link>
+      <link>//localhost:1313/post/2022/0203/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0203/</guid>
+      <guid>//localhost:1313/post/2022/0203/</guid>
       <description>&lt;h4 id=&#34;日時2022年2月3日木&#34;&gt;日時：2022年2月3日（木）&lt;/h4&gt;
 &lt;h4 id=&#34;場所研究室&#34;&gt;場所：研究室&lt;/h4&gt;
 &lt;p&gt;2022年度の豆まきを行いました。
 じゃんけんで鬼役を決めて、皆で和気あいあいと豆を投げました。&lt;/p&gt;
 &lt;p&gt;↓散らばる豆を見つめる鬼。
-&lt;img src=&#34;/post/2022/0203/kick.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0203/kick.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;↓華麗に豆を避ける鬼。
-&lt;img src=&#34;/post/2022/0203/yokeru.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0203/yokeru.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;↓頑張ってる鬼。
-&lt;img src=&#34;/post/2022/0203/yokeru2.jpg&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0203/yokeru2.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;以上です！&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
@@ -331,9 +331,9 @@
     
     <item>
       <title>年末ゲーム忘年会をしました</title>
-      <link>/post/2021/1227/</link>
+      <link>//localhost:1313/post/2021/1227/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1227/</guid>
+      <guid>//localhost:1313/post/2021/1227/</guid>
       <description>&lt;!-- ![](IMG_20210630_154409.jpg &#34;神戸情報科学キャンパスの様子&#34;) --&gt;
 &lt;h4 id=&#34;日時2021年12月27日月&#34;&gt;日時：2021年12月27日（月）&lt;/h4&gt;
 &lt;h4 id=&#34;場所港島キャンパス&#34;&gt;場所：港島キャンパス&lt;/h4&gt;
@@ -341,12 +341,12 @@
 &lt;p&gt;ゲームはマリオパーティーと人狼です。
 ゲームで良い成績のメンバーには景品が送られました。&lt;/p&gt;
 &lt;p&gt;2021年を締めくくる楽しいひと時となりました。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2021/1227/image1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2021/1227/image2.jpg&#34;&gt;
-&lt;img src=&#34;/post/2021/1227/image3.jpg&#34;&gt;
-&lt;img src=&#34;/post/2021/1227/image4.jpg&#34;&gt;
-&lt;img src=&#34;/post/2021/1227/image5.jpg&#34;&gt;
-&lt;img src=&#34;/post/2021/1227/image6.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2021/1227/image1.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/1227/image2.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/1227/image3.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/1227/image4.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/1227/image5.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/1227/image6.jpg&#34;&gt;&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -365,9 +365,9 @@
     
     <item>
       <title>懇親会を行いました！</title>
-      <link>/post/2021/1029/</link>
+      <link>//localhost:1313/post/2021/1029/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1029/</guid>
+      <guid>//localhost:1313/post/2021/1029/</guid>
       <description>&lt;h4 id=&#34;日時2021年10月29日金&#34;&gt;日時：2021年10月29日（金）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
 &lt;p&gt;上記日程にて、川嶋研、大島研、湯本研、山本研のメンバーで懇親会を行いました。
@@ -394,32 +394,32 @@
     
     <item>
       <title>卒業生を送る会</title>
-      <link>/post/2021/0324/</link>
+      <link>//localhost:1313/post/2021/0324/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0324/</guid>
+      <guid>//localhost:1313/post/2021/0324/</guid>
       <description>&lt;!-- ![](IMG_1922.JPG) --&gt;
 &lt;p&gt;3月24日に兵庫県立大学の学位授与式が行われました。
 午後には、全メンバーが研究室に集まり、M1から研究室を去る先輩方にプレゼントや表彰状（贈る言葉）を渡しました。
 研究室を去る先輩方から大島先生へのプレゼントもあり、終始笑いの絶えないひと時でした。&lt;/p&gt;
 &lt;p&gt;先輩方への感謝とともに、これから更なるご活躍をお祈り申し上げます。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2021/0324/DSC_0483.JPG&#34;&gt;
-&lt;img src=&#34;/post/2021/0324/DSC_0484.JPG&#34;&gt;
-&lt;img src=&#34;/post/2021/0324/DSC_0486.JPG&#34;&gt;
-&lt;img src=&#34;/post/2021/0324/DSC_0487.JPG&#34;&gt;
-&lt;img src=&#34;/post/2021/0324/DSC_0577.JPG&#34;&gt;
-&lt;img src=&#34;/post/2021/0324/DSC_0587.JPG&#34;&gt;
-&lt;img src=&#34;/post/2021/0324/DSC_0592.JPG&#34;&gt;
-&lt;img src=&#34;/post/2021/0324/IMG_1957.JPG&#34;&gt;
-&lt;img src=&#34;/post/2021/0324/DSC_0561.JPG&#34;&gt;
-&lt;img src=&#34;/post/2021/0324/DSC_0571.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2021/0324/DSC_0483.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/0324/DSC_0484.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/0324/DSC_0486.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/0324/DSC_0487.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/0324/DSC_0577.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/0324/DSC_0587.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/0324/DSC_0592.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/0324/IMG_1957.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/0324/DSC_0561.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2021/0324/DSC_0571.JPG&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>鬼は外、福は内</title>
-      <link>/post/2021/0203/</link>
+      <link>//localhost:1313/post/2021/0203/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/0203/</guid>
+      <guid>//localhost:1313/post/2021/0203/</guid>
       <description>&lt;p&gt;2月2日に研究室内で、豆まきイベントがありました。&lt;/p&gt;
 &lt;p&gt;鬼に扮したイベント係がみんなに豆を投げられ、笑顔が自然とこぼれる和やかな会でした。&lt;/p&gt;
 &lt;p&gt;今年も健康を大切に、元気な1年にしたいですね。&lt;/p&gt;
