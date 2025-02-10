@@ -5,12 +5,26 @@
     <link>/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</link>
       <atom:link href="/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
     <description>ニュース</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ニュース</title>
       <link>/tag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</link>
     </image>
+    
+    <item>
+      <title>芦澤亜里紗さんの研究が読売新聞に掲載されました</title>
+      <link>/post/2025/0116/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/post/2025/0116/</guid>
+      <description>&lt;h4 id=&#34;日時2025年1月16日木&#34;&gt;日時：2025年1月16日（木）&lt;/h4&gt;
+&lt;p&gt;M2の芦澤亜里紗です。
+読売新聞社の記者の方と共に、阪神・淡路大震災に関する記事分析を行いました。&lt;/p&gt;
+&lt;p&gt;大規模言語モデルのLlamaを活用し、阪神・淡路大震災に関する記事を抽出して、期間ごとにどのような単語が出現しているのかを可視化しました。
+今回、なかなか経験できない新聞記事のプロジェクトに携わることができ、兵庫県に住む者として阪神・淡路大震災について改めて深く学ぶ貴重な機会となりました。無事に掲載までたどり着けて良かったです。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yomiuri.co.jp/local/kansai/feature/shinsai117/20250116-OYTAT50005/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;掲載記事&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>三林亮太さんのラップ研究が日刊工業新聞に掲載されました</title>
