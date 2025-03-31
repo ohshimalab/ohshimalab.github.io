@@ -19,37 +19,30 @@ url: /members/
 | 准教授 | [大島 裕明 （Hiroaki OHSHIMA）](/faculty/) |
 
 ## 学生
-
 | 学年 | 名前                              |
 | ---- | -------------------------------- |
 | D3   | 高橋 克郎 （Katsurou TAKAHASHI）  |
-| D3   | 田中 謙次 （Kenji TANAKA）        |
-| D2   | 三林 亮太 （Ryota MIBAYASHI）     |
-| D1   | 奥田 萌莉 （Moeri OKUDA）         |
-| M2   | 伊藤 優真 （Yuma ITO）            |
-| M2   | 髙嶋 優快 （Masayoshi TAKASHIMA） |
-| M2   | 張 雯佳 （Wenjia ZHANG）          |
-| M2   | 津田 裕哉 （Yuya TSUDA）          |
-| M2   | 西本 海生 （Kaisei NISHIMOTO）    |
-| M2   | 日置 淳也 （Junya HIOKI）         |
-| M1   | 芦澤 亜里紗 （Arisa ASHIZAWA）    |
-| M1   | 桑田 若菜 （Wakana KUWATA）       |
-| M1   | 狹間 亮太朗 （Ryotaro HAZAMA）    |
-| M1   | 花谷 翔 （Sho HANATANI）          |
-| M1   | 眞鍋 陽向 （Hinata MANABE）       |
-| B4   | 奥田 颯馬 （Soma OKUDA）          |
-| B4   | 常松 大雅 （Taiga TSUNEMATSU）    |
-| B4   | 中西 勇輝 （Yuki NAKANISHI）      |
-| B4   | 中山 裕紀 （Yuki NAKAYAMA）       |
-| B4   | 門垣 幸樹 （Koki MONGAKI）        |
+| D3   | ファム フーロン （HuuLong PHAM）  |
+| D1   | 桑田 若菜 （Wakana KUWATA）       |
+| M2   | 黒木 空翔 （Tsubasa KUROKI）      |
+| M2   | 中西 勇輝 （Yuki NAKANISHI）      |
+| M2   | 中山 裕紀 （Yuki NAKAYAMA）       |
+| M2   | 門垣 幸樹 （Koki MONGAKI）        |
+| M1   | 上田 健斗 （Kento UEDA）          |
+| M1   | 木下 真帆 （Maho KINOSHITA）      |
+
+※学年は2025年4月時点
+
+<!-- | B4   | 高田 純和 （Ayato TAKATA）        | -->
 
 
 ## 社会人学生
-
 | 学年 | 名前                            |
 | ---- | ------------------------------- |
-| D3   | 森川 優 （Yu MORIKAWA）         |
-| D1   | ファム フーロン （HuuLong PHAM） |
+| D3   | 奥田 萌莉 （Moeri OKUDA）        |
+| D2   | 橋口 友哉 （Tomoya HASHIGUCHI） |
+
+※学年は2025年4月時点
 
 <!-- ## 研究生 -->
 <!-- 新しく研究生が入った時に入れる -->
@@ -58,6 +51,29 @@ url: /members/
 
 | 卒業・修了年月 | 学位 | 名前                                   |
 | :-----------: | ---- | -------------------------------------- |
+| 2025.3        | 博士 | 三林 亮太 （Ryota MIBAYASHI）           |
+| 2025.3        | 博士 | 森川 優 （Yu MORIKAWA）                 |
+| 2025.3        | 修士 | 芦澤 亜里紗 （Arisa ASHIZAWA）          |
+| 2025.3        | 修士 | 桑田 若菜 （Wakana KUWATA）             |
+| 2025.3        | 修士 | 中屋 岳 （Gaku NAKAYA）                 |
+| 2025.3        | 修士 | 狹間 亮太朗 （Ryotaro HAZAMA）          |
+| 2025.3        | 修士 | 花谷 翔 （Sho HANATANI）                |
+| 2025.3        | 修士 | 眞鍋 陽向 （Hinata MANABE）             |
+| 2025.3        | 学士 | 上田 健斗 （Kento UEDA）                |
+| 2025.3        | 学士 | 上村 悠斗 （Haruto UEMURA）             |
+| 2025.3        | 学士 | 木下 真帆 （Maho KINOSHITA）            |
+| 2025.3        | 学士 | 山口 貴也 （Takaya YAMAGUCHI）          |
+| 2024.3        | 修士 | 伊藤 優真 （Yuma ITO）                  |
+| 2024.3        | 修士 | 髙嶋 優快 （Masayoshi TAKASHIMA）       |
+| 2024.3        | 修士 | 張 雯佳 （Wenjia ZHANG）                |
+| 2024.3        | 修士 | 津田 裕哉 （Yuya TSUDA）                |
+| 2024.3        | 修士 | 西本 海生 （Kaisei NISHIMOTO）          |
+| 2024.3        | 修士 | 日置 淳也 （Junya HIOKI）               |
+| 2024.3        | 学士 | 奥田 颯馬 （Soma OKUDA）                |
+| 2024.3        | 学士 | 常松 大雅 （Taiga TSUNEMATSU）          |
+| 2024.3        | 学士 | 中西 勇輝 （Yuki NAKANISHI）            |
+| 2024.3        | 学士 | 中山 裕紀 （Yuki NAKAYAMA）             |
+| 2024.3        | 学士 | 門垣 幸樹 （Koki MONGAKI）              |
 | 2023.3        | 修士 | 奥田 萌莉 （Moeri OKUDA）               |
 | 2023.3        | 修士 | 古屋 昭拓 （Akihiro FURUYA）            |
 | 2023.3        | 修士 | 王 丹 （Dan WANG）                      |
@@ -95,7 +111,27 @@ url: /members/
 | 李 金瀟 （Jinxiao LI）          |
 
 ## 就職先
-株式会社アイレップ，KDDI株式会社，コベルコシステム株式会社，白髪医院，Sky株式会社，スカイウィル株式会社，株式会社セラク，株式会社デンソーテン，パーソルパナソニックHRパートナーズ株式会社，株式会社エスユーエス，株式会社指月電機製作所，株式会社ウイルテック，ビッグローブ株式会社，ムラタシステム株式会社，株式会社NTTデータ関西
+株式会社アイレップ，
+KDDI株式会社，
+コベルコシステム株式会社，
+白髪医院，
+Sky株式会社，
+スカイウィル株式会社，
+株式会社セラク，
+株式会社デンソーテン，
+パーソルパナソニックHRパートナーズ株式会社，
+株式会社エスユーエス，
+株式会社指月電機製作所，
+株式会社ウイルテック，
+ビッグローブ株式会社，
+ムラタシステム株式会社，
+株式会社NTTデータ関西，
+株式会社グッドニュース，
+株式会社日立社会情報サービス，
+日本アイ・ビー・エム株式会社，
+ウイングアーク1st株式会社，
+株式会社ナノコネクト
+
 
 ## 修士入学者の出身大学（国内）
 兵庫県立大学社会情報科学部，兵庫県立大学工学部，兵庫県立大学環境人間学部，甲南大学知能情報学部，流通科学大学経済学部，大阪工業大学，関西大学，関西学院大学，近畿大学，神戸女学院大学，鳥取大学，広島市立大学

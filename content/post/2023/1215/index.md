@@ -15,7 +15,7 @@ summary: The 17th NTCIR Conference
 ![](image.jpg)
 
 書誌情報は以下の通りです。
-- Tomoya Hashiguchi, Ryota Mibayashi, Huu-Long Pham, Wakana Kuwata, Yuka Kawada, Yuya Tsuda, Takehiro Yamamoto and Hiroaki Ohshima，KANDUH at the NTCIR-17 Transfer Task，In proceedings of the 17th NTCIR Conference
+- Tomoya Hashiguchi, Ryota Mibayashi, Huu-Long Pham, Wakana Kuwata, Yuka Kawada, Yuya Tsuda, Takehiro Yamamoto and Hiroaki Ohshima: "KANDUH at the NTCIR-17 Transfer Task", Proceedings of the 17th NTCIR Conference, December 2023.
 
 
 [NTCIR-17 Conference公式サイト](https://research.nii.ac.jp/ntcir/ntcir-17/conference.html)

@@ -9,6 +9,11 @@ url: /publications/
 <!-- + [修士論文](/thesis) -->
 
 ## 学術論文（査読あり）
+1. 三林 亮太, 相原 健郎, 神門 典子, 莊司 慶行, 山本 岳洋, 山本 祐輔, 大島 裕明：「みんぱくBERT：博物館における展示物の解説文を考慮した追加学習済みBERTモデル」, 情報処理学会論文誌：データベース, Vol.18, No.1, pp.14-23, 2025年1月.
+1. Yu Morikawa, Kilho Shin, Masataka Kubouchi, and Hiroaki Ohshima: "Prediction of Specific Surface Area of Metal-Organic Frameworks by Graph Kernels", The Journal of Supercomputing, Vol.80, pp.13027-13047, February 2024.
+1. 奥田 萌莉, 石澤 秀紘, 大島 裕明：「形・色の特徴に着目したウキクサ科植物の面積と枚数の推定」, 電子情報通信学会論文誌D, Vol.J107-D, No.5, pp.323-334, 2024年5月.
+1. 三林 亮太, 山本 岳洋, 佃 洸摂, 渡邉 研斗, 中野 倫靖, 後藤 真孝, 大島 裕明：「ラップバトルにおける逆向き生成によるライムを含む返答バース生成」, 情報処理学会論文誌：データベース, Vol.17, No.2, pp.28-39, 2024年4月.
+1. 森川 優, 中西 波瑠, 稲村 直樹, 近藤 伸明, 小渕 浩希, 大澤 輝夫, 松原 崇, 申 吉浩, 大島 裕明, 上原 邦昭：「船舶における全天球画像のデータ収集と雲形・状態・全雲量の自動判定の試み」, 日本気象学会機関誌「天気」, No.70, Vol.12, pp.577-592, 2023年12月.
 1. 坂根 和光, 三林 亮太, 川原 敬史, 山本 岳洋, 澤田 祥一, 高階 勇人, 大島 裕明: 「BERT を用いた場所の説明文に対する位置特定容易性の推定」, 日本データベース学会データドリブンスタディーズ, Vol.1, No.6, pp.1-8, 2023年3月.
 1. 奥田 萌莉, 大島 裕明: 「形・葉脈の特徴に着目した樹葉画像の深層学習に基づく分類」,情報処理学会論文誌データベース, Vol.1, No.16,  pp.14-25, 2023年1月.
 1. Tomoya Hashiguchi, Takehiro Yamamoto, Sumio Fujita, and Hiroaki Ohshima:  "Toward Generating Robot-Robot Natural Counseling Dialogue", Vol.E105-D, No.5, pp. 928-935, May 2022.
@@ -54,7 +59,15 @@ url: /publications/
 1. 大島 裕明, 小山 聡, 田中 克己:「個人文書から抽出した語彙の意味関係に基づく Web 情報検索」, 日本データベース学会論文誌 DBSJ Letters, Vol.4, No.2, pp.17-20, 2005 年 9 月.
 
 ## 国際会議録（査読あり）
-1. Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto, Hiroaki Ohshima: "Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles" Proceedings of the 16th International Symposium on Computer Music Multidisciplinary Research (CMMR 2023), pp30-41, November 2023.
+1. Arisa Ashizawa, Ryota Mibayashi, Hiroaki Ohshima: "Query Expansion in Food Review Search with Synonymous Phrase Generation by LLM", Proceedings of the DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.
+1. Taiga Sasaki, Takehiro Yamamoto, Yoshiyuki Shoji, Takayuki Kuge, Hiroaki Ohshima: "Generating News Headline Containing Specific Person Name", Proceedings of the DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.
+1. Kanako Nakai, Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima: "Investigating Evidence in Sentence Similarity using MASK in BERT", Proceedings of the DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.
+1. Yuki Nakayama, Yuuya Tsuda, Yoshiyuki Shoji, Hiroaki Ohshima: "Query Expansion in Food Review Search with Synonymous Phrase Generation by LLM", Proceedings of the DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.
+1. Kaisei Nishimoto, Kenro Aihara, Noriko Kando, Yoshiyuki Shoji, Yusuke Yamamoto, Takehiro Yamamoto, Hiroaki Ohshima: "A Gamification System for Acquiring Appreciation Perspectives in Museum", Proceedings of the 12th International Conference on Information and Education Technology (ICIET 2024), March 2024.
+1. Yuya Tsuda, Takehiro Yamamoto and Hiroaki Ohshima: "Mixed Reality Interaction Enhanced by Whiteboard for Product Search", Proceedings of the 2024 Conference on Human Information Interaction and Retrieval (CHIIR 2024), pp.396-400, March 2024.
+1. Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P. Kato, Yusuke Yamamoto, Yoshiyuki Shoji, Hiroaki Ohshima: "Inference-Based No-Learning Approach on Pre-Trained BERT Model Retrieval", Proceedings of the 2024 IEEE International Conference on Big Data and Smart Computing (BigComp 2024), pp.234-241, February 2024.
+1. Wakana Kuwata, Ryota Mibayashi, Masanori Tani, and Hiroaki Ohshima: "Glyph Generation for Japanese Calligraphy based on Encoding both Content and Style", Proceedings of the 2024 IEEE International Conference on Big Data and Smart Computing (BigComp 2024), pp.207-214, February 2024.
+1. Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto, Hiroaki Ohshima: "Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles", Proceedings of the 16th International Symposium on Computer Music Multidisciplinary Research (CMMR 2023), pp.30-41, November 2023.
 1. Ryota Mibayashi, Masaki Ueta, Takafumi Kawahara, Naoaki Matsumoto, Takuma Yoshimura, Kenro Aihara, Noriko Kando, Yoshiyuki Shoji, Yuta Nakajima, Takehiro Yamamoto, Yusuke Yamamoto, Hiroaki Ohshima: "MinpakuBERT: A Language Model for Understanding Cultural Properties in Museum", Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022), pp.13-18, July 2022.
 1. Wang Dan, Ryota Mibayashi, Hiroaki Ohshima: "Visual Metaphor Construction for Image and Description of Fashion Goods", Proceedings of the 12th International Congress on Advanced Applied Informatics (IIAI-AAI 2022), pp.158-163, July 2022.
 1. Moeri Okuda and Hiroaki Ohshima: "Feature Fusion for Leaf Image Classification", Proceedings of the 2022 IEEE International Conference on Big Data and Smart Computing (BigComp 2022), pp.259-262, January 2022.

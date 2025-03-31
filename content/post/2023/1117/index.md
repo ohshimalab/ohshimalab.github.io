@@ -15,7 +15,7 @@ summary: The 16th International Symposium on Computer Music Multidisciplinary Re
 ![](oral.png)
 
 書誌情報は以下の通りです。
-- Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto, Hiroaki Ohshima: "Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles" Proceedings of the 16th International Symposium on Computer Music Multidisciplinary Research (CMMR 2023), pp30-41, November 2023.
+- Ryota Mibayashi, Takehiro Yamamoto, Kosetsu Tsukuda, Kento Watanabe, Tomoyasu Nakano, Masataka Goto, Hiroaki Ohshima: "Verse Generation by Reverse Generation Considering Rhyme and Answer in Japanese Rap Battles", Proceedings of the 16th International Symposium on Computer Music Multidisciplinary Research (CMMR 2023), pp30-41, November 2023.
 
 [CMMR2023 公式Webページ](https://cmmr2023.gttm.jp)
 
