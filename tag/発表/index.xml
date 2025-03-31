@@ -5,12 +5,29 @@
     <link>/tag/%E7%99%BA%E8%A1%A8/</link>
       <atom:link href="/tag/%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>発表</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>発表</title>
       <link>/tag/%E7%99%BA%E8%A1%A8/</link>
     </image>
+    
+    <item>
+      <title>三林亮太さんがNLP2025で発表しました</title>
+      <link>/post/2025/0314/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/post/2025/0314/</guid>
+      <description>&lt;h4 id=&#34;日時2025年3月10日月2025年3月14日金&#34;&gt;日時：2025年3月10日（月）～2025年3月14日（金）&lt;/h4&gt;
+&lt;h4 id=&#34;場所出島メッセ長崎&#34;&gt;場所：出島メッセ長崎&lt;/h4&gt;
+&lt;p&gt;上記の日程で三林亮太さんが言語処理学会第31回年次大会に参加し、ポスター発表を行いました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;poster1.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;poster2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;三林 亮太, 浦川 通, 高梨 大, 諸星 智也, 山岸 奏大, 関川 龍宝, 西村 保彦, 竹内 祐太, 田森  秀明, 山本 岳洋, 大島 裕明「任意の題目に対する多様な視点の獲得を目的とした ラップバトル形式のディベート生成システムの提案」言語処理学会第31回年次大会(NLP2025), 2025年．&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://anlp.jp/nlp2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NLP2025　公式サイト&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>奥田萌莉さんがDIA2025で発表を行いました</title>
