@@ -1,126 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>勉強会 | OHSHIMA LAB.</title>
-    <link>/tag/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
-      <atom:link href="/tag/%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
-    <description>勉強会</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>勉強会</title>
-      <link>/tag/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
-    </image>
-    
-    <item>
-      <title>大島研のメンバーがIR Reading 2024秋に参加しました</title>
-      <link>/post/2024/1109/</link>
-      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/1109/</guid>
-      <description>&lt;h4 id=&#34;日時2024年11月9日土&#34;&gt;日時：2024年11月9日（土）&lt;/h4&gt;
-&lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学神戸商科キャンパス&lt;/h4&gt;
-&lt;p&gt;上記日程にて、大島研のメンバーがIR Reading2024秋に参加しました。&lt;/p&gt;
-&lt;p&gt;今年度発表されたばかりの論文を持ち寄り、内容を説明しました。&lt;br&gt;
-また、外部の大学、企業の方々からの説明も聞き、知見を交換しました。&lt;/p&gt;
-&lt;p&gt;お疲れ様でした！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sigirtokyo.github.io/post/2024-11-09-irreading_2024fall/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IR Reading 2024秋 公式webページ&lt;/a&gt;&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
-      <title>大島研のメンバーがIR Reading 2024春に参加しました</title>
-      <link>/post/2024/0615/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/0615/</guid>
-      <description>&lt;h4 id=&#34;日時2024年6月15日土&#34;&gt;日時：2024年6月15日（土）&lt;/h4&gt;
-&lt;h4 id=&#34;場所兵庫県立大学神戸商科キャンパス&#34;&gt;場所：兵庫県立大学神戸商科キャンパス&lt;/h4&gt;
-&lt;p&gt;上記日程にて、大島研のメンバーがIR Reading2024春に参加しました。&lt;/p&gt;
-&lt;p&gt;それぞれ最新の論文を紹介し、知見を交換しました。&lt;/p&gt;
-&lt;p&gt;お疲れ様でした！&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
-      <title>大島研のメンバーがIR Reading 2022春に参加しました</title>
-      <link>/post/2022/0521/</link>
-      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0521/</guid>
-      <description>&lt;h4 id=&#34;日時2022年5月21日土&#34;&gt;日時：2022年5月21日（土）&lt;/h4&gt;
-&lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
-&lt;p&gt;上記日程にて、大島研のメンバーがIR Readingに参加しました。&lt;/p&gt;
-&lt;p&gt;開催自体はZoomでしたが、研究室に集まって参加させていただきました！&lt;/p&gt;
-&lt;p&gt;お疲れ様でした！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sigir.jp/post/2022-05-21-irreading_2022spring/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IR Reading 2022 春 公式webページ&lt;/a&gt;&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-    <item>
-      <title>IR Readingに参加しました</title>
-      <link>/post/2021/1030/</link>
-      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021/1030/</guid>
-      <description>&lt;h4 id=&#34;日時2021年10月30日土&#34;&gt;日時：2021年10月30日（土）&lt;/h4&gt;
-&lt;h4 id=&#34;場所zoom&#34;&gt;場所：Zoom&lt;/h4&gt;
-&lt;p&gt;上記日程にて、大島研のメンバーがIR Readingに参加しました。&lt;/p&gt;
-&lt;p&gt;ハロウィンの前日だったということもあり、先輩がチョコレートを持ってきてくださいました！
-&lt;img src=&#34;/post/2021/1030/okashi.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;お疲れ様でした！&lt;/p&gt;
-&lt;!-- ![](IMG_0011.JPG) --&gt;
-&lt;p&gt;&lt;a href=&#34;https://sigir.jp/post/2021-10-30-irreading_2021fall/#program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;公式webページ&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>勉強会 | OHSHIMA LAB.</title><link>/tag/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link><atom:link href="/tag/%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml"/><description>勉強会</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>勉強会</title><link>/tag/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link></image><item><title>大島研のメンバーがIR Reading 2024秋に参加しました</title><link>/post/2024/1109/</link><pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate><guid>/post/2024/1109/</guid><description>&lt;h4 id="日時2024年11月9日土">日時：2024年11月9日（土）&lt;/h4>
+&lt;h4 id="場所兵庫県立大学神戸商科キャンパス">場所：兵庫県立大学神戸商科キャンパス&lt;/h4>
+&lt;p>上記日程にて、大島研のメンバーがIR Reading2024秋に参加しました。&lt;/p>
+&lt;p>今年度発表されたばかりの論文を持ち寄り、内容を説明しました。&lt;br>
+また、外部の大学、企業の方々からの説明も聞き、知見を交換しました。&lt;/p>
+&lt;p>お疲れ様でした！&lt;/p>
+&lt;p>&lt;a href="https://sigirtokyo.github.io/post/2024-11-09-irreading_2024fall/" target="_blank" rel="noopener">IR Reading 2024秋 公式webページ&lt;/a>&lt;/p>
+&lt;!-- 1. 論文採録バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- [年月日]に発表予定 -->
+&lt;!-- 2. 論文発表済みバージョン -->
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 3. 論文受賞バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item><item><title>大島研のメンバーがIR Reading 2024春に参加しました</title><link>/post/2024/0615/</link><pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate><guid>/post/2024/0615/</guid><description>&lt;h4 id="日時2024年6月15日土">日時：2024年6月15日（土）&lt;/h4>
+&lt;h4 id="場所兵庫県立大学神戸商科キャンパス">場所：兵庫県立大学神戸商科キャンパス&lt;/h4>
+&lt;p>上記日程にて、大島研のメンバーがIR Reading2024春に参加しました。&lt;/p>
+&lt;p>それぞれ最新の論文を紹介し、知見を交換しました。&lt;/p>
+&lt;p>お疲れ様でした！&lt;/p>
+&lt;!-- 1. 論文採録バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- [年月日]に発表予定 -->
+&lt;!-- 2. 論文発表済みバージョン -->
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 3. 論文受賞バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item><item><title>大島研のメンバーがIR Reading 2022春に参加しました</title><link>/post/2022/0521/</link><pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate><guid>/post/2022/0521/</guid><description>&lt;h4 id="日時2022年5月21日土">日時：2022年5月21日（土）&lt;/h4>
+&lt;h4 id="場所zoom">場所：Zoom&lt;/h4>
+&lt;p>上記日程にて、大島研のメンバーがIR Readingに参加しました。&lt;/p>
+&lt;p>開催自体はZoomでしたが、研究室に集まって参加させていただきました！&lt;/p>
+&lt;p>お疲れ様でした！&lt;/p>
+&lt;p>&lt;a href="https://sigir.jp/post/2022-05-21-irreading_2022spring/" target="_blank" rel="noopener">IR Reading 2022 春 公式webページ&lt;/a>&lt;/p>
+&lt;!-- 1. 論文採録バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- [年月日]に発表予定 -->
+&lt;!-- 2. 論文発表済みバージョン -->
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 3. 論文受賞バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item><item><title>IR Readingに参加しました</title><link>/post/2021/1030/</link><pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate><guid>/post/2021/1030/</guid><description>&lt;h4 id="日時2021年10月30日土">日時：2021年10月30日（土）&lt;/h4>
+&lt;h4 id="場所zoom">場所：Zoom&lt;/h4>
+&lt;p>上記日程にて、大島研のメンバーがIR Readingに参加しました。&lt;/p>
+&lt;p>ハロウィンの前日だったということもあり、先輩がチョコレートを持ってきてくださいました！
+&lt;img src="okashi.jpg" alt="">&lt;/p>
+&lt;p>お疲れ様でした！&lt;/p>
+&lt;!-- ![](IMG_0011.JPG) -->
+&lt;p>&lt;a href="https://sigir.jp/post/2021-10-30-irreading_2021fall/#program" target="_blank" rel="noopener">公式webページ&lt;/a>&lt;br>&lt;/p>
+&lt;!-- 1. 論文採録バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- [年月日]に発表予定 -->
+&lt;!-- 2. 論文発表済みバージョン -->
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 3. 論文受賞バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item></channel></rss>

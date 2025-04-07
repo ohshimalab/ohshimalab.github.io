@@ -1,96 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>プロジェクト | OHSHIMA LAB.</title>
-    <link>/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link>
-      <atom:link href="/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
-    <description>プロジェクト</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>プロジェクト</title>
-      <link>/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link>
-    </image>
-    
-    <item>
-      <title>三林亮太さんが未踏スーパークリエータに認定されました</title>
-      <link>/post/2023/0526/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0526/</guid>
-      <description>&lt;h4 id=&#34;日時2023年5月26日金&#34;&gt;日時：2023年5月26日（金）&lt;/h4&gt;
-&lt;p&gt;D2の三林です。&lt;/p&gt;
-&lt;p&gt;2022年度に未踏IT人材発掘・育成事業で採択された「ラップバトル対話システムの開発」というプロジェクトに取り組んでいました。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>プロジェクト | OHSHIMA LAB.</title><link>/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link><atom:link href="/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/index.xml" rel="self" type="application/rss+xml"/><description>プロジェクト</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>プロジェクト</title><link>/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link></image><item><title>三林亮太さんが未踏スーパークリエータに認定されました</title><link>/post/2023/0526/</link><pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate><guid>/post/2023/0526/</guid><description>&lt;h4 id="日時2023年5月26日金">日時：2023年5月26日（金）&lt;/h4>
+&lt;p>D2の三林です。&lt;/p>
+&lt;p>2022年度に未踏IT人材発掘・育成事業で採択された「ラップバトル対話システムの開発」というプロジェクトに取り組んでいました。
 このたび、プロジェクトの成果が認められ「未踏スーパークリエータ」に認定されました。
 「未踏スーパークリエータ」は、自身のプロジェクトにおいて卓越した成果を挙げたと認められた者にのみ与えられます。
 2022年度は未踏クリエータ37名の中から25名が認定されました。
 未踏IT人材発掘・育成事業では、これまでに約1,800名以上のクリエータを採択・育成しており、
-「未踏スーパークリエータ」は今回認定した25名を加えて総勢408名となったそうです。&lt;/p&gt;
-&lt;p&gt;未踏期間中にご協力いただいた皆様に感謝申し上げます。
-これからも謙虚に頑張ります。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0526/picture1.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0526/picture2.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;「ラップバトル対話システムの開発」プロジェクト概要
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/it/2022/gaiyou_tn-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/it/2022/gaiyou_tn-1.html&lt;/a&gt;
+「未踏スーパークリエータ」は今回認定した25名を加えて総勢408名となったそうです。&lt;/p>
+&lt;p>未踏期間中にご協力いただいた皆様に感謝申し上げます。
+これからも謙虚に頑張ります。&lt;/p>
+&lt;p>&lt;img src="picture1.jpg" alt="">&lt;/p>
+&lt;p>&lt;img src="picture2.jpg" alt="">&lt;/p>
+&lt;p>「ラップバトル対話システムの開発」プロジェクト概要
+&lt;a href="https://www.ipa.go.jp/jinzai/mitou/it/2022/gaiyou_tn-1.html">https://www.ipa.go.jp/jinzai/mitou/it/2022/gaiyou_tn-1.html&lt;/a>
 2022年度未踏スーパークリエータニュースリリース
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/it/2022/supercreator.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/it/2022/supercreator.html&lt;/a&gt;
+&lt;a href="https://www.ipa.go.jp/jinzai/mitou/it/2022/supercreator.html">https://www.ipa.go.jp/jinzai/mitou/it/2022/supercreator.html&lt;/a>
 2022年度未踏スーパークリエータの紹介資料
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/it/2022/ps6vr7000001sbsn-att/it2022_sc_booklet.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/it/2022/ps6vr7000001sbsn-att/it2022_sc_booklet.pdf&lt;/a&gt;
+&lt;a href="https://www.ipa.go.jp/jinzai/mitou/it/2022/ps6vr7000001sbsn-att/it2022_sc_booklet.pdf">https://www.ipa.go.jp/jinzai/mitou/it/2022/ps6vr7000001sbsn-att/it2022_sc_booklet.pdf&lt;/a>
 未踏スーパークリエータについて
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>三林亮太さんが「未踏IT人材発掘・育成事業」に採択されました</title>
-      <link>/post/2022/0620/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0620/</guid>
-      <description>&lt;h4 id=&#34;日時2022年6月20日&#34;&gt;日時：2022年6月20日&lt;/h4&gt;
-&lt;p&gt;D1の三林亮太です。&lt;/p&gt;
-&lt;p&gt;この度、2022年度 未踏IT人材発掘・育成事業に採択されました。
+&lt;a href="https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html">https://www.ipa.go.jp/jinzai/mitou/it/supercreator-list.html&lt;/a>&lt;/p></description></item><item><title>三林亮太さんが「未踏IT人材発掘・育成事業」に採択されました</title><link>/post/2022/0620/</link><pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate><guid>/post/2022/0620/</guid><description>&lt;h4 id="日時2022年6月20日">日時：2022年6月20日&lt;/h4>
+&lt;p>D1の三林亮太です。&lt;/p>
+&lt;p>この度、2022年度 未踏IT人材発掘・育成事業に採択されました。
 未踏とは、IPA（情報処理推進機構）がおこなう、突出したIT人材の発掘と育成を目的とする、25歳未満の者を対象にしたプロジェクトです。
 私の採択テーマは「ラップバトル対話システムの開発」です。
-約9カ月間という短い期間ですが、頑張ります。友達もたくさん作ってきます。&lt;/p&gt;
-&lt;p&gt;プロジェクトの概要は以下の通りです。&lt;/p&gt;
-&lt;p&gt;　本プロジェクトは、ラップバトル対話システムの開発に取り組み、実際にラップバトルの大会に出場させることを目標とする。ラップバトルとは、2人のラッパーが対話形式で即興ラップ（バース）を行い、どちらのラップが優れているかを競う競技である。ラップバトルは主にライム（韻）、アンサー（返答）、フローの3つの観点から評価されるが、この3つの観点をふまえたバースを考えることはプロでも難しい。これらの条件をクリアするには、優れた頭の回転と豊富な語彙が必要である。そこで、速い処理速度と大きな記憶容量を持ち合わせる計算機を用いたラップバトル対話システムを開発する。
+約9カ月間という短い期間ですが、頑張ります。友達もたくさん作ってきます。&lt;/p>
+&lt;p>プロジェクトの概要は以下の通りです。&lt;/p>
+&lt;p>　本プロジェクトは、ラップバトル対話システムの開発に取り組み、実際にラップバトルの大会に出場させることを目標とする。ラップバトルとは、2人のラッパーが対話形式で即興ラップ（バース）を行い、どちらのラップが優れているかを競う競技である。ラップバトルは主にライム（韻）、アンサー（返答）、フローの3つの観点から評価されるが、この3つの観点をふまえたバースを考えることはプロでも難しい。これらの条件をクリアするには、優れた頭の回転と豊富な語彙が必要である。そこで、速い処理速度と大きな記憶容量を持ち合わせる計算機を用いたラップバトル対話システムを開発する。
 　本システムの実現により、創造的な即興ラップ（バース）の生成が期待でき、人工知能技術にあらたなインパクトを与えることができる。これまでに、チェスや将棋など、人間VS人工知能の挑戦は社会に大きなインパクトを与えてきた。しかし、それらは強い制約に基づくルールが決められた競技での勝負であったが、ラップバトルのような、創造的な要素が強いルールにおいての人工知能との勝負は、チェスや将棋以上のインパクトがあると考えられる。
-　本プロジェクトの目標達成のために、具体的には大きく3つ、(1)バース生成手法、(2)ラップ音声変換手法、(3)多様なデモシステムを開発する。&lt;/p&gt;
-&lt;p&gt;・本プロジェクトの詳細
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;・2022年度採択テーマ一覧
-&lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;・ネットニュースにも取り上げられているみたいです、、！
-&lt;a href=&#34;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a&gt;&lt;/p&gt;
-&lt;!-- 発表日を記入するが、まだ未定 --&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+　本プロジェクトの目標達成のために、具体的には大きく3つ、(1)バース生成手法、(2)ラップ音声変換手法、(3)多様なデモシステムを開発する。&lt;/p>
+&lt;p>・本プロジェクトの詳細
+&lt;a href="https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html">https://www.ipa.go.jp/jinzai/mitou/2022/gaiyou_tn-1.html&lt;/a>&lt;/p>
+&lt;p>・2022年度採択テーマ一覧
+&lt;a href="https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html">https://www.ipa.go.jp/jinzai/mitou/2022/koubokekka_index.html&lt;/a>&lt;/p>
+&lt;p>・ネットニュースにも取り上げられているみたいです、、！
+&lt;a href="https://www.itmedia.co.jp/news/articles/2206/06/news194.html">https://www.itmedia.co.jp/news/articles/2206/06/news194.html&lt;/a>&lt;/p>
+&lt;!-- 発表日を記入するが、まだ未定 -->
+&lt;!-- 1. 論文採録バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- [年月日]に発表予定 -->
+&lt;!-- 2. 論文発表済みバージョン -->
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 3. 論文受賞バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 同学会複数名の場合は並べて良い感じにして -->
+&lt;!-- 1. 論文採録バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- [年月日]に発表予定 -->
+&lt;!-- 2. 論文発表済みバージョン -->
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 3. 論文受賞バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item></channel></rss>

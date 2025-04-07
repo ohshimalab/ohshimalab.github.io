@@ -1,59 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>研究会 | OHSHIMA LAB.</title>
-    <link>/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
-      <atom:link href="/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
-    <description>研究会</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>研究会</title>
-      <link>/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/</link>
-    </image>
-    
-    <item>
-      <title>大島研のメンバーが今年度初回研究会を行いました</title>
-      <link>/post/2023/0414/</link>
-      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/post/2023/0414/</guid>
-      <description>&lt;h4 id=&#34;日時2023年4月14日金&#34;&gt;日時：2023年4月14日（金）&lt;/h4&gt;
-&lt;h4 id=&#34;場所k201講義室&#34;&gt;場所：K201講義室&lt;/h4&gt;
-&lt;p&gt;暖かく過ごしやすい時期が来て新学期が始まり、大島研では新しいメンバーを迎えて初めての研究発表会を行いました。&lt;/p&gt;
-&lt;p&gt;発表内容は自己紹介やこれまでの研究内容など。質問やコメントも多く飛び交い、お互いのことをより詳しく知る機会となりました。&lt;/p&gt;
-&lt;p&gt;これからも頑張っていきましょう！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2023/0414/picture1.jpg&#34;&gt;
-&lt;img src=&#34;/post/2023/0414/picture2.jpg&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>大島研のメンバーが新学期の第1回研究会を行いました。</title>
-      <link>/post/2022/0408/</link>
-      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022/0408/</guid>
-      <description>&lt;h4 id=&#34;日時2022年4月8日金&#34;&gt;日時：2022年4月8日（金）&lt;/h4&gt;
-&lt;h4 id=&#34;場所大講義室&#34;&gt;場所：大講義室&lt;/h4&gt;
-&lt;p&gt;桜が綺麗に咲き、新学期が始まりました。
-B4とM1が研究室配属され、研究室が溢れかえるほどの活気に包まれています。&lt;/p&gt;
-&lt;p&gt;上記日程で、新学期の第1回研究会を行いました。
-色んなコメントが飛び交い、お互いのことを知るよいきっかけになったかもしれませんね。&lt;/p&gt;
-&lt;p&gt;今後も頑張っていきましょう！&lt;/p&gt;
-&lt;!-- 1. 論文採録バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- [年月日]に発表予定 --&gt;
-&lt;!-- 2. 論文発表済みバージョン --&gt;
-&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 3. 論文受賞バージョン --&gt;
-&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました --&gt;
-&lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
-&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK --&gt;
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>研究会 | OHSHIMA LAB.</title><link>/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/</link><atom:link href="/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/index.xml" rel="self" type="application/rss+xml"/><description>研究会</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>研究会</title><link>/tag/%E7%A0%94%E7%A9%B6%E4%BC%9A/</link></image><item><title>大島研のメンバーが今年度初回研究会を行いました</title><link>/post/2023/0414/</link><pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate><guid>/post/2023/0414/</guid><description>&lt;h4 id="日時2023年4月14日金">日時：2023年4月14日（金）&lt;/h4>
+&lt;h4 id="場所k201講義室">場所：K201講義室&lt;/h4>
+&lt;p>暖かく過ごしやすい時期が来て新学期が始まり、大島研では新しいメンバーを迎えて初めての研究発表会を行いました。&lt;/p>
+&lt;p>発表内容は自己紹介やこれまでの研究内容など。質問やコメントも多く飛び交い、お互いのことをより詳しく知る機会となりました。&lt;/p>
+&lt;p>これからも頑張っていきましょう！&lt;/p>
+&lt;p>&lt;img src="picture1.jpg" alt="">
+&lt;img src="picture2.jpg" alt="">&lt;/p></description></item><item><title>大島研のメンバーが新学期の第1回研究会を行いました。</title><link>/post/2022/0408/</link><pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate><guid>/post/2022/0408/</guid><description>&lt;h4 id="日時2022年4月8日金">日時：2022年4月8日（金）&lt;/h4>
+&lt;h4 id="場所大講義室">場所：大講義室&lt;/h4>
+&lt;p>桜が綺麗に咲き、新学期が始まりました。
+B4とM1が研究室配属され、研究室が溢れかえるほどの活気に包まれています。&lt;/p>
+&lt;p>上記日程で、新学期の第1回研究会を行いました。
+色んなコメントが飛び交い、お互いのことを知るよいきっかけになったかもしれませんね。&lt;/p>
+&lt;p>今後も頑張っていきましょう！&lt;/p>
+&lt;!-- 1. 論文採録バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- [年月日]に発表予定 -->
+&lt;!-- 2. 論文発表済みバージョン -->
+&lt;!-- [第一著者]さんが「[学会フルネーム]」で発表しました。 -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 3. 論文受賞バージョン -->
+&lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました -->
+&lt;!-- [公式Webページ](学会公式ページTopのURL) -->
+&lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item></channel></rss>

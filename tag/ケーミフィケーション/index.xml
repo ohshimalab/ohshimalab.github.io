@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ゲーミフィケーション | OHSHIMA LAB.</title>
-    <link>/tag/%E3%82%B1%E3%83%BC%E3%83%9F%E3%83%95%E3%82%A3%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
-      <atom:link href="/tag/%E3%82%B1%E3%83%BC%E3%83%9F%E3%83%95%E3%82%A3%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
-    <description>ゲーミフィケーション</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>ゲーミフィケーション</title>
-      <link>/tag/%E3%82%B1%E3%83%BC%E3%83%9F%E3%83%95%E3%82%A3%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
-    </image>
-    
-    <item>
-      <title>博物館での新たな興味の発見</title>
-      <link>/project_container/nishimoto/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/nishimoto/</guid>
-      <description>&lt;h2 id=&#34;ゲーミフィケーションを取り入れた博物館での鑑賞体験&#34;&gt;ゲーミフィケーションを取り入れた博物館での鑑賞体験&lt;/h2&gt;
-&lt;p&gt;博物館では、多くの展示物が存在することや展示場が広大であることが原因で、限られた時間内での満足な鑑賞体験は得難い。この問題を解決するには、鑑賞する展示物の絞り込みが重要であると考えた。
-大阪府にある国立民族学博物館（みんぱく）を対象として、ガイドシステム「みんぱくガイド」にゲーミフィケーションを取り入れる。鑑賞した展示物で行う穴埋めゲームを実装し、ゲームを進行する上で、類似した展示物の推薦を行うことによって、新たな興味の発見や展示物の記憶への定着を目的とする。&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ゲーミフィケーション | OHSHIMA LAB.</title><link>/tag/%E3%82%B1%E3%83%BC%E3%83%9F%E3%83%95%E3%82%A3%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link><atom:link href="/tag/%E3%82%B1%E3%83%BC%E3%83%9F%E3%83%95%E3%82%A3%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml"/><description>ゲーミフィケーション</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>ゲーミフィケーション</title><link>/tag/%E3%82%B1%E3%83%BC%E3%83%9F%E3%83%95%E3%82%A3%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link></image><item><title>博物館での新たな興味の発見</title><link>/project_container/nishimoto/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/nishimoto/</guid><description>&lt;h2 id="ゲーミフィケーションを取り入れた博物館での鑑賞体験">ゲーミフィケーションを取り入れた博物館での鑑賞体験&lt;/h2>
+&lt;p>博物館では、多くの展示物が存在することや展示場が広大であることが原因で、限られた時間内での満足な鑑賞体験は得難い。この問題を解決するには、鑑賞する展示物の絞り込みが重要であると考えた。
+大阪府にある国立民族学博物館（みんぱく）を対象として、ガイドシステム「みんぱくガイド」にゲーミフィケーションを取り入れる。鑑賞した展示物で行う穴埋めゲームを実装し、ゲームを進行する上で、類似した展示物の推薦を行うことによって、新たな興味の発見や展示物の記憶への定着を目的とする。&lt;/p></description></item></channel></rss>

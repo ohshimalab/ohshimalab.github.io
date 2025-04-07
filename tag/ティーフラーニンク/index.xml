@@ -1,44 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ディープラーニング | OHSHIMA LAB.</title>
-    <link>/tag/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF/</link>
-      <atom:link href="/tag/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
-    <description>ディープラーニング</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>ディープラーニング</title>
-      <link>/tag/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF/</link>
-    </image>
-    
-    <item>
-      <title>ファッション商品における視覚的比喩データセットの構築とその応用</title>
-      <link>/project_container/wang/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/wang/</guid>
-      <description>&lt;h2 id=&#34;あなたはaiより想像力が豊かでしょうか&#34;&gt;あなたはAIより想像力が豊かでしょうか？&lt;/h2&gt;
-&lt;p&gt;ファッション商品の視覚的比喩とは、商品の外観と類似する事物である。人間にとっての視覚的比喩の成立は、色、形状、質感など、様々な方面の類似度によると考えられ、複雑な問題だと認識されている。本研究は、その視覚的比喩を自動的に尋ねることができるニューラルネットワークを学習させるためのデータセットを作りました。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>事前学習済み機械学習モデルの検索</title>
-      <link>/project_container/hioki/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/hioki/</guid>
-      <description>&lt;h2 id=&#34;タスクに最適な事前学習済み機械学習モデルを検索します&#34;&gt;タスクに最適な事前学習済み機械学習モデルを検索します&lt;/h2&gt;
-&lt;p&gt;現在，事前学習された機械学習モデルは数多く存在し，解決したいタスクに対して，最適な機械学習モデルを見つけることは大変困難になっている．本研究では，上記の問題に対して，機械学習モデルの事前学習に用いられたデータと解決したいタスクで用いられるデータの類似度に着目した検索手法を提案する．&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>人のパーソナリティと場所の特徴を用いたストレス推定と推定根拠の説明</title>
-      <link>/project_container/hazama/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/hazama/</guid>
-      <description>&lt;h2 id=&#34;人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする&#34;&gt;人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする．&lt;/h2&gt;
-&lt;p&gt;本研究では，人のパーソナリティと場所の特徴を用いて
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ディープラーニング | OHSHIMA LAB.</title><link>/tag/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF/</link><atom:link href="/tag/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF/index.xml" rel="self" type="application/rss+xml"/><description>ディープラーニング</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>ディープラーニング</title><link>/tag/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF/</link></image><item><title>ファッション商品における視覚的比喩データセットの構築とその応用</title><link>/project_container/wang/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/wang/</guid><description>&lt;h2 id="あなたはaiより想像力が豊かでしょうか">あなたはAIより想像力が豊かでしょうか？&lt;/h2>
+&lt;p>ファッション商品の視覚的比喩とは、商品の外観と類似する事物である。人間にとっての視覚的比喩の成立は、色、形状、質感など、様々な方面の類似度によると考えられ、複雑な問題だと認識されている。本研究は、その視覚的比喩を自動的に尋ねることができるニューラルネットワークを学習させるためのデータセットを作りました。&lt;/p></description></item><item><title>事前学習済み機械学習モデルの検索</title><link>/project_container/hioki/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/hioki/</guid><description>&lt;h2 id="タスクに最適な事前学習済み機械学習モデルを検索します">タスクに最適な事前学習済み機械学習モデルを検索します&lt;/h2>
+&lt;p>現在，事前学習された機械学習モデルは数多く存在し，解決したいタスクに対して，最適な機械学習モデルを見つけることは大変困難になっている．本研究では，上記の問題に対して，機械学習モデルの事前学習に用いられたデータと解決したいタスクで用いられるデータの類似度に着目した検索手法を提案する．&lt;/p></description></item><item><title>人のパーソナリティと場所の特徴を用いたストレス推定と推定根拠の説明</title><link>/project_container/hazama/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/hazama/</guid><description>&lt;h2 id="人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする">人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする．&lt;/h2>
+&lt;p>本研究では，人のパーソナリティと場所の特徴を用いて
 ストレスの推定と推定根拠の説明を行う．
 提案手法を用いることで，ある人にとって落ち着く場所や，
 ストレスを感じる場所を事前に把握することができる．
@@ -58,60 +21,15 @@ LF/HF値の算出には心拍間隔の時間差が必要となる．
 そのため，心拍波形を取得しピークの検出を行う．
 心拍波形の取得には耳朶脈波計を用いる．
 ストレス推定モデルの説明にはLIMEやSHAP，
-AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>博物館での新たな興味の発見</title>
-      <link>/project_container/nishimoto/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/nishimoto/</guid>
-      <description>&lt;h2 id=&#34;ゲーミフィケーションを取り入れた博物館での鑑賞体験&#34;&gt;ゲーミフィケーションを取り入れた博物館での鑑賞体験&lt;/h2&gt;
-&lt;p&gt;博物館では、多くの展示物が存在することや展示場が広大であることが原因で、限られた時間内での満足な鑑賞体験は得難い。この問題を解決するには、鑑賞する展示物の絞り込みが重要であると考えた。
-大阪府にある国立民族学博物館（みんぱく）を対象として、ガイドシステム「みんぱくガイド」にゲーミフィケーションを取り入れる。鑑賞した展示物で行う穴埋めゲームを実装し、ゲームを進行する上で、類似した展示物の推薦を行うことによって、新たな興味の発見や展示物の記憶への定着を目的とする。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>書家俵越山AI</title>
-      <link>/project_container/kuwata/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/kuwata/</guid>
-      <description>&lt;h2 id=&#34;書家をai化&#34;&gt;書家をAI化&lt;/h2&gt;
-&lt;p&gt;書家俵越山の書道作品を、機械学習を用いて模倣し生成する研究を行っています。近年、AIによるアート生成が盛んに行われるようになりました。今を生きるアーティストがAI化されたとき、アーティスト本人はどう感じるのでしょうか。この研究は、AIとアートの関わり方を考えるきっかけになると考えています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>機械学習モデルを用いて新たな知識発見</title>
-      <link>/project_container/manabe/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/manabe/</guid>
-      <description>&lt;h2 id=&#34;transformer-encoderを用いたプラズマ乱流の予測と生成&#34;&gt;Transformer encoderを用いたプラズマ乱流の予測と生成&lt;/h2&gt;
-&lt;p&gt;Transformerモデルを用いてプラズマ乱流の流れを予測する手法を提案する。
+AttentionといったXAIの手法を用いる予定である．&lt;/p></description></item><item><title>博物館での新たな興味の発見</title><link>/project_container/nishimoto/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/nishimoto/</guid><description>&lt;h2 id="ゲーミフィケーションを取り入れた博物館での鑑賞体験">ゲーミフィケーションを取り入れた博物館での鑑賞体験&lt;/h2>
+&lt;p>博物館では、多くの展示物が存在することや展示場が広大であることが原因で、限られた時間内での満足な鑑賞体験は得難い。この問題を解決するには、鑑賞する展示物の絞り込みが重要であると考えた。
+大阪府にある国立民族学博物館（みんぱく）を対象として、ガイドシステム「みんぱくガイド」にゲーミフィケーションを取り入れる。鑑賞した展示物で行う穴埋めゲームを実装し、ゲームを進行する上で、類似した展示物の推薦を行うことによって、新たな興味の発見や展示物の記憶への定着を目的とする。&lt;/p></description></item><item><title>書家俵越山AI</title><link>/project_container/kuwata/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/kuwata/</guid><description>&lt;h2 id="書家をai化">書家をAI化&lt;/h2>
+&lt;p>書家俵越山の書道作品を、機械学習を用いて模倣し生成する研究を行っています。近年、AIによるアート生成が盛んに行われるようになりました。今を生きるアーティストがAI化されたとき、アーティスト本人はどう感じるのでしょうか。この研究は、AIとアートの関わり方を考えるきっかけになると考えています。&lt;/p></description></item><item><title>機械学習モデルを用いて新たな知識発見</title><link>/project_container/manabe/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/manabe/</guid><description>&lt;h2 id="transformer-encoderを用いたプラズマ乱流の予測と生成">Transformer encoderを用いたプラズマ乱流の予測と生成&lt;/h2>
+&lt;p>Transformerモデルを用いてプラズマ乱流の流れを予測する手法を提案する。
 世の中で起こっている物理現象の中にはメカニズムが解明されていないものが多く存在する。我々は、物理現象の時系列データを模倣する機械学習モデルを作成することによって、
-メカニズムを解明へと繋げる。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>特許を用いた重要な特許の発見</title>
-      <link>/project_container/hanatani/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/hanatani/</guid>
-      <description>&lt;h2 id=&#34;特許の被引用数の予測&#34;&gt;特許の被引用数の予測&lt;/h2&gt;
-&lt;p&gt;本研究では特許のデータを用いて重要な特許を発見する研究を行っている。重要な特許とは、例えば、山中伸弥教授の iPS 細胞の特許、トヨタ自動車株式会社の電気自動車の特許や、株式会社日立製作所のウェアラブル端末の特許などが挙げられる。しかし、特許は日本で年間 30 万件ほど出願されており、すべての特許からこれらの特許を発見するのは現実的ではない。そのため、私は重要な特許を発見することで企業が必要な特許を効率的に発見出来るようにしたいと考えている。本研究では重要な特許を、社会に大きな影響を与えている特許としている。 基本的には重要な特許を見つける際に、被引用数に注目する。しかし、被引用数は特許が公開されてから数年は増えにくいという問題がある。そこで、被引用数以外の特徴も用いて、公開されてから 2 年以内に5年後の特許の被引用数を予測する手法の提案を行う。本研究の手法としては、重要な特許には様々な特徴がみられる。現状、重要な特許の特徴を 3つ考えている。その 3 つの特徴とは、初めての技術用語が含まれているという特徴、汎用性があるという特徴、技術用語が初めての組み合わせであるという特徴である。ここで、挙げている特徴を特許中の情報からテキストマイニング等の手法を用いて抽出していく。そして、抽出した特徴を用いて重要な特許の分類を行っていく。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>画像認識によるウキクサ科植物の総枚数と表面積の推定</title>
-      <link>/project_container/okuda/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/okuda/</guid>
-      <description>&lt;h2 id=&#34;画像認識の植物への応用&#34;&gt;画像認識の植物への応用&lt;/h2&gt;
-&lt;p&gt;本研究では，水生植物であるウキクサ科植物の葉の総枚数と表面積を推定する問題に取り組む．
+メカニズムを解明へと繋げる。&lt;/p></description></item><item><title>特許を用いた重要な特許の発見</title><link>/project_container/hanatani/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/hanatani/</guid><description>&lt;h2 id="特許の被引用数の予測">特許の被引用数の予測&lt;/h2>
+&lt;p>本研究では特許のデータを用いて重要な特許を発見する研究を行っている。重要な特許とは、例えば、山中伸弥教授の iPS 細胞の特許、トヨタ自動車株式会社の電気自動車の特許や、株式会社日立製作所のウェアラブル端末の特許などが挙げられる。しかし、特許は日本で年間 30 万件ほど出願されており、すべての特許からこれらの特許を発見するのは現実的ではない。そのため、私は重要な特許を発見することで企業が必要な特許を効率的に発見出来るようにしたいと考えている。本研究では重要な特許を、社会に大きな影響を与えている特許としている。 基本的には重要な特許を見つける際に、被引用数に注目する。しかし、被引用数は特許が公開されてから数年は増えにくいという問題がある。そこで、被引用数以外の特徴も用いて、公開されてから 2 年以内に5年後の特許の被引用数を予測する手法の提案を行う。本研究の手法としては、重要な特許には様々な特徴がみられる。現状、重要な特許の特徴を 3つ考えている。その 3 つの特徴とは、初めての技術用語が含まれているという特徴、汎用性があるという特徴、技術用語が初めての組み合わせであるという特徴である。ここで、挙げている特徴を特許中の情報からテキストマイニング等の手法を用いて抽出していく。そして、抽出した特徴を用いて重要な特許の分類を行っていく。&lt;/p></description></item><item><title>画像認識によるウキクサ科植物の総枚数と表面積の推定</title><link>/project_container/okuda/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/okuda/</guid><description>&lt;h2 id="画像認識の植物への応用">画像認識の植物への応用&lt;/h2>
+&lt;p>本研究では，水生植物であるウキクサ科植物の葉の総枚数と表面積を推定する問題に取り組む．
 入力はウキクサ科植物の画像であり，出力は葉の総枚数と葉を垂直から見たときの表面積の2つである．
 ウキクサ科植物は，親に当たる葉と子に当たる葉が水面に浮かんでいる水生植物である．
 本研究ではたとえば，親に当たる葉と子に当たる葉を合わせて，全部で8枚ある場合，出力される総枚数は8枚となることを目指す．
@@ -120,93 +38,37 @@ AttentionといったXAIの手法を用いる予定である．&lt;/p&gt;
 本研究では，ウキクサという1つのクラスに対して，葉のかたまりを領域認識した．
 総枚数を出力するために，親に当たる葉と子に当たる葉のかたまりに対して，各枚数を推定する必要がある．
 本研究では，
-親に当たる葉と子に当たる葉を合わせたかたまりの形から，画像認識モデルを用いて，各枚数を推定した．&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>細粒度な観点をクエリとした小説検索</title>
-      <link>/project_container/itou/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/itou/</guid>
-      <description>&lt;h2 id=&#34;あなたはどんな小説を読みたいですか&#34;&gt;あなたはどんな小説を読みたいですか？&lt;/h2&gt;
-&lt;p&gt;現在、自分が気に入る小説を見つけるには読む以外に方法はなく、小説に対する細かい好みを反映した検索をすることは出来ない。
+親に当たる葉と子に当たる葉を合わせたかたまりの形から，画像認識モデルを用いて，各枚数を推定した．&lt;/p></description></item><item><title>細粒度な観点をクエリとした小説検索</title><link>/project_container/itou/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/itou/</guid><description>&lt;h2 id="あなたはどんな小説を読みたいですか">あなたはどんな小説を読みたいですか？&lt;/h2>
+&lt;p>現在、自分が気に入る小説を見つけるには読む以外に方法はなく、小説に対する細かい好みを反映した検索をすることは出来ない。
 例えば、伏線回収が綺麗な小説の例として「ゴールデンスランバー」が挙げられるが、この本のタイトルやあらすじを見ても伏線回収が綺麗であるという特徴を得ることは難しい。
-この研究では小説につくレビューから情報を得ることで、小説の内容や雰囲気からその人の好みに合った小説を提案する。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>食品レビューにおける観点抽出とその検索への応用</title>
-      <link>/project_container/ashizawa/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/project_container/ashizawa/</guid>
-      <description>&lt;h2 id=&#34;食品レビューからユーザが欲しい情報である観点を作成しレビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする&#34;&gt;食品レビューから、ユーザが欲しい情報である観点を作成し、レビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする。&lt;/h2&gt;
-&lt;p&gt;実物の見えないオンラインショッピングではレビューが購入の判断材料の一つとなる。レビューは様々な観点から書かれており、ユーザは観点をクエリとして検索することが想定される。そこで本研究では、同じ観点について異なる表現で表されているものを統合し、大量にあるレビューからユーザが望む観点の情報を網羅的に検索する手法を提案する。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Micro Geocoding</title>
-      <link>/project_container/microgeocoding/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project_container/microgeocoding/</guid>
-      <description>&lt;h2 id=&#34;場所の説明文からその場所の緯度経度を推定するシステム&#34;&gt;場所の説明文から、その場所の緯度経度を推定するシステム&lt;/h2&gt;
-&lt;!-- 文で研究紹介 --&gt;
-&lt;p&gt;ある場所を説明する文章から、その場所の緯度経度を推定する。&lt;a href=&#34;https://www.openstreetmap.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStreetMap&lt;/a&gt;から地理情報を取得し、説明文に応じた処理をすることで場所の推定を行う。&lt;/p&gt;
-&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ --&gt;
-&lt;p&gt;言葉を使って、現在地を説明しなければならない状況がある。例えば、交通事故に遭ったとき、警察や保険会社に電話をし、事故が発生した場所を伝えなければならない。言葉による説明から場所を特定するためには、聞き手に知識やスキルが必要である。聞き手の能力によって、推定の正確さに差が出ることもあるだろう。このシステムは、聞き手に代わって場所を推定し、聞き手の能力差によって生じる問題を解決する。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;fig2_geocoding&#34; src=&#34;/project_container/microgeocoding/fig2_geocoding.png&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Refresh Location Search</title>
-      <link>/project_container/refreshlocation/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project_container/refreshlocation/</guid>
-      <description>&lt;h2 id=&#34;あなたにとってストレス解消となる場所の探索&#34;&gt;あなたにとってストレス解消となる場所の探索&lt;/h2&gt;
-&lt;p&gt;Refresh Location Searchは、ストレス解消を求めるユーザの人の特徴と、ランドマークの特徴を用いることで、そのユーザにマッチしたストレス解消となる場所の提案を行います。&lt;/p&gt;
-&lt;p&gt;人がストレスを感じた場合、ストレスを解消する方法として、買い物へ出かけたり、登山をする等が挙げられます。それらには、場所を移動するといったことが共通し、ストレス解消を行う場合場所の移動という行動が重要であることが考えられます。また、ストレス解消を求める場所が馴染み深い場所であれば、自分自身でリフレッシュ場所を探すことも可能ですが、そうでない場合、例えば出先などでリフレッシュ場所を求める場合、Refresh Location Searchを導入することで、ユーザにマッチしたストレス解消場所の探索が容易となり、ストレスの解消につながることが期待されます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;吉村 拓真, ファム フーロン, 和田 真弥, 大島 裕明: 「空間的特徴量とパーソナリティ分析を用いたストレス推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), J33-3, 2021年3月.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/HV-Oum4N1Wk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>ブックマーク記事を続報順に自動マッピング</title>
-      <link>/project_container/zidomapping/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project_container/zidomapping/</guid>
-      <description>&lt;h2 id=&#34;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&#34;&gt;ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&lt;/h2&gt;
-&lt;!-- 文で研究紹介 --&gt;
-&lt;p&gt;記事アーカイブで検索を行いブックマークした記事集合の中で、どの記事がどの記事の続報かを自動で判断してグラフ化します。&lt;/p&gt;
-&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ --&gt;
-&lt;p&gt;記事アーカイブは新聞記事などを数十年間にわたって保存したものです。記事アーカイブは小中学校のまとめ学習で自分の気になるトピックを調べる際などに用いられます。しかし、従来のWeb検索画面のようなインタフェースは検索とまとめを行うのに不親切であることがあります。例えば、検索を進めていくと最初にブックマークした記事の内容や記事間の関係性を忘れることがあります。一度読んだ記事を再度読み返して内容を把握するのは面倒な作業です。&lt;/p&gt;
-&lt;p&gt;そこで、ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェースを提案しています。新聞記事は出来事に対し少しずつ新情報を報道します。従来のインタフェースではユーザは記事同士の続報関係を記憶にとどめたまま検索を行わなければなりませんが、提案するインタフェースは自動で記事を続報順に整理してグラフ化します。そのため、ユーザは視覚的に現在の検索状態を把握でき、まとめの際もブックマーク記事をいちから整理するという手間が省けます。&lt;/p&gt;
-&lt;p&gt;まるで記事アーカイブという入り組んだ情報の洞窟で、ブックマーク記事が自分の欲しい情報に向かって自動で道を切り開いて（マッピングして）いくといったものになります。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/project_container/zidomapping/img2.png&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;松本 直彰, 湯本 高行, 山本 岳洋, 大島 裕明: 「ニュースアーカイブ探索のための記事間の関係抽出とその可視化」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F25-3, 2021年3月.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cve4ufy9TRc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
-      <title>転ばぬ先のAI</title>
-      <link>/project_container/korobanusakinoai/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/project_container/korobanusakinoai/</guid>
-      <description>&lt;h2 id=&#34;事故を事前に予測してくれるai&#34;&gt;事故を事前に予測してくれるAI&lt;/h2&gt;
-&lt;p&gt;転ばぬ先のAIとは、私たちの日常生活における行動を自然言語の形式で入力すると、それによって発生が考えられる事故を事前に予測してくれるAIモデルのことです。本取り組みでは、ウェブ上で公開されている事故情報を収集し、機械学習手法によって学習を行わせることで、理想のAIモデルの作成に取り組んでいます。&lt;/p&gt;
-&lt;p&gt;転ばぬ先のAIがあれば、何かの行動をする前の段階で事故リスクを把握できるため、事故への対策が今までよりも簡単になる効果が期待できます。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;川原 敬史, 橋口 友哉, 湯本 高行, 大島 裕明: 「事故概要説明文の文脈理解による傷病の程度の推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), C25-2, 2021年3月.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- ※画像の一部は「いらすとや」から引用 --&gt;
-&lt;!-- &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/9MaHNFih8To&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt; --&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+この研究では小説につくレビューから情報を得ることで、小説の内容や雰囲気からその人の好みに合った小説を提案する。&lt;/p></description></item><item><title>食品レビューにおける観点抽出とその検索への応用</title><link>/project_container/ashizawa/</link><pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate><guid>/project_container/ashizawa/</guid><description>&lt;h2 id="食品レビューからユーザが欲しい情報である観点を作成しレビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする">食品レビューから、ユーザが欲しい情報である観点を作成し、レビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする。&lt;/h2>
+&lt;p>実物の見えないオンラインショッピングではレビューが購入の判断材料の一つとなる。レビューは様々な観点から書かれており、ユーザは観点をクエリとして検索することが想定される。そこで本研究では、同じ観点について異なる表現で表されているものを統合し、大量にあるレビューからユーザが望む観点の情報を網羅的に検索する手法を提案する。&lt;/p></description></item><item><title>Micro Geocoding</title><link>/project_container/microgeocoding/</link><pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><guid>/project_container/microgeocoding/</guid><description>&lt;h2 id="場所の説明文からその場所の緯度経度を推定するシステム">場所の説明文から、その場所の緯度経度を推定するシステム&lt;/h2>
+&lt;!-- 文で研究紹介 -->
+&lt;p>ある場所を説明する文章から、その場所の緯度経度を推定する。&lt;a href="https://www.openstreetmap.org/" target="_blank" rel="noopener">OpenStreetMap&lt;/a>から地理情報を取得し、説明文に応じた処理をすることで場所の推定を行う。&lt;/p>
+&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ -->
+&lt;p>言葉を使って、現在地を説明しなければならない状況がある。例えば、交通事故に遭ったとき、警察や保険会社に電話をし、事故が発生した場所を伝えなければならない。言葉による説明から場所を特定するためには、聞き手に知識やスキルが必要である。聞き手の能力によって、推定の正確さに差が出ることもあるだろう。このシステムは、聞き手に代わって場所を推定し、聞き手の能力差によって生じる問題を解決する。&lt;/p>
+&lt;p>&lt;img src="fig2_geocoding.png" alt="fig2_geocoding">&lt;/p></description></item><item><title>Refresh Location Search</title><link>/project_container/refreshlocation/</link><pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><guid>/project_container/refreshlocation/</guid><description>&lt;h2 id="あなたにとってストレス解消となる場所の探索">あなたにとってストレス解消となる場所の探索&lt;/h2>
+&lt;p>Refresh Location Searchは、ストレス解消を求めるユーザの人の特徴と、ランドマークの特徴を用いることで、そのユーザにマッチしたストレス解消となる場所の提案を行います。&lt;/p>
+&lt;p>人がストレスを感じた場合、ストレスを解消する方法として、買い物へ出かけたり、登山をする等が挙げられます。それらには、場所を移動するといったことが共通し、ストレス解消を行う場合場所の移動という行動が重要であることが考えられます。また、ストレス解消を求める場所が馴染み深い場所であれば、自分自身でリフレッシュ場所を探すことも可能ですが、そうでない場合、例えば出先などでリフレッシュ場所を求める場合、Refresh Location Searchを導入することで、ユーザにマッチしたストレス解消場所の探索が容易となり、ストレスの解消につながることが期待されます。&lt;/p>
+&lt;ul>
+&lt;li>吉村 拓真, ファム フーロン, 和田 真弥, 大島 裕明: 「空間的特徴量とパーソナリティ分析を用いたストレス推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), J33-3, 2021年3月.&lt;/li>
+&lt;/ul>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HV-Oum4N1Wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe></description></item><item><title>ブックマーク記事を続報順に自動マッピング</title><link>/project_container/zidomapping/</link><pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><guid>/project_container/zidomapping/</guid><description>&lt;h2 id="ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース">ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース&lt;/h2>
+&lt;!-- 文で研究紹介 -->
+&lt;p>記事アーカイブで検索を行いブックマークした記事集合の中で、どの記事がどの記事の続報かを自動で判断してグラフ化します。&lt;/p>
+&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ -->
+&lt;p>記事アーカイブは新聞記事などを数十年間にわたって保存したものです。記事アーカイブは小中学校のまとめ学習で自分の気になるトピックを調べる際などに用いられます。しかし、従来のWeb検索画面のようなインタフェースは検索とまとめを行うのに不親切であることがあります。例えば、検索を進めていくと最初にブックマークした記事の内容や記事間の関係性を忘れることがあります。一度読んだ記事を再度読み返して内容を把握するのは面倒な作業です。&lt;/p>
+&lt;p>そこで、ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェースを提案しています。新聞記事は出来事に対し少しずつ新情報を報道します。従来のインタフェースではユーザは記事同士の続報関係を記憶にとどめたまま検索を行わなければなりませんが、提案するインタフェースは自動で記事を続報順に整理してグラフ化します。そのため、ユーザは視覚的に現在の検索状態を把握でき、まとめの際もブックマーク記事をいちから整理するという手間が省けます。&lt;/p>
+&lt;p>まるで記事アーカイブという入り組んだ情報の洞窟で、ブックマーク記事が自分の欲しい情報に向かって自動で道を切り開いて（マッピングして）いくといったものになります。&lt;/p>
+&lt;p>&lt;img src="img2.png" alt="">&lt;/p>
+&lt;ul>
+&lt;li>松本 直彰, 湯本 高行, 山本 岳洋, 大島 裕明: 「ニュースアーカイブ探索のための記事間の関係抽出とその可視化」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F25-3, 2021年3月.&lt;/li>
+&lt;/ul>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cve4ufy9TRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe></description></item><item><title>転ばぬ先のAI</title><link>/project_container/korobanusakinoai/</link><pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><guid>/project_container/korobanusakinoai/</guid><description>&lt;h2 id="事故を事前に予測してくれるai">事故を事前に予測してくれるAI&lt;/h2>
+&lt;p>転ばぬ先のAIとは、私たちの日常生活における行動を自然言語の形式で入力すると、それによって発生が考えられる事故を事前に予測してくれるAIモデルのことです。本取り組みでは、ウェブ上で公開されている事故情報を収集し、機械学習手法によって学習を行わせることで、理想のAIモデルの作成に取り組んでいます。&lt;/p>
+&lt;p>転ばぬ先のAIがあれば、何かの行動をする前の段階で事故リスクを把握できるため、事故への対策が今までよりも簡単になる効果が期待できます。&lt;/p>
+&lt;ul>
+&lt;li>川原 敬史, 橋口 友哉, 湯本 高行, 大島 裕明: 「事故概要説明文の文脈理解による傷病の程度の推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), C25-2, 2021年3月.&lt;/li>
+&lt;/ul>
+&lt;!-- ※画像の一部は「いらすとや」から引用 -->
+&lt;!-- &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9MaHNFih8To" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe> --></description></item></channel></rss>
