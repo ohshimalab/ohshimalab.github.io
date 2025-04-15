@@ -2613,10 +2613,28 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;p>Supplementary notes can be added here, including &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title>アクセス</title><link>/access/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/access/</guid><description/></item><item><title>コラボ</title><link>/colabs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/colabs/</guid><description>&lt;p>&lt;a href="http://www.nadasemi.ii.konan-u.ac.jp/" target="_blank" rel="noopener">&lt;strong>甲南大学 灘本研究室&lt;/strong>&lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://kg-sps.jp/blogs/sumiya/" target="_blank" rel="noopener">&lt;strong>関西学院大学 角谷研究室&lt;/strong>&lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://design.inf.shizuoka.ac.jp/" target="_blank" rel="noopener">&lt;strong>静岡大学 山本祐輔研究室&lt;/strong>&lt;/a>&lt;/p></description></item><item><title>学位論文</title><link>/thesis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/thesis/</guid><description>&lt;ul>
+&lt;li>&lt;a href="#%e5%8d%9a%e5%a3%ab%e8%ab%96%e6%96%87">博士論文&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#%e4%bf%ae%e5%a3%ab%e8%ab%96%e6%96%87">修士論文&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#%e5%8d%92%e6%a5%ad%e8%ab%96%e6%96%87">卒業論文&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;!-- + [研究成果へ](/publications) -->
+&lt;h2 id="博士論文">博士論文&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">発行年&lt;/th>
+&lt;th>氏名&lt;/th>
+&lt;th>論文タイトル&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">2025&lt;/td>
+&lt;td>三林 亮太&lt;/td>
+&lt;td>ラップバトルにおけるバースの生成と分析&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;h2 id="修士論文">修士論文&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -2627,6 +2645,36 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">2025&lt;/td>
+&lt;td>芦澤 亜里紗&lt;/td>
+&lt;td>LLM による意味理解を利用した文書の分析と検索&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td>桑田 若菜&lt;/td>
+&lt;td>文字種とスタイルのエンコーディングに基づく日本語手書き文字生成&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td>中屋 岳&lt;/td>
+&lt;td>歌詞の繋がりを基にしたDJのための楽曲推薦&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td>狹間 亮太朗&lt;/td>
+&lt;td>人の性格特性と観光地レビューの関連推定&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td>花谷 翔&lt;/td>
+&lt;td>特許情報と業界規模の関係性分析&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td>眞鍋 陽向&lt;/td>
+&lt;td>深層学習によるプラズマ乱流の予測&lt;/td>
+&lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">2024&lt;/td>
 &lt;td>伊藤 優真&lt;/td>
@@ -2789,6 +2837,31 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">2025&lt;/td>
+&lt;td>上田 健斗&lt;/td>
+&lt;td>視覚認識を要する数学問題のChatGPTを用いた教育的解答生成&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td>上村 悠斗&lt;/td>
+&lt;td>ウェブサイトのテキストを基にした広告クリック予測モデル&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td>木下 真帆&lt;/td>
+&lt;td>自己教師あり線画特徴学習による意外な形状の展示物発見&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td>高田 純和&lt;/td>
+&lt;td>RAGを用いた授業評価インタビュワーによる意見抽出&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td>山口 貴也&lt;/td>
+&lt;td>LLMを用いた新聞記事アーカイブの重大事件の動機分析&lt;/td>
+&lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">2024&lt;/td>
 &lt;td>奥田 颯馬&lt;/td>
