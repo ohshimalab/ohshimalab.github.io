@@ -20,7 +20,7 @@ summary: The DASFAA 2024 Workshop on Emerging Results in Data Science and Engine
 - Arisa Ashizawa, Ryota Mibayashi, Hiroaki Ohshima: "Query Expansion in Food Review Search with Synonymous Phrase Generation by LLM", The DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.
 - Taiga Sasaki, Takehiro Yamamoto, Yoshiyuki Shoji, Takayuki Kuge, Hiroaki Ohshima: "Generating News Headline Containing Specific Person Name", The DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.
 - Kanako Nakai, Yuka Kawada, Takehiro Yamamoto, Hiroaki Ohshima: "Investigating Evidence in Sentence Similarity using MASK in BERT", The DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.
-- Yuki Nakayama, Yuuya Tsuda, Yoshiyuki Shoji, Hiroaki Ohshima: "Query Expansion in Food Review Search with Synonymous Phrase Generation by LLM", The DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.
+- Yuki Nakayama, Yuya Tsuda, Yoshiyuki Shoji, Hiroaki Ohshima: "Real Estate Information Exploration in VR with LoD Control by Physical Distance", The DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.
 
 [ERDSE 2024公式サイト](https://erdse2024.github.io/)
 
