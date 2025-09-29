@@ -2,9 +2,9 @@
 &lt;h4 id="場所アクトシティ浜松コングレスセンター">場所：アクトシティ浜松コングレスセンター&lt;/h4>
 &lt;p>大島研究室の桑田若菜さん、橋口友哉さん、ファムフーロンさんがWebDB夏のワークショップ2025で発表を行いました。&lt;/p>
 &lt;ul>
-&lt;li>[1] 桑田 若菜, 三林 亮太, 谷 雅德, 大島 裕明: 「手書き文字のゆれ表現と自動レイアウトによる書道作品生成」, 情報処理学会, 第181回データベースとデータサイエンス・第160回情報基礎とアクセス技術合同研究発表会, 2025 年 9 月.&lt;/li>
-&lt;li>[2] 橋口 友哉, 大島 裕明: 「LLM-as-a-Judgeによるカウンセリング対話品質の評価」, 情報処理学会, 第181回データベースとデータサイエンス・第160回情報基礎とアクセス技術合同研究発表会, 2025 年 9 月.&lt;/li>
-&lt;li>[3] ファム フーロン, 窪内 将隆, 西本 拓磨, 山本 岳洋, 大島 裕明: 「画像部分特徴に着目したインスタンスセグメンテーションモデルの検索」, 情報処理学会, 第181回データベースとデータサイエンス・第160回情報基礎とアクセス技術合同研究発表会, 2025 年 9 月.&lt;/li>
+&lt;li>[1] 桑田 若菜, 三林 亮太, 谷 雅德, 大島 裕明: 「手書き文字のゆれ表現と自動レイアウトによる書道作品生成」, 情報処理学会, 第160回 情報基礎とアクセス技術研究会（SIG-IFAT）, 2025 年 9 月.&lt;/li>
+&lt;li>[2] 橋口 友哉, 大島 裕明: 「LLM-as-a-Judgeによるカウンセリング対話品質の評価」, 情報処理学会, 第160回 情報基礎とアクセス技術研究会（SIG-IFAT）, 2025 年 9 月.&lt;/li>
+&lt;li>[3] ファム フーロン, 窪内 将隆, 西本 拓磨, 山本 岳洋, 大島 裕明: 「画像部分特徴に着目したインスタンスセグメンテーションモデルの検索」, 情報処理学会, 第160回 情報基礎とアクセス技術研究会（SIG-IFAT）, 2025 年 9 月.&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="presen_hashiguchi.jpg" alt="">&lt;/p>
 &lt;!-- - [2] ファム フーロン, 山本 岳洋, 窪内 将隆, 西本 拓磨, 大島 裕明: 「性能予測およびランキング学習を用いた画像インスタンスセグメンテーションモデル検索」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月.
@@ -17,13 +17,27 @@
 - [9] 木下 真帆, 桑田 若菜, 大島 裕明: 「線画特徴の自己教師あり学習による意外な形状の展示物発見」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月. -->
 &lt;p>また、ファム フーロンさんが学生奨励賞を受賞しました！&lt;/p>
 &lt;p>&lt;img src="award_pham.jpg" alt="">&lt;/p>
-&lt;p>おめでとうございます！&lt;/p></description></item><item><title>桑田若菜さんの論文がNICOGRAPH International 2025に採択されました</title><link>/post/2025/0621/</link><pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate><guid>/post/2025/0621/</guid><description>&lt;!-- #### 日時：2025年6月19日（木）～6月21日（土）
-#### 場所：金沢歌劇座 -->
+&lt;p>おめでとうございます！&lt;/p>
+&lt;p>&lt;a href="https://db-event.jpn.org/webdbw2025/" target="_blank" rel="noopener">WebDB2025公式サイト&lt;/a>&lt;/p></description></item><item><title>木下真帆さんと桑田若菜さんの論文がiiWAS/MoMM 2025に採択されました</title><link>/post/2025/1210/</link><pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate><guid>/post/2025/1210/</guid><description>&lt;!-- #### 日時：2025 年 9 月 16 日（火）～ 9 月 18 日（木） -->
+&lt;!-- #### 場所：アクトシティ浜松コングレスセンター -->
+&lt;p>大島研究室の木下真帆さんと桑田若菜さんの論文がそれぞれThe 27th International Conference on Information Integration and Web Intelligence (iiWAS2025)とThe 23rd International Conference on Advances in Mobile Computing &amp;amp; Multimedia Intelligence (MoMM2025)に採択されました。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[1] Maho KINOSHITA, Wakana KUWATA and Hiroaki OHSHIMA: &amp;ldquo;Measuring Shape Unexpectedness of Exhibits based on Similarity and Outlier Detection&amp;rdquo;. Proceedings of the 27th International Conference on Information Integration and Web Intelligence (iiWAS2025), December 2025.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[2] Wakana Kuwata and Hiroaki Ohshima: &amp;ldquo;Lyric-Aware DJ Track Recommendation Based on Semantic Relationships&amp;rdquo;. Proceedings of the 23rd International Conference on Advances in Mobile Computing &amp;amp; Multimedia Intelligence (MoMM2025), December 2025.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>カンファレンスが12月8日から10日にかけて開催され、口頭発表を行う予定です。&lt;/p>
+&lt;p>&lt;a href="https://www.iiwas.org/conferences/iiwas2025/" target="_blank" rel="noopener">iiWAS2025公式サイト&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.iiwas.org/conferences/momm2025/" target="_blank" rel="noopener">MoMM2025公式サイト&lt;/a>&lt;/p></description></item><item><title>桑田若菜さんがNICOGRAPH International 2025で発表しました</title><link>/post/2025/0621/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>/post/2025/0621/</guid><description>&lt;h4 id="日時2025年6月19日木6月21日土">日時：2025年6月19日（木）～6月21日（土）&lt;/h4>
+&lt;h4 id="場所金沢歌劇座">場所：金沢歌劇座&lt;/h4>
 &lt;p>桑田若菜さんの論文が国際会議「NICOGRAPH International 2025 (NICOInt 2025)」に採択されました。&lt;/p>
+&lt;p>カンファレンスが6月19日から21日にかけて開催され、ポスター発表を行いました。&lt;/p>
 &lt;ul>
 &lt;li>Wakana Kuwata, Ryota Mibayashi, Masanori Tani and Hiroaki Ohshima: &amp;ldquo;Japanese Calligraphy Artwork Generation System&amp;rdquo;. Proceedings of the NICOGRAPH International 2025 (NICOInt 2025), June 2025．&lt;/li>
 &lt;/ul>
-&lt;p>カンファレンスが6月19日から21日にかけて開催され、ポスター発表を行う予定です。&lt;/p>
 &lt;p>&lt;a href="https://www.art-science.org/nicograph/nicoint2025/" target="_blank" rel="noopener">NICOGRAPH International 2025 公式サイト&lt;/a>&lt;/p></description></item><item><title>大島研のメンバーがIR Reading 2025春に参加しました</title><link>/post/2025/0524/</link><pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate><guid>/post/2025/0524/</guid><description>&lt;h4 id="日時2025年5月24日土">日時：2025年5月24日（土）&lt;/h4>
 &lt;h4 id="場所兵庫県立大学神戸商科キャンパス">場所：兵庫県立大学神戸商科キャンパス&lt;/h4>
 &lt;p>上記日程にて、大島研のメンバーがIR Reading2025春に参加しました。&lt;/p>
