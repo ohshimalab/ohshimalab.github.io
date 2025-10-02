@@ -14,20 +14,18 @@ summary: 東海関西DBWS2025
 
 他大学の学生や先生方と、研究について意見を交わすことができました。
 
-![](img1.JPG)
+![](img1.jpg)
 
-![](img2.JPG)
+![](img2.jpg)
 
-![](img3.JPG)
+![](img3.jpg)
 
-![](img4.JPG)
-
-![](img5.JPG)
+![](img4.jpg)
 
 また、門垣幸樹さん、呉寒さんがセッション内での参加者投票によって優秀賞を受賞しました。
 
-![](award1.JPG)
-![](award2.JPG)
+![](award1.jpg)
+![](award2.jpg)
 
 おめでとうございます！
 
