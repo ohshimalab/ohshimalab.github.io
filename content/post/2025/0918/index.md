@@ -31,6 +31,7 @@ summary: WebDB夏のワークショップ2025
 また、ファム フーロンさんが学生奨励賞を受賞しました！
 
 ![](award_pham.jpg)
+![](award_pham2.jpg)
 
 
 おめでとうございます！
