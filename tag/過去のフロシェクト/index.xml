@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>過去のプロジェクト | OHSHIMA LAB.</title>
+    <link>/tag/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link>
+      <atom:link href="/tag/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <description>過去のプロジェクト</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>過去のプロジェクト</title>
+      <link>/tag/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link>
+    </image>
+    
+    <item>
+      <title>Micro Geocoding</title>
+      <link>/project_container/microgeocoding/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/microgeocoding/</guid>
+      <description>&lt;h2 id=&#34;場所の説明文からその場所の緯度経度を推定するシステム&#34;&gt;場所の説明文から、その場所の緯度経度を推定するシステム&lt;/h2&gt;
+&lt;!-- 文で研究紹介 --&gt;
+&lt;p&gt;ある場所を説明する文章から、その場所の緯度経度を推定する。&lt;a href=&#34;https://www.openstreetmap.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStreetMap&lt;/a&gt;から地理情報を取得し、説明文に応じた処理をすることで場所の推定を行う。&lt;/p&gt;
+&lt;!-- コレ使ったらね！こんなことが嬉しいよ！ --&gt;
+&lt;p&gt;言葉を使って、現在地を説明しなければならない状況がある。例えば、交通事故に遭ったとき、警察や保険会社に電話をし、事故が発生した場所を伝えなければならない。言葉による説明から場所を特定するためには、聞き手に知識やスキルが必要である。聞き手の能力によって、推定の正確さに差が出ることもあるだろう。このシステムは、聞き手に代わって場所を推定し、聞き手の能力差によって生じる問題を解決する。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;fig2_geocoding&#34; src=&#34;/project_container/microgeocoding/fig2_geocoding.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Refresh Location Search</title>
+      <link>/project_container/refreshlocation/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/refreshlocation/</guid>
+      <description>&lt;h2 id=&#34;あなたにとってストレス解消となる場所の探索&#34;&gt;あなたにとってストレス解消となる場所の探索&lt;/h2&gt;
+&lt;p&gt;Refresh Location Searchは、ストレス解消を求めるユーザの人の特徴と、ランドマークの特徴を用いることで、そのユーザにマッチしたストレス解消となる場所の提案を行います。&lt;/p&gt;
+&lt;p&gt;人がストレスを感じた場合、ストレスを解消する方法として、買い物へ出かけたり、登山をする等が挙げられます。それらには、場所を移動するといったことが共通し、ストレス解消を行う場合場所の移動という行動が重要であることが考えられます。また、ストレス解消を求める場所が馴染み深い場所であれば、自分自身でリフレッシュ場所を探すことも可能ですが、そうでない場合、例えば出先などでリフレッシュ場所を求める場合、Refresh Location Searchを導入することで、ユーザにマッチしたストレス解消場所の探索が容易となり、ストレスの解消につながることが期待されます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;吉村 拓真, ファム フーロン, 和田 真弥, 大島 裕明: 「空間的特徴量とパーソナリティ分析を用いたストレス推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), J33-3, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/HV-Oum4N1Wk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>位置推定が容易な場所の説明文の特徴分析</title>
+      <link>/project_container/itijoho/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/itijoho/</guid>
+      <description>&lt;h2 id=&#34;場所の説明文と人手による推定精度の関係についての分析&#34;&gt;「場所の説明文」と「人手による推定精度」の関係についての分析&lt;/h2&gt;
+&lt;p&gt;「計算科学センタービルの入り口の自転車置き場の横」といった、自然言語で書かれたある場所についての説明文から、その場所がどこであるかの位置推定を人が行うとき、容易に推定可能となる説明文はどのように書かれているのか特徴を分析する。&lt;/p&gt;
+&lt;p&gt;例えば、誰かが交通事故を起こしたときは、連絡を受けた警察や保険会社のオペレーターの人が電話で事故を起こした人がどこにいるのか説明を聞いて、記録をとる必要があります。そのときに絶対に記録する必要がある位置推定を行う際に場所の説明文の重要な要素が分かれば、誰が見ても分かりやすい記録を残せるようになります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;坂根 和光, 山本 岳洋, 澤田 祥一, 大塚 一路, 山本 光穂, 大島 裕明: 「自然言語からの緯度経度推定に向けた説明文収集とパターン分析」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), H33-2, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/I7xbdYrJLJo&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>健康情報を探すユーザの検索行動調査</title>
+      <link>/project_container/kenkojoho/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/kenkojoho/</guid>
+      <description>&lt;h2 id=&#34;健康情報を探すユーザの検索行動に注目した調査&#34;&gt;健康情報を探すユーザの検索行動に注目した調査&lt;/h2&gt;
+&lt;p&gt;本研究では、健康情報を探すユーザの検索行動を調査しています。具体的には、検索キーワードの傾向やウェブページのどこをみて情報が確かであると判断しているかについて調査をしています。&lt;/p&gt;
+&lt;p&gt;ユーザの検索行動調査することで、検索行動の傾向が見えてきます。検索行動の傾向からユーザがあまり探していない情報やウェブページ内で見ていない部分を明らかにできます。このように、現在のユーザの行動の傾向を調査することができます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;浜島 聡一郎, 山本 岳洋, 大島 裕明: 「健康情報検索におけるユーザのクエリ作成能力の検証」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), F11-4, 2021年3月.&lt;/li&gt;
+&lt;li&gt;Soichiro Hamajima, Takehiro Yamamoto and Hiroaki Ohshima. &amp;ldquo;Investigating Users’ Query Formulations in Consumer Health Search&amp;rdquo;, 9th International Conference on Smart Computing and Artificial Intelligence (AAI 2021), July 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/OAEsdA8YYlI&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>転ばぬ先のAI</title>
+      <link>/project_container/korobanusakinoai/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project_container/korobanusakinoai/</guid>
+      <description>&lt;h2 id=&#34;事故を事前に予測してくれるai&#34;&gt;事故を事前に予測してくれるAI&lt;/h2&gt;
+&lt;p&gt;転ばぬ先のAIとは、私たちの日常生活における行動を自然言語の形式で入力すると、それによって発生が考えられる事故を事前に予測してくれるAIモデルのことです。本取り組みでは、ウェブ上で公開されている事故情報を収集し、機械学習手法によって学習を行わせることで、理想のAIモデルの作成に取り組んでいます。&lt;/p&gt;
+&lt;p&gt;転ばぬ先のAIがあれば、何かの行動をする前の段階で事故リスクを把握できるため、事故への対策が今までよりも簡単になる効果が期待できます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;川原 敬史, 橋口 友哉, 湯本 高行, 大島 裕明: 「事故概要説明文の文脈理解による傷病の程度の推定」, 電子情報通信学会, 第13回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2021), C25-2, 2021年3月.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ※画像の一部は「いらすとや」から引用 --&gt;
+&lt;!-- &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/9MaHNFih8To&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt; --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
