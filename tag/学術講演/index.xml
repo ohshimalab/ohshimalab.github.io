@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学術講演 | OHSHIMA LAB.</title>
+<<<<<<< Updated upstream
     <link>/tag/%E5%AD%A6%E8%A1%93%E8%AC%9B%E6%BC%94/</link>
       <atom:link href="/tag/%E5%AD%A6%E8%A1%93%E8%AC%9B%E6%BC%94/index.xml" rel="self" type="application/rss+xml" />
     <description>学術講演</description>
@@ -10,13 +11,29 @@
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>学術講演</title>
       <link>/tag/%E5%AD%A6%E8%A1%93%E8%AC%9B%E6%BC%94/</link>
+=======
+    <link>//localhost:1313/tag/%E5%AD%A6%E8%A1%93%E8%AC%9B%E6%BC%94/</link>
+      <atom:link href="//localhost:1313/tag/%E5%AD%A6%E8%A1%93%E8%AC%9B%E6%BC%94/index.xml" rel="self" type="application/rss+xml" />
+    <description>学術講演</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>学術講演</title>
+      <link>//localhost:1313/tag/%E5%AD%A6%E8%A1%93%E8%AC%9B%E6%BC%94/</link>
+>>>>>>> Stashed changes
     </image>
     
     <item>
       <title>三林亮太さんが WISS 2020 で発表しました</title>
+<<<<<<< Updated upstream
       <link>/post/2020/1218/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/post/2020/1218/</guid>
+=======
+      <link>//localhost:1313/post/2020/1218/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2020/1218/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;三林 亮太さんが「第28回インタラクティブシステムとソフトウェアに関するワークショップ」で発表し、萌芽発表賞を受賞しました。&lt;/p&gt;
 &lt;!-- ![](mibayashi.jpg) --&gt;
 &lt;ul&gt;

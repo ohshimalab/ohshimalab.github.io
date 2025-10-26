@@ -1,3 +1,7 @@
 User-agent: *
 
+<<<<<<< Updated upstream
 Sitemap: /sitemap.xml
+=======
+Sitemap: //localhost:1313/sitemap.xml
+>>>>>>> Stashed changes

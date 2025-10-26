@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>コンペティション | OHSHIMA LAB.</title>
+<<<<<<< Updated upstream
     <link>/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/</link>
       <atom:link href="/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>コンペティション</description>
@@ -10,13 +11,29 @@
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>コンペティション</title>
       <link>/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+=======
+    <link>//localhost:1313/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <atom:link href="//localhost:1313/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>コンペティション</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>コンペティション</title>
+      <link>//localhost:1313/tag/%E3%82%B3%E3%83%B3%E3%83%98%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+>>>>>>> Stashed changes
     </image>
     
     <item>
       <title>大島研のメンバーがコンペティションに参加しています</title>
+<<<<<<< Updated upstream
       <link>/post/2022/0702/</link>
       <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0702/</guid>
+=======
+      <link>//localhost:1313/post/2022/0702/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2022/0702/</guid>
+>>>>>>> Stashed changes
       <description>&lt;p&gt;M2の古屋昭拓です。&lt;/p&gt;
 &lt;p&gt;大島研では、みんなでコンペティションに挑戦しています。
 金メダルの獲得を目指し、最新の深層学習を用いて様々な問題に挑戦しています。&lt;/p&gt;

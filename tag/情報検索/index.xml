@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>情報検索 | OHSHIMA LAB.</title>
+<<<<<<< Updated upstream
     <link>/tag/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2/</link>
       <atom:link href="/tag/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
     <description>情報検索</description>
@@ -10,13 +11,29 @@
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>情報検索</title>
       <link>/tag/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2/</link>
+=======
+    <link>//localhost:1313/tag/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2/</link>
+      <atom:link href="//localhost:1313/tag/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    <description>情報検索</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>情報検索</title>
+      <link>//localhost:1313/tag/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2/</link>
+>>>>>>> Stashed changes
     </image>
     
     <item>
       <title>細粒度な観点をクエリとした小説検索</title>
+<<<<<<< Updated upstream
       <link>/project_container/itou/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>/project_container/itou/</guid>
+=======
+      <link>//localhost:1313/project_container/itou/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project_container/itou/</guid>
+>>>>>>> Stashed changes
       <description>&lt;h2 id=&#34;あなたはどんな小説を読みたいですか&#34;&gt;あなたはどんな小説を読みたいですか？&lt;/h2&gt;
 &lt;p&gt;現在、自分が気に入る小説を見つけるには読む以外に方法はなく、小説に対する細かい好みを反映した検索をすることは出来ない。
 例えば、伏線回収が綺麗な小説の例として「ゴールデンスランバー」が挙げられるが、この本のタイトルやあらすじを見ても伏線回収が綺麗であるという特徴を得ることは難しい。
@@ -26,9 +43,15 @@
     
     <item>
       <title>食品レビューにおける観点抽出とその検索への応用</title>
+<<<<<<< Updated upstream
       <link>/project_container/ashizawa/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>/project_container/ashizawa/</guid>
+=======
+      <link>//localhost:1313/project_container/ashizawa/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project_container/ashizawa/</guid>
+>>>>>>> Stashed changes
       <description>&lt;h2 id=&#34;食品レビューからユーザが欲しい情報である観点を作成しレビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする&#34;&gt;食品レビューから、ユーザが欲しい情報である観点を作成し、レビューを分類することでユーザが欲しいレビューのまとまりを出力できるようにする。&lt;/h2&gt;
 &lt;p&gt;実物の見えないオンラインショッピングではレビューが購入の判断材料の一つとなる。レビューは様々な観点から書かれており、ユーザは観点をクエリとして検索することが想定される。そこで本研究では、同じ観点について異なる表現で表されているものを統合し、大量にあるレビューからユーザが望む観点の情報を網羅的に検索する手法を提案する。&lt;/p&gt;
 </description>

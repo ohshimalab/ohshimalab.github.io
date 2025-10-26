@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kilho Shin | OHSHIMA LAB.</title>
+<<<<<<< Updated upstream
     <link>/author/kilho-shin/</link>
       <atom:link href="/author/kilho-shin/index.xml" rel="self" type="application/rss+xml" />
     <description>Kilho Shin</description>
@@ -10,13 +11,29 @@
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Kilho Shin</title>
       <link>/author/kilho-shin/</link>
+=======
+    <link>//localhost:1313/author/kilho-shin/</link>
+      <atom:link href="//localhost:1313/author/kilho-shin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kilho Shin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Kilho Shin</title>
+      <link>//localhost:1313/author/kilho-shin/</link>
+>>>>>>> Stashed changes
     </image>
     
     <item>
       <title>A Fast Algorithm for Unsupervised Feature Value Selection</title>
+<<<<<<< Updated upstream
       <link>/publication/supercwc/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/publication/supercwc/</guid>
+=======
+      <link>//localhost:1313/publication/supercwc/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/supercwc/</guid>
+>>>>>>> Stashed changes
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

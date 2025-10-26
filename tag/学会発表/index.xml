@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学会発表 | OHSHIMA LAB.</title>
+<<<<<<< Updated upstream
     <link>/tag/%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
       <atom:link href="/tag/%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>学会発表</description>
@@ -10,13 +11,29 @@
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>学会発表</title>
       <link>/tag/%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
+=======
+    <link>//localhost:1313/tag/%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
+      <atom:link href="//localhost:1313/tag/%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>学会発表</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>学会発表</title>
+      <link>//localhost:1313/tag/%E5%AD%A6%E4%BC%9A%E7%99%BA%E8%A1%A8/</link>
+>>>>>>> Stashed changes
     </image>
     
     <item>
       <title>大島研のメンバーがDEIM2022で発表しました</title>
+<<<<<<< Updated upstream
       <link>/post/2022/0302/</link>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0302/</guid>
+=======
+      <link>//localhost:1313/post/2022/0302/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2022/0302/</guid>
+>>>>>>> Stashed changes
       <description>&lt;h4 id=&#34;日時2022年2月27日日3月2日水&#34;&gt;日時：2022年2月27日（日）～3月2日（水）&lt;/h4&gt;
 &lt;h4 id=&#34;場所zoomovice&#34;&gt;場所：Zoom、Ovice&lt;/h4&gt;
 &lt;p&gt;大島研究室のメンバーがDEIM2022で発表しました。&lt;/p&gt;
@@ -37,6 +54,7 @@
 &lt;/ul&gt;
 &lt;p&gt;また、三林さん、濱島さん、吉村さんの3名が学生プレゼンテーション賞を受賞しました！&lt;/p&gt;
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
+<<<<<<< Updated upstream
 &lt;p&gt;&lt;img src=&#34;/post/2022/0302/mibayashi.jpg&#34;&gt;
 &lt;img src=&#34;/post/2022/0302/m1.jpg&#34;&gt;
 &lt;img src=&#34;/post/2022/0302/m2.jpg&#34;&gt;
@@ -45,6 +63,16 @@
 &lt;p&gt;川原さんが、優秀論文賞と優秀インタラクティブ賞を受賞しました！
 &lt;img src=&#34;/post/2022/0302/kawahara1.jpg&#34;&gt;
 &lt;img src=&#34;/post/2022/0302/kawahara2.jpg&#34;&gt;&lt;/p&gt;
+=======
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2022/0302/mibayashi.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0302/m1.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0302/m2.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0302/hamajima.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0302/yoshimura.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;川原さんが、優秀論文賞と優秀インタラクティブ賞を受賞しました！
+&lt;img src=&#34;//localhost:1313/post/2022/0302/kawahara1.jpg&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2022/0302/kawahara2.jpg&#34;&gt;&lt;/p&gt;
+>>>>>>> Stashed changes
 &lt;p&gt;おめでとうございます！&lt;/p&gt;
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;

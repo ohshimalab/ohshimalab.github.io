@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>プロジェクト | OHSHIMA LAB.</title>
+<<<<<<< Updated upstream
     <link>/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link>
       <atom:link href="/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     <description>プロジェクト</description>
@@ -10,13 +11,29 @@
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>プロジェクト</title>
       <link>/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link>
+=======
+    <link>//localhost:1313/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link>
+      <atom:link href="//localhost:1313/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <description>プロジェクト</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>プロジェクト</title>
+      <link>//localhost:1313/tag/%E3%83%95%E3%83%AD%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%88/</link>
+>>>>>>> Stashed changes
     </image>
     
     <item>
       <title>三林亮太さんが未踏スーパークリエータに認定されました</title>
+<<<<<<< Updated upstream
       <link>/post/2023/0526/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       <guid>/post/2023/0526/</guid>
+=======
+      <link>//localhost:1313/post/2023/0526/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2023/0526/</guid>
+>>>>>>> Stashed changes
       <description>&lt;h4 id=&#34;日時2023年5月26日金&#34;&gt;日時：2023年5月26日（金）&lt;/h4&gt;
 &lt;p&gt;D2の三林です。&lt;/p&gt;
 &lt;p&gt;2022年度に未踏IT人材発掘・育成事業で採択された「ラップバトル対話システムの開発」というプロジェクトに取り組んでいました。
@@ -27,8 +44,13 @@
 「未踏スーパークリエータ」は今回認定した25名を加えて総勢408名となったそうです。&lt;/p&gt;
 &lt;p&gt;未踏期間中にご協力いただいた皆様に感謝申し上げます。
 これからも謙虚に頑張ります。&lt;/p&gt;
+<<<<<<< Updated upstream
 &lt;p&gt;&lt;img src=&#34;/post/2023/0526/picture1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/post/2023/0526/picture2.jpg&#34;&gt;&lt;/p&gt;
+=======
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0526/picture1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0526/picture2.jpg&#34;&gt;&lt;/p&gt;
+>>>>>>> Stashed changes
 &lt;p&gt;「ラップバトル対話システムの開発」プロジェクト概要
 &lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/it/2022/gaiyou_tn-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipa.go.jp/jinzai/mitou/it/2022/gaiyou_tn-1.html&lt;/a&gt;
 2022年度未踏スーパークリエータニュースリリース
@@ -42,9 +64,15 @@
     
     <item>
       <title>三林亮太さんが「未踏IT人材発掘・育成事業」に採択されました</title>
+<<<<<<< Updated upstream
       <link>/post/2022/0620/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/post/2022/0620/</guid>
+=======
+      <link>//localhost:1313/post/2022/0620/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2022/0620/</guid>
+>>>>>>> Stashed changes
       <description>&lt;h4 id=&#34;日時2022年6月20日&#34;&gt;日時：2022年6月20日&lt;/h4&gt;
 &lt;p&gt;D1の三林亮太です。&lt;/p&gt;
 &lt;p&gt;この度、2022年度 未踏IT人材発掘・育成事業に採択されました。

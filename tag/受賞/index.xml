@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>受賞 | OHSHIMA LAB.</title>
+<<<<<<< Updated upstream
     <link>/tag/%E5%8F%97%E8%B3%9E/</link>
       <atom:link href="/tag/%E5%8F%97%E8%B3%9E/index.xml" rel="self" type="application/rss+xml" />
     <description>受賞</description>
@@ -46,6 +47,23 @@ Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P.KATO, Yusuke Yamamot
       <link>/post/2024/0326/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>/post/2024/0326/</guid>
+=======
+    <link>//localhost:1313/tag/%E5%8F%97%E8%B3%9E/</link>
+      <atom:link href="//localhost:1313/tag/%E5%8F%97%E8%B3%9E/index.xml" rel="self" type="application/rss+xml" />
+    <description>受賞</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>受賞</title>
+      <link>//localhost:1313/tag/%E5%8F%97%E8%B3%9E/</link>
+    </image>
+    
+    <item>
+      <title>三林亮太さんが上河賞を受賞しました</title>
+      <link>//localhost:1313/post/2024/0326/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024/0326/</guid>
+>>>>>>> Stashed changes
       <description>&lt;h4 id=&#34;日時2024年3月26日火&#34;&gt;日時：2024年3月26日（火）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;D2の三林亮太です。&lt;/p&gt;
@@ -59,7 +77,11 @@ Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P.KATO, Yusuke Yamamot
 &lt;a href=&#34;https://www.u-hyogo.ac.jp/g3s/econ/education/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.u-hyogo.ac.jp/g3s/econ/education/index.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;書誌情報：&lt;br&gt;
 三林 亮太, 佃 洸摂, 渡邉 研斗, 中野 倫靖, 後藤 真孝, 山本 岳洋, 大島 裕明：「ラップバトルにおける逆向き生成によるライムを含む返答バース生成」，情報処理学会論文誌データベースTOD，Vol.17，No.2，pp.1-12，2024年4月．&lt;/p&gt;
+<<<<<<< Updated upstream
 &lt;p&gt;&lt;img src=&#34;/post/2024/0326/award.jpg&#34;&gt;&lt;/p&gt;
+=======
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2024/0326/award.jpg&#34;&gt;&lt;/p&gt;
+>>>>>>> Stashed changes
 &lt;!-- 1. 論文採録バージョン --&gt;
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」に採録されました。 --&gt;
 &lt;!-- [公式Webページ](学会公式ページTopのURL) --&gt;
@@ -78,9 +100,15 @@ Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P.KATO, Yusuke Yamamot
     
     <item>
       <title>奥田萌莉さんが上河賞を受賞しました</title>
+<<<<<<< Updated upstream
       <link>/post/2023/0327/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/post/2023/0327/</guid>
+=======
+      <link>//localhost:1313/post/2023/0327/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2023/0327/</guid>
+>>>>>>> Stashed changes
       <description>&lt;h4 id=&#34;日時2023年3月27日月&#34;&gt;日時：2023年3月27日（月）&lt;/h4&gt;
 &lt;h4 id=&#34;場所神戸商科キャンパス&#34;&gt;場所：神戸商科キャンパス&lt;/h4&gt;
 &lt;p&gt;D1の奥田萌莉です。&lt;/p&gt;
@@ -90,8 +118,13 @@ Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P.KATO, Yusuke Yamamot
 この場をお借りして、ご指導いただいた大島先生に心より感謝いたします。
 見守ってくださっていた研究室の方々にも、心より御礼申し上げます。&lt;/p&gt;
 &lt;p&gt;数多くの方々の支えに感謝しながら、人々に勇気を与えられる研究者を目指して、今後も日々精進してまいります。誠にありがとうございました。&lt;/p&gt;
+<<<<<<< Updated upstream
 &lt;p&gt;&lt;img src=&#34;/post/2023/0327/2.JPG&#34;&gt;
 &lt;img src=&#34;/post/2023/0327/4.JPG&#34;&gt;&lt;/p&gt;
+=======
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/2023/0327/2.JPG&#34;&gt;
+&lt;img src=&#34;//localhost:1313/post/2023/0327/4.JPG&#34;&gt;&lt;/p&gt;
+>>>>>>> Stashed changes
 &lt;p&gt;受賞した論文誌の書誌情報は以下の通りです。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;奥田 萌莉, 大島 裕明：「形・葉脈の特徴に着目した樹葉画像の深層学習に基づく分類」,情報処理学会論文誌データベース（TOD）, No.16, Vol.1, 14-25, 2023年1月.&lt;/li&gt;
