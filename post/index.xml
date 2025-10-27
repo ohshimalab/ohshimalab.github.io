@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | OHSHIMA LAB.</title><link>/post/</link><atom:link href="/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Posts</title><link>/post/</link></image><item><title>奥田萌莉さんの論文がISIS2025に採択されました</title><link>/post/2025/1109/</link><pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate><guid>/post/2025/1109/</guid><description>&lt;!-- #### 日時：2025 年 9 月 16 日（火）～ 9 月 18 日（木） -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | OHSHIMA LAB.</title><link>/post/</link><atom:link href="/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Posts</title><link>/post/</link></image><item><title>内藤洋輝さんの論文がICSIE2026に採択されました</title><link>/post/2026/0118/</link><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate><guid>/post/2026/0118/</guid><description>&lt;p>内藤洋輝さんの論文がICSIE2026に採択されました。&lt;/p>
+&lt;p>書誌情報は以下の通りです。&lt;/p>
+&lt;ul>
+&lt;li>Hiroki Naito, Yuki Nakanishi, Wakana Kuwata, Huu-Long Pham, Tomoya Hashiguchi, Hiroaki Ohshima:&amp;ldquo;Accident Severity Prediction Using Multi-Zoom-Level Map Images&amp;rdquo;, Proceedings of the 14th International Conference on Software and Information Engineering (ICSIE 2026), January, 2026.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://www.icsie.org/" target="_blank" rel="noopener">ICSIE 公式Webページ&lt;/a>&lt;/p></description></item><item><title>奥田萌莉さんの論文がSNL2025に採択されました</title><link>/post/2025/1030/</link><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate><guid>/post/2025/1030/</guid><description>&lt;p>奥田萌莉さんの論文がSNL2025に採択されました。&lt;/p>
+&lt;p>書誌情報は以下の通りです。&lt;/p>
+&lt;ul>
+&lt;li>Moeri Okuda, Shinsaku Hiura:&amp;ldquo;Age Prediction of Komatsuna using Hu Moments with Neural Networks for Small Datasets&amp;rdquo;, Ninth International Workshop on Symbolic-Neural Learning, October, 2025.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://im.sanken.osaka-u.ac.jp/snl2025/index.html" target="_blank" rel="noopener">SNL2025 公式Webページ&lt;/a>&lt;/p></description></item><item><title>奥田萌莉さんの論文がISIS2025に採択されました</title><link>/post/2025/1109/</link><pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate><guid>/post/2025/1109/</guid><description>&lt;!-- #### 日時：2025 年 9 月 16 日（火）～ 9 月 18 日（木） -->
 &lt;!-- #### 場所：アクトシティ浜松コングレスセンター -->
 &lt;p>奥田萌莉さんの論文がISIS2025に採択されました&lt;/p>
 &lt;p>書誌情報は以下の通りです。&lt;/p>
@@ -25,14 +35,6 @@
 &lt;li>[3] ファム フーロン, 窪内 将隆, 西本 拓磨, 山本 岳洋, 大島 裕明: 「画像部分特徴に着目したインスタンスセグメンテーションモデルの検索」, 情報処理学会, 第160回 情報基礎とアクセス技術研究会（SIG-IFAT）, 2025 年 9 月.&lt;/li>
 &lt;/ul>
 &lt;p>&lt;img src="presen_hashiguchi.jpg" alt="">&lt;/p>
-&lt;!-- - [2] ファム フーロン, 山本 岳洋, 窪内 将隆, 西本 拓磨, 大島 裕明: 「性能予測およびランキング学習を用いた画像インスタンスセグメンテーションモデル検索」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月.
-- [3] 芦澤 亜里紗, 川崎 優子, 大島 裕明: 「人の意図に沿ったセルフケア関連新聞記事の意味理解」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月.
-- [4] 桑田 若菜 ,三林 亮太, 谷 雅德, 大島 裕明: 「Diffusion モデルによる文字種とスタイルの特徴を利用した日本語手書き文字生成」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月.
-- [5] 黒木 空翔, 橋口 友哉, 大島 裕明: 「LLM-as-a-judge による動機づけ面接の自動評価」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月.
-- [6] 中西 勇輝, 橋口 友哉, 桑田 若菜, 三林 亮太, 大島 裕明: 「LLaVA を用いた地図画像とテキスト情報の統合的理解」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月.
-- [7] 門垣 幸樹, 大島 裕明: 「強化学習による差動二輪車制御における未知実証環境への適応」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月.
-- [8] 上田 健斗, 白田 由香利, 大島 裕明: 「視覚認識を要する２次関数最大最小問題の ChatGPT による解法」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月.
-- [9] 木下 真帆, 桑田 若菜, 大島 裕明: 「線画特徴の自己教師あり学習による意外な形状の展示物発見」, 日本データベース学会, 第 16 回データ工学と情報マネジメントに関するフォーラム (DEIM Forum 2025), 2025 年 3 月. -->
 &lt;p>また、ファム フーロンさんが学生奨励賞を受賞しました！&lt;/p>
 &lt;p>&lt;img src="award_pham.jpg" alt="">
 &lt;img src="award_pham2.jpg" alt="">&lt;/p>
@@ -92,7 +94,14 @@
 &lt;/ul>
 &lt;p>カンファレンスが12月8日から10日にかけて開催され、口頭発表を行う予定です。&lt;/p>
 &lt;p>&lt;a href="https://www.iiwas.org/conferences/iiwas2025/" target="_blank" rel="noopener">iiWAS2025公式サイト&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.iiwas.org/conferences/momm2025/" target="_blank" rel="noopener">MoMM2025公式サイト&lt;/a>&lt;/p></description></item><item><title>桑田若菜さんがNICOGRAPH International 2025で発表しました</title><link>/post/2025/0621/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>/post/2025/0621/</guid><description>&lt;h4 id="日時2025年6月19日木6月21日土">日時：2025年6月19日（木）～6月21日（土）&lt;/h4>
+&lt;p>&lt;a href="https://www.iiwas.org/conferences/momm2025/" target="_blank" rel="noopener">MoMM2025公式サイト&lt;/a>&lt;/p></description></item><item><title>奥田萌莉さんの論文がMVA2025に採択されました</title><link>/post/2025/0728/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>/post/2025/0728/</guid><description>&lt;p>奥田萌莉さんの論文がMVA2025に採択されました。&lt;/p>
+&lt;p>&lt;img src="MVA2025.jpg" alt="">
+&lt;img src="poster_up.jpg" alt="">&lt;/p>
+&lt;p>書誌情報は以下の通りです。&lt;/p>
+&lt;ul>
+&lt;li>Moeri Okuda, Shinsaku Hiura:&amp;ldquo;Age Prediction of Komatsuna using Hu Moments with Neural Networks for Small Datasets&amp;rdquo;, In Proceedings of the 19th International Conference on Machine Vision Applications, July, 2025.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://mva-org.jp/mva2025/" target="_blank" rel="noopener">MVA2025 公式Webページ&lt;/a>&lt;/p></description></item><item><title>桑田若菜さんがNICOGRAPH International 2025で発表しました</title><link>/post/2025/0621/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>/post/2025/0621/</guid><description>&lt;h4 id="日時2025年6月19日木6月21日土">日時：2025年6月19日（木）～6月21日（土）&lt;/h4>
 &lt;h4 id="場所金沢歌劇座">場所：金沢歌劇座&lt;/h4>
 &lt;p>桑田若菜さんの論文が国際会議「NICOGRAPH International 2025 (NICOInt 2025)」に採択されました。&lt;/p>
 &lt;p>カンファレンスが6月19日から21日にかけて開催され、ポスター発表を行いました。&lt;/p>
