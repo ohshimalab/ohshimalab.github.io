@@ -1,6 +1,6 @@
 ---
 title: 奥田萌莉さんの論文がMVA2025に採択されました
-date: 2025-07-27
+date: 2025-07-28
 subtitle: ""
 tags: ["国際会議"]
 type: post
