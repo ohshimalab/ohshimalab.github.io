@@ -60,6 +60,7 @@ url: /publications/
 1. 大島 裕明, 小山 聡, 田中 克己:「個人文書から抽出した語彙の意味関係に基づく Web 情報検索」, 日本データベース学会論文誌 DBSJ Letters, Vol.4, No.2, pp.17-20, 2005 年 9 月.
 
 ## 国際会議録（査読あり）
+1. Ryota Mibayashi, Takehiro Yamamoto and Hiroaki Ohshima: “Japanese Rhyme Generation Based on Mora Similarity and Generation Probability”. Proceedings of the 27th International Conference on Information Integration and Web Intelligence (iiWAS 2025), December 2025.
 1. Maho Kinoshita, Wakana Kuwata and Hiroaki Ohshima: "Measuring Shape Unexpectedness of Exhibits based on Similarity and Outlier Detection". Proceedings of the 27th International Conference on Information Integration and Web Intelligence (iiWAS 2025), December 2025.
 1. Wakana Kuwata and Hiroaki Ohshima: "Lyric-Aware DJ Track Recommendation Based on Semantic Relationships". Proceedings of the 23rd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM 2025), December 2025.
 1. Wakana Kuwata, Ryota Mibayashi, Masanori Tani and Hiroaki Ohshima: "Japanese Calligraphy Artwork Generation System", Proceedings of the NICOGRAPH International 2025 (NICOInt 2025), June 2025．
