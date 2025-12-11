@@ -9,7 +9,21 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>大島研のメンバーがIDRユーザフォーラム 2025で発表しました</title><link>/post/2025/1126/</link><pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate><guid>/post/2025/1126/</guid><description>&lt;h4 id="日時2025-年-11-月-26-日水">日時：2025 年 11 月 26 日（水）&lt;/h4>
+&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>木下真帆さんと桑田若菜さんがiiWAS/MoMM 2025で発表しました</title><link>/post/2025/1210/</link><pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><guid>/post/2025/1210/</guid><description>&lt;h4 id="日時2025-年-12-月-8-日月-12-月-10-日水">日時：2025 年 12 月 8 日（月）～ 12 月 10 日（水）&lt;/h4>
+&lt;h4 id="場所くにびきメッセ">場所：くにびきメッセ&lt;/h4>
+&lt;p>大島研究室の木下真帆さんと桑田若菜さんの論文がそれぞれThe 27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)とThe 23rd International Conference on Advances in Mobile Computing &amp;amp; Multimedia Intelligence (MoMM 2025)に採択されました。&lt;/p>
+&lt;p>カンファレンスが島根県松江市のくにびきメッセで12月8日から10日にかけて開催され、口頭発表を行いました。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[1] Maho Kinoshita, Wakana Kuwata and Hiroaki Ohshima: &amp;ldquo;Measuring Shape Unexpectedness of Exhibits based on Similarity and Outlier Detection&amp;rdquo;. Proceedings of the 27th International Conference on Information Integration and Web Intelligence (iiWAS 2025), December 2025.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[2] Wakana Kuwata and Hiroaki Ohshima: &amp;ldquo;Lyric-Aware DJ Track Recommendation Based on Semantic Relationships&amp;rdquo;. Proceedings of the 23rd International Conference on Advances in Mobile Computing &amp;amp; Multimedia Intelligence (MoMM 2025), December 2025.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="kinoshita.jpg" alt="">&lt;/p>
+&lt;p>&lt;a href="https://www.iiwas.org/conferences/iiwas2025/" target="_blank" rel="noopener">iiWAS2025公式サイト&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.iiwas.org/conferences/momm2025/" target="_blank" rel="noopener">MoMM2025公式サイト&lt;/a>&lt;/p></description></item><item><title>大島研のメンバーがIDRユーザフォーラム 2025で発表しました</title><link>/post/2025/1126/</link><pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate><guid>/post/2025/1126/</guid><description>&lt;h4 id="日時2025-年-11-月-26-日水">日時：2025 年 11 月 26 日（水）&lt;/h4>
 &lt;h4 id="場所一橋講堂-中会議場">場所：一橋講堂 中会議場&lt;/h4>
 &lt;p>大島研究室の中山裕紀さんがIDRユーザフォーラム 2025で発表を行いました。&lt;/p>
 &lt;ul>
@@ -125,20 +139,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました -->
 &lt;!-- [公式Webページ](学会公式ページTopのURL) -->
 &lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item><item><title>木下真帆さんと桑田若菜さんの論文がiiWAS/MoMM 2025に採択されました</title><link>/post/2025/1210/</link><pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate><guid>/post/2025/1210/</guid><description>&lt;!-- #### 日時：2025 年 9 月 16 日（火）～ 9 月 18 日（木） -->
-&lt;!-- #### 場所：アクトシティ浜松コングレスセンター -->
-&lt;p>大島研究室の木下真帆さんと桑田若菜さんの論文がそれぞれThe 27th International Conference on Information Integration and Web Intelligence (iiWAS2025)とThe 23rd International Conference on Advances in Mobile Computing &amp;amp; Multimedia Intelligence (MoMM2025)に採択されました。&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>[1] Maho KINOSHITA, Wakana KUWATA and Hiroaki OHSHIMA: &amp;ldquo;Measuring Shape Unexpectedness of Exhibits based on Similarity and Outlier Detection&amp;rdquo;. Proceedings of the 27th International Conference on Information Integration and Web Intelligence (iiWAS2025), December 2025.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>[2] Wakana Kuwata and Hiroaki Ohshima: &amp;ldquo;Lyric-Aware DJ Track Recommendation Based on Semantic Relationships&amp;rdquo;. Proceedings of the 23rd International Conference on Advances in Mobile Computing &amp;amp; Multimedia Intelligence (MoMM2025), December 2025.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>カンファレンスが12月8日から10日にかけて開催され、口頭発表を行う予定です。&lt;/p>
-&lt;p>&lt;a href="https://www.iiwas.org/conferences/iiwas2025/" target="_blank" rel="noopener">iiWAS2025公式サイト&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.iiwas.org/conferences/momm2025/" target="_blank" rel="noopener">MoMM2025公式サイト&lt;/a>&lt;/p></description></item><item><title>奥田萌莉さんがMIRU2025で発表しました</title><link>/post/2025/0801/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>/post/2025/0801/</guid><description>&lt;p>奥田萌莉さんがMIRU2025で発表を行いました。&lt;/p>
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item><item><title>奥田萌莉さんがMIRU2025で発表しました</title><link>/post/2025/0801/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>/post/2025/0801/</guid><description>&lt;p>奥田萌莉さんがMIRU2025で発表を行いました。&lt;/p>
 &lt;p>書誌情報は以下の通りです。&lt;/p>
 &lt;ul>
 &lt;li>奥田萌莉, 谷口諒伍, 日浦慎作:&amp;ldquo;クロロフィル蛍光画像を用いたコウキクサの成長要因の分析 , 2025年7月.&lt;/li>
@@ -2822,12 +2823,12 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;tr>
 &lt;td style="text-align:left">2025&lt;/td>
 &lt;td>三林 亮太&lt;/td>
-&lt;td>ラップバトルにおけるバースの生成と分析&lt;/td>
+&lt;td>&lt;a href="https://u-hyogo.repo.nii.ac.jp/records/2000448" target="_blank" rel="noopener">ラップバトルにおけるバースの生成と分析&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">2025&lt;/td>
 &lt;td>森川 優&lt;/td>
-&lt;td>データ量制約とデータ非均質性を持つ問題における機械学習応用の研究&lt;/td>
+&lt;td>&lt;a href="https://u-hyogo.repo.nii.ac.jp/records/2000461" target="_blank" rel="noopener">データ量制約とデータ非均質性を持つ問題における機械学習応用の研究&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -2847,27 +2848,27 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;td>LLM による意味理解を利用した文書の分析と検索&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2025&lt;/td>
 &lt;td>桑田 若菜&lt;/td>
 &lt;td>文字種とスタイルのエンコーディングに基づく日本語手書き文字生成&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2025&lt;/td>
 &lt;td>中屋 岳&lt;/td>
 &lt;td>歌詞の繋がりを基にしたDJのための楽曲推薦&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2025&lt;/td>
 &lt;td>狹間 亮太朗&lt;/td>
 &lt;td>人の性格特性と観光地レビューの関連推定&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2025&lt;/td>
 &lt;td>花谷 翔&lt;/td>
 &lt;td>特許情報と業界規模の関係性分析&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2025&lt;/td>
 &lt;td>眞鍋 陽向&lt;/td>
 &lt;td>深層学習によるプラズマ乱流の予測&lt;/td>
 &lt;/tr>
@@ -2877,27 +2878,27 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;td>大規模言語モデル活用による意味類似性を考慮した本のレビュー検索&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2024&lt;/td>
 &lt;td>髙嶋 優快&lt;/td>
 &lt;td>地図情報と場所の説明文から地点を推定するアプリケーション&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2024&lt;/td>
 &lt;td>張 雯佳&lt;/td>
 &lt;td>Recommending of Revisit-Worthy Information based on History of Web Browsing and File Usage&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2024&lt;/td>
 &lt;td>津田 裕哉&lt;/td>
 &lt;td>物理オブジェクトとのMixed-Realityインタラクションに基づく情報組織化&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2024&lt;/td>
 &lt;td>西本 海生&lt;/td>
 &lt;td>ミュージアム鑑賞におけるビンゴゲームを用いた鑑賞軸の習得に関する研究&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2024&lt;/td>
 &lt;td>日置 淳也&lt;/td>
 &lt;td>インスタンスセグメンテーションにおける画像類似性に基づく機械学習モデル検索&lt;/td>
 &lt;/tr>
@@ -2907,12 +2908,12 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;td>深層学習を用いた画像認識による植物の葉の解析&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2023&lt;/td>
 &lt;td>古屋 昭拓&lt;/td>
 &lt;td>特許マイニングによる類似度推定に基づく物質の新たな用途の発見&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2023&lt;/td>
 &lt;td>王 丹&lt;/td>
 &lt;td>Visual Metaphor Generation based on Similarities in Appearance and Concept&lt;/td>
 &lt;/tr>
@@ -2922,37 +2923,37 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;td>博物館見学における見学体験向上のためのクイズ生成&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2022&lt;/td>
 &lt;td>川原 敬史&lt;/td>
 &lt;td>汎用言語モデルを用いた日常生活に潜む事故リスクの推定&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2022&lt;/td>
 &lt;td>坂根 和光&lt;/td>
 &lt;td>場所の説明文に対する位置特定容易性の分析&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2022&lt;/td>
 &lt;td>濵島 聡一郎&lt;/td>
 &lt;td>健康情報検索におけるユーザの信憑性意識調査&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2022&lt;/td>
 &lt;td>松本 直彰&lt;/td>
 &lt;td>記事の続報関係に基づく探索者ビューを用いたニュースアーカイブ探索&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2022&lt;/td>
 &lt;td>三林 亮太&lt;/td>
 &lt;td>ラップバトルにおけるライムとアンサーを考慮したバース生成&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2022&lt;/td>
 &lt;td>吉村 拓真&lt;/td>
 &lt;td>人の特徴と場所の特徴を用いたストレス推定&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2022&lt;/td>
 &lt;td>福島 航平&lt;/td>
 &lt;td>チラシ媒体通販における商品の販売数予測&lt;/td>
 &lt;/tr>
@@ -2962,22 +2963,22 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;td>画像認識における教師データ不足への対応に関する研究&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2021&lt;/td>
 &lt;td>崔 洙瑚&lt;/td>
 &lt;td>ウェブ広告閲覧履歴を用いたユーザ属性の推定&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2021&lt;/td>
 &lt;td>中田 祐誠&lt;/td>
 &lt;td>ウェブ検索クエリを用いたオンライン商品購買行動の予測と分析&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2021&lt;/td>
 &lt;td>橋口 友哉&lt;/td>
 &lt;td>コミュニティ型質問応答コンテンツを用いた共感できる悩みの検索と生成&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2021&lt;/td>
 &lt;td>ファム フーロン&lt;/td>
 &lt;td>Life Improvement based on Human Activity Recognition using IoT Sensor Devices&lt;/td>
 &lt;/tr>
@@ -2987,32 +2988,32 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;td>正規化相互情報量による特徴値選択アルゴリズム評価&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2020&lt;/td>
 &lt;td>西村 和貴&lt;/td>
 &lt;td>観光地の組み合わせによる評価のバイアス分析の研究&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2020&lt;/td>
 &lt;td>牧田 真朋&lt;/td>
 &lt;td>準同型暗号を用いたハミング距離の2パーティー秘匿計算&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2020&lt;/td>
 &lt;td>マハルジャン ラビン&lt;/td>
 &lt;td>IoTセンサデバイスを用いた行動認識と話題提供の研究&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2020&lt;/td>
 &lt;td>村本 直樹&lt;/td>
 &lt;td>特徴的な表現を考慮したユーザ生成メディア検索の研究&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2020&lt;/td>
 &lt;td>楊 澤華&lt;/td>
 &lt;td>展示物と見学者の関係性に基づくミュージアム鑑賞体験の個人化&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2020&lt;/td>
 &lt;td>吉井 健紘&lt;/td>
 &lt;td>仮想現実における認知範囲を考慮した文書閲覧環境の研究&lt;/td>
 &lt;/tr>
@@ -3039,22 +3040,22 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;td>視覚認識を要する数学問題のChatGPTを用いた教育的解答生成&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2025&lt;/td>
 &lt;td>上村 悠斗&lt;/td>
 &lt;td>ウェブサイトのテキストを基にした広告クリック予測モデル&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2025&lt;/td>
 &lt;td>木下 真帆&lt;/td>
 &lt;td>自己教師あり線画特徴学習による意外な形状の展示物発見&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2025&lt;/td>
 &lt;td>高田 純和&lt;/td>
 &lt;td>RAGを用いた授業評価インタビュワーによる意見抽出&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2025&lt;/td>
 &lt;td>山口 貴也&lt;/td>
 &lt;td>LLMを用いた新聞記事アーカイブの重大事件の動機分析&lt;/td>
 &lt;/tr>
@@ -3064,22 +3065,22 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;td>トピック具体化による映画レビュー執筆支援&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2024&lt;/td>
 &lt;td>常松 大雅&lt;/td>
 &lt;td>高圧ガス関連文書を用いた検索拡張生成による質問応答&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2024&lt;/td>
 &lt;td>中西 勇輝&lt;/td>
 &lt;td>授業改善のための意見を引き出すAIインタビュアー&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2024&lt;/td>
 &lt;td>中山 裕紀&lt;/td>
 &lt;td>VR空間における情報の絞り込みとLoD操作による不動産情報探索&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2024&lt;/td>
 &lt;td>門垣 幸樹&lt;/td>
 &lt;td>強化学習による差動二輪車制御における内外乱適応&lt;/td>
 &lt;/tr>
@@ -3089,22 +3090,22 @@ Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdo
 &lt;td>食品レビューにおける観点抽出とその検索への応用&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2023&lt;/td>
 &lt;td>桑田 若菜&lt;/td>
 &lt;td>文字種とスタイルを考慮した文字生成モデルによる文字の生成と分析&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2023&lt;/td>
 &lt;td>狹間 亮太朗&lt;/td>
 &lt;td>観光地における人と場所の特徴を用いたストレスおよび主観的な場所評価の推定&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2023&lt;/td>
 &lt;td>花谷 翔&lt;/td>
 &lt;td>特許中の語に着目した被引用数予測による重要な特許の発見&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">2023&lt;/td>
 &lt;td>眞鍋 陽向&lt;/td>
 &lt;td>深層学習を用いたプラズマ乱流の予測&lt;/td>
 &lt;/tr>
@@ -3663,6 +3664,8 @@ Sky株式会社，
 &lt;/ol>
 &lt;h2 id="国際会議録査読あり">国際会議録（査読あり）&lt;/h2>
 &lt;ol>
+&lt;li>Maho Kinoshita, Wakana Kuwata and Hiroaki Ohshima: &amp;ldquo;Measuring Shape Unexpectedness of Exhibits based on Similarity and Outlier Detection&amp;rdquo;. Proceedings of the 27th International Conference on Information Integration and Web Intelligence (iiWAS 2025), December 2025.&lt;/li>
+&lt;li>Wakana Kuwata and Hiroaki Ohshima: &amp;ldquo;Lyric-Aware DJ Track Recommendation Based on Semantic Relationships&amp;rdquo;. Proceedings of the 23rd International Conference on Advances in Mobile Computing &amp;amp; Multimedia Intelligence (MoMM 2025), December 2025.&lt;/li>
 &lt;li>Wakana Kuwata, Ryota Mibayashi, Masanori Tani and Hiroaki Ohshima: &amp;ldquo;Japanese Calligraphy Artwork Generation System&amp;rdquo;, Proceedings of the NICOGRAPH International 2025 (NICOInt 2025), June 2025．&lt;/li>
 &lt;li>Arisa Ashizawa, Ryota Mibayashi, Hiroaki Ohshima: &amp;ldquo;Query Expansion in Food Review Search with Synonymous Phrase Generation by LLM&amp;rdquo;, Proceedings of the DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.&lt;/li>
 &lt;li>Taiga Sasaki, Takehiro Yamamoto, Yoshiyuki Shoji, Takayuki Kuge, Hiroaki Ohshima: &amp;ldquo;Generating News Headline Containing Specific Person Name&amp;rdquo;, Proceedings of the DASFAA 2024 Workshop on Emerging Results in Data Science and Engineering (ERDSE 2024), July 2024.&lt;/li>
