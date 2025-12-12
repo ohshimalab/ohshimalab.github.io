@@ -9,6 +9,9 @@ url: /publications/
 <!-- + [修士論文](/thesis) -->
 
 ## 学術論文（査読あり）
+1. Huu-Long Pham, Yoshiyuki Shoji, Sumio Fujita, Hiroaki Ohshima: Image Style Transfer Model Retrieval using Transformer Encoder and Learning to Rank, Journal of Information Processing, 2026. (To appear)
+1. Huu-Long Pham, Masataka Kubouchi, Takuma Nishimoto, Takehiro Yamamoto, Hiroaki Ohshima: Instance Segmentation Model Retrieval using Performance Prediction and Learning to Rank, Journal of Information Processing, vol. 33, pp. 866-879, November, 2025.
+1. Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P. Kato, Yusuke Yamamoto, Yoshiyuki Shoji, Hiroaki Ohshima: Pre-trained BERT Model Retrieval: Inference-Based No-Learning Approach using k-Nearest Neighbour Algorithm，IEICE Transactions on Information and Systems, vol. E108-D, No. 8, pp. 872-882, August 2025.
 1. 三林 亮太, 佃 洸摂, 渡邉 研斗, 中野 倫靖, 後藤 真孝, 山本 岳洋, 大島 裕明：「ラップバトルにおけるアンサーの類型化およびアンサーの有無と表現の自動分類」, 電子情報通信学会和文論文誌D データ工学と情報マネジメント特集 J108-D, No.5, pp.206-219, 2025年5月．
 1. 三林 亮太, 相原 健郎, 神門 典子, 莊司 慶行, 山本 岳洋, 山本 祐輔, 大島 裕明：「みんぱくBERT：博物館における展示物の解説文を考慮した追加学習済みBERTモデル」, 情報処理学会論文誌：データベース, Vol.18, No.1, pp.14-23, 2025年1月.
 1. Yu Morikawa, Kilho Shin, Masataka Kubouchi, and Hiroaki Ohshima: "Prediction of Specific Surface Area of Metal-Organic Frameworks by Graph Kernels", The Journal of Supercomputing, Vol.80, pp.13027-13047, February 2024.
