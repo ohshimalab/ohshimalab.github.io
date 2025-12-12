@@ -9,7 +9,11 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>大島先生らがiiWAS 2025に投稿した論文がBEST PAPER AWARDを受賞しました</title><link>/post/2025/1211/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>/post/2025/1211/</guid><description>&lt;p>大島先生を含む著者らの論文がThe 27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)に
+&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>ファムフーロンさんの論文が情報処理学会論文誌 Journal of Information Processing に採録されました</title><link>/post/2026/0201/</link><pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate><guid>/post/2026/0201/</guid><description>&lt;p>ファムフーロンさんの論文が情報処理学会論文誌 Journal of Information Processing に採録されました。&lt;/p>
+&lt;p>書誌情報は以下の通りです。&lt;/p>
+&lt;ul>
+&lt;li>Huu-Long Pham, Yoshiyuki Shoji, Sumio Fujita, Hiroaki Ohshima: Image Style Transfer Model Retrieval using Transformer Encoder and Learning to Rank, Journal of Information Processing, 2026. (To appear)&lt;/li>
+&lt;/ul></description></item><item><title>大島先生らがiiWAS 2025に投稿した論文がBEST PAPER AWARDを受賞しました</title><link>/post/2025/1211/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>/post/2025/1211/</guid><description>&lt;p>大島先生を含む著者らの論文がThe 27th International Conference on Information Integration and Web Intelligence (iiWAS 2025)に
 てBEST PAPER AWARDを受賞しました。&lt;/p>
 &lt;p>写真は第一著者の三林亮太先生で、
 2025年3月に大島研から博士を取得された方です。&lt;/p>
@@ -31,7 +35,11 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;/ul>
 &lt;p>&lt;img src="kinoshita.jpg" alt="">&lt;/p>
 &lt;p>&lt;a href="https://www.iiwas.org/conferences/iiwas2025/" target="_blank" rel="noopener">iiWAS2025公式サイト&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.iiwas.org/conferences/momm2025/" target="_blank" rel="noopener">MoMM2025公式サイト&lt;/a>&lt;/p></description></item><item><title>大島研のメンバーがIDRユーザフォーラム 2025で発表しました</title><link>/post/2025/1126/</link><pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate><guid>/post/2025/1126/</guid><description>&lt;h4 id="日時2025-年-11-月-26-日水">日時：2025 年 11 月 26 日（水）&lt;/h4>
+&lt;p>&lt;a href="https://www.iiwas.org/conferences/momm2025/" target="_blank" rel="noopener">MoMM2025公式サイト&lt;/a>&lt;/p></description></item><item><title>ファムフーロンさんの論文が情報処理学会論文誌 Journal of Information Processing に掲載されました</title><link>/post/2025/1201/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>/post/2025/1201/</guid><description>&lt;p>ファムフーロンさんの論文が情報処理学会論文誌 Journal of Information Processing に採録されました。&lt;/p>
+&lt;p>書誌情報は以下の通りです。&lt;/p>
+&lt;ul>
+&lt;li>Huu-Long Pham, Masataka Kubouchi, Takuma Nishimoto, Takehiro Yamamoto, Hiroaki Ohshima: Instance Segmentation Model Retrieval using Performance Prediction and Learning to Rank, Journal of Information Processing, vol. 33, pp. 866-879, November, 2025.&lt;/li>
+&lt;/ul></description></item><item><title>大島研のメンバーがIDRユーザフォーラム 2025で発表しました</title><link>/post/2025/1126/</link><pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate><guid>/post/2025/1126/</guid><description>&lt;h4 id="日時2025-年-11-月-26-日水">日時：2025 年 11 月 26 日（水）&lt;/h4>
 &lt;h4 id="場所一橋講堂-中会議場">場所：一橋講堂 中会議場&lt;/h4>
 &lt;p>大島研究室の中山裕紀さんがIDRユーザフォーラム 2025で発表を行いました。&lt;/p>
 &lt;ul>
@@ -147,7 +155,11 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;!-- [第一著者]さんの論文が「[学会フルネーム]」で「[受賞名]」を受賞しました -->
 &lt;!-- [公式Webページ](学会公式ページTopのURL) -->
 &lt;!-- 書誌情報。書式はPublicationsを参考。変にコードブロックとかで囲まなくてOK -->
-&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item><item><title>奥田萌莉さんがMIRU2025で発表しました</title><link>/post/2025/0801/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>/post/2025/0801/</guid><description>&lt;p>奥田萌莉さんがMIRU2025で発表を行いました。&lt;/p>
+&lt;!-- 同学会複数名の場合は並べて良い感じにして --></description></item><item><title>ファムフーロンさんの論文が電子情報信学会特集号論文誌に掲載されました</title><link>/post/2025/0901/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>/post/2025/0901/</guid><description>&lt;p>ファムフーロンさんの論文が電子情報信学会特集号論文誌に掲載されました。&lt;/p>
+&lt;p>書誌情報は以下の通りです。&lt;/p>
+&lt;ul>
+&lt;li>Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P. Kato, Yusuke Yamamoto, Yoshiyuki Shoji, Hiroaki Ohshima: Pre-trained BERT Model Retrieval: Inference-Based No-Learning Approach using k-Nearest Neighbour Algorithm，IEICE Transactions on Information and Systems, vol. E108-D, No. 8, pp. 872-882, August 2025.&lt;/li>
+&lt;/ul></description></item><item><title>奥田萌莉さんがMIRU2025で発表しました</title><link>/post/2025/0801/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>/post/2025/0801/</guid><description>&lt;p>奥田萌莉さんがMIRU2025で発表を行いました。&lt;/p>
 &lt;p>書誌情報は以下の通りです。&lt;/p>
 &lt;ul>
 &lt;li>奥田萌莉, 谷口諒伍, 日浦慎作:&amp;ldquo;クロロフィル蛍光画像を用いたコウキクサの成長要因の分析 , 2025年7月.&lt;/li>
@@ -3620,6 +3632,9 @@ Sky株式会社，
 &lt;!-- + [修士論文](/thesis) -->
 &lt;h2 id="学術論文査読あり">学術論文（査読あり）&lt;/h2>
 &lt;ol>
+&lt;li>Huu-Long Pham, Yoshiyuki Shoji, Sumio Fujita, Hiroaki Ohshima: Image Style Transfer Model Retrieval using Transformer Encoder and Learning to Rank, Journal of Information Processing, 2026. (To appear)&lt;/li>
+&lt;li>Huu-Long Pham, Masataka Kubouchi, Takuma Nishimoto, Takehiro Yamamoto, Hiroaki Ohshima: Instance Segmentation Model Retrieval using Performance Prediction and Learning to Rank, Journal of Information Processing, vol. 33, pp. 866-879, November, 2025.&lt;/li>
+&lt;li>Huu-Long Pham, Ryota Mibayashi, Takehiro Yamamoto, Makoto P. Kato, Yusuke Yamamoto, Yoshiyuki Shoji, Hiroaki Ohshima: Pre-trained BERT Model Retrieval: Inference-Based No-Learning Approach using k-Nearest Neighbour Algorithm，IEICE Transactions on Information and Systems, vol. E108-D, No. 8, pp. 872-882, August 2025.&lt;/li>
 &lt;li>三林 亮太, 佃 洸摂, 渡邉 研斗, 中野 倫靖, 後藤 真孝, 山本 岳洋, 大島 裕明：「ラップバトルにおけるアンサーの類型化およびアンサーの有無と表現の自動分類」, 電子情報通信学会和文論文誌D データ工学と情報マネジメント特集 J108-D, No.5, pp.206-219, 2025年5月．&lt;/li>
 &lt;li>三林 亮太, 相原 健郎, 神門 典子, 莊司 慶行, 山本 岳洋, 山本 祐輔, 大島 裕明：「みんぱくBERT：博物館における展示物の解説文を考慮した追加学習済みBERTモデル」, 情報処理学会論文誌：データベース, Vol.18, No.1, pp.14-23, 2025年1月.&lt;/li>
 &lt;li>Yu Morikawa, Kilho Shin, Masataka Kubouchi, and Hiroaki Ohshima: &amp;ldquo;Prediction of Specific Surface Area of Metal-Organic Frameworks by Graph Kernels&amp;rdquo;, The Journal of Supercomputing, Vol.80, pp.13027-13047, February 2024.&lt;/li>
