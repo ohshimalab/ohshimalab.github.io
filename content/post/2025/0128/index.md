@@ -15,4 +15,4 @@ summary: 博士公聴会
 発表の題目は以下の通りです。
 - [1] 三林 亮太: 「ラップバトルにおけるバースの生成と分析」
 
-[https://u-hyogo.info/topics/20250128defence/](https://u-hyogo.info/topics/20250128defence/)
+[https://u-hyogo-gsis.org/topics/20250128defence/](https://u-hyogo-gsis.org/topics/20250128defence/)
