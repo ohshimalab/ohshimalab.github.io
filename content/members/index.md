@@ -32,11 +32,11 @@ url: /members/
 | M1   | 徐 广铖 （Guangcheng XU）      |
 | M1   | 仲村 優徳 （Masanori NAKAMURA）      |
 | M1   | 松本 美風 （Mifu MATSUMOTO）      |
-| B4   | 池上 和規       |
-| B4   | 粕谷 俊介       |
-| B4   | 下地 鴻明       |
-| B4   | 松崎 悠佑       |
-| B4   | 松村 優冶       |
+| B4   | 池上 和規 （Kazuki IKEGAMI）       |
+| B4   | 粕谷 俊介 （Shunsuke KASUYA）       |
+| B4   | 下地 鴻明 （Koumei SHIMOJI）       |
+| B4   | 松崎 悠佑 （Yusuke MATSUZAKI）       |
+| B4   | 松村 優冶 （Yuya MATSUMURA）       |
 
 
 ## 社会人学生
