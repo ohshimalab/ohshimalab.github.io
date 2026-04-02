@@ -23,39 +23,49 @@ url: /members/
 | 学年 | 名前                              |
 | ---- | -------------------------------- |
 | D3   | 高橋 克郎 （Katsurou TAKAHASHI）  |
-| D3   | ファム フーロン （HuuLong PHAM）  |
-| D1   | 桑田 若菜 （Wakana KUWATA）       |
-| M2   | 黒木 空翔 （Tsubasa KUROKI）      |
-| M2   | 中西 勇輝 （Yuki NAKANISHI）      |
-| M2   | 中山 裕紀 （Yuki NAKAYAMA）       |
-| M2   | 門垣 幸樹 （Koki MONGAKI）        |
-| M1   | 上田 健斗 （Kento UEDA）          |
-| M1   | 木下 真帆 （Maho KINOSHITA）      |
-| M1   | 内藤 洋輝 （Hiroki NAITO）      |
-| M1   | 中村 嵩 （Takeshi NAKAMURA）      |
-| B4   | 岡田 敦生 （Atsuki OKADA）      |
-| B4   | 河野 心斗 （Shinto KONO）     |
-| B4   | 島内 健志 （Kenji SHIMAUCHI）      |
-| B4   | 松本 美風 （Mifu MATSUMOTO）      |
-| B4   | 村上 耀紀 （Akinori MURAKAMI）      |
+| D2   | 桑田 若菜 （Wakana KUWATA）       |
+| M2   | 上田 健斗 （Kento UEDA）          |
+| M2   | 木下 真帆 （Maho KINOSHITA）      |
+| M2   | 内藤 洋輝 （Hiroki NAITO）      |
+| M2   | 中村 嵩 （Takeshi NAKAMURA）      |
+| M1   | 島内 健志 （Kenji SHIMAUCHI）      |
+| M1   | 徐 广铖 （Guangcheng XU）      |
+| M1   | 仲村 優徳 （Masanori NAKAMURA）      |
+| M1   | 松本 美風 （Mifu MATSUMOTO）      |
+| B4   | 池上 和規 （Kazuki IKEGAMI）       |
+| B4   | 粕谷 俊介 （Shunsuke KASUYA）       |
+| B4   | 下地 鴻明 （Koumei SHIMOJI）       |
+| B4   | 松崎 悠佑 （Yusuke MATSUZAKI）       |
+| B4   | 松村 優冶 （Yuya MATSUMURA）       |
+
 
 ## 社会人学生
 | 学年 | 名前                            |
 | ---- | ------------------------------- |
-| D3   | 奥田 萌莉 （Moeri OKUDA）        |
-| D2   | 橋口 友哉 （Tomoya HASHIGUCHI） |
+| D3   | 橋口 友哉 （Tomoya HASHIGUCHI） |
 
 
 ## 研究生
-<!-- 新しく研究生が入った時に入れる -->
 | 名前                            |
 | ------------------------------- |
+| 梁 皓然 （Haoran LIANG） |
 | 呉 寒 （Han WU） |
 
 ## <a name="卒業生修了生">卒業生・修了生</a>
 
 | 卒業・修了年月 | 学位 | 名前                                   |
 | :-----------: | ---- | -------------------------------------- |
+| 2026.3        | 博士 | 奥田 萌莉 （Moeri OKUDA）               |
+| 2026.3        | 博士 | ファム フーロン （HuuLong PHAM）         |
+| 2026.3        | 修士 | 黒木 空翔 （Tsubasa KUROKI）            |
+| 2026.3        | 修士 | 中西 勇輝 （Yuki NAKANISHI）            |
+| 2026.3        | 修士 | 中山 裕紀 （Yuki NAKAYAMA）             |
+| 2026.3        | 修士 | 門垣 幸樹 （Koki MONGAKI）              |
+| 2026.3        | 学士 | 岡田 敦生 （Atsuki OKADA）              |
+| 2026.3        | 学士 | 河野 心斗 （Shinto KONO）               |
+| 2026.3        | 学士 | 島内 健志 （Kenji SHIMAUCHI）           |
+| 2026.3        | 学士 | 松本 美風 （Mifu MATSUMOTO）            |
+| 2026.3        | 学士 | 村上 耀紀 （Akinori MURAKAMI）          |
 | 2025.9        | 学士 | 高田 純和 （Ayato TAKATA）              |
 | 2025.3        | 博士 | 三林 亮太 （Ryota MIBAYASHI）           |
 | 2025.3        | 博士 | 森川 優 （Yu MORIKAWA）                 |
