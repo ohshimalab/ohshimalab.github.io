@@ -2,6 +2,7 @@
 title: VR空間を用いたオンライン授業受講環境
 summary: 授業動画や授業資料、PCを用いる課題が存在する一般的なオンライン授業において、タブレットやPCではなく、VRデバイスを用いた受講システムを構築する。
 tags: 
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

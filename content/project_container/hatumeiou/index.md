@@ -2,7 +2,8 @@
 title: 発明創造システム
 summary: これであなたも発明王
 tags:
-  - Deep Learning
+  # - Deep Learning
+  - 過去のプロジェクト
 date: "2021-07-14"
 
 # Optional external URL for project (replaces project detail page).

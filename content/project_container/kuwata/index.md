@@ -2,9 +2,10 @@
 title: 書家俵越山AI
 summary: 書家をAI化
 tags:
-  - 画像認識
-  - ディープラーニング
-  - コンテンツ自動生成
+  # - 画像認識
+  # - ディープラーニング
+  # - コンテンツ自動生成
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

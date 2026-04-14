@@ -2,9 +2,10 @@
 title: 画像認識によるウキクサ科植物の総枚数と表面積の推定
 summary: 画像認識の植物への応用
 tags:
-  - 画像認識
-  - 植物
-  - ディープラーニング
+  # - 画像認識
+  # - 植物
+  # - ディープラーニング
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

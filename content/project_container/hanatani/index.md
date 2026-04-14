@@ -2,8 +2,9 @@
 title: 特許を用いた重要な特許の発見
 summary: 特許の被引用数の予測
 tags:
-  - 自然言語処理
-  - ディープラーニング
+  # - 自然言語処理
+  # - ディープラーニング
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

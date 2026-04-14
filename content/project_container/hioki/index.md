@@ -2,8 +2,9 @@
 title: 事前学習済み機械学習モデルの検索
 summary: タスクに最適な事前学習済み機械学習モデルを検索します
 tags:
-  - 画像認識
-  - ディープラーニング
+  # - 画像認識
+  # - ディープラーニング
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

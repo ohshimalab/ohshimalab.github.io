@@ -27,16 +27,28 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: ディープラーニング
-    tag: ディープラーニング
-  - name: 自然言語処理
-    tag: 自然言語処理
+  # - name: ディープラーニング
+  #   tag: ディープラーニング
+  # - name: 自然言語処理
+  #   tag: 自然言語処理
+  # - name: 画像認識
+  #   tag: 画像認識
+  # - name: 情報検索
+  #   tag: 情報検索
+  # - name: コンテンツ自動生成
+  #   tag: コンテンツ自動生成
+  - name: LLM
+    tag: LLM
+  - name: 生成AI
+    tag: 生成AI
   - name: 画像認識
     tag: 画像認識
+  - name: 自然言語処理
+    tag: 自然言語処理
   - name: 情報検索
     tag: 情報検索
-  - name: コンテンツ自動生成
-    tag: コンテンツ自動生成
+  - name: VR/MR
+    tag: VR/MR
   - name: 過去のプロジェクト
     tag: 過去のプロジェクト
 

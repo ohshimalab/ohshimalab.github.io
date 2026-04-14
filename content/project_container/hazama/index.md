@@ -2,8 +2,9 @@
 title: 人のパーソナリティと場所の特徴を用いたストレス推定と推定根拠の説明
 summary: 人のパーソナリティと場所の特徴がストレスにどう影響しているのかを明らかにする．
 tags:
-  - 自然言語処理
-  - ディープラーニング
+  # - 自然言語処理
+  # - ディープラーニング
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

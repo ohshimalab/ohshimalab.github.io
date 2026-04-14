@@ -2,7 +2,8 @@
 title: 連想キャッチコピー生成
 summary: 連想表現を用い、商品の魅力を引き出す同時に消費者に新奇さを与えるキャッチコピー生成システム
 tags:
-  - Deep Learning
+  # - Deep Learning
+  - 過去のプロジェクト
 date: "2021-07-14"
 
 # Optional external URL for project (replaces project detail page).
