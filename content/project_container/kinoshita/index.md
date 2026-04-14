@@ -25,7 +25,7 @@ type: project
 
 ## 論文
 [1] M. Kinoshita et al.: "Measuring Shape Unexpectedness of Exhibits based on Similarity and Outlier Detection", In Proceedings of the 27th Information Integration and Web Intelligence (iiWAS 2025), pp.383-389, 2025.
-  [ACM](https://dl.acm.org/doi/10.1007/978-3-032-11976-6_29)
+  [[Paper]](https://doi.org/10.1007/978-3-032-11976-6_29)
 
 [2] 木下真帆, 桑田若菜, 大島裕明: 「画像インペインティングを用いた展示物外観の意外性分析」, 第18回データ工学と情報マネジメントに関するフォーラム（DEIM 2026）, 6H-03, 2026.
-  [PDF](https://pub-files.atlas.jp/fs/public/deim2026/ver_29/abstract/ja/6H-03.pdf)
+  [[Paper]](https://pub.confit.atlas.jp/ja/event/deim2026/presentation/6H-03)
