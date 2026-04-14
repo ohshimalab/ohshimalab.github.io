@@ -1,6 +1,6 @@
 ---
-title: AI Unexpectedness Analysis
-summary: 意外性の定量化
+title: AIを用いた意外性の定量化
+summary: 物や出来事における意外性をAIを用いて定量化することを試みる。
 tags:
   - 生成AI
   - 画像認識
@@ -19,13 +19,13 @@ type: project
 
 もう一つの手法では、画像生成モデルによるインペインティングを用いて、展示物の**部分的な模様や装飾の意外性**を分析します[2]。一般的な外観を学習したモデルに画像の一部を補完させると、よく見られる特徴は自然に再現される一方で、特徴的な部分はうまく再現されません。このとき、元画像との差が大きい領域ほど、その部分はモデルの期待から外れており、視覚的に意外であると考えられます。本研究ではこの差を知覚的類似度指標（LPIPS）で数値化し、人の感じる意外性との関係を検討しています。現段階での実験の結果、典型的な展示物では画像との差が小さく、特徴的な装飾を持つ対象では画像との差が大きくなる傾向が確認されています。
 
+![fig](img.png)
+
 今後は、形状や見た目だけでなく意味や文化的背景なども含め、今よりもさまざまな観点から意外性を測る方法の検討を課題としています。
 
 ## 論文
 [1] M. Kinoshita et al.: "Measuring Shape Unexpectedness of Exhibits based on Similarity and Outlier Detection", In Proceedings of the 27th Information Integration and Web Intelligence (iiWAS 2025), pp.383-389, 2025.
-  [ACM](https://dl.acm.org/doi/10.1007/978-3-032-11976-6_29)
+  [[Paper]](https://doi.org/10.1007/978-3-032-11976-6_29)
 
 [2] 木下真帆, 桑田若菜, 大島裕明: 「画像インペインティングを用いた展示物外観の意外性分析」, 第18回データ工学と情報マネジメントに関するフォーラム（DEIM 2026）, 6H-03, 2026.
-  [PDF](https://pub-files.atlas.jp/fs/public/deim2026/ver_29/abstract/ja/6H-03.pdf)
-
-![fig](img.png)
+  [[Paper]](https://pub.confit.atlas.jp/ja/event/deim2026/presentation/6H-03)
