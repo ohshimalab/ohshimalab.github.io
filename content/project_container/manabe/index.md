@@ -2,9 +2,10 @@
 title: 機械学習モデルを用いて新たな知識発見
 summary: Transformer encoderを用いたプラズマ乱流の予測と生成
 tags:
-  - 画像認識
-  - ディープラーニング
-  - コンテンツ自動生成
+  # - 画像認識
+  # - ディープラーニング
+  # - コンテンツ自動生成
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

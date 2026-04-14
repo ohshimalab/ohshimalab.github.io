@@ -2,8 +2,9 @@
 title: 博物館での新たな興味の発見
 summary: ゲーミフィケーションを取り入れた博物館での鑑賞体験
 tags:
-  - ゲーミフィケーション
-  - ディープラーニング
+  # - ゲーミフィケーション
+  # - ディープラーニング
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,9 +2,10 @@
 title: 細粒度な観点をクエリとした小説検索
 summary: あなたはどんな小説を読みたいですか？
 tags:
-  - 自然言語処理
-  - ディープラーニング
-  - 情報検索
+  # - 自然言語処理
+  # - ディープラーニング
+  # - 情報検索
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

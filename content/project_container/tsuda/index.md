@@ -2,6 +2,7 @@
 title: MRデバイス環境における物理インタラクションを伴う日常タスク処理
 summary: MRデバイスで物理インタラクションを用いて、メール作成などの日常的なタスクを直感的に処理しようという研究です。
 tags: 
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,8 +2,9 @@
 title: ブックマーク記事を続報順に自動マッピング
 summary: ブックマークした記事を自動で続報順につなげてグラフ化する検索インタフェース
 tags:
-  - 自然言語処理
-  - ディープラーニング
+  # - 自然言語処理
+  # - ディープラーニング
+  - 過去のプロジェクト
 date: "2021-07-14"
 
 # Optional external URL for project (replaces project detail page).

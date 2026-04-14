@@ -2,7 +2,7 @@
 title: Refresh Location Search
 summary: あなたにとってストレス解消となる場所の探索
 tags:
-  - ディープラーニング
+  # - ディープラーニング
   - 過去のプロジェクト
 date: "2021-07-14"
 

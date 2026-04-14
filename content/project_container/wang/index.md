@@ -2,8 +2,9 @@
 title: ファッション商品における視覚的比喩データセットの構築とその応用
 summary: あなたはAIより想像力が豊かでしょうか？
 tags:
-  - 画像認識
-  - ディープラーニング
+  # - 画像認識
+  # - ディープラーニング
+  - 過去のプロジェクト
 date: "2022-11-22"
 
 # Optional external URL for project (replaces project detail page).
