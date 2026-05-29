@@ -69,7 +69,7 @@ url: /admission/
 
 オープンキャンパスの情報を含む、情報科学研究科の様々な情報については、以下のページをご覧ください。
 
-情報科学研究科： http://u-hyogo.info/
+情報科学研究科： https://u-hyogo-gsis.org
 
 <br />
 
