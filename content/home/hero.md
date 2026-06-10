@@ -51,7 +51,7 @@ title = ""
 #   label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-## 兵庫県立大学 [情報科学研究科](http://u-hyogo.info/)
+## 兵庫県立大学 [情報科学研究科](https://www.u-hyogo.ac.jp/gsis/)
 
 # 大島裕明研究室
 
