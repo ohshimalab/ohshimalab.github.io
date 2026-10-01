@@ -27,7 +27,7 @@ summary: 大島研BBQ
   
 大量の肉を焼いていきます。
 
-![](bbq5.jpg)
+
 
 ![](bbq6.jpg)
 

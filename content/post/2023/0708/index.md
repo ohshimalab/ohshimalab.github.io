@@ -11,7 +11,7 @@ summary: ACM SIGMOD日本支部第82回支部大会
 #### 日時：2023年7月8日（土）
 #### 場所：Zoom
 
-大島研の芦澤亜里紗さん、ファムフーロンさん、三林亮太さん、桑田若菜さん、狹間亮太朗さん、奥田萌莉さん、日置淳也さんがACM SIGMOD日本支部第82回支部大会（第45回先端的データベースとWeb技術動向講演会）でThe Web Conference 2023国際会議報告を行いました。
+大島研の芦澤亜里紗さん、ファムフーロンさん、三林亮太さん、桑田若菜さん、狹間亮太朗さん、日置淳也さんがACM SIGMOD日本支部第82回支部大会（第45回先端的データベースとWeb技術動向講演会）でThe Web Conference 2023国際会議報告を行いました。
 
 The Web Conference 2023は4月30日から5月4日にかけて開催された、Webに関連するトピックの研究、開発、標準化、応用をテーマとした国際会議です。
 
@@ -38,9 +38,6 @@ Webの紹介
   - *Best paper* Simplistic Collection and Labeling Practices Limit the 
 Utility of Benchmark Datasets for Twitter Bot Detectionの紹介
 
-- 奥田萌莉
-  - *Best student paper* A Vector Is Not Enough: Taxonomy Expansion via Box 
-Embeddingsの紹介
 
 - 日置淳也
   - Combining Worker Factors for Heterogeneous Crowd Task Assignmentの紹介

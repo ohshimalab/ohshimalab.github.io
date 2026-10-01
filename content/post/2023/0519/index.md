@@ -18,6 +18,5 @@ summary: 新歓BBQ
 
 ![](picture1.jpg)
 ![](picture2.jpg)
-![](picture3.jpg)
 ![](picture4.jpg)
 
