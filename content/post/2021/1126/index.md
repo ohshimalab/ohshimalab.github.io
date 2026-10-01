@@ -11,14 +11,13 @@ summary: フットサルイベント
 
 ![](img0.jpg)
 ![](img2.jpg)
-![](img3.jpg)
+
 
 ミニゲームは白熱し、一同良い汗を流していました。
 
 ![](img4.jpg)
 ![](img1.jpg)
 ![](img5.jpg)
-![](img6.jpg)
   
 
 
